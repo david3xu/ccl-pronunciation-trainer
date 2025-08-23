@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)",
+      "Bash(node:*)",
+      "Bash(rm:*)",
+      "Bash(curl:*)",
+      "Bash(grep:*)",
+      "Bash(npm run validate:*)",
+      "Bash(npm run convert:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm run build:*)",
+      "Bash(pkill:*)",
+      "Bash(python3:*)",
+      "Bash(cp:*)",
+      "Bash(npm run analyze-vocabulary:*)",
+      "Bash(npm run extract-vocab-from-conversations:*)",
+      "Bash(tree:*)",
+      "Bash(/dev/null)",
+      "Bash(npm run extract-smart-vocab:*)",
+      "Bash(head:*)",
+      "Bash(npm start)",
+      "Bash(true)",
+      "Bash(npm run vercel-build:*)",
+      "Bash(awk:*)"
+    ],
+    "deny": []
+  }
+}

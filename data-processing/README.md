@@ -1,106 +1,78 @@
 # CCL Data Processing Module
 
-This directory contains advanced data processing tools for analyzing vocabulary-conversation relationships in the CCL Pronunciation Trainer.
+This directory contains conversation data and extraction tools for the CCL Pronunciation Trainer. The main focus is on processing real CCL conversation dialogues to extract practical vocabulary terms.
 
 ## Directory Structure
 
 ```
 data-processing/
-├── analyzers/           # Main analysis tools
-│   └── vocabulary-conversation-analyzer.js
-├── matchers/           # Matching algorithms  
-│   └── vocabulary-matcher.js
-├── extractors/         # Data extraction tools (future)
-├── utils/              # Shared utilities
-│   └── text-utils.js
-├── config/             # Configuration files
-│   └── matching-config.js
+├── extractors/         # CCL conversation files (117 conversations)
+│   ├── merged-70241-70158.md    # Main merged conversation file with highlights
+│   └── [other conversation files...]
 └── README.md
 ```
 
-## Available Tools
+## Data Source
 
-### 🔍 Advanced Vocabulary Analysis
-**Command**: `npm run analyze-vocabulary`
+### 🗣️ CCL Conversation Collection
+**Location**: `extractors/`
 
-**Purpose**: Analyzes overlap between vocabulary terms and conversation sentences using multiple matching strategies.
+**Contents**: 117 real CCL conversation files from actual NAATI test scenarios covering:
+- **Business & Finance scenarios** - Banking, insurance, workplace discussions
+- **Social Welfare conversations** - Government services, benefit applications  
+- **Legal & Government dialogues** - Court procedures, legal consultations
+- **Medical & Healthcare interactions** - Doctor visits, medical procedures
+- **Education scenarios** - School meetings, academic discussions
+- **Travel & Immigration conversations** - Airport, customs, visa applications
 
-**Features**:
-- **Multiple Matching Strategies**: Exact phrase, keyword overlap, partial match, semantic similarity
-- **Confidence Scoring**: Each match gets a confidence score (0.0-1.0)
-- **Smart Text Processing**: Keyword extraction, stop word filtering, normalization
-- **Comprehensive Reporting**: JSON, Markdown, and CSV outputs
+### 📝 Vocabulary Extraction Process
+**Command**: `npm run extract-vocab`
 
-**Outputs**:
-- `reports/advanced-vocabulary-analysis.json` - Detailed data for programmatic use
-- `reports/advanced-vocabulary-analysis.md` - Human-readable summary report  
-- `reports/vocabulary-matches.csv` - Spreadsheet-compatible export
+**Source File**: `extractors/merged-70241-70158.md`
+- Main conversation file with manually highlighted vocabulary terms
+- Terms marked with `_highlighted_text_` syntax for extraction
+- Bilingual context with English sentences and Chinese translations
 
-### 📊 Analysis Results Summary
+**Output**: 937 practical vocabulary terms with contextual examples
 
-**Latest Results** (vs. previous simple matching):
-- **Coverage**: 14.3% (232/1,618 terms) - up from 12.9%
-- **Total Matches**: 790 - up from 672
-- **Sentence Utilization**: 26.1% - up from 23.2%
-- **Processing**: Advanced multi-strategy analysis with confidence scoring
+## Key Features
 
-## Configuration
+### 🎯 Real-World Context
+- **Authentic Conversations**: Actual NAATI CCL test dialogues
+- **Practical Terms**: Vocabulary that appears in real exam scenarios  
+- **Contextual Learning**: Each term includes the original conversation context
+- **Bilingual Examples**: English sentences with accurate Chinese translations
 
-### Matching Strategies
-Edit `config/matching-config.js` to adjust:
-- Strategy weights and thresholds
-- Stop words list
-- Semantic equivalence mappings
-- Minimum confidence levels
+### 📊 Data Statistics
+- **Total Conversations**: 117 dialogue files
+- **Extracted Terms**: 937 unique vocabulary items
+- **Domain Coverage**: 6 major CCL test areas
+- **Context Quality**: 100% of terms include sentence examples
 
-### Text Processing
-The `utils/text-utils.js` module handles:
-- Text normalization and cleaning
-- Keyword extraction
-- Similarity calculations
-- Match highlighting
+### 🔧 Processing Pipeline
+1. **Manual Curation**: Experts review conversations and highlight key terms using `_text_` syntax
+2. **Automated Extraction**: Script processes highlighted terms and extracts context
+3. **Quality Assurance**: Validation ensures accurate term-context pairing
+4. **Category Mapping**: Terms automatically categorized by conversation domain
+5. **Difficulty Classification**: Algorithm assigns Easy/Normal/Hard levels based on complexity
 
-## Usage Examples
+## Usage
 
-### Basic Analysis
+### Extracting Vocabulary
 ```bash
-npm run analyze-vocabulary
+# Generate vocabulary from conversation data
+npm run extract-vocab
 ```
 
-### Programmatic Usage
-```javascript
-const VocabularyConversationAnalyzer = require('./data-processing/analyzers/vocabulary-conversation-analyzer');
+This processes the highlighted terms in `merged-70241-70158.md` and generates:
+- `data/generated/conversation-vocabulary-data.js` - Browser-ready vocabulary data
+- `data/generated/conversation-vocabulary-data.json` - JSON format for tools
+- `reports/conversation-vocabulary-report.md` - Human-readable analysis report
 
-const analyzer = new VocabularyConversationAnalyzer();
-await analyzer.analyze();
-```
+### Integration with Main App
 
-### Custom Matching
-```javascript
-const VocabularyMatcher = require('./data-processing/matchers/vocabulary-matcher');
-const matcher = new VocabularyMatcher();
-
-const matches = matcher.findMatches(vocabularyTerms, conversationSentences);
-```
-
-## Integration with Main App
-
-The processed data can be used to:
-1. **Enhanced Vocabulary Mode**: Show conversation examples for each term
-2. **Contextual Pronunciation**: Practice terms within natural sentence flow
-3. **Progressive Learning**: Start with high-confidence matches, progress to contextual usage
-4. **Smart Recommendations**: Suggest related terms based on conversation context
-
-## Future Enhancements
-
-- **Semantic Analysis**: NLP-based semantic similarity matching
-- **Domain-Specific Models**: Specialized matching for medical/legal/business terms
-- **Interactive Analysis**: Web interface for exploring matches
-- **Machine Learning**: Learn from user feedback to improve matching accuracy
-- **Real-time Processing**: Live analysis as new conversations are added
-
-## Performance
-
-- **Processing Speed**: ~18 matches/second on 1,618 × 2,018 matrix
-- **Memory Usage**: Efficient text processing with minimal memory overhead
-- **Scalability**: Designed to handle larger vocabulary and conversation datasets
+The conversation-based vocabulary provides:
+1. **Contextual Pronunciation**: Practice terms within natural sentence flow
+2. **Real-world Relevance**: Terms that actually appear in CCL exams  
+3. **Enhanced Learning**: Bilingual examples for better comprehension
+4. **Progressive Difficulty**: Structured learning path from easy to hard terms
