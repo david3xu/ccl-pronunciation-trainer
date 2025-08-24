@@ -24,7 +24,8 @@
       "Bash(npm start)",
       "Bash(true)",
       "Bash(npm run vercel-build:*)",
-      "Bash(awk:*)"
+      "Bash(awk:*)",
+      "Bash(seq:*)"
     ],
     "deny": []
   }
