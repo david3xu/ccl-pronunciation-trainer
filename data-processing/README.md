@@ -7,7 +7,7 @@ This directory contains conversation data and extraction tools for the CCL Pronu
 ```
 data-processing/
 ├── extractors/         # CCL conversation files (117 conversations)
-│   ├── merged-70241-70158.md    # Main merged conversation file with highlights
+│   ├── merged-70245-70158.md    # Main merged conversation file with highlights
 │   └── [other conversation files...]
 └── README.md
 ```
@@ -28,7 +28,7 @@ data-processing/
 ### 📝 Vocabulary Extraction Process
 **Command**: `npm run extract-vocab`
 
-**Source File**: `extractors/merged-70241-70158.md`
+**Source File**: `extractors/merged-70245-70158.md`
 - Main conversation file with manually highlighted vocabulary terms
 - Terms marked with `_highlighted_text_` syntax for extraction
 - Bilingual context with English sentences and Chinese translations
@@ -64,7 +64,7 @@ data-processing/
 npm run extract-vocab
 ```
 
-This processes the highlighted terms in `merged-70241-70158.md` and generates:
+This processes the highlighted terms in `merged-70245-70158.md` and generates:
 - `data/generated/conversation-vocabulary-data.js` - Browser-ready vocabulary data
 - `data/generated/conversation-vocabulary-data.json` - JSON format for tools
 - `reports/conversation-vocabulary-report.md` - Human-readable analysis report
