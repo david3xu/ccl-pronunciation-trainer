@@ -7,7 +7,7 @@ This directory contains conversation data and extraction tools for the CCL Pronu
 ```
 data-processing/
 ├── extractors/         # CCL conversation files (117 conversations)
-│   ├── merged-70245-70158.md    # Main merged conversation file with highlights
+│   ├── merged-70245-70186.md    # Main merged conversation file with highlights
 │   └── [other conversation files...]
 └── README.md
 ```
@@ -19,7 +19,7 @@ data-processing/
 
 **Contents**: 117 real CCL conversation files from actual NAATI test scenarios covering:
 - **Business & Finance scenarios** - Banking, insurance, workplace discussions
-- **Social Welfare conversations** - Government services, benefit applications  
+- **Social Welfare conversations** - Government services, benefit applications
 - **Legal & Government dialogues** - Court procedures, legal consultations
 - **Medical & Healthcare interactions** - Doctor visits, medical procedures
 - **Education scenarios** - School meetings, academic discussions
@@ -28,7 +28,7 @@ data-processing/
 ### 📝 Vocabulary Extraction Process
 **Command**: `npm run extract-vocab`
 
-**Source File**: `extractors/merged-70245-70158.md`
+**Source File**: `extractors/merged-70245-70186.md`
 - Main conversation file with manually highlighted vocabulary terms
 - Terms marked with `_highlighted_text_` syntax for extraction
 - Bilingual context with English sentences and Chinese translations
@@ -39,7 +39,7 @@ data-processing/
 
 ### 🎯 Real-World Context
 - **Authentic Conversations**: Actual NAATI CCL test dialogues
-- **Practical Terms**: Vocabulary that appears in real exam scenarios  
+- **Practical Terms**: Vocabulary that appears in real exam scenarios
 - **Contextual Learning**: Each term includes the original conversation context
 - **Bilingual Examples**: English sentences with accurate Chinese translations
 
@@ -73,6 +73,6 @@ This processes the highlighted terms in `merged-70245-70158.md` and generates:
 
 The conversation-based vocabulary provides:
 1. **Contextual Pronunciation**: Practice terms within natural sentence flow
-2. **Real-world Relevance**: Terms that actually appear in CCL exams  
+2. **Real-world Relevance**: Terms that actually appear in CCL exams
 3. **Enhanced Learning**: Bilingual examples for better comprehension
 4. **Progressive Difficulty**: Structured learning path from easy to hard terms
