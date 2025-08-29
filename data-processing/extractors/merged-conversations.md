@@ -1,8 +1,12 @@
-# CCL Conversations 70248-70158
+# CCL Conversations Collection
 
-_Merged from 91 individual conversation files_
-_Processing order: 70248 → 70158 descending_
-_Properly categorized based on raw.md categories_
+**Dialogue Range:** 70248 → 70158 (91 conversations total)  
+**Last Updated:** 29 August 2025  
+**Processing Order:** Descending (newest first)  
+**Categories:** Social, Business, Medical, Legal  
+**Source:** Merged from individual conversation files, properly categorized based on raw.md  
+
+_This file contains all CCL conversation dialogues with highlighted vocabulary terms for pronunciation training._
 
 ---
 
