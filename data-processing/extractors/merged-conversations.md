@@ -146,12 +146,6 @@ Briefing: The following dialogue takes place in a café between two friends. The
 7.  _If I were you_, _I'd put it on lay-by_. | _That way, you can still get it_, | _and you'll have more time to pay_.
     如果我是你，| 我会使用"预留商品并分期付款"服务。| 这样，你还是能买到沙发，| 而且有更多时间付款。
 
-【萤火虫老师Tips】
-lay-by 和instalments 的区别：
-• instalments（分期付款）：总额分成若干期付，可立刻把商品带回家。
-• lay-by（预留商品并分期付款）：商店把商品保留起来，直到你付清为止。付清之前不能把货带走。更适合信用卡、不想借贷、或想避免利息的消费者。
-• 英文里put it on lay-by 是习惯搭配，把商品"置于（商店的）lay-by 状态"。类似put it on hold（把它保留）也是有个put. 但是！！！中文千万不要翻译成"放到···上"，听起来像把东西放到一个实体的"台子"上，不地道，会扣分。
-
 8.  我知道。| 预留商品并且分期付款的话，| 只要几块钱。| 而且，我也不急着| 把沙发带回家。
     _I know that_. | _Using lay-by only costs_ _a few dollars_, | _and I'm not in a hurry_ _to take the sofa home_.
 
@@ -1948,7 +1942,7 @@ Briefing: This dialogue is a conversation between two neighbours where one is an
 
 Briefing: This dialogue is a conversation between an English-speaking insurance agent and a Mandarin-speaking customer who has been in a car accident and needs to make an insurance claim. The dialogue begins now.
 
-1.  _Good morning_, _sir_. | _Thank you for calling_ _our insurance company_. | _How can I assist you today_?
+1.  _Good morning, sir_. | _Thank you for calling_ _our insurance company_. | _How can I assist you today_?
     早上好，先生。感谢您致电我们保险公司。今天有什么可以为您效劳的吗？
 
 2.  你好，我昨天发生了车祸，| 现在需要申请保险理赔。| 我的保单号是123456789。
@@ -1966,7 +1960,7 @@ Briefing: This dialogue is a conversation between an English-speaking insurance 
 6.  我在十字路口等红灯时，| 后面的车追尾了。| 我的车被撞得很严重，| 后保险杠完全变形了。
     _I was waiting at a red light_ _at an intersection_, | _when the car behind_ _rear-ended me_. | _My car was badly damaged_, | _the rear bumper_ _is completely deformed_.
 
-7.  _I understand_. | _Do you have_ _a police report_ _or any photos_ _of the damage_? | _This will help_ _with the claim process_.
+7.  _I understand that_. | _Do you have_ _a police report_ _or any photos_ _of the damage_? | _This will help_ _with the claim process_.
     我明白了。您有警方报告或损坏的照片吗？这将有助于理赔流程。
 
 8.  有的，我拍了照片，| 也有警方报告。| 报告编号是PR-2024-001。
@@ -1976,13 +1970,13 @@ Briefing: This dialogue is a conversation between an English-speaking insurance 
     很好。我需要您把照片发到claims@insurance.com。另外，请提供对方司机的详细信息。
 
 10. 好的，我马上发邮件。| 对方司机的信息我也有，| 包括姓名、电话和车牌号。
-    _Okay, I'll send the email right away_. | _I also have_ _the other driver's information_, | _including name_, _phone_, _and license plate_.
+    _Okay, I'll send the email right away_. | _I also have_ _the other driver's information_, | _including name, phone, and license plate_.
 
 11. _Excellent. Now, let me ask_ _a few more questions_. | _Was anyone else_ _in your car_ _at the time_?
     很好。现在让我再问几个问题。当时您车里还有其他人吗？
 
 12. 没有，就我一个人。| 我系了安全带，| 所以没有受伤。
-    _No, just me_. | _I was wearing a seatbelt_, | _so I wasn't injured_.
+    _No, just me alone_. | _I was wearing a seatbelt_, | _so I wasn't injured_.
 
 13. _That's very fortunate_. | _I'll start processing_ _your claim now_. | _You should receive_ _a claim number_ _within 24 hours_.
     那很幸运。我现在开始处理您的理赔。您应该在24小时内收到理赔号。
@@ -1999,7 +1993,7 @@ Briefing: This dialogue is a conversation between an English-speaking insurance 
 
 Briefing: This dialogue is a conversation between an English-speaking restaurant staff member and a Mandarin-speaking customer who wants to make a reservation for a large group. The dialogue begins now.
 
-1.  _Good afternoon_, _welcome to_ _Golden Dragon Restaurant_. | _How may I help you today_?
+1.  _Good afternoon, welcome to_ _Golden Dragon Restaurant_. | _How may I help you today_?
     下午好，欢迎光临金龙餐厅。今天有什么可以为您效劳的吗？
 
 2.  你好，我想预订一个包间，| 大概15个人左右。| 时间是下周五晚上7点。
@@ -2021,9 +2015,9 @@ Briefing: This dialogue is a conversation between an English-speaking restaurant
     这个包间可以舒适地容纳20人。还有娱乐和舞池的空间。
 
 8.  完美！那我们就订这个包间。| 需要付订金吗？| 大概多少钱？
-    _Perfect! Then we'll book_ _this room_. | _Do we need to pay_ _a deposit_? | _How much is it_?
+    _Perfect! Then we'll book_ _this private room_. | _Do we need to pay_ _a deposit_? | _How much is it_?
 
-9.  _Yes, we require_ _a 20% deposit_ _to confirm the booking_. | _For 15 people_, _that would be_ _approximately $300_.
+9.  _Yes, we require_ _a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_.
     是的，我们需要20%的订金来确认预订。15个人大概需要300美元。
 
 10. 好的，我可以现在付订金。| 你们接受信用卡吗？| 还是需要现金？
@@ -2035,7 +2029,7 @@ Briefing: This dialogue is a conversation between an English-speaking restaurant
 12. 我叫李明，| 电话是0412-345-678。| 如果有什么变化，请及时联系我。
     _My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me_ _in time_.
 
-13. _Perfect, Mr. Li_. | _I'll confirm your booking_ _for next Friday_ _at 7 PM_. | _You'll receive_ _a confirmation email_ _shortly_.
+13. _Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday_ _at 7 PM_. | _You'll receive a confirmation email shortly_.
     很好，李先生。我会确认您下周五晚上7点的预订。您很快就会收到确认邮件。
 
 14. 谢谢！还有什么需要注意的吗？| 比如着装要求或特殊安排？
@@ -2219,7 +2213,7 @@ Briefing: This dialogue is a conversation between an English-speaking bank custo
     不客气，张先生。今天还有其他我可以帮助您的吗？
 
 18. 没有了，谢谢您。| 祝您有愉快的一天。
-    _No, that's all_, _thank you_. | _Have a great day_.
+    _No, that's all, thank you_. | _Have a great day_.
 
 ---
 
@@ -3019,7 +3013,7 @@ Briefing: This dialogue is a conversation between two friends where one is an En
 
 Briefing: This dialogue is a conversation between an English-speaking pizza delivery staff member and a Mandarin-speaking customer who wants to order pizza for delivery. They are discussing pizza options, toppings, and delivery details. The dialogue begins now.
 
-1.  _Good evening_, _welcome to_ _Pizza Palace_. | _How may I help you today_?
+1.  _Good evening, welcome to_ _Pizza Palace_. | _How may I help you today_?
     晚上好，欢迎光临披萨宫殿。今天有什么可以为您效劳的吗？
 
 2.  你好！我想订披萨外卖。| 你们现在还在营业吗？
@@ -3395,7 +3389,7 @@ Briefing: This dialogue is a conversation between an English-speaking accounting
     _其实_，_这并不难避免_。| _专业会计可以帮你_ _把账目整理好_。| _你现在有什么_ _特别紧急的事_ _需要处理吗_？
 
 8.  _其实_，_还真的有_。| _对于我来说_，_目前最紧急的事情_ _就是所得税的申报_。| _还有两天_ _就要截止了_。
-    _Actually_，_yes_. | _Right now_，_my biggest concern_ _is filing my income tax_. | _The deadline is_ _in two days_.
+    _Actually，yes. Right now_，_my biggest concern_ _is filing my income tax_. | _The deadline is_ _in two days_.
 
 9.  _Don't worry_. _If you have_ _a professional accountant_，_there will be sufficient time_. | _But you need to send_ _all the relevant documents_ _to our accountant_ _in one go_.
     _别担心_，_有专业会计的话_，_时间是够的_。| _但你需要一次性_ _把相关文件_ _发给我们的会计_。
