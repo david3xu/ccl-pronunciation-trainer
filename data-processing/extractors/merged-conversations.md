@@ -41,9 +41,6 @@ Briefing: This dialogue is a conversation between a new council employee and a m
 8.  我希望把全部健身项目给你接管。| 项目太多了，我忙不过来了。
     _I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped/I can't handle them all_.
 
-【萤火虫老师Tips】
-这里"健身项目"如果翻"gym programs" 不太合适，会让人以为是在健身房里举行，不太贴合社区中心可能会在社区／公园／社区活动中心开设面向公众的健身项目的画面感。
-
 9.  _Oh, okay. I'll make sure_ _to keep organizing these programs_. | _Tell me, what classes are available_?
     哦，好。我会确保继续组织这些项目的。| 跟我说说都有哪些课程？
 
@@ -113,9 +110,6 @@ Briefing: This dialogue takes place between a Mandarin-speaking house owner and 
 14. 设计这个房子| 有这么多的事情要做呀！| 我不知道盖一个房子| 需要这么复杂。
     _There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_.
 
-【萤火虫老师Tips】
-第一句如果翻译成"There are so many things to do to design this house." 语法正确，但听起来显得重复（连续两个"to"），容易扣分。
-
 ---
 
 #70246. A New Creamy Leather Lounge Chair 2 – Business
@@ -129,7 +123,7 @@ Briefing: The following dialogue takes place in a café between two friends. The
     嘿，好高兴见到你！| 我们终于有机会聚一聚了。
 
 2.  对啊，咱们好久没坐下来| 慢慢喝咖啡聊聊天了。
-    _Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. /_Right, we haven't had a chance_ _to relax over coffee_ _and talk in so long_.
+    _Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. /_Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_.
 
 3.  _How's your day going_? | _You mentioned you were browsing_ _the mall before coming here_ _to meet me_.
     你今天过得怎么样？| 你说你来这跟我见面之前| 还在逛商场呢。
