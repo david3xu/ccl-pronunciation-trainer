@@ -478,7 +478,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.049Z",
+      "extraction_date": "2025-09-01T21:52:56.361Z",
       "total_vocabulary_terms": 62
     }
   },
@@ -953,57 +953,57 @@
       },
       {
         "id": 14,
-        "english": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_.",
+        "english": "_There are so many things to do_ _when designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_.",
         "chinese": "设计这个房子| 有这么多的事情要做呀！| 我不知道盖一个房子| 需要这么复杂。",
         "vocabulary": [
           {
             "term": "There are so many things to do",
             "difficulty": "hard",
             "phonetic": "UK /ˈthere ˈare ˈso ˈmany ˈthings ˈto ˈdo/",
-            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+            "context": "_There are so many things to do_ _when designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
           },
           {
-            "term": "when/in designing this house",
+            "term": "when designing this house",
             "difficulty": "hard",
-            "phonetic": "UK /ˈwhen/in ˈdesigning ˈthis ˈhouse/",
-            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+            "phonetic": "UK /ˈwhen ˈdesigning ˈthis ˈhouse/",
+            "context": "_There are so many things to do_ _when designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
           },
           {
             "term": "Designing a house involves",
             "difficulty": "hard",
             "phonetic": "UK /ˈdesigning ˈa ˈhouse ˈinvolves/",
-            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+            "context": "_There are so many things to do_ _when designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
           },
           {
             "term": "so many things to do",
             "difficulty": "hard",
             "phonetic": "UK /ˈso ˈmany ˈthings ˈto ˈdo/",
-            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+            "context": "_There are so many things to do_ _when designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
           },
           {
             "term": "I had no idea",
             "difficulty": "hard",
             "phonetic": "UK /ˈi ˈhad ˈno ˈidea/",
-            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+            "context": "_There are so many things to do_ _when designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
           },
           {
             "term": "building a house",
             "difficulty": "normal",
             "phonetic": "UK /ˈbuilding ˈa ˈhouse/",
-            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+            "context": "_There are so many things to do_ _when designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
           },
           {
             "term": "could be this complicated",
             "difficulty": "hard",
             "phonetic": "UK /ˈcould ˈbe ˈthis ˈcomplicated/",
-            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+            "context": "_There are so many things to do_ _when designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
           }
         ]
       }
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.049Z",
+      "extraction_date": "2025-09-01T21:52:56.362Z",
       "total_vocabulary_terms": 69
     }
   },
@@ -1040,44 +1040,44 @@
       },
       {
         "id": 2,
-        "english": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. /_Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_.",
+        "english": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. _Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_.",
         "chinese": "对啊，咱们好久没坐下来| 慢慢喝咖啡聊聊天了。",
         "vocabulary": [
           {
             "term": "Yeah it's been ages",
             "difficulty": "hard",
             "phonetic": "UK /ˈyeah ˈit's ˈbeen ˈages/",
-            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. /_Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_."
+            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. _Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_."
           },
           {
             "term": "since we last sat down",
             "difficulty": "hard",
             "phonetic": "UK /ˈsince ˈwe ˈlast ˈsat ˈdown/",
-            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. /_Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_."
+            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. _Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_."
           },
           {
             "term": "to enjoy coffee and chat",
             "difficulty": "hard",
             "phonetic": "UK /ˈto ˈenjoy ˈcoffee ˈand ˈchat/",
-            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. /_Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_."
+            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. _Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_."
           },
           {
             "term": "Right we haven't had a chance",
             "difficulty": "hard",
             "phonetic": "UK /ˈright ˈwe ˈhaven't ˈhad ˈa ˈchance/",
-            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. /_Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_."
+            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. _Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_."
           },
           {
             "term": "to relax over coffee and talk",
             "difficulty": "hard",
             "phonetic": "UK /ˈto ˈrelax ˈover ˈcoffee ˈand ˈtalk/",
-            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. /_Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_."
+            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. _Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_."
           },
           {
             "term": "in so long",
             "difficulty": "normal",
             "phonetic": "UK /ˈin ˈso ˈlong/",
-            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. /_Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_."
+            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. _Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_."
           }
         ]
       },
@@ -1462,7 +1462,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.049Z",
+      "extraction_date": "2025-09-01T21:52:56.362Z",
       "total_vocabulary_terms": 58
     }
   },
@@ -1921,7 +1921,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.050Z",
+      "extraction_date": "2025-09-01T21:52:56.363Z",
       "total_vocabulary_terms": 58
     }
   },
@@ -2356,7 +2356,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.050Z",
+      "extraction_date": "2025-09-01T21:52:56.363Z",
       "total_vocabulary_terms": 54
     }
   },
@@ -2833,7 +2833,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.050Z",
+      "extraction_date": "2025-09-01T21:52:56.363Z",
       "total_vocabulary_terms": 61
     }
   },
@@ -3334,7 +3334,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.050Z",
+      "extraction_date": "2025-09-01T21:52:56.364Z",
       "total_vocabulary_terms": 65
     }
   },
@@ -3829,7 +3829,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.051Z",
+      "extraction_date": "2025-09-01T21:52:56.364Z",
       "total_vocabulary_terms": 64
     }
   },
@@ -4282,7 +4282,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.051Z",
+      "extraction_date": "2025-09-01T21:52:56.364Z",
       "total_vocabulary_terms": 57
     }
   },
@@ -4777,7 +4777,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.051Z",
+      "extraction_date": "2025-09-01T21:52:56.365Z",
       "total_vocabulary_terms": 64
     }
   },
@@ -5314,7 +5314,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.052Z",
+      "extraction_date": "2025-09-01T21:52:56.365Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -5911,7 +5911,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.052Z",
+      "extraction_date": "2025-09-01T21:52:56.365Z",
       "total_vocabulary_terms": 81
     }
   },
@@ -6472,7 +6472,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.052Z",
+      "extraction_date": "2025-09-01T21:52:56.366Z",
       "total_vocabulary_terms": 75
     }
   },
@@ -7069,7 +7069,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.052Z",
+      "extraction_date": "2025-09-01T21:52:56.366Z",
       "total_vocabulary_terms": 81
     }
   },
@@ -7130,20 +7130,50 @@
       },
       {
         "id": 2,
-        "english": "_Thank you! I'm very happy_ _to have the opportunity_ to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_.",
+        "english": "_Thank you! I'm very happy_ _to have the opportunity_ _to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_.",
         "chinese": "谢谢！我很高兴能有机会接手这个诊所，为大家服务。| 虽然说，小镇的生活和我以前习惯的生活很不一样。",
         "vocabulary": [
           {
             "term": "Thank you I'm very happy",
             "difficulty": "hard",
             "phonetic": "UK /ˈthank ˈyou ˈi'm ˈvery ˈhappy/",
-            "context": "_Thank you! I'm very happy_ _to have the opportunity_ to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_."
+            "context": "_Thank you! I'm very happy_ _to have the opportunity_ _to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_."
           },
           {
             "term": "to have the opportunity",
             "difficulty": "hard",
             "phonetic": "UK /ˈto ˈhave ˈthe ˈopportunity/",
-            "context": "_Thank you! I'm very happy_ _to have the opportunity_ to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_."
+            "context": "_Thank you! I'm very happy_ _to have the opportunity_ _to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_."
+          },
+          {
+            "term": "to take over this clinic",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈto ˈtake ˈover ˈthis ˈclinic/",
+            "context": "_Thank you! I'm very happy_ _to have the opportunity_ _to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_."
+          },
+          {
+            "term": "and serve everyone",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈand ˈserve ˈeveryone/",
+            "context": "_Thank you! I'm very happy_ _to have the opportunity_ _to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_."
+          },
+          {
+            "term": "Although life in this small town",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈalthough ˈlife ˈin ˈthis ˈsmall ˈtown/",
+            "context": "_Thank you! I'm very happy_ _to have the opportunity_ _to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_."
+          },
+          {
+            "term": "is quite different from",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈis ˈquite ˈdifferent ˈfrom/",
+            "context": "_Thank you! I'm very happy_ _to have the opportunity_ _to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_."
+          },
+          {
+            "term": "what I was used to before",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwhat ˈi ˈwas ˈused ˈto ˈbefore/",
+            "context": "_Thank you! I'm very happy_ _to have the opportunity_ _to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_."
           }
         ]
       },
@@ -7708,8 +7738,8 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.053Z",
-      "total_vocabulary_terms": 88
+      "extraction_date": "2025-09-01T21:52:56.366Z",
+      "total_vocabulary_terms": 93
     }
   },
   {
@@ -8233,7 +8263,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.053Z",
+      "extraction_date": "2025-09-01T21:52:56.367Z",
       "total_vocabulary_terms": 69
     }
   },
@@ -8728,7 +8758,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.053Z",
+      "extraction_date": "2025-09-01T21:52:56.367Z",
       "total_vocabulary_terms": 64
     }
   },
@@ -9301,7 +9331,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.053Z",
+      "extraction_date": "2025-09-01T21:52:56.367Z",
       "total_vocabulary_terms": 77
     }
   },
@@ -9784,7 +9814,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.053Z",
+      "extraction_date": "2025-09-01T21:52:56.367Z",
       "total_vocabulary_terms": 62
     }
   },
@@ -10321,7 +10351,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.053Z",
+      "extraction_date": "2025-09-01T21:52:56.367Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -10822,7 +10852,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.053Z",
+      "extraction_date": "2025-09-01T21:52:56.368Z",
       "total_vocabulary_terms": 65
     }
   },
@@ -11317,7 +11347,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.054Z",
+      "extraction_date": "2025-09-01T21:52:56.368Z",
       "total_vocabulary_terms": 64
     }
   },
@@ -11806,7 +11836,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.054Z",
+      "extraction_date": "2025-09-01T21:52:56.368Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -12283,7 +12313,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.054Z",
+      "extraction_date": "2025-09-01T21:52:56.368Z",
       "total_vocabulary_terms": 61
     }
   },
@@ -12712,7 +12742,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.054Z",
+      "extraction_date": "2025-09-01T21:52:56.369Z",
       "total_vocabulary_terms": 53
     }
   },
@@ -13159,7 +13189,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.054Z",
+      "extraction_date": "2025-09-01T21:52:56.369Z",
       "total_vocabulary_terms": 56
     }
   },
@@ -13564,7 +13594,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.055Z",
+      "extraction_date": "2025-09-01T21:52:56.369Z",
       "total_vocabulary_terms": 49
     }
   },
@@ -14179,7 +14209,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.055Z",
+      "extraction_date": "2025-09-01T21:52:56.370Z",
       "total_vocabulary_terms": 84
     }
   },
@@ -14650,7 +14680,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.055Z",
+      "extraction_date": "2025-09-01T21:52:56.370Z",
       "total_vocabulary_terms": 60
     }
   },
@@ -15115,7 +15145,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.055Z",
+      "extraction_date": "2025-09-01T21:52:56.370Z",
       "total_vocabulary_terms": 59
     }
   },
@@ -15712,7 +15742,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.055Z",
+      "extraction_date": "2025-09-01T21:52:56.370Z",
       "total_vocabulary_terms": 81
     }
   },
@@ -16339,7 +16369,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.055Z",
+      "extraction_date": "2025-09-01T21:52:56.370Z",
       "total_vocabulary_terms": 86
     }
   },
@@ -16954,7 +16984,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.056Z",
+      "extraction_date": "2025-09-01T21:52:56.371Z",
       "total_vocabulary_terms": 84
     }
   },
@@ -17563,7 +17593,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.056Z",
+      "extraction_date": "2025-09-01T21:52:56.371Z",
       "total_vocabulary_terms": 83
     }
   },
@@ -18232,7 +18262,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.056Z",
+      "extraction_date": "2025-09-01T21:52:56.371Z",
       "total_vocabulary_terms": 93
     }
   },
@@ -18895,7 +18925,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.056Z",
+      "extraction_date": "2025-09-01T21:52:56.372Z",
       "total_vocabulary_terms": 92
     }
   },
@@ -19498,7 +19528,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.057Z",
+      "extraction_date": "2025-09-01T21:52:56.372Z",
       "total_vocabulary_terms": 82
     }
   },
@@ -20149,7 +20179,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.057Z",
+      "extraction_date": "2025-09-01T21:52:56.372Z",
       "total_vocabulary_terms": 90
     }
   },
@@ -20692,7 +20722,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.057Z",
+      "extraction_date": "2025-09-01T21:52:56.372Z",
       "total_vocabulary_terms": 72
     }
   },
@@ -21181,7 +21211,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.057Z",
+      "extraction_date": "2025-09-01T21:52:56.372Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -21737,7 +21767,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.057Z",
+      "extraction_date": "2025-09-01T21:52:56.373Z",
       "total_vocabulary_terms": 73
     }
   },
@@ -22373,7 +22403,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.057Z",
+      "extraction_date": "2025-09-01T21:52:56.373Z",
       "total_vocabulary_terms": 84
     }
   },
@@ -23020,7 +23050,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.057Z",
+      "extraction_date": "2025-09-01T21:52:56.373Z",
       "total_vocabulary_terms": 87
     }
   },
@@ -23632,7 +23662,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.058Z",
+      "extraction_date": "2025-09-01T21:52:56.373Z",
       "total_vocabulary_terms": 80
     }
   },
@@ -24293,7 +24323,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.058Z",
+      "extraction_date": "2025-09-01T21:52:56.373Z",
       "total_vocabulary_terms": 87
     }
   },
@@ -24987,7 +25017,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.058Z",
+      "extraction_date": "2025-09-01T21:52:56.374Z",
       "total_vocabulary_terms": 89
     }
   },
@@ -25516,7 +25546,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.058Z",
+      "extraction_date": "2025-09-01T21:52:56.374Z",
       "total_vocabulary_terms": 65
     }
   },
@@ -26073,7 +26103,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.058Z",
+      "extraction_date": "2025-09-01T21:52:56.374Z",
       "total_vocabulary_terms": 72
     }
   },
@@ -26654,7 +26684,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.059Z",
+      "extraction_date": "2025-09-01T21:52:56.374Z",
       "total_vocabulary_terms": 76
     }
   },
@@ -27255,7 +27285,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.059Z",
+      "extraction_date": "2025-09-01T21:52:56.374Z",
       "total_vocabulary_terms": 77
     }
   },
@@ -27982,7 +28012,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.059Z",
+      "extraction_date": "2025-09-01T21:52:56.375Z",
       "total_vocabulary_terms": 98
     }
   },
@@ -28601,7 +28631,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.059Z",
+      "extraction_date": "2025-09-01T21:52:56.375Z",
       "total_vocabulary_terms": 80
     }
   },
@@ -29268,7 +29298,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.059Z",
+      "extraction_date": "2025-09-01T21:52:56.375Z",
       "total_vocabulary_terms": 88
     }
   },
@@ -29888,7 +29918,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.059Z",
+      "extraction_date": "2025-09-01T21:52:56.375Z",
       "total_vocabulary_terms": 79
     }
   },
@@ -30567,7 +30597,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.060Z",
+      "extraction_date": "2025-09-01T21:52:56.375Z",
       "total_vocabulary_terms": 90
     }
   },
@@ -31133,7 +31163,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.060Z",
+      "extraction_date": "2025-09-01T21:52:56.376Z",
       "total_vocabulary_terms": 70
     }
   },
@@ -31723,7 +31753,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.060Z",
+      "extraction_date": "2025-09-01T21:52:56.376Z",
       "total_vocabulary_terms": 74
     }
   },
@@ -32398,7 +32428,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.060Z",
+      "extraction_date": "2025-09-01T21:52:56.376Z",
       "total_vocabulary_terms": 87
     }
   },
@@ -32970,7 +33000,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.060Z",
+      "extraction_date": "2025-09-01T21:52:56.376Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -33705,7 +33735,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.061Z",
+      "extraction_date": "2025-09-01T21:52:56.376Z",
       "total_vocabulary_terms": 97
     }
   },
@@ -34272,7 +34302,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.061Z",
+      "extraction_date": "2025-09-01T21:52:56.376Z",
       "total_vocabulary_terms": 76
     }
   },
@@ -35097,7 +35127,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.061Z",
+      "extraction_date": "2025-09-01T21:52:56.377Z",
       "total_vocabulary_terms": 112
     }
   },
@@ -35759,7 +35789,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.061Z",
+      "extraction_date": "2025-09-01T21:52:56.377Z",
       "total_vocabulary_terms": 86
     }
   },
@@ -36404,7 +36434,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.062Z",
+      "extraction_date": "2025-09-01T21:52:56.377Z",
       "total_vocabulary_terms": 89
     }
   },
@@ -37109,7 +37139,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.062Z",
+      "extraction_date": "2025-09-01T21:52:56.377Z",
       "total_vocabulary_terms": 99
     }
   },
@@ -37748,7 +37778,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.062Z",
+      "extraction_date": "2025-09-01T21:52:56.378Z",
       "total_vocabulary_terms": 88
     }
   },
@@ -38327,7 +38357,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.062Z",
+      "extraction_date": "2025-09-01T21:52:56.378Z",
       "total_vocabulary_terms": 78
     }
   },
@@ -38954,7 +38984,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.062Z",
+      "extraction_date": "2025-09-01T21:52:56.378Z",
       "total_vocabulary_terms": 86
     }
   },
@@ -39575,7 +39605,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.062Z",
+      "extraction_date": "2025-09-01T21:52:56.378Z",
       "total_vocabulary_terms": 85
     }
   },
@@ -40082,7 +40112,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.063Z",
+      "extraction_date": "2025-09-01T21:52:56.378Z",
       "total_vocabulary_terms": 66
     }
   },
@@ -40619,7 +40649,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.063Z",
+      "extraction_date": "2025-09-01T21:52:56.378Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -41210,7 +41240,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.063Z",
+      "extraction_date": "2025-09-01T21:52:56.378Z",
       "total_vocabulary_terms": 80
     }
   },
@@ -41729,7 +41759,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.063Z",
+      "extraction_date": "2025-09-01T21:52:56.379Z",
       "total_vocabulary_terms": 68
     }
   },
@@ -42254,7 +42284,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.063Z",
+      "extraction_date": "2025-09-01T21:52:56.379Z",
       "total_vocabulary_terms": 69
     }
   },
@@ -42767,7 +42797,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.063Z",
+      "extraction_date": "2025-09-01T21:52:56.379Z",
       "total_vocabulary_terms": 67
     }
   },
@@ -43286,7 +43316,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.063Z",
+      "extraction_date": "2025-09-01T21:52:56.379Z",
       "total_vocabulary_terms": 68
     }
   },
@@ -43823,7 +43853,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.063Z",
+      "extraction_date": "2025-09-01T21:52:56.379Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -44274,7 +44304,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.063Z",
+      "extraction_date": "2025-09-01T21:52:56.379Z",
       "total_vocabulary_terms": 59
     }
   },
@@ -44787,7 +44817,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.064Z",
+      "extraction_date": "2025-09-01T21:52:56.379Z",
       "total_vocabulary_terms": 67
     }
   },
@@ -45310,7 +45340,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.064Z",
+      "extraction_date": "2025-09-01T21:52:56.380Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -45847,7 +45877,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.064Z",
+      "extraction_date": "2025-09-01T21:52:56.380Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -46480,7 +46510,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.064Z",
+      "extraction_date": "2025-09-01T21:52:56.380Z",
       "total_vocabulary_terms": 87
     }
   },
@@ -47239,7 +47269,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.064Z",
+      "extraction_date": "2025-09-01T21:52:56.380Z",
       "total_vocabulary_terms": 108
     }
   },
@@ -47944,7 +47974,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.065Z",
+      "extraction_date": "2025-09-01T21:52:56.380Z",
       "total_vocabulary_terms": 99
     }
   },
@@ -48799,7 +48829,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.065Z",
+      "extraction_date": "2025-09-01T21:52:56.381Z",
       "total_vocabulary_terms": 124
     }
   },
@@ -49504,7 +49534,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.065Z",
+      "extraction_date": "2025-09-01T21:52:56.381Z",
       "total_vocabulary_terms": 99
     }
   },
@@ -50269,7 +50299,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.065Z",
+      "extraction_date": "2025-09-01T21:52:56.382Z",
       "total_vocabulary_terms": 109
     }
   },
@@ -50986,7 +51016,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.066Z",
+      "extraction_date": "2025-09-01T21:52:56.382Z",
       "total_vocabulary_terms": 101
     }
   },
@@ -51487,7 +51517,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.066Z",
+      "extraction_date": "2025-09-01T21:52:56.382Z",
       "total_vocabulary_terms": 65
     }
   },
@@ -51976,7 +52006,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.066Z",
+      "extraction_date": "2025-09-01T21:52:56.382Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -52507,7 +52537,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-08-31T06:13:31.066Z",
+      "extraction_date": "2025-09-01T21:52:56.382Z",
       "total_vocabulary_terms": 70
     }
   }

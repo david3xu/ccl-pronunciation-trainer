@@ -108,7 +108,7 @@ Briefing: This dialogue takes place between a Mandarin-speaking house owner and 
     当然。我是客户至上的/| 我坚信得把客户服务好，| 而且我也知道每件事| 都把控好/跟进好/盯紧了有多重要。
 
 14. 设计这个房子| 有这么多的事情要做呀！| 我不知道盖一个房子| 需要这么复杂。
-    _There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_.
+    _There are so many things to do_ _when designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_.
 
 ---
 
@@ -123,7 +123,7 @@ Briefing: The following dialogue takes place in a café between two friends. The
     嘿，好高兴见到你！| 我们终于有机会聚一聚了。
 
 2.  对啊，咱们好久没坐下来| 慢慢喝咖啡聊聊天了。
-    _Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. /_Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_.
+    _Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. _Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_.
 
 3.  _How's your day going_? | _You mentioned you were browsing_ _the mall before coming here_ _to meet me_.
     你今天过得怎么样？| 你说你来这跟我见面之前| 还在逛商场呢。
@@ -691,7 +691,7 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
     你好！很高兴见到你。你能来真让我们松了口气。| 之前的医生决定搬回城里后，| 我们之前还担心会很久没有医生呢。
 
 2.  谢谢！我很高兴能有机会接手这个诊所，为大家服务。| 虽然说，小镇的生活和我以前习惯的生活很不一样。
-    _Thank you! I'm very happy_ _to have the opportunity_ to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_.
+    _Thank you! I'm very happy_ _to have the opportunity_ _to take over this clinic_ _and serve everyone_. | _Although life in this small town_ _is quite different from_ _what I was used to before_.
 
 3.  _We are really grateful_ _that you came_. | _Having a doctor right here_ _who knows us_ _makes all the difference_, | _especially for the little check-ups and advice_.
     我们真的很感激你能来。| 身边有个了解我们的医生太重要了，| 特别是日常检查和小毛病咨询。
