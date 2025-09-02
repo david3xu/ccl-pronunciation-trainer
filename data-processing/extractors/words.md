@@ -1,18 +1,31 @@
 70248 
-council 
+the council 
 community center 
+we run 
 a variety of programs 
+and activities 
+for the local people 
+are very diverse 
+there are families 
 older people
-new migrants
-local library 
-managing the center 
+and new migrants
+the local library 
+is located at the center too
+a lot to manage 
+a busy place to work 
+really enjoy this job 
+help managing the center 
+it's really too much for 
 one person to handle
-take over 
-fitness programs 
-I can't cope 
+i am going to like 
+the variety of my new job 
+need help first 
+you can take over 
+all the fitness programs 
+and I can't cope 
 I'm swamped 
 I can't handle them all
-keep organizing 
+to keep organizing 
 what classes are available 
 cater 
 strength training 

@@ -84,7 +84,7 @@ Briefing: This dialogue takes place between a Mandarin-speaking house owner and 
     没错，材料现在也涨价了。| 既然你来了，| 我想和你一起过一下图纸。
 
 6.  没问题。| 我感觉我每天晚上回家| 都会看施工图纸。| 所以每个房间具体会是什么样子的，| 我都清清楚楚。
-    _No problem at all_. | _I feel like I check_ _the construction plans/blueprints_ | _every night when I get home_. | _So, I know exactly_ _what each room will look like_.
+    _No problem at all_. | _I feel like I check_ _the construction plans_ _blueprints_ | _every night when I get home_. | _So, I know exactly_ _what each room will look like_.
 
 7.  _Well, the workers delivered_ _the kitchen cabinet and benchtop today_. | _Should they be installed_ _on the sidewall_?
     嗯，今天工人们| 把厨房橱柜和台面送来了。| 是应该装在侧墙那边吗？
@@ -96,13 +96,13 @@ Briefing: This dialogue takes place between a Mandarin-speaking house owner and 
     我也这么认为，| 但台面太短了，| 那我换成更长的。
 
 10. 噢，这可麻烦了。| 如果只是颜色不对还好，| 尺寸不对肯定不行。
-    _Oh, that's troublesome_. | _If it's only the wrong color_, _that's fine_, | _but if the size is wrong_, | _then that definitely won't do/work_.
+    _Oh, that's troublesome_. | _If it's only the wrong color_, _that's fine_, | _but if the size is wrong_, | _then that definitely won't work_.
 
 11. _It struck me as a bit strange this morning_. | _That's why I inspect_ _the site every day_.
     我今早上看着| 就突然觉得有点怪/不对劲，| 这也是为什么我每天| 都要到工地检查的原因。
 
 12. 太感谢了，| 让我放心多了。| 你这么快就能发现和解决问题，| 真的太棒了。
-    _Thanks so much_. | _That really puts my mind at ease_. | _It's so great you can_ _catch/spot and fix issues promptly_.
+    _Thanks so much_. | _That really puts my mind at ease_. | _It's so great you can_ _spot and fix issues promptly_.
 
 13. _Of course. I believe in_ _looking after my customers_, | _and I know how important it is_ _to keep track of everything_.
     当然。我是客户至上的/| 我坚信得把客户服务好，| 而且我也知道每件事| 都把控好/跟进好/盯紧了有多重要。
@@ -1472,19 +1472,19 @@ Briefing: This dialogue is a conversation between an English-speaking police con
     发现东西被偷总是让人心烦。| 就算不算紧急，也可以是很严重的。| 我们过一下事情经过吧，我好帮你处理。
 
 6.  主要是，这车是我干活用的，| 丢了很麻烦。| 保险公司让我先搞个报案单，| 然后才能申请赔付。
-    _The main thing is_ | _that it's my_ | _work vehicle_, | _losing it is_ | _a real headache_. | _The insurance company_ | _wants me to get_ | _a police report first_, | _then I can_ | _file a claim_.
+    _The main thing is_ | _that it's my work vehicle_, | _losing it is a real headache_. | _The insurance company_ | _wants me to get_ | _a police report first_, | _then I can file a claim_.
 
 7.  _Understood, work vehicles are crucial_. | _So, a van was taken_? | _Sounds like you need a theft report_ _for the insurer_. | _Tell me where and when_ _you last saw it_.
     明白了，工作车辆很重要。| 那么，被偷的是一辆面包车？| 听起来你需要给保险公司提供一份盗窃报案单。| 告诉我你最后见到它的地点和时间。
 
 8.  昨天上午，我在建筑工地干活。| 大概中午那会儿，发现我的面包车给人偷了。
-    _Yesterday morning, while_ | _I was working_ | _at the construction site_, | _around noon, I_ | _realized my van_ | _was stolen_.
+    _Yesterday morning, while I was working_ | _at the construction site_, | _around noon, I realized my van_ | _was stolen_.
 
-9.  _That's absolutely terrible_. | _Can you give me_ | _the exact location_ | _of the construction site_? | _And what time did_ | _you arrive there_?
+9.  _That's absolutely terrible_. | _Can you give me_ | _the exact location_ | _of the construction site_? | _And what time did you arrive there_?
     这太糟糕了。| 你能告诉我建筑工地的具体位置吗？| 你是什么时候到那里的？
 
 10. 工地就在市中心附近，| 就在主街和公园路的交叉口。| 我早上七点到的工地。
-    _The site is near_ | _the city center_, | _at the intersection of_ | _Main Street and_ | _Park Road_. | _I arrived at_ | _the site at 7 AM_.
+    _The site is near the city center_, | _at the intersection of_ | _Main Street and Park Road_. | _I arrived at the site at 7 AM_.
 
 11. _Got it. And what time_ _did you notice the van was missing_? | _Did you see anyone suspicious_ _around the area_?
     明白了。你是什么时候发现面包车不见的？| 你在附近看到什么可疑的人吗？
@@ -1520,7 +1520,7 @@ Briefing: This dialogue is a conversation between an English-speaking City Counc
     在公共区域必须给狗拴牵绳。| 不过，我们有两个专门的无牵绳公园，| 可以让狗狗自由奔跑。| 海滩的南段也允许放开牵绳。
 
 6.  太棒了。我的狗特别喜欢在水里踩来踩去，| 在沙子里打滚，| 还会追那些海鸥。| 请问有哪些地方是不允许狗狗去的吗？
-    _That's great. My dog loves_ _splashing around_ _in the water_, | _rolling in the sand_, | _and chasing seagulls_. | _Are there any spots where_ _dogs aren't allowed_?
+    _That's great. My dog loves splashing around_ _in the water_, | _rolling in the sand_, | _and chasing seagulls_. | _Are there any spots where_ _dogs aren't allowed_?
 
 7.  _Indeed, dogs aren't allowed in certain spots_ _like kids' playgrounds_, | _sports ovals, and some beaches_. | _Just look out for the signs_ _before you go in_.
     确实，有些地方不允许带狗，比如儿童游乐场、| 运动场以及部分沙滩。| 进去前留意公告牌就行。
@@ -1564,25 +1564,25 @@ Briefing: This dialogue is a conversation between an English-speaking police con
 4.  其实，我每天送孩子去学校的时候，| 都看到他车子飞速开过去。| 最近的一次发生在今天早上七点半左右，| 就在我们公寓小区门口。
     _Actually, every day when I_ _take my kid to school_, | _I see him_ _speeding past_ _in his car_. | _The most recent time_ _was around 7:30 this morning_, | _right at the entrance_ _of our apartment complex_.
 
-5.  _That does sound risky_. | _Do you happen to know_ _the car's make and model_, | _or any other_ _identifying info_?
+5.  _That does sound risky_. | _Do you happen to know_ _the car's make and model_, | _or any other identifying info_?
     听起来很危险。| 您知道那车是什么牌子、什么型号，| 或者还有其他辨识特征吗？
 
 6.  是辆银色的车。| 车牌号我没看清，| 是我们小区一位年轻人开的。| 表情还非常嚣张呢。
     _It's a silver car_. | _I didn't catch_ _the license plate number_, | _but it's driven by_ _a young person_ _who lives in our complex_. | _And he always has_ _this cocky look_ _on his face_.
 
-7.  _Thanks for that. Have you heard_ _if anyone else has noticed this_, | _or if this driver has been_ _involved in_ _any other incidents_?
+7.  _Thanks for that. Have you heard_ _if anyone else has noticed this_, | _or if this driver has been involved in_ _any other incidents_?
     感谢您的信息。您知道有没有其他人也注意到这事，| 或者这个司机还有没有发生过别的事故？
 
 8.  好多邻居都看到过呢，| 对他都快闻风丧胆了。| 他开车像疯了一样快，| 我们都很担心孩子们的安全。
     _Plenty of our neighbours_ _have seen him too_ | _and are almost_ _scared stiff of him_. | _He drives insanely fast_, | _and we're all really worried about_ _the kids' safety_.
 
-9.  _I understand. I'll dispatch_ _a patrol car_ _to monitor the area_ _at those times_, | _and if we can pinpoint_ _the driver_, | _we'll have a word_ _with him_.
+9.  _I understand. I'll dispatch_ _a patrol car_ _to monitor the area_ _at those times_, | _and if we can pinpoint the driver_, | _we'll have a word with him_.
     我明白。我会在那个时段派巡逻警车去监控那个区域，| 如果我们能确认司机身份，| 我们会跟他谈谈的。
 
 10. 谢谢警察同志。我们都希望他能明白这样做的后果，| 不要再超速了。| 我们想看到明显的改善。
     _Thank you, officer. We all hope_ _he can understand the consequences_ _of what he has done_ | _and can stop speeding_. | _We really want to see_ _some real improvements_.
 
-11. _We'll do everything we can_ _to address this_. | _If you spot_ _anything like this again_, | _please let us know_ _immediately_.
+11. _We'll do everything we can_ _to address this_. | _If you spot anything like this again_, | _please let us know immediately_.
     我们会尽一切努力来解决这个问题。| 如果您再次发现类似情况，| 请立即告诉我们。
 
 12. 好的，我会继续关注的。| 希望这次投诉能起到作用。
@@ -1604,43 +1604,43 @@ Briefing: This dialogue is a conversation between two friends where one is an En
     嘿！好久不见！| 我不知道你在看房呢。
 
 2.  是呀。我们租房子住好多年了，| 我觉得，是时候买下一套属于自己的房子啦。
-    _Exactly, we've been_ _renting for years_ | _and I feel it's time to_ _have a place_ _of my own_.
+    _Exactly, we've been_ _renting for years_ | _and I feel it's time to_ _have a place of my own_.
 
 3.  _I totally get it_. | _This area's super convenient_, | _with the mall and park nearby_. | _If you moved elsewhere_, _you'd have to_ _re-learn everything all over again_.
     我完全明白。| 这地段多方便啊，| 商场公园都在旁边。| 要是搬到别的地方，你就得重新熟悉一遍周边环境。
 
 4.  可不是嘛，能不动地方最好了。| 我们不想让孩子们又要换学校，| 又要重新适应一遍周围的一切。
-    _Absolutely, staying put_ _would be ideal_. | _We don't want the kids_ _to have to switch schools_ | _and adjust to_ _everything all over again_.
+    _Absolutely, staying put would be ideal_. | _We don't want the kids_ _to have to switch schools_ | _and adjust to everything all over again_.
 
 5.  _Exactly. The market is_ _flooded with listings now_, | _but it might take a bit_ _to find the right one_. | _Any luck so far_?
     确实，市面上现在房源很多，| 但找到合适的可能需要点时间。| 目前你有看中的吗？
 
 6.  我们看了不少房子了，| 有一套房子我们特别中意，但是，价格超标了。| 我们不想让手头太紧。
-    _We've seen_ _quite a few properties_. | _There's one we really like_, _but it's_ _over our budget_. | _We don't want to_ _stretch our finances_.
+    _We've seen quite a few properties_. | _There's one we really like_, _but it's over our budget_. | _We don't want to_ _stretch our finances_.
 
-7.  _That's a shame_. | _But it's smart to_ _stick to your budget_. | _Don't worry, it doesn't mean_ _you won't find_ _something you love_. | _There's plenty of fish_ _in the sea_.
+7.  _That's a shame_. | _But it's smart to_ _stick to your budget_. | _Don't worry, it doesn't mean_ _you won't find something you love_. | _There's plenty of fish in the sea_.
     真可惜，| 不过，量入为出是对的。| 别急，这不代表你们找不到喜欢的房子。| 好房子多的是。
 
 8.  我们希望能买一套空房子，| 这样一切都简单。| 我不喜欢到处堆满家具和杂物的房子。| 我觉得我们没办法搬进那样的房子。
-    _We'd like_ _an empty property_ | _— that keeps things simple_. | _I don't like houses_ _cluttered with_ _furniture and stuff_; | _I don't think we could_ _move into one like that_.
+    _We'd like an empty property_ | _— that keeps things simple_. | _I don't like houses_ _cluttered with_ _furniture and stuff_; | _I don't think we could_ _move into one like that_.
 
-9.  _You may want to focus_ _on the floor plan_, | _rather than getting distracted by_ _the furnishings_. | _The decorations can always be changed later_.
+9.  _You may want to focus on_ _the floor plan_, | _rather than getting distracted by_ _the furnishings_. | _The decorations can always be changed later_.
     或许，你们可以关注房子的户型图，| 而不是被家具干扰。| 房子的装饰到后面都能改的。
 
 10. 有些户型我们就是接受不了。| 我们不想要复式，| 只想要平层。
-    _Some layouts_ _just won't work for us_; | _we don't want_ _a two-story home_ | _—we prefer_ _a single-level place_.
+    _Some layouts_ _just won't work for us_; | _we don't want a two-story home_ | _—we prefer a single-level place_.
 
-11. _It might be worth_ _checking out some_ _of the older homes_ _in the area_. | _They often match_ _what you're looking for_. | _I can help you_ _find them_.
+11. _It might be worth_ _checking out some of the older homes_ _in the area_. | _They often match_ _what you're looking for_. | _I can help you find them_.
     或许可以看看这个区一些年代久一些的房子 | ——它们往往更符合你们的需求。| 我可以帮你找找。
 
 12. 谢谢你。我们不想大改结构。| 最多，微调一两个房间的布局，就可以啦。
     _Thank you. We don't want_ _major renovations_. | _At most, we'd just_ _tweak the layout_ _of one or two rooms_.
 
-13. _Actually, there's one property_ _that could be perfect_, | _but it's not officially listed_. | _I know the owner personally_, | _and can set up_ _an inspection_.
+13. _Actually, there's one property_ _that could be perfect_, | _but it's not officially listed_. | _I know the owner personally_, | _and can set up an inspection_.
     其实，有一处房产可能很合适，| 但房子还没挂牌呢。| 我认识屋主，| 可以帮你们安排看房。
 
 14. 太好了。帮我们安排一下吧。| 希望这次能成。| 真希望这套房子能满足我们全家的需求啊。
-    _Fantastic! Please help arrange_ _it for us_. | _I really hope this works out_! | _I really hope this house_ _will meet our family's needs_.
+    _Fantastic! Please help arrange it for us_. | _I really hope this works out_! | _I really hope this house_ _will meet our family's needs_.
 
 ---
 
@@ -1652,31 +1652,31 @@ Briefing: This dialogue is a conversation between an English-speaking appliance 
     你好，这里是电器商店。| 我是艾德利安。今天我能为您做点什么？
 
 2.  你好！我前段时间在你们这里买了一台洗衣机，| 但最近坏掉了，| 总是发出尖锐的噪音，| 吓得我已经一周没用它了。
-    _Hey there! I bought a washing machine_ _from you guys_ _a while back_, | _but it's been faulty lately_. | _It always makes_ _a piercing noise_, | _and I've been too scared_ _to use it for a week_.
+    _Hey there! I bought a washing machine_ _from you guys_ _a while back_, | _but it's been faulty lately_. | _It always makes a piercing noise_, | _and I've been too scared to use it_ _for a week_.
 
-3.  _Oh no, sorry to hear that_. _Do you remember_ _exactly when_ _you bought it_? | _If it's still_ _under warranty_, | _we might be able to fix it_ _at no cost_.
+3.  _Oh no, sorry to hear that_. _Do you remember_ _exactly when you bought it_? | _If it's still under warranty_, | _we might be able to fix it_ _at no cost_.
     哎呀，听到这些我很抱歉。你还记得具体什么时候买吗？| 如果还在保修期内，| 我们可能可以免费维修。
 
 4.  我是五个月前买的，之前一直运转得挺不错的，| 我原本还挺满意的。结果现在噪音又刺耳，又漏水。
-    _I bought it five months ago_, _and it_ _was working great_. | _I was actually_ _pretty happy_ _with it_. | _But now it's_ _getting so noisy_ | _and it's even_ _leaking water_.
+    _I bought it five months ago_, _and it was working great_. | _I was actually pretty happy with it_. | _But now it's getting so noisy_ | _and it's even leaking water_.
 
-5.  _That should_ _still be covered_. | _Would you prefer_ _getting it repaired_, | _or would you rather_ _we replace it for you_?
+5.  _That should still be covered_. | _Would you prefer getting it repaired_, | _or would you rather_ _we replace it for you_?
     这应该还在保修范围内。| 你希望我们修理它，| 还是换一台新的给你？
 
 6.  是说我不用出钱修吗？| 我有点搞不清保修是什么意思。| 维修费用是不是都很高啊？
-    _Does that mean_ _I don't have to pay_? | _I'm not too sure_ _what warranty really means_. | _Is repair usually expensive_?
+    _Does that mean I don't have to pay_? | _I'm not too sure_ _what warranty really means_. | _Is repair usually expensive_?
 
 7.  _Exactly. Warranty means_ _we'll cover the repair_ _or even replace it for free_, | _as long as the issue_ _wasn't caused by misuse_.
     没错。保修就是在一定时间内，只要不是人为损坏，| 维修或更换都是免费的。
 
 8.  太好了。我之前还担心得自己掏钱修。| 那我就放心了。| 我还是想把原机修好。
-    _Great. I was worried_ _I'd have to pay_ _out of pocket_. | _Then I'm relieved_. | _I'd prefer to_ _get the original machine fixed_.
+    _Great. I was worried_ _I'd have to pay out of pocket_. | _Then I'm relieved_. | _I'd prefer to_ _get the original machine fixed_.
 
-9.  _Got it. I'll make sure_ _a technician gets out_ _to you soon_. | _Can you tell me_ _when someone can_ _come by_?
+9.  _Got it. I'll make sure_ _a technician gets out to you soon_. | _Can you tell me_ _when someone can come by_?
     明白了。我会安排技术员尽快过去。| 您什么时候方便让人上门看看？
 
 10. 这个嘛，我做零售促销兼职，| 周一和周五不上班，| 这两天安排都可以。
-    _Sure, I work part-time_ _in retail promotions_, | _and I'm off_ _on Mondays and Fridays_. | _Either of those days_ _works for me_.
+    _Sure, I work part-time_ _in retail promotions_, | _and I'm off on Mondays and Fridays_. | _Either of those days_ _works for me_.
 
 11. _That works. One of our technicians_ _will reach out_ _to set up an appointment_. | _The technician may need to run_ _a diagnostic cycle_ _to identify the fault_.
     好的。我们的技师会联系你预约具体时间。| 技师可能需要运行诊断程序来找出故障。
