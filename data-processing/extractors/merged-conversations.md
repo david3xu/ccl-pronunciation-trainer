@@ -123,7 +123,7 @@ Briefing: The following dialogue takes place in a café between two friends. The
     嘿，好高兴见到你！| 我们终于有机会聚一聚了。
 
 2.  对啊，咱们好久没坐下来| 慢慢喝咖啡聊聊天了。
-    _Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. _Right, we haven't had a chance_ _to relax over coffee and talk_ _in so long_.
+    _Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. _Right, we haven't had a chance_ _to relax over coffee and talk in so long_.
 
 3.  _How's your day going_? | _You mentioned you were browsing_ _the mall before coming here_ _to meet me_.
     你今天过得怎么样？| 你说你来这跟我见面之前| 还在逛商场呢。
@@ -141,19 +141,19 @@ Briefing: The following dialogue takes place in a café between two friends. The
     如果我是你，| 我会使用"预留商品并分期付款"服务。| 这样，你还是能买到沙发，| 而且有更多时间付款。
 
 8.  我知道。| 预留商品并且分期付款的话，| 只要几块钱。| 而且，我也不急着| 把沙发带回家。
-    _I know that_. | _Using lay-by only costs_ _a few dollars_, | _and I'm not in a hurry_ _to take the sofa home_.
+    _I know that_. | _Using lay-by only costs a few dollars_, | _and I'm not in a hurry_ _to take the sofa home_.
 
 9.  _Yes, it requires regular payments_ _every two weeks_, | _and it's not bad_.
     对，固定每两周付一次款，| 挺不错的。
 
 10. 不，一点也不。| 相比一次性付款，| 小额分期付款要简单得多。
-    _No, not bad at all_. | _Compared with paying in one lump sum/_paying all at once_, | _small installment payments_ _are much simpler/easier_.
+    _No, not bad at all_. | _Compared with paying all at once_, | _small installment payments_ _are much simpler_.
 
 11. _It's smart to think about_ _your best payment options_ _for big purchases_. | _You could save money_ _or make it easier to pay_.
     考虑一下大额消费的| 最佳付款方式是明智的。| 你可能可以省钱，| 或者让付款更轻松。
 
 12. 我也这么觉得。| 我今晚好好比对一下，| 再明天去店里决定。| 我觉得这沙发放客厅| 肯定很棒。
-    _I agree. I'll carefully compare them tonight_ | _and decide at the store tomorrow_. | _I bet/think that sofa_ _would look fantastic_ _in the living room_.
+    _I agree. I'll carefully compare them tonight_ | _and decide at the store tomorrow_. | _I think that sofa_ _would look fantastic_ _in the living room_.
 
 13. _Creamy leather sounds_ _a perfect choice_. | _How about we grab a slice of cake_ _with our coffee to celebrate_?
     奶油色的皮革，| 这选择听着太完美了。| 要不咱俩喝咖啡时| 再加块蛋糕，庆祝一下？
@@ -237,7 +237,7 @@ Briefing: This dialogue is a conversation between a Mandarin-speaking female emp
     好。你能告诉我为什么你最近这么忙吗？| 是来了新的合同工，增加了你的工作量吗？
 
 8.  噢，如果那样还好。情况更糟糕，| 公司开除了几个人，但没有招新的人来替代他们。
-    _Oh, if that had been the case_, _it would have been fine_. | _It was worse, the company_ _laid off several people_ | _but didn't hire new people_ _to replace them_.
+    _Oh, if that had been the case_, _it would have been fine_. | _It was worse_, _the company laid off several people_ | _but didn't hire new people_ _to replace them_.
 
 9.  _No one could have predicted this situation_. | _I would suggest looking for_ _a new job in the same industry_.
     没人能料到这种情况。| 我建议你在同行业找找新的工作。
@@ -335,19 +335,19 @@ Briefing：This dialogue is a conversation between a new council employee and a 
 8.  去年，我们为年轻妈妈和她们的孩子举办了几个月的亲子活动，| 我希望能把它变成一个定期活动。
     _Last year we ran a parent_ _and child program for several months_ | _for young mothers and their children_. | _I'd like to make it_ _a regular thing_.
 
-9.  _That's a great idea, I am sure_ _I can help organize that for you_. | _Sounds like it was_ _a popular program_.
+9.  _That's a great idea, I am sure_ _I can help organize that for you_. | _Sounds like it was a popular program_.
     这是个好主意。我相信我可以帮你组织。| 听起来这项目很受欢迎啊。
 
 10. 是的，反响很好。我们当时决定在夏天试办一次。| 结果预约的人特别多。几乎天天都能举办。
-    _Yes, it got a great response_. | _We decided to try it once_ _in the summer, and bookings were huge_. | _We could run it almost_ _every day_.
+    _Yes, it got a great response_. | _We decided to try it once_ _in the summer, and bookings were huge_. | _We could run it almost every day_.
 
-11. _Maybe we can consider_ _holding it twice a week_. | _I remember how helpful the local_ _play group was when my_ _children were small_.
+11. _Maybe we can consider_ _holding it twice a week_. | _I remember how helpful_ _the local play group was_ _when my children were small_.
     也许我们可以考虑每周办两次。| 我记得我的孩子们还小的时候，本地的游戏活动小组特别有帮助。
 
 12. 那真是太好了。我很高兴您能对我们的活动提出任何改进建议。| 我自己也一直在寻求新的想法。
     _That's really great, I'm happy_ _you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_.
 
-13. _That's good to know_, _once I am_ _all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_.
+13. _That's good to know_, _once I am all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_.
     真好。等我把中心的各项工作都熟悉了，| 我肯定能想出一些点子。
 
 14. 太棒了。我相信我们会合作的非常愉快。
@@ -387,7 +387,7 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
     我得跟他聊聊。| 他打算在浴室加个淋浴。| 不过他还没开始弄呢。| 应该没问题。
 
 10. 我很喜欢泡澡，| 所以我绝对不想在套间的浴室装淋浴。| 我们的主浴室已有一个淋浴间了。
-    _I really enjoy soaking in the bath_, | _so I absolutely don't want a shower_ _in my suite's bathroom_. | _Our master bathroom already has_ _a shower stall_.
+    _I really enjoy soaking in the bath_, | _so I absolutely don't want a shower_ _in my suite's bathroom_. | _Our master bathroom_ _already has a shower stall_.
 
 11. _It struck me_ _as a bit strange this morning_. | _That's why I inspect the site every day_.
     我今早上看着就突然觉得有点怪 不对劲，| 这也是为什么我每天都要到工地检查的原因。
@@ -475,13 +475,13 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
 8.  _我们在装修时_，_弄了个_ _大阁楼_。_现在准备_ _把它做成_ _家庭办公室_，_那里的_ _自然光线_ _特别好_。
     _During the renovation_, _we added a spacious loft_. | _Now we plan to_ _turn it into a home office_. _The natural light there is perfect_!
 
-9.  _Those massive windows_ must give amazing natural light! | _Perfect for an office_. _Have you_ _picked out a desk_ yet?
+9.  _Those massive windows_ _must give amazing natural light!_ | _Perfect for an office_. _Have you picked out a desk yet_?
     _大窗户_，_采光肯定_ _超棒_！_做办公室绝了_。_桌子选好了吗_？
 
 10. _家具全用_ _素净的颜色_，| _不选深色桌子_。| _另外我还打算_ _装百叶窗_。
     _All furniture is in neutral colours_, | _no dark desks_. | _Plus, I plan to add blinds_.
 
-11. _Very good call_! | _Making sure you are happy with it_ _for years is important_! | _You don't want to_ _redecorate again too soon_.
+11. _Very good call_! | _Making sure you are happy with it for years is important_! | _You don't want to_ _redecorate again too soon_.
     _明智的选择_！| _确保这个装修_ _能让你喜欢_ _很多年_ _是很重要的_，| _谁都不想_ _太快重新装修一遍_。
 
 12. _我同意_ _你说的_。| _所以_，_我们会用_ _简单素净的设计_，| _然后用_ _小地毯这种_ _容易换的小东西_ _来增加一些_ _鲜艳的色彩_。
@@ -501,9 +501,9 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
     _嗨_，_很高兴见到你_。| _希望你已经_ _安顿好了_！| _住在这么小的镇上_ _肯定是大变化_。| _你适应了_ _这种更悠闲的节奏了吗_？
 
 2.  _你好_！_是的_，_我从来没住过_ _这么小的地方_，| _而且这儿离城里_ _又很远_。| _不过邻居们_ _都特别热情_。
-    _Hello, yes, I've never lived in_ _such a small place_, | _and it's quite a distance from the city_. | _But the neighbours have been_ _really welcoming_.
+    _Hello, yes, I've never lived in_ _such a small place_, | _and it's quite a distance from the city_. | _But the neighbours have been really welcoming_.
 
-3.  _It is. It takes a while_ _to get to the city_ _and time to get used_ _to everything here_. | _I hope the sense of community_ _can make up for it_.
+3.  _It is. It takes a while_ _to get to the city_ _and time to get used to everything here_. | _I hope the sense of community_ _can make up for it_.
     _确实_，_去城里要花点时间_，_这里的生活节奏_ _也要慢慢适应_。| _我希望这里的_ _社区氛围_ _能弥补这些不便_。
 
 4.  _对_，_我发现_ _小镇上的人_ _都很友好_，| _我通过工作_，_已经认识了_ _大半个镇上的人_。| _这种亲切感_ _在大城市里_ _可体验不到_。

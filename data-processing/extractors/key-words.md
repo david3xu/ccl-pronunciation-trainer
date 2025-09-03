@@ -1,3 +1,45 @@
+70248 
+being working at the council 
+community center 
+run a variety of programs 
+and activities 
+for the local people 
+are very diverse 
+there are families 
+older people
+and new migrants
+the local library 
+is located at the center too
+a lot to manage 
+a busy place to work 
+really enjoy this job 
+help managing the center 
+it's really too much for 
+one person to handle
+i am going to like 
+the variety of my new job 
+need help first 
+you can take over 
+all the fitness programs 
+and I can't cope 
+I'm swamped 
+I can't handle them all
+to keep organizing 
+what classes are available 
+cater 
+strength training 
+boxing 
+dance 
+seniors 
+run 
+software 
+track 
+do some research 
+give any suggestions 
+improve our programs
+looking for new ideas 
+come up with some ideas
+
 70247
 go over the plans with you 
 construction plans
@@ -24,18 +66,121 @@ big stores
 loads of options 
 furniture 
 
+70242
+come up with some ideas 
+
+70241
+the walls
+floors
+doors
+the supplier 
+delivered the materials 
+the material delivery 
+was delayed 
+take longer 
+nowadays
+hard to get materials 
+shipping 
+material prices 
+have gone up too
+review the plans 
+the construction plans 
+get home 
+the plumber's working on 
+the suite bathroom 
+double-check 
+no changes made 
+is designed around 
+a beautiful vintage bathtub 
+a shower 
+in the bathroom 
+enjoy soaking in the bath 
+in my swite's bathroom 
+master bathroom 
+a shower stall 
+it struck me 
+as a bit strange 
+inspect the site 
+puts my mind at ease 
+catch and fix issues
+promptly 
+believe in 
+looking after my customers
+to keep track of everything 
+
+70240
+
+
+
+70239
+be overwhelming 
+picking finishes 
+taks real patience
+no rush
+take our time 
+to think thing through 
+ tackling 
+ renovation 
+ a spacious loft 
+ turn it into 
+ a home office 
+ natural light 
+ those massive windows 
+ in neutral colours 
+ no dark desks 
+ add blinds 
+ redecorate 
+ go for 
+ simple and neutral designs 
+ add some bright colors 
+ easy-to-swap items
+ like rugs 
+ look fantastic 
+ can't wait to show you either 
+ the finishing touches 
+ are taking longer 
+
+70238
+you've settled in
+gotten used to 
+the quieter pace 
+quite a distance 
+really welcoming 
+it takes a wile 
+to get to the city
+the sense of community 
+can make up for it 
+and through work 
+get that kind of warmth 
+moved back to
+it took a long time 
+the replacement showed up 
+do miss city amenities 
+some grocery items 
+in stock 
+I have allergies 
+I prefer oat milk 
+mine's almost gone 
+dairy or soy milk 
+have them in stock 
+order oat milk 
+I use about 
+two litres of oat milk 
+
 
 
 
 70236
 
-schedule
-flexible
-spare 
-volunteer 
+work from home 
+schedule's pretty flexible
+spare a few hours
+to volunteer 
+honestly 
 absolutely 
-end up 
-enjoy doing
+volunteers
+end up becomming friends
+anything specific you enjoy doing
 match 
 suits
 hobbies 
@@ -64,18 +209,17 @@ s spot
 to take walks 
 get some fresh air 
 have raised 
-donations
-restore 
+community donations
+to restore teh part 
+keen to see it open again 
 rebuild
 a sense of accomplishment 
 
 70235
 customer support 
-be aware 
-recorded 
-quality 
-training 
-purpose 
+please be aware 
+this call may be recorded 
+for quality and training purposes 
 paid a bill 
 through mobile banking 
 a late fee notice 
@@ -99,6 +243,23 @@ for processing
 it takes 
 business days 
 to complete 
+
+70234
+jasmine tea 
+chili source 
+
+70233
+for non-urgent stuff 
+a robbery in progress 
+can't handle it here
+a violent crime 
+construction site equipment is gone 
+a samll incident 
+can be upsetting 
+a construction company 
+excavator 
+
+
 
 70229
 go for 
@@ -645,3 +806,15 @@ will reach out
 to set up an appointment 
 a diagnostic cycle 
 to identify the fault 
+
+
+
+
+
+
+
+
+
+
+
+
