@@ -663,7 +663,7 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
 8.  _原来如此_。_那我以后_ _得提前几天付款了_。| _不过这次_ _逾期费用_ _能给我免掉吗_？| _毕竟我确实_ _在截止日期前_ _付了款_。
     _I see. So I'll need to pay_ _a few days early from now on_. | _But can you waive_ _this late fee_? | _After all, I did pay_ _before the due date_.
 
-9.  _I can definitely help you_ _with that_. | _Since you made the payment_ _before the due date_, _I'll waive the late fee_. | _I'll also set up_ _direct debit for you_ _to avoid this in the future_.
+9.  _I can definitely help you with that_. | _Since you made the payment_ _before the due date_, _I'll waive the late fee_. | _I'll also set up_ _direct debit for you_ _to avoid this in the future_.
     _我肯定能帮您_ _解决这个问题_。| _既然您在截止日期前_ _付了款_，_我会给您免掉逾期费用_。| _我还会帮您开通_ _自动扣款_，_避免以后_ _再出现这种情况_。
 
 10. _自动扣款_？_这个怎么操作_？| _我需要_ _提供什么信息_？
@@ -673,9 +673,9 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
     _您需要提供_ _账户信息_，_并授权我们_ _在到期日_ _自动扣款_。| _这样_，_付款总是能_ _按时处理_。
 
 12. _听起来不错_。| _那我需要_ _填写什么表格吗_？| _还是可以在_ _网上操作_？
-    _That sounds good_. | _Do I need to_ _fill out any forms_? | _Or can I do it_ _online_?
+    _That sounds good_. | _Do I need to_ _fill out any forms_? | _Or can I do it online_?
 
-13. _You can do it_ _entirely online_ _through our website_. | _I'll send you_ _a link to the direct debit form_. | _It only takes_ _a few minutes to set up_.
+13. _You can do it entirely online_ _through our website_. | _I'll send you_ _a link to the direct debit form_. | _It only takes_ _a few minutes to set up_.
     _您完全可以在_ _我们的网站上_ _在线操作_。| _我会给您发送_ _自动扣款表格的链接_。| _设置只需要_ _几分钟时间_。
 
 14. _太好了_，_谢谢你的帮助_！| _这样我以后_ _就不用担心_ _逾期付款了_。
@@ -722,7 +722,7 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
     包在我身上。那么漂亮的茶具就该配上好茶。| 我明天一早就给你订你喜欢的茉莉花茶和辣椒酱。
 
 12. 你真是太贴心了！小镇的人也都很好！| 前天晚上，诊所有个小状况，| 镇上几位邻居马上就来帮忙了，让我特别感动。
-    _You're so thoughtful_! _The people in town_ _are really wonderful too_! | _Just the night before last_, _there was a small issue_ _at the clinic_, | _and several neighbors_ _came over immediately_ _to help_. | _It really touched me_.
+    _You're so thoughtful_! _The people in town_ _are really wonderful too_! | _Just the night before last_, _there was a small issue_ _at the clinic_, | _and several neighbors_ _came over immediately to help_. | _It really touched me_.
 
 13.  _That's just how we do things_ _around here_. | _Folks look out for each other_, | _especially for someone like you_ _who's become so important_ _to us all_.
     我们这儿的人就是这样。| 大家互相照应，| 特别是对你这样对我们所有人都很重要的人。
@@ -820,7 +820,7 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
 12. 谢谢。维修需要我清空衣帽间吗？| 我的衣服才刚刚按照颜色整理好啊。
     _Thanks. Should I empty_ _the walk-in closet_? | _I just sorted my clothes_ _by colour_.
 
-13. You just need to _remove all bedding_ temporarily. | _Protective covers_ will be used during repairs.
+13. _You just need to_ _remove all bedding temporarily_. | _Protective covers will be used during repairs_.
     就暂时移开床上用品就行。| 施工时会铺防护罩的。
 
 14. 好的。那我等你通知。| 希望快点修好，| 别再漏水了。谢谢你。| 下次再报修，我会在网上提交的。
@@ -872,7 +872,7 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
     我喜欢这个方案！素色底配亮色点缀永不过时。| 真期待等你完工后去参观。
 
 14. 我也迫不及待想带你参观啦。| 不过还得等我把灯光和小配饰都摆好，| 大概要过两周。
-    _I can't wait to show_ _you around either_. | _But I still need to_ _set up the lighting_ _and small decorations_, | _so it'll probably_ _be another couple of weeks_.
+    _I can't wait_ _to show you around either_. | _But I still need to_ _set up the lighting_ _and small decorations_, | _so it'll probably_ _be another couple of weeks_.
 
 ---
 
@@ -1466,7 +1466,7 @@ Briefing: This dialogue is a conversation between an English-speaking police con
     您拨打的是非紧急报案电话。| 如果是紧急情况，| 你需要挂掉电话，然后拨打 000。
 
 4.  不是紧急的，就是我的面包车被偷了。| 是在我昨天工作的地方被偷的。| 不过我人没事。
-    _It's not an emergency_, _it's just that_ | _my van was stolen_. | _It was stolen from_ | _where I was_ | _working yesterday_. | _But I'm physically fine_.
+    _It's not an emergency_, _it's just that_ | _my van was stolen_. | _It was stolen from_ | _where I was working yesterday_. | _But I'm physically fine_.
 
 5.  _Discovering something stolen_ _is always upsetting_. | _Even non-urgent matters_ _can be serious_. | _Let's go over what happened_ _so I can assist you_.
     发现东西被偷总是让人心烦。| 就算不算紧急，也可以是很严重的。| 我们过一下事情经过吧，我好帮你处理。
@@ -1508,9 +1508,9 @@ Briefing: This dialogue is a conversation between an English-speaking City Counc
     下午好，这里是市政厅。| 今天有什么可以帮您的？
 
 2.  你好，我想咨询一下这里遛狗的法律法规。| 听说有些邻居看到狗就吓一跳，| 所以我想先搞清楚规矩。
-    _Hello, I want to ask about the_ _dog-walking regulations here. | _I heard some neighbours_ _get really startled_ when they see dogs_, | _so I'd like to_ _know the rules first_.
+    _Hello, I want to ask about the_ _dog-walking regulations here_. | _I heard some neighbours_ _get really startled_ _when they see dogs_, | _so I'd like to_ _know the rules first_.
 
-3.  _Absolutely! Having a dog means_ _following rules_. | _We've got_ _straightforward regulations_ _to keep everyone safe_. | _Have you had a chance_ _to check any local regulations_?
+3.  _Absolutely! Having a dog means_ _following rules_. | _We've got straightforward regulations_ _to keep everyone safe_. | _Have you had a chance_ _to check any local regulations_?
     当然可以！养狗意味着要守规矩。| 我们有明文规定来保障每个人的安全。| 您有看过本地的相关法规吗？
 
 4.  具体还真的不太清楚。| 我就知道得给狗拴上牵绳，| 但是，像狗狗能不能去海滩这些细节，| 我就懵了。
@@ -1532,19 +1532,19 @@ Briefing: This dialogue is a conversation between an English-speaking City Counc
     如果违反规定，| 比如在禁止区域不牵绳，| 就可能被罚款。| 罚金数额取决于违规的严重程度。
 
 10. 我的狗狗很热情，见人就扑，| 我还真的要多留意。| 还有什么其他遛狗时要注意的吗？
-    _My dog's so friendly—always_ _jumps on everyone_ _it meets_. | _I really need to_ _pay extra attention_. | _Any other dog-walking dos and don'ts_ _I need to look out for_?
+    _My dog's so friendly_—_always jumps on everyone it meets_. | _I really need to_ _pay extra attention_. | _Any other dog-walking dos and don'ts_ _I need to look out for_?
 
 11. _Absolutely, remember to_ _pick up after your dog_. | _Leaving dog waste_ _means a fine as well_. | _We've placed bins_ _in most parks_.
     没错，记得清理狗狗的排泄物。| 没有清理也意味着被罚款。| 我们在大多数公园里都设有垃圾箱。
 
 12. 我一定会清理狗狗的粪便的。| 谢谢你的解答！| 要不是你提醒，| 我还真没注意这些细节呢。
-    _I'll definitely_ _clean up_ _after my dog_. | _Thanks for your_ _explanation_! | _If you hadn't mentioned it_, | _I wouldn't have noticed_ _those details_.
+    _I'll definitely clean up after my dog_. | _Thanks for your explanation_! | _If you hadn't mentioned it_, | _I wouldn't have noticed those details_.
 
 13. _Anytime! You can also check_ _the council's website_ _for off-leash maps_. | _If anything else comes up_, | _swing by our office_ _or give us a ring_.
     随时乐意效劳。您还可以在市政厅网站上查看不用牵绳区域的地图。| 如果还有其他问题，| 可以来我们办公室或打电话咨询。
 
 14. 太好了，我这就去看一下网站上的地图。| 这周末我就带它去那个海滩的南边。再次感谢你的帮助！
-    _Great, I'll_ _check the map on the website_ _right away_. | _I'll take my dog down to_ _the south end of the beach_ _this weekend_. | _Thanks again_ _for your help_!
+    _Great, I'll_ _check the map on the website_ _right away_. | _I'll take my dog down to_ _the south end of the beach_ _this weekend_. | _Thanks again for your help_!
 
 ---
 
@@ -1556,19 +1556,19 @@ Briefing: This dialogue is a conversation between an English-speaking police con
     你好！这里是警察局，我是史密斯警员。今天有什么能帮你的吗？
 
 2.  您好，我要投诉我们公寓小区里有位司机开车一直超速。| 我们都觉得很危险。| 而且感觉车子发动机很强，非常吵。
-    _Hi there, I'd like_ _to report a driver_ _in our apartment complex_ _who keeps speeding_. | _We all think_ _it's really dangerous_. | _Also, the car's engine_ _seems really powerful_ _and super loud_.
+    _Hi there, I'd like_ _to report a driver_ _in our apartment complex_ _who keeps speeding_. | _We all think_ _it's really dangerous_. | _Also, the car's engine_ _seems really powerful and super loud_.
 
 3.  _I hear you. People should drive slowly_ _in an apartment complex_, | _especially near kids' play areas_ _or sidewalks_. | _Where and when_ _did the speeding happen_?
     我理解。大家在公寓小区里开车一定要慢点，| 尤其是在孩子玩的地方或人行道附近。| 超速是在什么地方、什么时候发生的？
 
 4.  其实，我每天送孩子去学校的时候，| 都看到他车子飞速开过去。| 最近的一次发生在今天早上七点半左右，| 就在我们公寓小区门口。
-    _Actually, every day when I_ _take my kid to school_, | _I see him_ _speeding past_ _in his car_. | _The most recent time_ _was around 7:30 this morning_, | _right at the entrance_ _of our apartment complex_.
+    _Actually, every day when I_ _take my kid to school_, | _I see him_ _speeding past in his car_. | _The most recent time_ _was around 7:30 this morning_, | _right at the entrance_ _of our apartment complex_.
 
 5.  _That does sound risky_. | _Do you happen to know_ _the car's make and model_, | _or any other identifying info_?
     听起来很危险。| 您知道那车是什么牌子、什么型号，| 或者还有其他辨识特征吗？
 
 6.  是辆银色的车。| 车牌号我没看清，| 是我们小区一位年轻人开的。| 表情还非常嚣张呢。
-    _It's a silver car_. | _I didn't catch_ _the license plate number_, | _but it's driven by_ _a young person_ _who lives in our complex_. | _And he always has_ _this cocky look_ _on his face_.
+    _It's a silver car_. | _I didn't catch the license plate number_, | _but it's driven by_ _a young person_ _who lives in our complex_. | _And he always has_ _this cocky look_ _on his face_.
 
 7.  _Thanks for that. Have you heard_ _if anyone else has noticed this_, | _or if this driver has been involved in_ _any other incidents_?
     感谢您的信息。您知道有没有其他人也注意到这事，| 或者这个司机还有没有发生过别的事故？
@@ -1576,7 +1576,7 @@ Briefing: This dialogue is a conversation between an English-speaking police con
 8.  好多邻居都看到过呢，| 对他都快闻风丧胆了。| 他开车像疯了一样快，| 我们都很担心孩子们的安全。
     _Plenty of our neighbours_ _have seen him too_ | _and are almost_ _scared stiff of him_. | _He drives insanely fast_, | _and we're all really worried about_ _the kids' safety_.
 
-9.  _I understand. I'll dispatch_ _a patrol car_ _to monitor the area_ _at those times_, | _and if we can pinpoint the driver_, | _we'll have a word with him_.
+9.  _I understand. I'll dispatch a patrol car_ _to monitor the area_ _at those times_, | _and if we can pinpoint the driver_, | _we'll have a word with him_.
     我明白。我会在那个时段派巡逻警车去监控那个区域，| 如果我们能确认司机身份，| 我们会跟他谈谈的。
 
 10. 谢谢警察同志。我们都希望他能明白这样做的后果，| 不要再超速了。| 我们想看到明显的改善。
@@ -1622,7 +1622,7 @@ Briefing: This dialogue is a conversation between two friends where one is an En
     真可惜，| 不过，量入为出是对的。| 别急，这不代表你们找不到喜欢的房子。| 好房子多的是。
 
 8.  我们希望能买一套空房子，| 这样一切都简单。| 我不喜欢到处堆满家具和杂物的房子。| 我觉得我们没办法搬进那样的房子。
-    _We'd like an empty property_ | _— that keeps things simple_. | _I don't like houses_ _cluttered with_ _furniture and stuff_; | _I don't think we could_ _move into one like that_.
+    _We'd like an empty property_ | _— that keeps things simple_. | _I don't like houses_ _cluttered with furniture and stuff_; | _I don't think we could_ _move into one like that_.
 
 9.  _You may want to focus on_ _the floor plan_, | _rather than getting distracted by_ _the furnishings_. | _The decorations can always be changed later_.
     或许，你们可以关注房子的户型图，| 而不是被家具干扰。| 房子的装饰到后面都能改的。
@@ -1684,7 +1684,7 @@ Briefing: This dialogue is a conversation between an English-speaking appliance 
 12. 这一套操作下来大概要多久？| 希望能快点修好。| 我在家等着的时候，要准备些什么吗？| 比如螺丝刀？
     _How long does_ _the whole process_ _usually take_? | _I really hope the washer_ _gets fixed soon_. | _When I'm waiting at home_, _should I_ _have anything ready_ | _—like a screwdriver_?
 
-13. _The basic check_ _usually takes_ _about half an hour_, | _and if we need to_ _open it up_ _for a motor inspection_, | _it will be around sixty minutes_. | _You don't have to_ _get any tools ready_.
+13. _The basic check usually takes_ _about half an hour_, | _and if we need to_ _open it up_ _for a motor inspection_, | _it will be around sixty minutes_. | _You don't have to_ _get any tools ready_.
     整套流程大概半小时，| 如果需要拆机检查电机，| 会大概 60 分钟。| 你不需要准备任何工具。
 
 14. 好的，那我等你们联系我。| 希望这次能彻底修好，| 别再出问题了。
@@ -1816,23 +1816,23 @@ Briefing: This dialogue is a conversation between an English-speaking dog traini
 8.  太好啦！我的孩子们一个十岁，一个八岁，希望他们可以学习怎么照顾小狗，| 比如，怎么遛狗，怎么给小狗护理毛发，怎么科学喂养。
     _That's amazing! My kids are ten and eight_, _and I hope they could learn_ _how to take care of_ _the puppy_, | _you know, stuff like walking him_, _grooming him_, _and feeding him properly_.
 
-9.  _Well, our course is_ _a perfect fit_ _then_! | _The course also includes_ _socialization training_. | _We'll teach your pup_ _how to interact with_ _people and other animals_.
+9.  _Well, our course is_ _a perfect fit then_! | _The course also includes_ _socialization training_. | _We'll teach your pup_ _how to interact with_ _people and other animals_.
     嗯，那我们的课程就正合适啦。| 我们的课程还包社交训练，| 会教你家小狗怎么跟人和其他动物相处。
 
 10. 太好啦。课程的价格是多少？| 课程会包含小狗笼养训练和上厕所训练吗？
     _That's great! How much_ _does the course cost_? | _And does it include_ _crate training and potty training_ _for the puppy_?
 
-11. _Rest assured, the course_ _covers everything_! | _You're in good hands_! | _It's 200 dollars_ _for six weeks_. _By the way, is your pup_ _up to date_ _on all his shots_?
+11. _Rest assured, the course covers everything_! | _You're in good hands_! | _It's 200 dollars for six weeks_. _By the way, is your pup_ _up to date_ _on all his shots_?
     放心吧，课程内容全包的。| 交给我们绝对靠谱的。| 课程价格是六周 200 澳币。对了，你的小狗疫苗打全了吗？
 
 12. 课程价格挺合理的。| 下一期课我们能参加吗？小狗的疫苗都打过了。兽医给我疫苗证明了。
-    _The price sounds_ _very reasonable_. | _Can we join_ _the next session_? | _The puppy's got_ _all his shots_. | _The vet gave me_ _his vaccination certificate_.
+    _The price sounds very reasonable_. | _Can we join the next session_? | _The puppy's got all his shots_. | _The vet gave me_ _his vaccination certificate_.
 
-13. _Perfect! Let's get_ _the little guy_ _signed up now_. | _Don't forget_ _his shot records_ _when you attend_ _the first lesson_!
+13. _Perfect! Let's get_ _the little guy signed up now_. | _Don't forget his shot records_ _when you attend the first lesson_!
     太棒啦！咱们现在就给小家伙报名吧。| 第一堂课别忘了带好所有疫苗证明哟！
 
 14. 太好啦。放心，我会带着的。希望能培养出一只听话不捣蛋的小狗！
-    _Perfect! No worries_, _I'll bring them_. | _Hope we can raise_ _a well-behaved_, _non-mischievous puppy_!
+    _Perfect! No worries, I'll bring them_. | _Hope we can raise a well-behaved_, _non-mischievous puppy_!
 
 ---
 
