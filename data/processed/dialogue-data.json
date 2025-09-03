@@ -242,38 +242,44 @@
       },
       {
         "id": 8,
-        "english": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped/I can't handle them all_.",
+        "english": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped_ _I can't handle them all_.",
         "chinese": "我希望把全部健身项目给你接管。| 项目太多了，我忙不过来了。",
         "vocabulary": [
           {
             "term": "I hope you can take over",
             "difficulty": "hard",
             "phonetic": "UK /ˈi ˈhope ˈyou ˈcan ˈtake ˈover/",
-            "context": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped/I can't handle them all_."
+            "context": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped_ _I can't handle them all_."
           },
           {
             "term": "all the fitness programs",
             "difficulty": "hard",
             "phonetic": "UK /ˈall ˈthe ˈfitness ˈprograms/",
-            "context": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped/I can't handle them all_."
+            "context": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped_ _I can't handle them all_."
           },
           {
             "term": "There are too many programs",
             "difficulty": "hard",
             "phonetic": "UK /ˈthere ˈare ˈtoo ˈmany ˈprograms/",
-            "context": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped/I can't handle them all_."
+            "context": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped_ _I can't handle them all_."
           },
           {
             "term": "and I can't cope",
             "difficulty": "hard",
             "phonetic": "UK /ˈand ˈi ˈcan't ˈcope/",
-            "context": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped/I can't handle them all_."
+            "context": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped_ _I can't handle them all_."
           },
           {
-            "term": "I'm swamped/I can't handle them all",
+            "term": "I'm swamped",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈi'm ˈswamped/",
+            "context": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped_ _I can't handle them all_."
+          },
+          {
+            "term": "I can't handle them all",
             "difficulty": "hard",
-            "phonetic": "UK /ˈi'm ˈswamped/i ˈcan't ˈhandle ˈthem ˈall/",
-            "context": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped/I can't handle them all_."
+            "phonetic": "UK /ˈi ˈcan't ˈhandle ˈthem ˈall/",
+            "context": "_I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped_ _I can't handle them all_."
           }
         ]
       },
@@ -304,50 +310,50 @@
       },
       {
         "id": 10,
-        "english": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes/programs for seniors_, _mothers and young children_. | _We run/have classes every day_.",
+        "english": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes for seniors_, _mothers and young children_. | _We run/have classes every day_.",
         "chinese": "我们面向所有人。| 有力量训练、拳击、舞蹈，| 还有面向老人、妈妈和幼儿的课程。| 我们每天都有课。",
         "vocabulary": [
           {
             "term": "We cater to everyone",
             "difficulty": "hard",
             "phonetic": "UK /ˈwe ˈcater ˈto ˈeveryone/",
-            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes/programs for seniors_, _mothers and young children_. | _We run/have classes every day_."
+            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes for seniors_, _mothers and young children_. | _We run/have classes every day_."
           },
           {
             "term": "The classes are for everyone",
             "difficulty": "hard",
             "phonetic": "UK /ˈthe ˈclasses ˈare ˈfor ˈeveryone/",
-            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes/programs for seniors_, _mothers and young children_. | _We run/have classes every day_."
+            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes for seniors_, _mothers and young children_. | _We run/have classes every day_."
           },
           {
             "term": "We have strength training",
             "difficulty": "hard",
             "phonetic": "UK /ˈwe ˈhave ˈstrength ˈtraining/",
-            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes/programs for seniors_, _mothers and young children_. | _We run/have classes every day_."
+            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes for seniors_, _mothers and young children_. | _We run/have classes every day_."
           },
           {
             "term": "boxing dance",
             "difficulty": "normal",
             "phonetic": "UK /ˈboxing ˈdance/",
-            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes/programs for seniors_, _mothers and young children_. | _We run/have classes every day_."
+            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes for seniors_, _mothers and young children_. | _We run/have classes every day_."
           },
           {
-            "term": "and classes/programs for seniors",
+            "term": "and classes for seniors",
             "difficulty": "hard",
-            "phonetic": "UK /ˈand ˈclasses/programs ˈfor ˈseniors/",
-            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes/programs for seniors_, _mothers and young children_. | _We run/have classes every day_."
+            "phonetic": "UK /ˈand ˈclasses ˈfor ˈseniors/",
+            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes for seniors_, _mothers and young children_. | _We run/have classes every day_."
           },
           {
             "term": "mothers and young children",
             "difficulty": "hard",
             "phonetic": "UK /ˈmothers ˈand ˈyoung ˈchildren/",
-            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes/programs for seniors_, _mothers and young children_. | _We run/have classes every day_."
+            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes for seniors_, _mothers and young children_. | _We run/have classes every day_."
           },
           {
             "term": "We run/have classes every day",
             "difficulty": "hard",
             "phonetic": "UK /ˈwe ˈrun/have ˈclasses ˈevery ˈday/",
-            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes/programs for seniors_, _mothers and young children_. | _We run/have classes every day_."
+            "context": "_We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes for seniors_, _mothers and young children_. | _We run/have classes every day_."
           }
         ]
       },
@@ -384,75 +390,75 @@
       },
       {
         "id": 12,
-        "english": "_That's really great, I'm happy_ _you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_.",
+        "english": "_That's really great_, _I'm happy you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_.",
         "chinese": "那真是太好了。我很高兴您能对我们的活动提出任何改进建议。| 我自己也一直在寻求新的想法。",
         "vocabulary": [
           {
-            "term": "That's really great I'm happy",
-            "difficulty": "hard",
-            "phonetic": "UK /ˈthat's ˈreally ˈgreat ˈi'm ˈhappy/",
-            "context": "_That's really great, I'm happy_ _you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_."
+            "term": "That's really great",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈthat's ˈreally ˈgreat/",
+            "context": "_That's really great_, _I'm happy you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_."
           },
           {
-            "term": "you can give any suggestions",
+            "term": "I'm happy you can give any suggestions",
             "difficulty": "hard",
-            "phonetic": "UK /ˈyou ˈcan ˈgive ˈany ˈsuggestions/",
-            "context": "_That's really great, I'm happy_ _you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_."
+            "phonetic": "UK /ˈi'm ˈhappy ˈyou ˈcan ˈgive ˈany ˈsuggestions/",
+            "context": "_That's really great_, _I'm happy you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_."
           },
           {
             "term": "to improve our programs",
             "difficulty": "hard",
             "phonetic": "UK /ˈto ˈimprove ˈour ˈprograms/",
-            "context": "_That's really great, I'm happy_ _you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_."
+            "context": "_That's really great_, _I'm happy you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_."
           },
           {
             "term": "I myself have always been",
             "difficulty": "hard",
             "phonetic": "UK /ˈi ˈmyself ˈhave ˈalways ˈbeen/",
-            "context": "_That's really great, I'm happy_ _you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_."
+            "context": "_That's really great_, _I'm happy you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_."
           },
           {
             "term": "looking for new ideas",
             "difficulty": "hard",
             "phonetic": "UK /ˈlooking ˈfor ˈnew ˈideas/",
-            "context": "_That's really great, I'm happy_ _you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_."
+            "context": "_That's really great_, _I'm happy you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_."
           }
         ]
       },
       {
         "id": 13,
-        "english": "_That's good to know, once I am_ _all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_.",
+        "english": "_That's good to know_, _once I am all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_.",
         "chinese": "真好。等我把中心的各项工作都熟悉了，| 我肯定能想出一些点子。",
         "vocabulary": [
           {
-            "term": "That's good to know once I am",
+            "term": "That's good to know",
             "difficulty": "hard",
-            "phonetic": "UK /ˈthat's ˈgood ˈto ˈknow ˈonce ˈi ˈam/",
-            "context": "_That's good to know, once I am_ _all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_."
+            "phonetic": "UK /ˈthat's ˈgood ˈto ˈknow/",
+            "context": "_That's good to know_, _once I am all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_."
           },
           {
-            "term": "all familiar with everything",
+            "term": "once I am all familiar with everything",
             "difficulty": "hard",
-            "phonetic": "UK /ˈall ˈfamiliar ˈwith ˈeverything/",
-            "context": "_That's good to know, once I am_ _all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_."
+            "phonetic": "UK /ˈonce ˈi ˈam ˈall ˈfamiliar ˈwith ˈeverything/",
+            "context": "_That's good to know_, _once I am all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_."
           },
           {
             "term": "the center does",
             "difficulty": "normal",
             "phonetic": "UK /ˈthe ˈcenter ˈdoes/",
-            "context": "_That's good to know, once I am_ _all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_."
+            "context": "_That's good to know_, _once I am all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_."
           },
           {
             "term": "I'm sure I'll be able to",
             "difficulty": "hard",
             "phonetic": "UK /ˈi'm ˈsure ˈi'll ˈbe ˈable ˈto/",
-            "context": "_That's good to know, once I am_ _all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_."
+            "context": "_That's good to know_, _once I am all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_."
           },
           {
             "term": "come up with some ideas",
             "difficulty": "hard",
             "phonetic": "UK /ˈcome ˈup ˈwith ˈsome ˈideas/",
-            "context": "_That's good to know, once I am_ _all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_."
+            "context": "_That's good to know_, _once I am all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_."
           }
         ]
       },
@@ -478,8 +484,8 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.371Z",
-      "total_vocabulary_terms": 62
+      "extraction_date": "2025-09-03T21:29:41.987Z",
+      "total_vocabulary_terms": 63
     }
   },
   {
@@ -1009,7 +1015,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.372Z",
+      "extraction_date": "2025-09-03T21:29:41.988Z",
       "total_vocabulary_terms": 70
     }
   },
@@ -1468,7 +1474,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.373Z",
+      "extraction_date": "2025-09-03T21:29:41.989Z",
       "total_vocabulary_terms": 58
     }
   },
@@ -1927,7 +1933,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.374Z",
+      "extraction_date": "2025-09-03T21:29:41.989Z",
       "total_vocabulary_terms": 58
     }
   },
@@ -2362,7 +2368,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.374Z",
+      "extraction_date": "2025-09-03T21:29:41.990Z",
       "total_vocabulary_terms": 54
     }
   },
@@ -2374,51 +2380,45 @@
     "sentences": [
       {
         "id": 1,
-        "english": "_Hello, please come in_ _and sit down_. | _It's nice to meet you_.",
+        "english": "_Hello, please come in and sit down_. | _It's nice to meet you_.",
         "chinese": "你好，请进，坐吧。很高兴认识你。",
         "vocabulary": [
           {
-            "term": "Hello please come in",
+            "term": "Hello please come in and sit down",
             "difficulty": "hard",
-            "phonetic": "UK /ˈhello ˈplease ˈcome ˈin/",
-            "context": "_Hello, please come in_ _and sit down_. | _It's nice to meet you_."
-          },
-          {
-            "term": "and sit down",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈand ˈsit ˈdown/",
-            "context": "_Hello, please come in_ _and sit down_. | _It's nice to meet you_."
+            "phonetic": "UK /ˈhello ˈplease ˈcome ˈin ˈand ˈsit ˈdown/",
+            "context": "_Hello, please come in and sit down_. | _It's nice to meet you_."
           },
           {
             "term": "It's nice to meet you",
             "difficulty": "hard",
             "phonetic": "UK /ˈit's ˈnice ˈto ˈmeet ˈyou/",
-            "context": "_Hello, please come in_ _and sit down_. | _It's nice to meet you_."
+            "context": "_Hello, please come in and sit down_. | _It's nice to meet you_."
           }
         ]
       },
       {
         "id": 2,
-        "english": "_Hello, thank you, I'm also_ _pleased to meet you_. | _Thanks for seeing me so quickly_.",
+        "english": "_Hello, thank you_, _I'm also pleased to meet you_. | _Thanks for seeing me so quickly_.",
         "chinese": "你好，谢谢。我也很高兴认识你。| 感谢你这么快就见我。",
         "vocabulary": [
           {
-            "term": "Hello thank you I'm also",
-            "difficulty": "hard",
-            "phonetic": "UK /ˈhello ˈthank ˈyou ˈi'm ˈalso/",
-            "context": "_Hello, thank you, I'm also_ _pleased to meet you_. | _Thanks for seeing me so quickly_."
+            "term": "Hello thank you",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈhello ˈthank ˈyou/",
+            "context": "_Hello, thank you_, _I'm also pleased to meet you_. | _Thanks for seeing me so quickly_."
           },
           {
-            "term": "pleased to meet you",
+            "term": "I'm also pleased to meet you",
             "difficulty": "hard",
-            "phonetic": "UK /ˈpleased ˈto ˈmeet ˈyou/",
-            "context": "_Hello, thank you, I'm also_ _pleased to meet you_. | _Thanks for seeing me so quickly_."
+            "phonetic": "UK /ˈi'm ˈalso ˈpleased ˈto ˈmeet ˈyou/",
+            "context": "_Hello, thank you_, _I'm also pleased to meet you_. | _Thanks for seeing me so quickly_."
           },
           {
             "term": "Thanks for seeing me so quickly",
             "difficulty": "hard",
             "phonetic": "UK /ˈthanks ˈfor ˈseeing ˈme ˈso ˈquickly/",
-            "context": "_Hello, thank you, I'm also_ _pleased to meet you_. | _Thanks for seeing me so quickly_."
+            "context": "_Hello, thank you_, _I'm also pleased to meet you_. | _Thanks for seeing me so quickly_."
           }
         ]
       },
@@ -2498,32 +2498,32 @@
       },
       {
         "id": 5,
-        "english": "_That's great, congratulations! You must_ _be very excited about that_. | _Tell me how I can help_ _with your new job offer_.",
+        "english": "_That's great, congratulations_! _You must be very excited about that_. | _Tell me how I can help_ _with your new job offer_.",
         "chinese": "太好了，恭喜！你一定很激动。| 告诉我怎么能帮你处理这份新工作邀约。",
         "vocabulary": [
           {
-            "term": "That's great congratulations You must",
-            "difficulty": "hard",
-            "phonetic": "UK /ˈthat's ˈgreat ˈcongratulations ˈyou ˈmust/",
-            "context": "_That's great, congratulations! You must_ _be very excited about that_. | _Tell me how I can help_ _with your new job offer_."
+            "term": "That's great congratulations",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈthat's ˈgreat ˈcongratulations/",
+            "context": "_That's great, congratulations_! _You must be very excited about that_. | _Tell me how I can help_ _with your new job offer_."
           },
           {
-            "term": "be very excited about that",
+            "term": "You must be very excited about that",
             "difficulty": "hard",
-            "phonetic": "UK /ˈbe ˈvery ˈexcited ˈabout ˈthat/",
-            "context": "_That's great, congratulations! You must_ _be very excited about that_. | _Tell me how I can help_ _with your new job offer_."
+            "phonetic": "UK /ˈyou ˈmust ˈbe ˈvery ˈexcited ˈabout ˈthat/",
+            "context": "_That's great, congratulations_! _You must be very excited about that_. | _Tell me how I can help_ _with your new job offer_."
           },
           {
             "term": "Tell me how I can help",
             "difficulty": "hard",
             "phonetic": "UK /ˈtell ˈme ˈhow ˈi ˈcan ˈhelp/",
-            "context": "_That's great, congratulations! You must_ _be very excited about that_. | _Tell me how I can help_ _with your new job offer_."
+            "context": "_That's great, congratulations_! _You must be very excited about that_. | _Tell me how I can help_ _with your new job offer_."
           },
           {
             "term": "with your new job offer",
             "difficulty": "hard",
             "phonetic": "UK /ˈwith ˈyour ˈnew ˈjob ˈoffer/",
-            "context": "_That's great, congratulations! You must_ _be very excited about that_. | _Tell me how I can help_ _with your new job offer_."
+            "context": "_That's great, congratulations_! _You must be very excited about that_. | _Tell me how I can help_ _with your new job offer_."
           }
         ]
       },
@@ -2677,38 +2677,38 @@
       },
       {
         "id": 10,
-        "english": "_Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to get_ _a professional to help_.",
+        "english": "_Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to_ _get a professional to help_.",
         "chinese": "太好了。我确实试着读完合同。| 但实在太难懂了。所以决定找专业人士帮忙。",
         "vocabulary": [
           {
             "term": "Great I did try reading",
             "difficulty": "hard",
             "phonetic": "UK /ˈgreat ˈi ˈdid ˈtry ˈreading/",
-            "context": "_Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to get_ _a professional to help_."
+            "context": "_Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to_ _get a professional to help_."
           },
           {
             "term": "the whole contract",
             "difficulty": "normal",
             "phonetic": "UK /ˈthe ˈwhole ˈcontract/",
-            "context": "_Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to get_ _a professional to help_."
+            "context": "_Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to_ _get a professional to help_."
           },
           {
             "term": "but it was so hard to understand",
             "difficulty": "hard",
             "phonetic": "UK /ˈbut ˈit ˈwas ˈso ˈhard ˈto ˈunderstand/",
-            "context": "_Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to get_ _a professional to help_."
+            "context": "_Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to_ _get a professional to help_."
           },
           {
-            "term": "So I decided to get",
+            "term": "So I decided to",
             "difficulty": "hard",
-            "phonetic": "UK /ˈso ˈi ˈdecided ˈto ˈget/",
-            "context": "_Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to get_ _a professional to help_."
+            "phonetic": "UK /ˈso ˈi ˈdecided ˈto/",
+            "context": "_Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to_ _get a professional to help_."
           },
           {
-            "term": "a professional to help",
+            "term": "get a professional to help",
             "difficulty": "hard",
-            "phonetic": "UK /ˈa ˈprofessional ˈto ˈhelp/",
-            "context": "_Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to get_ _a professional to help_."
+            "phonetic": "UK /ˈget ˈa ˈprofessional ˈto ˈhelp/",
+            "context": "_Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to_ _get a professional to help_."
           }
         ]
       },
@@ -2839,8 +2839,8 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.375Z",
-      "total_vocabulary_terms": 61
+      "extraction_date": "2025-09-03T21:29:41.990Z",
+      "total_vocabulary_terms": 60
     }
   },
   {
@@ -3322,7 +3322,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.375Z",
+      "extraction_date": "2025-09-03T21:29:41.990Z",
       "total_vocabulary_terms": 62
     }
   },
@@ -3817,7 +3817,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.376Z",
+      "extraction_date": "2025-09-03T21:29:41.991Z",
       "total_vocabulary_terms": 64
     }
   },
@@ -4270,7 +4270,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.376Z",
+      "extraction_date": "2025-09-03T21:29:41.991Z",
       "total_vocabulary_terms": 57
     }
   },
@@ -4759,7 +4759,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.376Z",
+      "extraction_date": "2025-09-03T21:29:41.992Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -5284,7 +5284,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.377Z",
+      "extraction_date": "2025-09-03T21:29:41.992Z",
       "total_vocabulary_terms": 69
     }
   },
@@ -5881,7 +5881,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.377Z",
+      "extraction_date": "2025-09-03T21:29:41.992Z",
       "total_vocabulary_terms": 81
     }
   },
@@ -6442,7 +6442,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.377Z",
+      "extraction_date": "2025-09-03T21:29:41.992Z",
       "total_vocabulary_terms": 75
     }
   },
@@ -7021,7 +7021,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.378Z",
+      "extraction_date": "2025-09-03T21:29:41.993Z",
       "total_vocabulary_terms": 78
     }
   },
@@ -7684,7 +7684,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.378Z",
+      "extraction_date": "2025-09-03T21:29:41.993Z",
       "total_vocabulary_terms": 92
     }
   },
@@ -8209,7 +8209,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.379Z",
+      "extraction_date": "2025-09-03T21:29:41.993Z",
       "total_vocabulary_terms": 69
     }
   },
@@ -8710,7 +8710,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.379Z",
+      "extraction_date": "2025-09-03T21:29:41.993Z",
       "total_vocabulary_terms": 65
     }
   },
@@ -9283,7 +9283,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.379Z",
+      "extraction_date": "2025-09-03T21:29:41.994Z",
       "total_vocabulary_terms": 77
     }
   },
@@ -9766,7 +9766,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.379Z",
+      "extraction_date": "2025-09-03T21:29:41.994Z",
       "total_vocabulary_terms": 62
     }
   },
@@ -10303,7 +10303,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.379Z",
+      "extraction_date": "2025-09-03T21:29:41.994Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -10804,7 +10804,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.380Z",
+      "extraction_date": "2025-09-03T21:29:41.994Z",
       "total_vocabulary_terms": 65
     }
   },
@@ -11299,7 +11299,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.380Z",
+      "extraction_date": "2025-09-03T21:29:41.994Z",
       "total_vocabulary_terms": 64
     }
   },
@@ -11788,7 +11788,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.380Z",
+      "extraction_date": "2025-09-03T21:29:41.994Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -12265,7 +12265,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.380Z",
+      "extraction_date": "2025-09-03T21:29:41.995Z",
       "total_vocabulary_terms": 61
     }
   },
@@ -12694,7 +12694,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.380Z",
+      "extraction_date": "2025-09-03T21:29:41.995Z",
       "total_vocabulary_terms": 53
     }
   },
@@ -13141,7 +13141,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.381Z",
+      "extraction_date": "2025-09-03T21:29:41.995Z",
       "total_vocabulary_terms": 56
     }
   },
@@ -13546,7 +13546,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.381Z",
+      "extraction_date": "2025-09-03T21:29:41.995Z",
       "total_vocabulary_terms": 49
     }
   },
@@ -14161,7 +14161,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.381Z",
+      "extraction_date": "2025-09-03T21:29:41.995Z",
       "total_vocabulary_terms": 84
     }
   },
@@ -14632,7 +14632,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.381Z",
+      "extraction_date": "2025-09-03T21:29:41.995Z",
       "total_vocabulary_terms": 60
     }
   },
@@ -15097,7 +15097,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.381Z",
+      "extraction_date": "2025-09-03T21:29:41.996Z",
       "total_vocabulary_terms": 59
     }
   },
@@ -15634,7 +15634,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.381Z",
+      "extraction_date": "2025-09-03T21:29:41.996Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -16225,7 +16225,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.382Z",
+      "extraction_date": "2025-09-03T21:29:41.996Z",
       "total_vocabulary_terms": 80
     }
   },
@@ -16780,7 +16780,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.382Z",
+      "extraction_date": "2025-09-03T21:29:41.996Z",
       "total_vocabulary_terms": 74
     }
   },
@@ -17299,7 +17299,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.382Z",
+      "extraction_date": "2025-09-03T21:29:41.996Z",
       "total_vocabulary_terms": 68
     }
   },
@@ -17872,7 +17872,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.382Z",
+      "extraction_date": "2025-09-03T21:29:41.997Z",
       "total_vocabulary_terms": 77
     }
   },
@@ -18535,7 +18535,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.383Z",
+      "extraction_date": "2025-09-03T21:29:41.997Z",
       "total_vocabulary_terms": 92
     }
   },
@@ -19138,7 +19138,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.383Z",
+      "extraction_date": "2025-09-03T21:29:41.997Z",
       "total_vocabulary_terms": 82
     }
   },
@@ -19723,7 +19723,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.383Z",
+      "extraction_date": "2025-09-03T21:29:41.997Z",
       "total_vocabulary_terms": 79
     }
   },
@@ -20266,7 +20266,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.383Z",
+      "extraction_date": "2025-09-03T21:29:41.998Z",
       "total_vocabulary_terms": 72
     }
   },
@@ -20278,106 +20278,88 @@
     "sentences": [
       {
         "id": 1,
-        "english": "_Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in_ _last week_.",
+        "english": "_Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in last week_.",
         "chinese": "你好！我是你隔壁的新邻居。我上周刚搬来。",
         "vocabulary": [
           {
             "term": "Hi there",
             "difficulty": "normal",
             "phonetic": "UK /ˈhi ˈthere/",
-            "context": "_Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in_ _last week_."
+            "context": "_Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in last week_."
           },
           {
             "term": "I'm your new neighbour",
             "difficulty": "hard",
             "phonetic": "UK /ˈi'm ˈyour ˈnew ˈneighbour/",
-            "context": "_Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in_ _last week_."
+            "context": "_Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in last week_."
           },
           {
             "term": "from next door",
             "difficulty": "normal",
             "phonetic": "UK /ˈfrom ˈnext ˈdoor/",
-            "context": "_Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in_ _last week_."
+            "context": "_Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in last week_."
           },
           {
-            "term": "I just moved in",
+            "term": "I just moved in last week",
             "difficulty": "hard",
-            "phonetic": "UK /ˈi ˈjust ˈmoved ˈin/",
-            "context": "_Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in_ _last week_."
-          },
-          {
-            "term": "last week",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈlast ˈweek/",
-            "context": "_Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in_ _last week_."
+            "phonetic": "UK /ˈi ˈjust ˈmoved ˈin ˈlast ˈweek/",
+            "context": "_Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in last week_."
           }
         ]
       },
       {
         "id": 2,
-        "english": "_Hello! Welcome to the neighbourhood_! | _I'm Xiaoming_, _nice to meet you_.",
+        "english": "_Hello! Welcome to the neighbourhood_! | _I'm Xiaoming, nice to meet you_.",
         "chinese": "你好！欢迎来到这个社区！| 我是小明，很高兴认识你。",
         "vocabulary": [
           {
             "term": "Hello Welcome to the neighbourhood",
             "difficulty": "hard",
             "phonetic": "UK /ˈhello ˈwelcome ˈto ˈthe ˈneighbourhood/",
-            "context": "_Hello! Welcome to the neighbourhood_! | _I'm Xiaoming_, _nice to meet you_."
+            "context": "_Hello! Welcome to the neighbourhood_! | _I'm Xiaoming, nice to meet you_."
           },
           {
-            "term": "I'm Xiaoming",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈi'm ˈxiaoming/",
-            "context": "_Hello! Welcome to the neighbourhood_! | _I'm Xiaoming_, _nice to meet you_."
-          },
-          {
-            "term": "nice to meet you",
+            "term": "I'm Xiaoming nice to meet you",
             "difficulty": "hard",
-            "phonetic": "UK /ˈnice ˈto ˈmeet ˈyou/",
-            "context": "_Hello! Welcome to the neighbourhood_! | _I'm Xiaoming_, _nice to meet you_."
+            "phonetic": "UK /ˈi'm ˈxiaoming ˈnice ˈto ˈmeet ˈyou/",
+            "context": "_Hello! Welcome to the neighbourhood_! | _I'm Xiaoming, nice to meet you_."
           }
         ]
       },
       {
         "id": 3,
-        "english": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask_ _about the dog_ _that keeps barking_.",
+        "english": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask about_ _the dog that keeps barking_.",
         "chinese": "很高兴认识你！我是莎拉。| 希望没有打扰到你，| 但我想问问那只一直叫的狗。",
         "vocabulary": [
           {
             "term": "Nice to meet you too",
             "difficulty": "hard",
             "phonetic": "UK /ˈnice ˈto ˈmeet ˈyou ˈtoo/",
-            "context": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask_ _about the dog_ _that keeps barking_."
+            "context": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask about_ _the dog that keeps barking_."
           },
           {
             "term": "I'm Sarah",
             "difficulty": "normal",
             "phonetic": "UK /ˈi'm ˈsarah/",
-            "context": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask_ _about the dog_ _that keeps barking_."
+            "context": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask about_ _the dog that keeps barking_."
           },
           {
             "term": "I hope I'm not bothering you",
             "difficulty": "hard",
             "phonetic": "UK /ˈi ˈhope ˈi'm ˈnot ˈbothering ˈyou/",
-            "context": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask_ _about the dog_ _that keeps barking_."
+            "context": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask about_ _the dog that keeps barking_."
           },
           {
-            "term": "but I wanted to ask",
+            "term": "but I wanted to ask about",
             "difficulty": "hard",
-            "phonetic": "UK /ˈbut ˈi ˈwanted ˈto ˈask/",
-            "context": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask_ _about the dog_ _that keeps barking_."
+            "phonetic": "UK /ˈbut ˈi ˈwanted ˈto ˈask ˈabout/",
+            "context": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask about_ _the dog that keeps barking_."
           },
           {
-            "term": "about the dog",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈabout ˈthe ˈdog/",
-            "context": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask_ _about the dog_ _that keeps barking_."
-          },
-          {
-            "term": "that keeps barking",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈthat ˈkeeps ˈbarking/",
-            "context": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask_ _about the dog_ _that keeps barking_."
+            "term": "the dog that keeps barking",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈdog ˈthat ˈkeeps ˈbarking/",
+            "context": "_Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask about_ _the dog that keeps barking_."
           }
         ]
       },
@@ -20408,81 +20390,63 @@
       },
       {
         "id": 5,
-        "english": "_It's been driving me crazy_ _since I moved in_. | _I can't get any sleep_ _at night_. | _Do you know_ _whose dog it is_?",
+        "english": "_It's been driving me crazy_ _since I moved in_. | _I can't get any sleep at night_. | _Do you know whose dog it is_?",
         "chinese": "自从我搬来后，它就一直让我发疯。| 我晚上根本睡不着觉。| 你知道这是谁的狗吗？",
         "vocabulary": [
           {
             "term": "It's been driving me crazy",
             "difficulty": "hard",
             "phonetic": "UK /ˈit's ˈbeen ˈdriving ˈme ˈcrazy/",
-            "context": "_It's been driving me crazy_ _since I moved in_. | _I can't get any sleep_ _at night_. | _Do you know_ _whose dog it is_?"
+            "context": "_It's been driving me crazy_ _since I moved in_. | _I can't get any sleep at night_. | _Do you know whose dog it is_?"
           },
           {
             "term": "since I moved in",
             "difficulty": "hard",
             "phonetic": "UK /ˈsince ˈi ˈmoved ˈin/",
-            "context": "_It's been driving me crazy_ _since I moved in_. | _I can't get any sleep_ _at night_. | _Do you know_ _whose dog it is_?"
+            "context": "_It's been driving me crazy_ _since I moved in_. | _I can't get any sleep at night_. | _Do you know whose dog it is_?"
           },
           {
-            "term": "I can't get any sleep",
+            "term": "I can't get any sleep at night",
             "difficulty": "hard",
-            "phonetic": "UK /ˈi ˈcan't ˈget ˈany ˈsleep/",
-            "context": "_It's been driving me crazy_ _since I moved in_. | _I can't get any sleep_ _at night_. | _Do you know_ _whose dog it is_?"
+            "phonetic": "UK /ˈi ˈcan't ˈget ˈany ˈsleep ˈat ˈnight/",
+            "context": "_It's been driving me crazy_ _since I moved in_. | _I can't get any sleep at night_. | _Do you know whose dog it is_?"
           },
           {
-            "term": "at night",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈat ˈnight/",
-            "context": "_It's been driving me crazy_ _since I moved in_. | _I can't get any sleep_ _at night_. | _Do you know_ _whose dog it is_?"
-          },
-          {
-            "term": "Do you know",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈdo ˈyou ˈknow/",
-            "context": "_It's been driving me crazy_ _since I moved in_. | _I can't get any sleep_ _at night_. | _Do you know_ _whose dog it is_?"
-          },
-          {
-            "term": "whose dog it is",
+            "term": "Do you know whose dog it is",
             "difficulty": "hard",
-            "phonetic": "UK /ˈwhose ˈdog ˈit ˈis/",
-            "context": "_It's been driving me crazy_ _since I moved in_. | _I can't get any sleep_ _at night_. | _Do you know_ _whose dog it is_?"
+            "phonetic": "UK /ˈdo ˈyou ˈknow ˈwhose ˈdog ˈit ˈis/",
+            "context": "_It's been driving me crazy_ _since I moved in_. | _I can't get any sleep at night_. | _Do you know whose dog it is_?"
           }
         ]
       },
       {
         "id": 6,
-        "english": "_I know, it belongs to_ _the new family that moved in_. | _They don't seem to care_ _about the dog much_, | _letting it bark outside all day_.",
+        "english": "_I know, it belongs to_ _the new family that moved in_. | _They don't seem to care about the dog much_, | _letting it bark outside all day_.",
         "chinese": "我知道，是新搬来的那家人养的。| 他们好像不太管那只狗，| 让它整天在外面叫。",
         "vocabulary": [
           {
             "term": "I know it belongs to",
             "difficulty": "hard",
             "phonetic": "UK /ˈi ˈknow ˈit ˈbelongs ˈto/",
-            "context": "_I know, it belongs to_ _the new family that moved in_. | _They don't seem to care_ _about the dog much_, | _letting it bark outside all day_."
+            "context": "_I know, it belongs to_ _the new family that moved in_. | _They don't seem to care about the dog much_, | _letting it bark outside all day_."
           },
           {
             "term": "the new family that moved in",
             "difficulty": "hard",
             "phonetic": "UK /ˈthe ˈnew ˈfamily ˈthat ˈmoved ˈin/",
-            "context": "_I know, it belongs to_ _the new family that moved in_. | _They don't seem to care_ _about the dog much_, | _letting it bark outside all day_."
+            "context": "_I know, it belongs to_ _the new family that moved in_. | _They don't seem to care about the dog much_, | _letting it bark outside all day_."
           },
           {
-            "term": "They don't seem to care",
+            "term": "They don't seem to care about the dog much",
             "difficulty": "hard",
-            "phonetic": "UK /ˈthey ˈdon't ˈseem ˈto ˈcare/",
-            "context": "_I know, it belongs to_ _the new family that moved in_. | _They don't seem to care_ _about the dog much_, | _letting it bark outside all day_."
-          },
-          {
-            "term": "about the dog much",
-            "difficulty": "hard",
-            "phonetic": "UK /ˈabout ˈthe ˈdog ˈmuch/",
-            "context": "_I know, it belongs to_ _the new family that moved in_. | _They don't seem to care_ _about the dog much_, | _letting it bark outside all day_."
+            "phonetic": "UK /ˈthey ˈdon't ˈseem ˈto ˈcare ˈabout ˈthe ˈdog ˈmuch/",
+            "context": "_I know, it belongs to_ _the new family that moved in_. | _They don't seem to care about the dog much_, | _letting it bark outside all day_."
           },
           {
             "term": "letting it bark outside all day",
             "difficulty": "hard",
             "phonetic": "UK /ˈletting ˈit ˈbark ˈoutside ˈall ˈday/",
-            "context": "_I know, it belongs to_ _the new family that moved in_. | _They don't seem to care_ _about the dog much_, | _letting it bark outside all day_."
+            "context": "_I know, it belongs to_ _the new family that moved in_. | _They don't seem to care about the dog much_, | _letting it bark outside all day_."
           }
         ]
       },
@@ -20624,38 +20588,32 @@
       },
       {
         "id": 11,
-        "english": "_Thanks for the suggestions_! | _I'll definitely try_ _the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_.",
+        "english": "_Thanks for the suggestions_! | _I'll definitely try the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_.",
         "chinese": "谢谢你的建议！我今晚肯定试试耳塞。| 希望社区委员会能帮助解决这个问题。",
         "vocabulary": [
           {
             "term": "Thanks for the suggestions",
             "difficulty": "hard",
             "phonetic": "UK /ˈthanks ˈfor ˈthe ˈsuggestions/",
-            "context": "_Thanks for the suggestions_! | _I'll definitely try_ _the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_."
+            "context": "_Thanks for the suggestions_! | _I'll definitely try the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_."
           },
           {
-            "term": "I'll definitely try",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈi'll ˈdefinitely ˈtry/",
-            "context": "_Thanks for the suggestions_! | _I'll definitely try_ _the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_."
-          },
-          {
-            "term": "the earplugs tonight",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈthe ˈearplugs ˈtonight/",
-            "context": "_Thanks for the suggestions_! | _I'll definitely try_ _the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_."
+            "term": "I'll definitely try the earplugs tonight",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'll ˈdefinitely ˈtry ˈthe ˈearplugs ˈtonight/",
+            "context": "_Thanks for the suggestions_! | _I'll definitely try the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_."
           },
           {
             "term": "Hopefully the community committee",
             "difficulty": "hard",
             "phonetic": "UK /ˈhopefully ˈthe ˈcommunity ˈcommittee/",
-            "context": "_Thanks for the suggestions_! | _I'll definitely try_ _the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_."
+            "context": "_Thanks for the suggestions_! | _I'll definitely try the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_."
           },
           {
             "term": "can help resolve this",
             "difficulty": "hard",
             "phonetic": "UK /ˈcan ˈhelp ˈresolve ˈthis/",
-            "context": "_Thanks for the suggestions_! | _I'll definitely try_ _the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_."
+            "context": "_Thanks for the suggestions_! | _I'll definitely try the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_."
           }
         ]
       },
@@ -20692,71 +20650,65 @@
       },
       {
         "id": 13,
-        "english": "_That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this_ _dog situation sorted out soon_.",
+        "english": "_That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this dog situation_ _sorted out soon_.",
         "chinese": "你真是太好了。我真的很感激。| 希望我们很快就能解决这个狗的问题。",
         "vocabulary": [
           {
             "term": "That's very kind of you",
             "difficulty": "hard",
             "phonetic": "UK /ˈthat's ˈvery ˈkind ˈof ˈyou/",
-            "context": "_That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this_ _dog situation sorted out soon_."
+            "context": "_That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this dog situation_ _sorted out soon_."
           },
           {
             "term": "I really appreciate it",
             "difficulty": "hard",
             "phonetic": "UK /ˈi ˈreally ˈappreciate ˈit/",
-            "context": "_That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this_ _dog situation sorted out soon_."
+            "context": "_That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this dog situation_ _sorted out soon_."
           },
           {
-            "term": "Hopefully we can get this",
+            "term": "Hopefully we can get this dog situation",
             "difficulty": "hard",
-            "phonetic": "UK /ˈhopefully ˈwe ˈcan ˈget ˈthis/",
-            "context": "_That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this_ _dog situation sorted out soon_."
+            "phonetic": "UK /ˈhopefully ˈwe ˈcan ˈget ˈthis ˈdog ˈsituation/",
+            "context": "_That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this dog situation_ _sorted out soon_."
           },
           {
-            "term": "dog situation sorted out soon",
-            "difficulty": "hard",
-            "phonetic": "UK /ˈdog ˈsituation ˈsorted ˈout ˈsoon/",
-            "context": "_That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this_ _dog situation sorted out soon_."
+            "term": "sorted out soon",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈsorted ˈout ˈsoon/",
+            "context": "_That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this dog situation_ _sorted out soon_."
           }
         ]
       },
       {
         "id": 14,
-        "english": "_Definitely! The community committee_ _works very efficiently_. | _We'll be able to sleep well_ _soon_.",
+        "english": "_Definitely! The community committee_ _works very efficiently_. | _We'll be able to sleep well soon_.",
         "chinese": "一定会的！社区委员会办事效率很高。| 我们很快就能睡个好觉了。",
         "vocabulary": [
           {
             "term": "Definitely The community committee",
             "difficulty": "hard",
             "phonetic": "UK /ˈdefinitely ˈthe ˈcommunity ˈcommittee/",
-            "context": "_Definitely! The community committee_ _works very efficiently_. | _We'll be able to sleep well_ _soon_."
+            "context": "_Definitely! The community committee_ _works very efficiently_. | _We'll be able to sleep well soon_."
           },
           {
             "term": "works very efficiently",
             "difficulty": "normal",
             "phonetic": "UK /ˈworks ˈvery ˈefficiently/",
-            "context": "_Definitely! The community committee_ _works very efficiently_. | _We'll be able to sleep well_ _soon_."
+            "context": "_Definitely! The community committee_ _works very efficiently_. | _We'll be able to sleep well soon_."
           },
           {
-            "term": "We'll be able to sleep well",
+            "term": "We'll be able to sleep well soon",
             "difficulty": "hard",
-            "phonetic": "UK /ˈwe'll ˈbe ˈable ˈto ˈsleep ˈwell/",
-            "context": "_Definitely! The community committee_ _works very efficiently_. | _We'll be able to sleep well_ _soon_."
-          },
-          {
-            "term": "soon",
-            "difficulty": "easy",
-            "phonetic": "UK /ˈsoon/",
-            "context": "_Definitely! The community committee_ _works very efficiently_. | _We'll be able to sleep well_ _soon_."
+            "phonetic": "UK /ˈwe'll ˈbe ˈable ˈto ˈsleep ˈwell ˈsoon/",
+            "context": "_Definitely! The community committee_ _works very efficiently_. | _We'll be able to sleep well soon_."
           }
         ]
       }
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.383Z",
-      "total_vocabulary_terms": 63
+      "extraction_date": "2025-09-03T21:29:41.998Z",
+      "total_vocabulary_terms": 55
     }
   },
   {
@@ -21311,7 +21263,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.383Z",
+      "extraction_date": "2025-09-03T21:29:41.998Z",
       "total_vocabulary_terms": 73
     }
   },
@@ -21348,568 +21300,454 @@
       },
       {
         "id": 2,
-        "english": "_Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday_ _at 7 PM_.",
+        "english": "_Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday at 7 PM_.",
         "chinese": "你好，我想预订一个包间，| 大概15个人左右。| 时间是下周五晚上7点。",
         "vocabulary": [
           {
             "term": "Hello I'd like to book",
             "difficulty": "hard",
             "phonetic": "UK /ˈhello ˈi'd ˈlike ˈto ˈbook/",
-            "context": "_Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday_ _at 7 PM_."
+            "context": "_Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday at 7 PM_."
           },
           {
             "term": "a private room",
             "difficulty": "normal",
             "phonetic": "UK /ˈa ˈprivate ˈroom/",
-            "context": "_Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday_ _at 7 PM_."
+            "context": "_Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday at 7 PM_."
           },
           {
             "term": "for about 15 people",
             "difficulty": "hard",
             "phonetic": "UK /ˈfor ˈabout ˈ15 ˈpeople/",
-            "context": "_Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday_ _at 7 PM_."
+            "context": "_Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday at 7 PM_."
           },
           {
-            "term": "The time is next Friday",
+            "term": "The time is next Friday at 7 PM",
             "difficulty": "hard",
-            "phonetic": "UK /ˈthe ˈtime ˈis ˈnext ˈfriday/",
-            "context": "_Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday_ _at 7 PM_."
-          },
-          {
-            "term": "at 7 PM",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈat ˈ7 ˈpm/",
-            "context": "_Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday_ _at 7 PM_."
+            "phonetic": "UK /ˈthe ˈtime ˈis ˈnext ˈfriday ˈat ˈ7 ˈpm/",
+            "context": "_Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday at 7 PM_."
           }
         ]
       },
       {
         "id": 3,
-        "english": "_That sounds like_ _a wonderful celebration_! | _Let me check_ _our availability_ _for that date and time_.",
+        "english": "_That sounds like_ _a wonderful celebration_! | _Let me check our availability_ _for that date and time_.",
         "chinese": "听起来是个很棒的庆祝活动！让我查看一下那个日期和时间的可用性。",
         "vocabulary": [
           {
             "term": "That sounds like",
             "difficulty": "normal",
             "phonetic": "UK /ˈthat ˈsounds ˈlike/",
-            "context": "_That sounds like_ _a wonderful celebration_! | _Let me check_ _our availability_ _for that date and time_."
+            "context": "_That sounds like_ _a wonderful celebration_! | _Let me check our availability_ _for that date and time_."
           },
           {
             "term": "a wonderful celebration",
             "difficulty": "normal",
             "phonetic": "UK /ˈa ˈwonderful ˈcelebration/",
-            "context": "_That sounds like_ _a wonderful celebration_! | _Let me check_ _our availability_ _for that date and time_."
+            "context": "_That sounds like_ _a wonderful celebration_! | _Let me check our availability_ _for that date and time_."
           },
           {
-            "term": "Let me check",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈlet ˈme ˈcheck/",
-            "context": "_That sounds like_ _a wonderful celebration_! | _Let me check_ _our availability_ _for that date and time_."
-          },
-          {
-            "term": "our availability",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈour ˈavailability/",
-            "context": "_That sounds like_ _a wonderful celebration_! | _Let me check_ _our availability_ _for that date and time_."
+            "term": "Let me check our availability",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈlet ˈme ˈcheck ˈour ˈavailability/",
+            "context": "_That sounds like_ _a wonderful celebration_! | _Let me check our availability_ _for that date and time_."
           },
           {
             "term": "for that date and time",
             "difficulty": "hard",
             "phonetic": "UK /ˈfor ˈthat ˈdate ˈand ˈtime/",
-            "context": "_That sounds like_ _a wonderful celebration_! | _Let me check_ _our availability_ _for that date and time_."
+            "context": "_That sounds like_ _a wonderful celebration_! | _Let me check our availability_ _for that date and time_."
           }
         ]
       },
       {
         "id": 4,
-        "english": "_Yes, it's my father's_ _birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_.",
+        "english": "_Yes, it's my father's birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_.",
         "chinese": "是的，是我父亲的生日聚会。| 他今年60岁了，| 我们想给他一个特别的惊喜。",
         "vocabulary": [
           {
-            "term": "Yes it's my father's",
+            "term": "Yes it's my father's birthday party",
             "difficulty": "hard",
-            "phonetic": "UK /ˈyes ˈit's ˈmy ˈfather's/",
-            "context": "_Yes, it's my father's_ _birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_."
-          },
-          {
-            "term": "birthday party",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈbirthday ˈparty/",
-            "context": "_Yes, it's my father's_ _birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_."
+            "phonetic": "UK /ˈyes ˈit's ˈmy ˈfather's ˈbirthday ˈparty/",
+            "context": "_Yes, it's my father's birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_."
           },
           {
             "term": "He's turning 60 this year",
             "difficulty": "hard",
             "phonetic": "UK /ˈhe's ˈturning ˈ60 ˈthis ˈyear/",
-            "context": "_Yes, it's my father's_ _birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_."
+            "context": "_Yes, it's my father's birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_."
           },
           {
             "term": "and we want to give him",
             "difficulty": "hard",
             "phonetic": "UK /ˈand ˈwe ˈwant ˈto ˈgive ˈhim/",
-            "context": "_Yes, it's my father's_ _birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_."
+            "context": "_Yes, it's my father's birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_."
           },
           {
             "term": "a special surprise",
             "difficulty": "normal",
             "phonetic": "UK /ˈa ˈspecial ˈsurprise/",
-            "context": "_Yes, it's my father's_ _birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_."
+            "context": "_Yes, it's my father's birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_."
           }
         ]
       },
       {
         "id": 5,
-        "english": "_Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room_ _available_.",
+        "english": "_Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room available_.",
         "chinese": "恭喜！这确实值得庆祝的里程碑。我可以看到我们有一个大包间可用。",
         "vocabulary": [
           {
             "term": "Congratulations That's a milestone",
             "difficulty": "hard",
             "phonetic": "UK /ˈcongratulations ˈthat's ˈa ˈmilestone/",
-            "context": "_Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room_ _available_."
+            "context": "_Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room available_."
           },
           {
             "term": "worth celebrating",
             "difficulty": "normal",
             "phonetic": "UK /ˈworth ˈcelebrating/",
-            "context": "_Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room_ _available_."
+            "context": "_Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room available_."
           },
           {
             "term": "I can see we have",
             "difficulty": "hard",
             "phonetic": "UK /ˈi ˈcan ˈsee ˈwe ˈhave/",
-            "context": "_Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room_ _available_."
+            "context": "_Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room available_."
           },
           {
-            "term": "a large private room",
+            "term": "a large private room available",
             "difficulty": "hard",
-            "phonetic": "UK /ˈa ˈlarge ˈprivate ˈroom/",
-            "context": "_Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room_ _available_."
-          },
-          {
-            "term": "available",
-            "difficulty": "easy",
-            "phonetic": "UK /ˈavailable/",
-            "context": "_Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room_ _available_."
+            "phonetic": "UK /ˈa ˈlarge ˈprivate ˈroom ˈavailable/",
+            "context": "_Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room available_."
           }
         ]
       },
       {
         "id": 6,
-        "english": "_Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be_ _some performances_.",
+        "english": "_Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be some performances_.",
         "chinese": "太好了！包间能容纳多少人？| 我们需要足够的空间，| 因为可能会有一些表演。",
         "vocabulary": [
           {
             "term": "Great How many people",
             "difficulty": "hard",
             "phonetic": "UK /ˈgreat ˈhow ˈmany ˈpeople/",
-            "context": "_Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be_ _some performances_."
+            "context": "_Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be some performances_."
           },
           {
             "term": "can the room hold",
             "difficulty": "hard",
             "phonetic": "UK /ˈcan ˈthe ˈroom ˈhold/",
-            "context": "_Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be_ _some performances_."
+            "context": "_Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be some performances_."
           },
           {
             "term": "We need enough space",
             "difficulty": "hard",
             "phonetic": "UK /ˈwe ˈneed ˈenough ˈspace/",
-            "context": "_Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be_ _some performances_."
+            "context": "_Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be some performances_."
           },
           {
-            "term": "because there might be",
+            "term": "because there might be some performances",
             "difficulty": "hard",
-            "phonetic": "UK /ˈbecause ˈthere ˈmight ˈbe/",
-            "context": "_Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be_ _some performances_."
-          },
-          {
-            "term": "some performances",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈsome ˈperformances/",
-            "context": "_Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be_ _some performances_."
+            "phonetic": "UK /ˈbecause ˈthere ˈmight ˈbe ˈsome ˈperformances/",
+            "context": "_Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be some performances_."
           }
         ]
       },
       {
         "id": 7,
-        "english": "_The room can comfortably seat_ _up to 20 people_. | _There's also space_ _for entertainment_ _and a dance floor_.",
+        "english": "_The room can comfortably seat_ _up to 20 people_. | _There's also space for entertainment_ _and a dance floor_.",
         "chinese": "这个包间可以舒适地容纳20人。还有娱乐和舞池的空间。",
         "vocabulary": [
           {
             "term": "The room can comfortably seat",
             "difficulty": "hard",
             "phonetic": "UK /ˈthe ˈroom ˈcan ˈcomfortably ˈseat/",
-            "context": "_The room can comfortably seat_ _up to 20 people_. | _There's also space_ _for entertainment_ _and a dance floor_."
+            "context": "_The room can comfortably seat_ _up to 20 people_. | _There's also space for entertainment_ _and a dance floor_."
           },
           {
             "term": "up to 20 people",
             "difficulty": "hard",
             "phonetic": "UK /ˈup ˈto ˈ20 ˈpeople/",
-            "context": "_The room can comfortably seat_ _up to 20 people_. | _There's also space_ _for entertainment_ _and a dance floor_."
+            "context": "_The room can comfortably seat_ _up to 20 people_. | _There's also space for entertainment_ _and a dance floor_."
           },
           {
-            "term": "There's also space",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈthere's ˈalso ˈspace/",
-            "context": "_The room can comfortably seat_ _up to 20 people_. | _There's also space_ _for entertainment_ _and a dance floor_."
-          },
-          {
-            "term": "for entertainment",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈfor ˈentertainment/",
-            "context": "_The room can comfortably seat_ _up to 20 people_. | _There's also space_ _for entertainment_ _and a dance floor_."
+            "term": "There's also space for entertainment",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthere's ˈalso ˈspace ˈfor ˈentertainment/",
+            "context": "_The room can comfortably seat_ _up to 20 people_. | _There's also space for entertainment_ _and a dance floor_."
           },
           {
             "term": "and a dance floor",
             "difficulty": "hard",
             "phonetic": "UK /ˈand ˈa ˈdance ˈfloor/",
-            "context": "_The room can comfortably seat_ _up to 20 people_. | _There's also space_ _for entertainment_ _and a dance floor_."
+            "context": "_The room can comfortably seat_ _up to 20 people_. | _There's also space for entertainment_ _and a dance floor_."
           }
         ]
       },
       {
         "id": 8,
-        "english": "_Perfect! Then we'll book_ _this private room_. | _Do we need to pay_ _a deposit_? | _How much is it_?",
+        "english": "_Perfect! Then we'll book this private room_. | _Do we need to pay a deposit_? | _How much is it_?",
         "chinese": "完美！那我们就订这个包间。| 需要付订金吗？| 大概多少钱？",
         "vocabulary": [
           {
-            "term": "Perfect Then we'll book",
+            "term": "Perfect Then we'll book this private room",
             "difficulty": "hard",
-            "phonetic": "UK /ˈperfect ˈthen ˈwe'll ˈbook/",
-            "context": "_Perfect! Then we'll book_ _this private room_. | _Do we need to pay_ _a deposit_? | _How much is it_?"
+            "phonetic": "UK /ˈperfect ˈthen ˈwe'll ˈbook ˈthis ˈprivate ˈroom/",
+            "context": "_Perfect! Then we'll book this private room_. | _Do we need to pay a deposit_? | _How much is it_?"
           },
           {
-            "term": "this private room",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈthis ˈprivate ˈroom/",
-            "context": "_Perfect! Then we'll book_ _this private room_. | _Do we need to pay_ _a deposit_? | _How much is it_?"
-          },
-          {
-            "term": "Do we need to pay",
+            "term": "Do we need to pay a deposit",
             "difficulty": "hard",
-            "phonetic": "UK /ˈdo ˈwe ˈneed ˈto ˈpay/",
-            "context": "_Perfect! Then we'll book_ _this private room_. | _Do we need to pay_ _a deposit_? | _How much is it_?"
-          },
-          {
-            "term": "a deposit",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈa ˈdeposit/",
-            "context": "_Perfect! Then we'll book_ _this private room_. | _Do we need to pay_ _a deposit_? | _How much is it_?"
+            "phonetic": "UK /ˈdo ˈwe ˈneed ˈto ˈpay ˈa ˈdeposit/",
+            "context": "_Perfect! Then we'll book this private room_. | _Do we need to pay a deposit_? | _How much is it_?"
           },
           {
             "term": "How much is it",
             "difficulty": "hard",
             "phonetic": "UK /ˈhow ˈmuch ˈis ˈit/",
-            "context": "_Perfect! Then we'll book_ _this private room_. | _Do we need to pay_ _a deposit_? | _How much is it_?"
+            "context": "_Perfect! Then we'll book this private room_. | _Do we need to pay a deposit_? | _How much is it_?"
           }
         ]
       },
       {
         "id": 9,
-        "english": "_Yes, we require_ _a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_.",
+        "english": "_Yes, we require a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_.",
         "chinese": "是的，我们需要20%的订金来确认预订。15个人大概需要300美元。",
         "vocabulary": [
           {
-            "term": "Yes we require",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈyes ˈwe ˈrequire/",
-            "context": "_Yes, we require_ _a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_."
-          },
-          {
-            "term": "a 20% deposit",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈa ˈ20% ˈdeposit/",
-            "context": "_Yes, we require_ _a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_."
+            "term": "Yes we require a 20% deposit",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyes ˈwe ˈrequire ˈa ˈ20% ˈdeposit/",
+            "context": "_Yes, we require a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_."
           },
           {
             "term": "to confirm the booking",
             "difficulty": "hard",
             "phonetic": "UK /ˈto ˈconfirm ˈthe ˈbooking/",
-            "context": "_Yes, we require_ _a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_."
+            "context": "_Yes, we require a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_."
           },
           {
             "term": "For 15 people that would be",
             "difficulty": "hard",
             "phonetic": "UK /ˈfor ˈ15 ˈpeople ˈthat ˈwould ˈbe/",
-            "context": "_Yes, we require_ _a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_."
+            "context": "_Yes, we require a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_."
           },
           {
             "term": "approximately $300",
             "difficulty": "normal",
             "phonetic": "UK /ˈapproximately ˈ$300/",
-            "context": "_Yes, we require_ _a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_."
+            "context": "_Yes, we require a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_."
           }
         ]
       },
       {
         "id": 10,
-        "english": "_Okay, I can pay_ _the deposit now_. | _Do you accept credit cards_? | _Or do you need cash_?",
+        "english": "_Okay, I can pay the deposit now_. | _Do you accept credit cards_? | _Or do you need cash_?",
         "chinese": "好的，我可以现在付订金。| 你们接受信用卡吗？| 还是需要现金？",
         "vocabulary": [
           {
-            "term": "Okay I can pay",
+            "term": "Okay I can pay the deposit now",
             "difficulty": "hard",
-            "phonetic": "UK /ˈokay ˈi ˈcan ˈpay/",
-            "context": "_Okay, I can pay_ _the deposit now_. | _Do you accept credit cards_? | _Or do you need cash_?"
-          },
-          {
-            "term": "the deposit now",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈthe ˈdeposit ˈnow/",
-            "context": "_Okay, I can pay_ _the deposit now_. | _Do you accept credit cards_? | _Or do you need cash_?"
+            "phonetic": "UK /ˈokay ˈi ˈcan ˈpay ˈthe ˈdeposit ˈnow/",
+            "context": "_Okay, I can pay the deposit now_. | _Do you accept credit cards_? | _Or do you need cash_?"
           },
           {
             "term": "Do you accept credit cards",
             "difficulty": "hard",
             "phonetic": "UK /ˈdo ˈyou ˈaccept ˈcredit ˈcards/",
-            "context": "_Okay, I can pay_ _the deposit now_. | _Do you accept credit cards_? | _Or do you need cash_?"
+            "context": "_Okay, I can pay the deposit now_. | _Do you accept credit cards_? | _Or do you need cash_?"
           },
           {
             "term": "Or do you need cash",
             "difficulty": "hard",
             "phonetic": "UK /ˈor ˈdo ˈyou ˈneed ˈcash/",
-            "context": "_Okay, I can pay_ _the deposit now_. | _Do you accept credit cards_? | _Or do you need cash_?"
+            "context": "_Okay, I can pay the deposit now_. | _Do you accept credit cards_? | _Or do you need cash_?"
           }
         ]
       },
       {
         "id": 11,
-        "english": "_We accept both_ _credit cards and cash_. | _I can process_ _your payment now_. | _What's your name_ _for the booking_?",
+        "english": "_We accept both credit cards and cash_. | _I can process your payment now_. | _What's your name for the booking_?",
         "chinese": "我们两种都接受。我现在就可以处理您的付款。预订用的姓名是什么？",
         "vocabulary": [
           {
-            "term": "We accept both",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈwe ˈaccept ˈboth/",
-            "context": "_We accept both_ _credit cards and cash_. | _I can process_ _your payment now_. | _What's your name_ _for the booking_?"
-          },
-          {
-            "term": "credit cards and cash",
+            "term": "We accept both credit cards and cash",
             "difficulty": "hard",
-            "phonetic": "UK /ˈcredit ˈcards ˈand ˈcash/",
-            "context": "_We accept both_ _credit cards and cash_. | _I can process_ _your payment now_. | _What's your name_ _for the booking_?"
+            "phonetic": "UK /ˈwe ˈaccept ˈboth ˈcredit ˈcards ˈand ˈcash/",
+            "context": "_We accept both credit cards and cash_. | _I can process your payment now_. | _What's your name for the booking_?"
           },
           {
-            "term": "I can process",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈi ˈcan ˈprocess/",
-            "context": "_We accept both_ _credit cards and cash_. | _I can process_ _your payment now_. | _What's your name_ _for the booking_?"
+            "term": "I can process your payment now",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈcan ˈprocess ˈyour ˈpayment ˈnow/",
+            "context": "_We accept both credit cards and cash_. | _I can process your payment now_. | _What's your name for the booking_?"
           },
           {
-            "term": "your payment now",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈyour ˈpayment ˈnow/",
-            "context": "_We accept both_ _credit cards and cash_. | _I can process_ _your payment now_. | _What's your name_ _for the booking_?"
-          },
-          {
-            "term": "What's your name",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈwhat's ˈyour ˈname/",
-            "context": "_We accept both_ _credit cards and cash_. | _I can process_ _your payment now_. | _What's your name_ _for the booking_?"
-          },
-          {
-            "term": "for the booking",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈfor ˈthe ˈbooking/",
-            "context": "_We accept both_ _credit cards and cash_. | _I can process_ _your payment now_. | _What's your name_ _for the booking_?"
+            "term": "What's your name for the booking",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwhat's ˈyour ˈname ˈfor ˈthe ˈbooking/",
+            "context": "_We accept both credit cards and cash_. | _I can process your payment now_. | _What's your name for the booking_?"
           }
         ]
       },
       {
         "id": 12,
-        "english": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me_ _in time_.",
+        "english": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me in time_.",
         "chinese": "我叫李明，| 电话是0412-345-678。| 如果有什么变化，请及时联系我。",
         "vocabulary": [
           {
             "term": "My name is Li Ming",
             "difficulty": "hard",
             "phonetic": "UK /ˈmy ˈname ˈis ˈli ˈming/",
-            "context": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me_ _in time_."
+            "context": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me in time_."
           },
           {
             "term": "and my phone number",
             "difficulty": "hard",
             "phonetic": "UK /ˈand ˈmy ˈphone ˈnumber/",
-            "context": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me_ _in time_."
+            "context": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me in time_."
           },
           {
             "term": "is 0412-345-678",
             "difficulty": "normal",
             "phonetic": "UK /ˈis ˈ0412-345-678/",
-            "context": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me_ _in time_."
+            "context": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me in time_."
           },
           {
             "term": "If there are any changes",
             "difficulty": "hard",
             "phonetic": "UK /ˈif ˈthere ˈare ˈany ˈchanges/",
-            "context": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me_ _in time_."
+            "context": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me in time_."
           },
           {
-            "term": "please contact me",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈplease ˈcontact ˈme/",
-            "context": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me_ _in time_."
-          },
-          {
-            "term": "in time",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈin ˈtime/",
-            "context": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me_ _in time_."
+            "term": "please contact me in time",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈplease ˈcontact ˈme ˈin ˈtime/",
+            "context": "_My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me in time_."
           }
         ]
       },
       {
         "id": 13,
-        "english": "_Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday_ _at 7 PM_. | _You'll receive a confirmation email shortly_.",
+        "english": "_Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday at 7 PM_. | _You'll receive a confirmation email shortly_.",
         "chinese": "很好，李先生。我会确认您下周五晚上7点的预订。您很快就会收到确认邮件。",
         "vocabulary": [
           {
             "term": "Perfect Mr Li Ming",
             "difficulty": "hard",
             "phonetic": "UK /ˈperfect ˈmr ˈli ˈming/",
-            "context": "_Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday_ _at 7 PM_. | _You'll receive a confirmation email shortly_."
+            "context": "_Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday at 7 PM_. | _You'll receive a confirmation email shortly_."
           },
           {
             "term": "I'll confirm your booking",
             "difficulty": "hard",
             "phonetic": "UK /ˈi'll ˈconfirm ˈyour ˈbooking/",
-            "context": "_Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday_ _at 7 PM_. | _You'll receive a confirmation email shortly_."
+            "context": "_Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday at 7 PM_. | _You'll receive a confirmation email shortly_."
           },
           {
-            "term": "for next Friday",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈfor ˈnext ˈfriday/",
-            "context": "_Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday_ _at 7 PM_. | _You'll receive a confirmation email shortly_."
-          },
-          {
-            "term": "at 7 PM",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈat ˈ7 ˈpm/",
-            "context": "_Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday_ _at 7 PM_. | _You'll receive a confirmation email shortly_."
+            "term": "for next Friday at 7 PM",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈfor ˈnext ˈfriday ˈat ˈ7 ˈpm/",
+            "context": "_Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday at 7 PM_. | _You'll receive a confirmation email shortly_."
           },
           {
             "term": "You'll receive a confirmation email shortly",
             "difficulty": "hard",
             "phonetic": "UK /ˈyou'll ˈreceive ˈa ˈconfirmation ˈemail ˈshortly/",
-            "context": "_Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday_ _at 7 PM_. | _You'll receive a confirmation email shortly_."
+            "context": "_Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday at 7 PM_. | _You'll receive a confirmation email shortly_."
           }
         ]
       },
       {
         "id": 14,
-        "english": "_Thank you! Is there anything else_ _I should know_? | _Like dress code_ _or special arrangements_?",
+        "english": "_Thank you! Is there anything else I should know_? | _Like dress code_ _or special arrangements_?",
         "chinese": "谢谢！还有什么需要注意的吗？| 比如着装要求或特殊安排？",
         "vocabulary": [
           {
-            "term": "Thank you Is there anything else",
+            "term": "Thank you Is there anything else I should know",
             "difficulty": "hard",
-            "phonetic": "UK /ˈthank ˈyou ˈis ˈthere ˈanything ˈelse/",
-            "context": "_Thank you! Is there anything else_ _I should know_? | _Like dress code_ _or special arrangements_?"
-          },
-          {
-            "term": "I should know",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈi ˈshould ˈknow/",
-            "context": "_Thank you! Is there anything else_ _I should know_? | _Like dress code_ _or special arrangements_?"
+            "phonetic": "UK /ˈthank ˈyou ˈis ˈthere ˈanything ˈelse ˈi ˈshould ˈknow/",
+            "context": "_Thank you! Is there anything else I should know_? | _Like dress code_ _or special arrangements_?"
           },
           {
             "term": "Like dress code",
             "difficulty": "normal",
             "phonetic": "UK /ˈlike ˈdress ˈcode/",
-            "context": "_Thank you! Is there anything else_ _I should know_? | _Like dress code_ _or special arrangements_?"
+            "context": "_Thank you! Is there anything else I should know_? | _Like dress code_ _or special arrangements_?"
           },
           {
             "term": "or special arrangements",
             "difficulty": "normal",
             "phonetic": "UK /ˈor ˈspecial ˈarrangements/",
-            "context": "_Thank you! Is there anything else_ _I should know_? | _Like dress code_ _or special arrangements_?"
+            "context": "_Thank you! Is there anything else I should know_? | _Like dress code_ _or special arrangements_?"
           }
         ]
       },
       {
         "id": 15,
-        "english": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations_ _if you'd like_.",
+        "english": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations if you'd like_.",
         "chinese": "建议穿商务休闲装。如果您愿意，我们还可以安排生日蛋糕和装饰。",
         "vocabulary": [
           {
             "term": "Smart casual attire",
             "difficulty": "normal",
             "phonetic": "UK /ˈsmart ˈcasual ˈattire/",
-            "context": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations_ _if you'd like_."
+            "context": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations if you'd like_."
           },
           {
             "term": "is recommended",
             "difficulty": "normal",
             "phonetic": "UK /ˈis ˈrecommended/",
-            "context": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations_ _if you'd like_."
+            "context": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations if you'd like_."
           },
           {
             "term": "We can also arrange",
             "difficulty": "hard",
             "phonetic": "UK /ˈwe ˈcan ˈalso ˈarrange/",
-            "context": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations_ _if you'd like_."
+            "context": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations if you'd like_."
           },
           {
             "term": "a birthday cake",
             "difficulty": "normal",
             "phonetic": "UK /ˈa ˈbirthday ˈcake/",
-            "context": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations_ _if you'd like_."
+            "context": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations if you'd like_."
           },
           {
-            "term": "and decorations",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈand ˈdecorations/",
-            "context": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations_ _if you'd like_."
-          },
-          {
-            "term": "if you'd like",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈif ˈyou'd ˈlike/",
-            "context": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations_ _if you'd like_."
+            "term": "and decorations if you'd like",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈdecorations ˈif ˈyou'd ˈlike/",
+            "context": "_Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations if you'd like_."
           }
         ]
       },
       {
         "id": 16,
-        "english": "_That's great! Please help us_ _prepare a birthday cake_, | _and help with_ _the decorations too_. | _I'll pay extra_ _for the costs_.",
+        "english": "_That's great! Please help us_ _prepare a birthday cake_, | _and help with the decorations too_. | _I'll pay extra for the costs_.",
         "chinese": "那太好了！请帮我们准备生日蛋糕，| 装饰也请帮忙布置一下。| 费用我会额外支付。",
         "vocabulary": [
           {
             "term": "That's great Please help us",
             "difficulty": "hard",
             "phonetic": "UK /ˈthat's ˈgreat ˈplease ˈhelp ˈus/",
-            "context": "_That's great! Please help us_ _prepare a birthday cake_, | _and help with_ _the decorations too_. | _I'll pay extra_ _for the costs_."
+            "context": "_That's great! Please help us_ _prepare a birthday cake_, | _and help with the decorations too_. | _I'll pay extra for the costs_."
           },
           {
             "term": "prepare a birthday cake",
             "difficulty": "hard",
             "phonetic": "UK /ˈprepare ˈa ˈbirthday ˈcake/",
-            "context": "_That's great! Please help us_ _prepare a birthday cake_, | _and help with_ _the decorations too_. | _I'll pay extra_ _for the costs_."
+            "context": "_That's great! Please help us_ _prepare a birthday cake_, | _and help with the decorations too_. | _I'll pay extra for the costs_."
           },
           {
-            "term": "and help with",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈand ˈhelp ˈwith/",
-            "context": "_That's great! Please help us_ _prepare a birthday cake_, | _and help with_ _the decorations too_. | _I'll pay extra_ _for the costs_."
+            "term": "and help with the decorations too",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈhelp ˈwith ˈthe ˈdecorations ˈtoo/",
+            "context": "_That's great! Please help us_ _prepare a birthday cake_, | _and help with the decorations too_. | _I'll pay extra for the costs_."
           },
           {
-            "term": "the decorations too",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈthe ˈdecorations ˈtoo/",
-            "context": "_That's great! Please help us_ _prepare a birthday cake_, | _and help with_ _the decorations too_. | _I'll pay extra_ _for the costs_."
-          },
-          {
-            "term": "I'll pay extra",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈi'll ˈpay ˈextra/",
-            "context": "_That's great! Please help us_ _prepare a birthday cake_, | _and help with_ _the decorations too_. | _I'll pay extra_ _for the costs_."
-          },
-          {
-            "term": "for the costs",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈfor ˈthe ˈcosts/",
-            "context": "_That's great! Please help us_ _prepare a birthday cake_, | _and help with_ _the decorations too_. | _I'll pay extra_ _for the costs_."
+            "term": "I'll pay extra for the costs",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'll ˈpay ˈextra ˈfor ˈthe ˈcosts/",
+            "context": "_That's great! Please help us_ _prepare a birthday cake_, | _and help with the decorations too_. | _I'll pay extra for the costs_."
           }
         ]
       },
@@ -21947,8 +21785,8 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.384Z",
-      "total_vocabulary_terms": 84
+      "extraction_date": "2025-09-03T21:29:41.998Z",
+      "total_vocabulary_terms": 65
     }
   },
   {
@@ -21959,75 +21797,57 @@
     "sentences": [
       {
         "id": 1,
-        "english": "_Good morning_, _Ms. Chen_. | _Thank you for coming_ _to interview today_. | _I'm Principal Johnson_.",
+        "english": "_Good morning, Ms. Chen_. | _Thank you for coming to interview today_. | _I'm Principal Johnson_.",
         "chinese": "早上好，陈女士。感谢您今天来面试。我是约翰逊校长。",
         "vocabulary": [
           {
-            "term": "Good morning",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈgood ˈmorning/",
-            "context": "_Good morning_, _Ms. Chen_. | _Thank you for coming_ _to interview today_. | _I'm Principal Johnson_."
-          },
-          {
-            "term": "Ms Chen",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈms ˈchen/",
-            "context": "_Good morning_, _Ms. Chen_. | _Thank you for coming_ _to interview today_. | _I'm Principal Johnson_."
-          },
-          {
-            "term": "Thank you for coming",
+            "term": "Good morning Ms Chen",
             "difficulty": "hard",
-            "phonetic": "UK /ˈthank ˈyou ˈfor ˈcoming/",
-            "context": "_Good morning_, _Ms. Chen_. | _Thank you for coming_ _to interview today_. | _I'm Principal Johnson_."
+            "phonetic": "UK /ˈgood ˈmorning ˈms ˈchen/",
+            "context": "_Good morning, Ms. Chen_. | _Thank you for coming to interview today_. | _I'm Principal Johnson_."
           },
           {
-            "term": "to interview today",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈto ˈinterview ˈtoday/",
-            "context": "_Good morning_, _Ms. Chen_. | _Thank you for coming_ _to interview today_. | _I'm Principal Johnson_."
+            "term": "Thank you for coming to interview today",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthank ˈyou ˈfor ˈcoming ˈto ˈinterview ˈtoday/",
+            "context": "_Good morning, Ms. Chen_. | _Thank you for coming to interview today_. | _I'm Principal Johnson_."
           },
           {
             "term": "I'm Principal Johnson",
             "difficulty": "normal",
             "phonetic": "UK /ˈi'm ˈprincipal ˈjohnson/",
-            "context": "_Good morning_, _Ms. Chen_. | _Thank you for coming_ _to interview today_. | _I'm Principal Johnson_."
+            "context": "_Good morning, Ms. Chen_. | _Thank you for coming to interview today_. | _I'm Principal Johnson_."
           }
         ]
       },
       {
         "id": 2,
-        "english": "_Good morning_, _Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_.",
+        "english": "_Good morning, Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_.",
         "chinese": "早上好，约翰逊校长。| 很高兴见到您。| 感谢您给我这次面试机会。",
         "vocabulary": [
           {
-            "term": "Good morning",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈgood ˈmorning/",
-            "context": "_Good morning_, _Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_."
-          },
-          {
-            "term": "Principal Johnson",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈprincipal ˈjohnson/",
-            "context": "_Good morning_, _Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_."
+            "term": "Good morning Principal Johnson",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈgood ˈmorning ˈprincipal ˈjohnson/",
+            "context": "_Good morning, Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_."
           },
           {
             "term": "Nice to meet you",
             "difficulty": "hard",
             "phonetic": "UK /ˈnice ˈto ˈmeet ˈyou/",
-            "context": "_Good morning_, _Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_."
+            "context": "_Good morning, Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_."
           },
           {
             "term": "Thank you for giving me",
             "difficulty": "hard",
             "phonetic": "UK /ˈthank ˈyou ˈfor ˈgiving ˈme/",
-            "context": "_Good morning_, _Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_."
+            "context": "_Good morning, Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_."
           },
           {
             "term": "this interview opportunity",
             "difficulty": "normal",
             "phonetic": "UK /ˈthis ˈinterview ˈopportunity/",
-            "context": "_Good morning_, _Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_."
+            "context": "_Good morning, Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_."
           }
         ]
       },
@@ -22101,38 +21921,32 @@
       },
       {
         "id": 5,
-        "english": "_That's excellent. We're looking for_ _someone who can teach_ _both subjects_. | _What made you decide_ _to move to Australia_?",
+        "english": "_That's excellent. We're looking for_ _someone who can teach both subjects_. | _What made you decide_ _to move to Australia_?",
         "chinese": "这很好。我们正在寻找能教授这两门学科的人。是什么让您决定搬到澳大利亚的？",
         "vocabulary": [
           {
             "term": "That's excellent We're looking for",
             "difficulty": "hard",
             "phonetic": "UK /ˈthat's ˈexcellent ˈwe're ˈlooking ˈfor/",
-            "context": "_That's excellent. We're looking for_ _someone who can teach_ _both subjects_. | _What made you decide_ _to move to Australia_?"
+            "context": "_That's excellent. We're looking for_ _someone who can teach both subjects_. | _What made you decide_ _to move to Australia_?"
           },
           {
-            "term": "someone who can teach",
+            "term": "someone who can teach both subjects",
             "difficulty": "hard",
-            "phonetic": "UK /ˈsomeone ˈwho ˈcan ˈteach/",
-            "context": "_That's excellent. We're looking for_ _someone who can teach_ _both subjects_. | _What made you decide_ _to move to Australia_?"
-          },
-          {
-            "term": "both subjects",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈboth ˈsubjects/",
-            "context": "_That's excellent. We're looking for_ _someone who can teach_ _both subjects_. | _What made you decide_ _to move to Australia_?"
+            "phonetic": "UK /ˈsomeone ˈwho ˈcan ˈteach ˈboth ˈsubjects/",
+            "context": "_That's excellent. We're looking for_ _someone who can teach both subjects_. | _What made you decide_ _to move to Australia_?"
           },
           {
             "term": "What made you decide",
             "difficulty": "hard",
             "phonetic": "UK /ˈwhat ˈmade ˈyou ˈdecide/",
-            "context": "_That's excellent. We're looking for_ _someone who can teach_ _both subjects_. | _What made you decide_ _to move to Australia_?"
+            "context": "_That's excellent. We're looking for_ _someone who can teach both subjects_. | _What made you decide_ _to move to Australia_?"
           },
           {
             "term": "to move to Australia",
             "difficulty": "hard",
             "phonetic": "UK /ˈto ˈmove ˈto ˈaustralia/",
-            "context": "_That's excellent. We're looking for_ _someone who can teach_ _both subjects_. | _What made you decide_ _to move to Australia_?"
+            "context": "_That's excellent. We're looking for_ _someone who can teach both subjects_. | _What made you decide_ _to move to Australia_?"
           }
         ]
       },
@@ -22181,38 +21995,32 @@
       },
       {
         "id": 7,
-        "english": "_That's a great attitude_. | _How do you handle_ _students with different_ _learning abilities_ _in the same class_?",
+        "english": "_That's a great attitude_. | _How do you handle_ _students with different learning abilities_ _in the same class_?",
         "chinese": "这是很好的态度。您如何处理同一班级中学习能力不同的学生？",
         "vocabulary": [
           {
             "term": "That's a great attitude",
             "difficulty": "hard",
             "phonetic": "UK /ˈthat's ˈa ˈgreat ˈattitude/",
-            "context": "_That's a great attitude_. | _How do you handle_ _students with different_ _learning abilities_ _in the same class_?"
+            "context": "_That's a great attitude_. | _How do you handle_ _students with different learning abilities_ _in the same class_?"
           },
           {
             "term": "How do you handle",
             "difficulty": "hard",
             "phonetic": "UK /ˈhow ˈdo ˈyou ˈhandle/",
-            "context": "_That's a great attitude_. | _How do you handle_ _students with different_ _learning abilities_ _in the same class_?"
+            "context": "_That's a great attitude_. | _How do you handle_ _students with different learning abilities_ _in the same class_?"
           },
           {
-            "term": "students with different",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈstudents ˈwith ˈdifferent/",
-            "context": "_That's a great attitude_. | _How do you handle_ _students with different_ _learning abilities_ _in the same class_?"
-          },
-          {
-            "term": "learning abilities",
-            "difficulty": "normal",
-            "phonetic": "UK /ˈlearning ˈabilities/",
-            "context": "_That's a great attitude_. | _How do you handle_ _students with different_ _learning abilities_ _in the same class_?"
+            "term": "students with different learning abilities",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈstudents ˈwith ˈdifferent ˈlearning ˈabilities/",
+            "context": "_That's a great attitude_. | _How do you handle_ _students with different learning abilities_ _in the same class_?"
           },
           {
             "term": "in the same class",
             "difficulty": "hard",
             "phonetic": "UK /ˈin ˈthe ˈsame ˈclass/",
-            "context": "_That's a great attitude_. | _How do you handle_ _students with different_ _learning abilities_ _in the same class_?"
+            "context": "_That's a great attitude_. | _How do you handle_ _students with different learning abilities_ _in the same class_?"
           }
         ]
       },
@@ -22594,8 +22402,8 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.384Z",
-      "total_vocabulary_terms": 87
+      "extraction_date": "2025-09-03T21:29:41.998Z",
+      "total_vocabulary_terms": 82
     }
   },
   {
@@ -23206,7 +23014,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.384Z",
+      "extraction_date": "2025-09-03T21:29:41.998Z",
       "total_vocabulary_terms": 80
     }
   },
@@ -23867,7 +23675,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.384Z",
+      "extraction_date": "2025-09-03T21:29:41.998Z",
       "total_vocabulary_terms": 87
     }
   },
@@ -24561,7 +24369,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.385Z",
+      "extraction_date": "2025-09-03T21:29:41.999Z",
       "total_vocabulary_terms": 89
     }
   },
@@ -25090,7 +24898,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.385Z",
+      "extraction_date": "2025-09-03T21:29:41.999Z",
       "total_vocabulary_terms": 65
     }
   },
@@ -25647,7 +25455,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.385Z",
+      "extraction_date": "2025-09-03T21:29:41.999Z",
       "total_vocabulary_terms": 72
     }
   },
@@ -26228,7 +26036,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.385Z",
+      "extraction_date": "2025-09-03T21:29:41.999Z",
       "total_vocabulary_terms": 76
     }
   },
@@ -26829,7 +26637,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.385Z",
+      "extraction_date": "2025-09-03T21:29:42.000Z",
       "total_vocabulary_terms": 77
     }
   },
@@ -27556,7 +27364,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.385Z",
+      "extraction_date": "2025-09-03T21:29:42.000Z",
       "total_vocabulary_terms": 98
     }
   },
@@ -28175,7 +27983,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.385Z",
+      "extraction_date": "2025-09-03T21:29:42.000Z",
       "total_vocabulary_terms": 80
     }
   },
@@ -28842,7 +28650,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.386Z",
+      "extraction_date": "2025-09-03T21:29:42.000Z",
       "total_vocabulary_terms": 88
     }
   },
@@ -29462,7 +29270,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.386Z",
+      "extraction_date": "2025-09-03T21:29:42.000Z",
       "total_vocabulary_terms": 79
     }
   },
@@ -30141,7 +29949,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.386Z",
+      "extraction_date": "2025-09-03T21:29:42.000Z",
       "total_vocabulary_terms": 90
     }
   },
@@ -30707,7 +30515,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.386Z",
+      "extraction_date": "2025-09-03T21:29:42.001Z",
       "total_vocabulary_terms": 70
     }
   },
@@ -31297,7 +31105,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.386Z",
+      "extraction_date": "2025-09-03T21:29:42.001Z",
       "total_vocabulary_terms": 74
     }
   },
@@ -31972,7 +31780,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.387Z",
+      "extraction_date": "2025-09-03T21:29:42.001Z",
       "total_vocabulary_terms": 87
     }
   },
@@ -32544,7 +32352,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.387Z",
+      "extraction_date": "2025-09-03T21:29:42.001Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -33279,7 +33087,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.387Z",
+      "extraction_date": "2025-09-03T21:29:42.001Z",
       "total_vocabulary_terms": 97
     }
   },
@@ -33846,7 +33654,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.387Z",
+      "extraction_date": "2025-09-03T21:29:42.002Z",
       "total_vocabulary_terms": 76
     }
   },
@@ -34671,7 +34479,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.387Z",
+      "extraction_date": "2025-09-03T21:29:42.002Z",
       "total_vocabulary_terms": 112
     }
   },
@@ -35333,7 +35141,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.387Z",
+      "extraction_date": "2025-09-03T21:29:42.002Z",
       "total_vocabulary_terms": 86
     }
   },
@@ -35978,7 +35786,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.387Z",
+      "extraction_date": "2025-09-03T21:29:42.002Z",
       "total_vocabulary_terms": 89
     }
   },
@@ -36683,7 +36491,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.388Z",
+      "extraction_date": "2025-09-03T21:29:42.003Z",
       "total_vocabulary_terms": 99
     }
   },
@@ -37322,7 +37130,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.388Z",
+      "extraction_date": "2025-09-03T21:29:42.003Z",
       "total_vocabulary_terms": 88
     }
   },
@@ -37901,7 +37709,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.388Z",
+      "extraction_date": "2025-09-03T21:29:42.003Z",
       "total_vocabulary_terms": 78
     }
   },
@@ -38528,7 +38336,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.389Z",
+      "extraction_date": "2025-09-03T21:29:42.003Z",
       "total_vocabulary_terms": 86
     }
   },
@@ -39149,7 +38957,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.389Z",
+      "extraction_date": "2025-09-03T21:29:42.003Z",
       "total_vocabulary_terms": 85
     }
   },
@@ -39656,7 +39464,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.389Z",
+      "extraction_date": "2025-09-03T21:29:42.003Z",
       "total_vocabulary_terms": 66
     }
   },
@@ -40193,7 +40001,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.389Z",
+      "extraction_date": "2025-09-03T21:29:42.003Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -40784,7 +40592,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.389Z",
+      "extraction_date": "2025-09-03T21:29:42.004Z",
       "total_vocabulary_terms": 80
     }
   },
@@ -41303,7 +41111,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.389Z",
+      "extraction_date": "2025-09-03T21:29:42.004Z",
       "total_vocabulary_terms": 68
     }
   },
@@ -41828,7 +41636,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.389Z",
+      "extraction_date": "2025-09-03T21:29:42.004Z",
       "total_vocabulary_terms": 69
     }
   },
@@ -42341,7 +42149,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.389Z",
+      "extraction_date": "2025-09-03T21:29:42.004Z",
       "total_vocabulary_terms": 67
     }
   },
@@ -42860,7 +42668,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.390Z",
+      "extraction_date": "2025-09-03T21:29:42.004Z",
       "total_vocabulary_terms": 68
     }
   },
@@ -43397,7 +43205,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.390Z",
+      "extraction_date": "2025-09-03T21:29:42.004Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -43848,7 +43656,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.390Z",
+      "extraction_date": "2025-09-03T21:29:42.004Z",
       "total_vocabulary_terms": 59
     }
   },
@@ -44361,7 +44169,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.390Z",
+      "extraction_date": "2025-09-03T21:29:42.004Z",
       "total_vocabulary_terms": 67
     }
   },
@@ -44884,7 +44692,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.390Z",
+      "extraction_date": "2025-09-03T21:29:42.005Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -45421,7 +45229,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.390Z",
+      "extraction_date": "2025-09-03T21:29:42.005Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -46054,7 +45862,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.390Z",
+      "extraction_date": "2025-09-03T21:29:42.005Z",
       "total_vocabulary_terms": 87
     }
   },
@@ -46813,7 +46621,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.391Z",
+      "extraction_date": "2025-09-03T21:29:42.005Z",
       "total_vocabulary_terms": 108
     }
   },
@@ -47518,7 +47326,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.391Z",
+      "extraction_date": "2025-09-03T21:29:42.005Z",
       "total_vocabulary_terms": 99
     }
   },
@@ -48373,7 +48181,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.391Z",
+      "extraction_date": "2025-09-03T21:29:42.006Z",
       "total_vocabulary_terms": 124
     }
   },
@@ -49078,7 +48886,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.391Z",
+      "extraction_date": "2025-09-03T21:29:42.006Z",
       "total_vocabulary_terms": 99
     }
   },
@@ -49843,7 +49651,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.392Z",
+      "extraction_date": "2025-09-03T21:29:42.006Z",
       "total_vocabulary_terms": 109
     }
   },
@@ -50560,7 +50368,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.392Z",
+      "extraction_date": "2025-09-03T21:29:42.007Z",
       "total_vocabulary_terms": 101
     }
   },
@@ -51061,7 +50869,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.392Z",
+      "extraction_date": "2025-09-03T21:29:42.007Z",
       "total_vocabulary_terms": 65
     }
   },
@@ -51550,7 +51358,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.392Z",
+      "extraction_date": "2025-09-03T21:29:42.007Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -52081,7 +51889,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-03T07:06:56.392Z",
+      "extraction_date": "2025-09-03T21:29:42.007Z",
       "total_vocabulary_terms": 70
     }
   }

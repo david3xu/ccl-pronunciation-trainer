@@ -39,21 +39,21 @@ Briefing: This dialogue is a conversation between a new council employee and a m
     我觉得我会很喜欢这份新工作带来的多样性。| 您先说说您可能最需要我帮忙的地方吧。
 
 8.  我希望把全部健身项目给你接管。| 项目太多了，我忙不过来了。
-    _I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped/I can't handle them all_.
+    _I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped_ _I can't handle them all_.
 
 9.  _Oh, okay. I'll make sure_ _to keep organizing these programs_. | _Tell me, what classes are available_?
     哦，好。我会确保继续组织这些项目的。| 跟我说说都有哪些课程？
 
 10. 我们面向所有人。| 有力量训练、拳击、舞蹈，| 还有面向老人、妈妈和幼儿的课程。| 我们每天都有课。
-    _We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes/programs for seniors_, _mothers and young children_. | _We run/have classes every day_.
+    _We cater to everyone_/ _The classes are for everyone_. | _We have strength training_, _boxing, dance_, | _and classes for seniors_, _mothers and young children_. | _We run/have classes every day_.
 
 11. _That's a lot. I'm sure_ _there's software that can help_ _manage or track all these_. | _I'll do some research first_.
     真不少啊。| 我相信有软件能帮助管理或追踪这些的。| 我先研究研究。
 
 12. 那真是太好了。我很高兴您能对我们的活动提出任何改进建议。| 我自己也一直在寻求新的想法。
-    _That's really great, I'm happy_ _you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_.
+    _That's really great_, _I'm happy you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_.
 
-13. _That's good to know, once I am_ _all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_.
+13. _That's good to know_, _once I am all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_.
     真好。等我把中心的各项工作都熟悉了，| 我肯定能想出一些点子。
 
 14. 太棒了。我相信我们会合作的非常愉快。
@@ -263,11 +263,11 @@ Briefing: This dialogue is a conversation between a Mandarin-speaking female emp
 
 Briefing: This dialogue is a conversation between an English speaking lawyer and a client. The client has been offered a new job and wants help to review the employment contract before they sign. The conversation takes place at the lawyer's office. The dialogue begins now.
 
-1.  _Hello, please come in_ _and sit down_. | _It's nice to meet you_.
+1.  _Hello, please come in and sit down_. | _It's nice to meet you_.
     你好，请进，坐吧。很高兴认识你。
 
 2.  你好，谢谢。我也很高兴认识你。| 感谢你这么快就见我。
-    _Hello, thank you, I'm also_ _pleased to meet you_. | _Thanks for seeing me so quickly_.
+    _Hello, thank you_, _I'm also pleased to meet you_. | _Thanks for seeing me so quickly_.
 
 3.  _It's no problem at all_. | _My assistant said you needed_ _some help quickly_. | _Luckily, I had another client_ _who canceled the appointment_.
     完全没问题。我助理说你需要尽快帮忙。| 碰巧有个客户取消了预约。
@@ -275,7 +275,7 @@ Briefing: This dialogue is a conversation between an English speaking lawyer and
 4.  这时间真是刚刚好。我刚收到一家跨国公司的录用通知。| 对我来说，是职业上的一大进展。
     _This timing is perfect_. | _I've just received an offer_ _from a multinational company_ | _and it's a big step forward_ _in my career_.
 
-5.  _That's great, congratulations! You must_ _be very excited about that_. | _Tell me how I can help_ _with your new job offer_.
+5.  _That's great, congratulations_! _You must be very excited about that_. | _Tell me how I can help_ _with your new job offer_.
     太好了，恭喜！你一定很激动。| 告诉我怎么能帮你处理这份新工作邀约。
 
 6.  公司发给我一份雇佣合同。文件很长，| 在签之前，我想知道，有没有需要特别注意的地方。
@@ -291,7 +291,7 @@ Briefing: This dialogue is a conversation between an English speaking lawyer and
     我明白。跨国公司的合同往往更全面。| 我会帮你读完合同，看看里面都包含了什么。
 
 10. 太好了。我确实试着读完合同。| 但实在太难懂了。所以决定找专业人士帮忙。
-    _Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to get_ _a professional to help_.
+    _Great, I did try reading_ _the whole contract_, | _but it was so hard to understand_. | _So I decided to_ _get a professional to help_.
 
 11. _Lawyers do love using_ _complicated language when_ _writing contracts_. | _Has the company given you_ _a deadline to return_ _the signed contract_?
     律师写合同时, 确实喜欢用复杂的措辞。| 公司有没有给你一个把签好合同交回去的截止日期？
@@ -1888,23 +1888,23 @@ Briefing: This dialogue is a conversation between two friends where one is an En
 
 Briefing: This dialogue is a conversation between two neighbours where one is an English-speaking person and the other is a Mandarin-speaking person. They are discussing a new neighbour's dog that barks a lot and how to handle the situation. The dialogue begins now.
 
-1.  _Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in_ _last week_.
+1.  _Hi there_! | _I'm your new neighbour_ _from next door_. | _I just moved in last week_.
     你好！我是你隔壁的新邻居。我上周刚搬来。
 
 2.  你好！欢迎来到这个社区！| 我是小明，很高兴认识你。
-    _Hello! Welcome to the neighbourhood_! | _I'm Xiaoming_, _nice to meet you_.
+    _Hello! Welcome to the neighbourhood_! | _I'm Xiaoming, nice to meet you_.
 
-3.  _Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask_ _about the dog_ _that keeps barking_.
+3.  _Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask about_ _the dog that keeps barking_.
     很高兴认识你！我是莎拉。| 希望没有打扰到你，| 但我想问问那只一直叫的狗。
 
 4.  哦，你说的是那只狗啊。| 它确实叫得挺厉害的，| 我也注意到了。
     _Oh, you mean that dog_. | _It does bark quite a lot_, | _I've noticed it too_.
 
-5.  _It's been driving me crazy_ _since I moved in_. | _I can't get any sleep_ _at night_. | _Do you know_ _whose dog it is_?
+5.  _It's been driving me crazy_ _since I moved in_. | _I can't get any sleep at night_. | _Do you know whose dog it is_?
     自从我搬来后，它就一直让我发疯。| 我晚上根本睡不着觉。| 你知道这是谁的狗吗？
 
 6.  我知道，是新搬来的那家人养的。| 他们好像不太管那只狗，| 让它整天在外面叫。
-    _I know, it belongs to_ _the new family that moved in_. | _They don't seem to care_ _about the dog much_, | _letting it bark outside all day_.
+    _I know, it belongs to_ _the new family that moved in_. | _They don't seem to care about the dog much_, | _letting it bark outside all day_.
 
 7.  _That's terrible_! | _I've tried talking to them_, | _but they don't seem to care_. | _What should I do_?
     太糟糕了！我试过跟他们谈，| 但他们似乎不在乎。| 我该怎么办？
@@ -1918,17 +1918,17 @@ Briefing: This dialogue is a conversation between two neighbours where one is an
 10. 你可以试试戴耳塞睡觉，| 或者用白噪音机。| 我朋友用过，效果还不错。
     _You could try_ _wearing earplugs to sleep_, | _or use a white noise machine_. | _My friend used one_, _it worked quite well_.
 
-11. _Thanks for the suggestions_! | _I'll definitely try_ _the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_.
+11. _Thanks for the suggestions_! | _I'll definitely try the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_.
     谢谢你的建议！我今晚肯定试试耳塞。| 希望社区委员会能帮助解决这个问题。
 
 12. 不客气！如果还有其他问题，| 随时可以来找我。| 我们邻居之间应该互相帮助。
     _You're welcome_! _If you have other questions_, | _feel free to come to me anytime_. | _We neighbours should help each other_.
 
-13. _That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this_ _dog situation sorted out soon_.
+13. _That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this dog situation_ _sorted out soon_.
     你真是太好了。我真的很感激。| 希望我们很快就能解决这个狗的问题。
 
 14. 一定会的！社区委员会办事效率很高。| 我们很快就能睡个好觉了。
-    _Definitely! The community committee_ _works very efficiently_. | _We'll be able to sleep well_ _soon_.
+    _Definitely! The community committee_ _works very efficiently_. | _We'll be able to sleep well soon_.
 
 ---
 
@@ -1991,49 +1991,49 @@ Briefing: This dialogue is a conversation between an English-speaking restaurant
     下午好，欢迎光临金龙餐厅。今天有什么可以为您效劳的吗？
 
 2.  你好，我想预订一个包间，| 大概15个人左右。| 时间是下周五晚上7点。
-    _Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday_ _at 7 PM_.
+    _Hello, I'd like to book_ _a private room_, | _for about 15 people_. | _The time is next Friday at 7 PM_.
 
-3.  _That sounds like_ _a wonderful celebration_! | _Let me check_ _our availability_ _for that date and time_.
+3.  _That sounds like_ _a wonderful celebration_! | _Let me check our availability_ _for that date and time_.
     听起来是个很棒的庆祝活动！让我查看一下那个日期和时间的可用性。
 
 4.  是的，是我父亲的生日聚会。| 他今年60岁了，| 我们想给他一个特别的惊喜。
-    _Yes, it's my father's_ _birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_.
+    _Yes, it's my father's birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_.
 
-5.  _Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room_ _available_.
+5.  _Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room available_.
     恭喜！这确实值得庆祝的里程碑。我可以看到我们有一个大包间可用。
 
 6.  太好了！包间能容纳多少人？| 我们需要足够的空间，| 因为可能会有一些表演。
-    _Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be_ _some performances_.
+    _Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be some performances_.
 
-7.  _The room can comfortably seat_ _up to 20 people_. | _There's also space_ _for entertainment_ _and a dance floor_.
+7.  _The room can comfortably seat_ _up to 20 people_. | _There's also space for entertainment_ _and a dance floor_.
     这个包间可以舒适地容纳20人。还有娱乐和舞池的空间。
 
 8.  完美！那我们就订这个包间。| 需要付订金吗？| 大概多少钱？
-    _Perfect! Then we'll book_ _this private room_. | _Do we need to pay_ _a deposit_? | _How much is it_?
+    _Perfect! Then we'll book this private room_. | _Do we need to pay a deposit_? | _How much is it_?
 
-9.  _Yes, we require_ _a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_.
+9.  _Yes, we require a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_.
     是的，我们需要20%的订金来确认预订。15个人大概需要300美元。
 
 10. 好的，我可以现在付订金。| 你们接受信用卡吗？| 还是需要现金？
-    _Okay, I can pay_ _the deposit now_. | _Do you accept credit cards_? | _Or do you need cash_?
+    _Okay, I can pay the deposit now_. | _Do you accept credit cards_? | _Or do you need cash_?
 
-11. _We accept both_ _credit cards and cash_. | _I can process_ _your payment now_. | _What's your name_ _for the booking_?
+11. _We accept both credit cards and cash_. | _I can process your payment now_. | _What's your name for the booking_?
     我们两种都接受。我现在就可以处理您的付款。预订用的姓名是什么？
 
 12. 我叫李明，| 电话是0412-345-678。| 如果有什么变化，请及时联系我。
-    _My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me_ _in time_.
+    _My name is Li Ming_, | _and my phone number_ _is 0412-345-678_. | _If there are any changes_, _please contact me in time_.
 
-13. _Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday_ _at 7 PM_. | _You'll receive a confirmation email shortly_.
+13. _Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday at 7 PM_. | _You'll receive a confirmation email shortly_.
     很好，李先生。我会确认您下周五晚上7点的预订。您很快就会收到确认邮件。
 
 14. 谢谢！还有什么需要注意的吗？| 比如着装要求或特殊安排？
-    _Thank you! Is there anything else_ _I should know_? | _Like dress code_ _or special arrangements_?
+    _Thank you! Is there anything else I should know_? | _Like dress code_ _or special arrangements_?
 
-15. _Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations_ _if you'd like_.
+15. _Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations if you'd like_.
     建议穿商务休闲装。如果您愿意，我们还可以安排生日蛋糕和装饰。
 
 16. 那太好了！请帮我们准备生日蛋糕，| 装饰也请帮忙布置一下。| 费用我会额外支付。
-    _That's great! Please help us_ _prepare a birthday cake_, | _and help with_ _the decorations too_. | _I'll pay extra_ _for the costs_.
+    _That's great! Please help us_ _prepare a birthday cake_, | _and help with the decorations too_. | _I'll pay extra for the costs_.
 
 17. _Excellent! I'll make a note_ _of your special requests_. | _Everything will be ready_ _for your father's special day_.
     很好！我会记录您的特殊要求。一切都会为您父亲的特别日子准备好。
@@ -2044,11 +2044,11 @@ Briefing: This dialogue is a conversation between an English-speaking restaurant
 
 Briefing: This dialogue is a conversation between an English-speaking school principal and a Mandarin-speaking job candidate who is applying for a teaching position. The dialogue begins now.
 
-1.  _Good morning_, _Ms. Chen_. | _Thank you for coming_ _to interview today_. | _I'm Principal Johnson_.
+1.  _Good morning, Ms. Chen_. | _Thank you for coming to interview today_. | _I'm Principal Johnson_.
     早上好，陈女士。感谢您今天来面试。我是约翰逊校长。
 
 2.  早上好，约翰逊校长。| 很高兴见到您。| 感谢您给我这次面试机会。
-    _Good morning_, _Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_.
+    _Good morning, Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me_ _this interview opportunity_.
 
 3.  _You're welcome_. | _I've reviewed_ _your resume and qualifications_. | _You have an impressive background_ _in education_.
     不客气。我已经看过您的简历和资历了。您的教育背景令人印象深刻。
@@ -2056,13 +2056,13 @@ Briefing: This dialogue is a conversation between an English-speaking school pri
 4.  谢谢您的认可。| 我在中国有8年的教学经验，| 主要教授英语和数学。
     _Thank you for your recognition_. | _I have 8 years_ _of teaching experience in China_, | _mainly teaching English and Mathematics_.
 
-5.  _That's excellent. We're looking for_ _someone who can teach_ _both subjects_. | _What made you decide_ _to move to Australia_?
+5.  _That's excellent. We're looking for_ _someone who can teach both subjects_. | _What made you decide_ _to move to Australia_?
     这很好。我们正在寻找能教授这两门学科的人。是什么让您决定搬到澳大利亚的？
 
 6.  我想体验不同的教育体系，| 学习新的教学方法。| 澳大利亚的教育理念很先进，| 我很想在这里发展。
     _I want to experience_ _different education systems_, | _and learn new teaching methods_. | _Australia's educational philosophy_ _is very advanced_, | _and I'd like to develop here_.
 
-7.  _That's a great attitude_. | _How do you handle_ _students with different_ _learning abilities_ _in the same class_?
+7.  _That's a great attitude_. | _How do you handle_ _students with different learning abilities_ _in the same class_?
     这是很好的态度。您如何处理同一班级中学习能力不同的学生？
 
 8.  我采用分层教学法，| 为不同水平的学生设计不同的任务。| 我还会组织小组活动，| 让能力强的学生帮助能力弱的学生。

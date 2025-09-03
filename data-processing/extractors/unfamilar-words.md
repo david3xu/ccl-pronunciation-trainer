@@ -18,6 +18,7 @@ seniors
 track 
 come up 
 
+
 70247
 bet 
 drop by 
@@ -84,8 +85,11 @@ future company projects
 operate 
 a sole trader
 a partnership
-make up 
+these choices make up 
+operate as a sole trader 
 as my business's name 
+your personal name
+as the your registered business name 
 the application process 
 application 
 come back 
@@ -93,17 +97,23 @@ this valuable information
 
 70244 
 communicated 
+everything was fine then 
+the situation has changed 
 work pressure 
 balance 
 your workload and daily life 
+balancing work and life 
 change my career 
 a new contractor 
-workload 
-laid off 
+increase your workload 
+laid off several people 
+replace them
+no one could have predicted this situation 
 in the same industry
 makes me doubt 
 a considerable step 
 will be worth it for you 
+change my career 
 to get training 
 
 70243
@@ -111,17 +121,20 @@ please come in and sit down
 seeing me so quickly 
 my assistant 
 client 
-canceled 
-the appointment 
+canceled the appointment
+this timing is perfect  
 received an offer 
 a multinational company
-a big step forward 
+it's a big step forward 
 in my career
+your new job offer
 an employment contract
 a long document
 sign 
+briefly read it 
 concerning 
 legal terms in it 
+not quite like 
 a global company
 more comprehensive contracts 
 read through it 
@@ -129,7 +142,7 @@ get a professional to help
 lawyers
 complicated language 
 writing contracts 
-a deadline 
+a deadline to return 
 the signed contract
 pushed back a little 
 schedule a quick call 
@@ -137,6 +150,7 @@ review my notes
 when I'm done 
 
 70242 
+our c
 a variety of programs
 diverse 
 older people
@@ -457,8 +471,6 @@ serial number
 the exact location 
 project manager 
 the second i get the number 
-
-
 
 70232
 property manager 
@@ -1111,6 +1123,71 @@ to identify the fault
 
 70213
 
+
+
+
+70209
+your new neighbour 
+welcome to the neightbourhood 
+I hope I'm not bothering you
+the dog that keeps barking 
+It does bark quite a lot 
+It's been driving me crazy 
+get any sleep at night 
+care about the dog much 
+they don't seem to care 
+complain to the community committee 
+strict noise regulations
+any suggestions for dealing with the noise 
+wearing earplugs to sleep 
+can help resolve this 
+get this dog situation 
+sorted out soon 
+
+70208
+I had a car accident 
+need to file 
+an insurance 
+
+70207
+confirm your booking 
+receive a confirmation email shortly 
+Is there anything else I should know 
+like dress code 
+or special arrangement 
+smart casual attire 
+is recommended 
+we can also arrange 
+a birthday cake 
+and decorations 
+prepare a birthday cake 
+help with the decorations 
+pay extra for the costs 
+make a note 
+of your sepcial requests 
+everything will be ready 
+
+70206
+thank you for comming to interview 
+principal 
+thank you for givming me 
+this interview opportunity 
+I've reviewed 
+your resume and qualifications
+an impressive background in education 
+thank you for your recognition 
+teaching experience 
+teach both subjects 
+what made you decide to move to Australia 
+different education systems 
+learn new teaching methods 
+educational philosophy 
+is very advanced 
+I'd like to develop here
+That's a great attitude 
+learning abilities 
+
+70204
 
 
 
