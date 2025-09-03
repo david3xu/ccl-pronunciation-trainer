@@ -23,7 +23,7 @@ Briefing: This dialogue is a conversation between a new council employee and a m
 2.  我一直很期待这次见面，| 我很乐意介绍我们社区中心的工作。
     _I've been really looking forward_ _to this meeting_. | _I'm happy to tell you about_ _the work our community center does_.
 
-3.  _I appreciate that, I have only_ _been working at the council_ | _for a few weeks_. | _So I have a lot to learn_ _about the center_.
+3.  _I appreciate that_, _I have only been working at the council_ | _for a few weeks_. | _So I have a lot to learn_ _about the center_.
     谢谢。我在市政厅才工作了几个星期，| 所以这个中心还有很多需要我学习的内容。
 
 4.  我们为当地居民提供各种项目和活动。| 来社区中心的人很多样。有家庭，有老人，还有新移民。
