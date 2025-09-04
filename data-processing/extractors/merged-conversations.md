@@ -1312,19 +1312,19 @@ Briefing: This dialogue is a conversation between an English-speaking paramedic 
 
 Briefing: This dialogue is a conversation between an English-speaking local resident and a Mandarin-speaking doctor who has recently moved to a small town to work. The local resident is offering friendly support and assistance to help the doctor adjust to life in the small town. The dialogue begins now.
 
-1.  _Hello, nice to see you_. _I hope you're_ | _already settling in_. | _It must be_ | _a big change for you_ _to live in_ | _this small town_. | _If you need anything_, _just let me know_.
+1.  _Hello, nice to see you_. _I hope you're already settling in_. | _It must be a big change for you_ _to live in this small town_. | _If you need anything_, _just let me know_.
     嗨，很高兴见到你。希望你已经安顿下来了。| 住在这么小的镇上，对你来说，肯定是个很大的改变。| 如果你需要什么，随时告诉我。
 
 2.  是啊，我从来没在这么小的镇子上住过呢。| 而且，这里离市区也真的有点远。到最近的几个店，都要开车大概半小时。
-    _Yeah, I've never lived_ | _in a town this_ | _small before_. | _And it's really_ | _a bit far from_ | _the city_. | _Driving to the_ | _nearest shops takes_ | _around thirty minutes_.
+    _Yeah, I've never lived_ | _in a town this small before_. | _And it's really a bit far from the city_. | _Driving to the nearest shops_ _takes around thirty minutes_.
 
-3.  _Yes, it takes a while_ | _for you to get_ | _used to it_. | _I hope the sense_ | _of community can_ | _make it up_. | _After all, everyone_ | _knows each other here_.
+3.  _Yes, it takes a while_ | _for you to get used to it_. | _I hope the sense of community_ _can make it up_. | _After all, everyone knows each other here_.
     是的，要适应得一段时间呢。| 我希望这里的社区氛围能弥补这点。 | 毕竟，这里大家互相都认识。
 
 4.  这个小镇上的人都很可爱。| 我适应得还不错。| 我的小诊所已经开了半年多，| 通过工作，我也认识了镇上大半的人。
-    _The people in this_ | _small town are_ | _all really lovely_. | _I'm adjusting well_. | _My little clinic has_ | _been open for_ | _over six months_, | _and through work I've_ | _met nearly half_ | _the town_.
+    _The people in this small town are_ | _all really lovely_. | _I'm adjusting well_. | _My little clinic has been open for_ | _over six months_, | _and through work_ _I've met nearly half the town_.
 
-5.  _I'm sure everyone is_ | _excited about the_ | _new doctor_. | _The previous doctor_ | _moved back to_ | _the city_. _It took a while_ | _for the replacement_ | _doctor to arrive_.
+5.  _I'm sure everyone is_ | _excited about the new doctor_. | _The previous doctor_ | _moved back to the city_. _It took a while_ | _for the replacement octor to arrive_.
     我肯定大家都对新医生感到很兴奋。| 之前的医生搬回城里了。过了好一阵子，才有替代的医生来。
 
 6.  现在，我并不打算搬回去。| 但是，我确实很想念城市里的各种活动、很多东西，还有许多商店。
@@ -1480,7 +1480,7 @@ Briefing: This dialogue is a conversation between an English-speaking police con
 8.  昨天上午，我在建筑工地干活。| 大概中午那会儿，发现我的面包车给人偷了。
     _Yesterday morning, while I was working_ | _at the construction site_, | _around noon, I realized my van_ | _was stolen_.
 
-9.  _That's absolutely terrible_. | _Can you give me_ | _the exact location_ | _of the construction site_? | _And what time did you arrive there_?
+9.  _That's absolutely terrible_. | _Can you give me the exact location_ | _of the construction site_? | _And what time did you arrive there_?
     这太糟糕了。| 你能告诉我建筑工地的具体位置吗？| 你是什么时候到那里的？
 
 10. 工地就在市中心附近，| 就在主街和公园路的交叉口。| 我早上七点到的工地。
@@ -1648,11 +1648,11 @@ Briefing: This dialogue is a conversation between two friends where one is an En
 
 Briefing: This dialogue is a conversation between an English-speaking appliance shop employee and a Mandarin-speaking customer. They are discussing a faulty washing machine and warranty service options. The dialogue begins now.
 
-1.  _Hi there, this is_ _the appliance shop speaking_. | _My name is Adrian_. _How can I assist you_ today?
+1.  _Hi there, this is_ _the appliance shop speaking_. | _My name is Adrian_. _How can I assist you today_?
     你好，这里是电器商店。| 我是艾德利安。今天我能为您做点什么？
 
 2.  你好！我前段时间在你们这里买了一台洗衣机，| 但最近坏掉了，| 总是发出尖锐的噪音，| 吓得我已经一周没用它了。
-    _Hey there! I bought a washing machine_ _from you guys_ _a while back_, | _but it's been faulty lately_. | _It always makes a piercing noise_, | _and I've been too scared to use it_ _for a week_.
+    _Hey there! I bought a washing machine_ _from you guys a while back_, | _but it's been faulty lately_. | _It always makes a piercing noise_, | _and I've been too scared to use it_ _for a week_.
 
 3.  _Oh no, sorry to hear that_. _Do you remember_ _exactly when you bought it_? | _If it's still under warranty_, | _we might be able to fix it_ _at no cost_.
     哎呀，听到这些我很抱歉。你还记得具体什么时候买吗？| 如果还在保修期内，| 我们可能可以免费维修。
@@ -3313,29 +3313,29 @@ Briefing: This dialogue is a conversation between an English-speaking waiter and
 
 Briefing: This dialogue is a conversation between an English-speaking insurance advisor and a Mandarin-speaking client. They are discussing trauma insurance options and coverage details. The dialogue begins now.
 
-1.  _Good morning_. | _I didn't expect to_ | _hear from you_ | _again so soon_. | _I hope everything's_ | _alright_.
+1.  _Good morning_. | _I didn't expect to_ | _hear from you again so soon_. | _I hope everything's alright_.
     早上好！| 没想到这么快| 又收到你的电话，| 希望一切都顺利。
 
 2.  早上好！谢谢你，| 一切都挺好的。| 我知道我们| 两周前才刚见过面，| 不过我现在有些| 保险相关的事情| 想请你帮忙。
-    _Good morning! Thanks_，| _everything's going well_. | _I know we just_ | _met two weeks ago_，| _but I need_ | _your help with_ | _some insurance matters_.
+    _Good morning! Thanks_，| _everything's going well_. | _I know we just_ | _met two weeks ago_，| _but I need your help with_ | _some insurance matters_.
 
-3.  _No problem_. | _Are you looking_ | _to adjust your current policy_ | _or switch to_ | _a different type_?
+3.  _No problem_. | _Are you looking_ | _to adjust your current policy_ | _or switch to a different type_?
     没问题！| 你是想调整| 现有的保单，| 还是换一种| 不同的保险产品？
 
 4.  我最近正在考虑| 一种新的保险。| 我一直在网上查询| 有关创伤保险的信息。| 我想要进一步| 了解一下。
-    _I've been looking into_ | _a new type of insurance_ | _lately_. | _I've been researching_ | _trauma insurance online_，| _and I'd like to learn more_ | _about it_.
+    _I've been looking into_ | _a new type of insurance lately_. | _I've been researching_ | _trauma insurance online_，| _and I'd like to learn more about it_.
 
 5.  _Sure_! | _We're more than happy_ | _to help with that_. | _I'd be happy to answer_ | _all your questions_，| _and I can also give you_ | _a quote based on your needs_.
     当然！| 我们很乐意帮忙。| 我可以解答你的| 所有问题，| 也可以根据你的需求| 给你一个报价。
 
 6.  谢谢你！| 我想知道| 创伤保险是不是谁都能买？| 有没有什么限制？
-    _Thanks_! | _I'd like to know_—| _can anyone purchase_ | _trauma insurance_，| _or are there_ | _any restrictions_?
+    _Thanks! I'd like to know_—| _can anyone purchase_ | _trauma insurance_，| _or are there any restrictions_?
 
-7.  _Well, trauma insurance_ | _generally excludes_ | _pre-existing conditions_. | _So, if you_ | _already have any_ | _pre-existing conditions_ | _covered by your_ | _current policy, that_ | _particular condition won't_ | _be covered under_ | _trauma insurance_.
+7.  _Well, trauma insurance_ | _generally excludes pre-existing conditions_. | _So, if you already have any_ | _pre-existing conditions_ | _covered by your current policy, that particular condition won't be covered under_ | _trauma insurance_.
     嗯，| 创伤保险| 一般不保既往病。| 所以，| 如果你有什么既往病，| 现保单也承保，| 那创伤保险里| 不会赔付的。
 
 8.  有道理。| 我现在没有| 健康问题。| 但是以后的事情| 谁知道呢？| 这个保险能覆盖| 所有的疾病吗？
-    _That makes sense_. | _I don't have any_ | _health issues right now_，| _but who knows_ | _what could happen in the future_? | _Does this insurance cover_ | _all illnesses_?
+    _That makes sense_. | _I don't have any_ _health issues right now_，| _but who knows_ | _what could happen in the future_? | _Does this insurance cover all illnesses_?
 
 9.  _Trauma insurance coverage_ | _is similar to that_ | _of other critical illness policies_. | _It usually includes_ | _six major categories_，| _such as heart attacks_.
     创伤保险的保障范围| 和其他重疾险类似，| 通常涵盖| 六大类病症，| 比如心脏病发作。
@@ -3343,17 +3343,17 @@ Briefing: This dialogue is a conversation between an English-speaking insurance 
 10. 你也知道，| 我现在还有一些| 债要还。| 如果以后生病了，| 可能就没办法| 继续还款了。| 所以我觉得这个保险| 可能是个不错的选择。
     _You know_，| _I still have some debts_ | _to pay off_. | _If I get sick in the future_，| _I might not be able_ | _to keep up with the payments_. | _So，I think this insurance_ | _could be a good option_.
 
-11. _Why don't I give you_ | _a few quotes_? | _We can discuss your options_ | _and see which one_ | _is right for you_.
+11. _Why don't I give you a few quotes_? | _We can discuss your options_ | _and see which one_ | _is right for you_.
     要不我给你| 一些报价？| 我们可以讨论讨论| 你都有哪些选择，| 看看哪种方案| 最适合你。
 
 12. 这个计划听起来不错。| 你可以给我| 报价的所有信息吗？
-    _That sounds like_ | _a good plan_. | _Can you send me_ | _all the details of the quotes_?
+    _That sounds like a good plan_. | _Can you send me_ | _all the details of the quotes_?
 
-13. _I'll send you a form_ | _to fill in_. | _I also need to get_ | _some medical information from you_ | _to get a quote_ | _for this type of insurance_.
+13. _I'll send you_ _a form to fill in_. | _I also need to get some medical information_ _from you to get a quote_ | _for this type of insurance_.
     我会给你发个表格填写。| 我还需要收集一些| 你的健康信息| 才能给这种保险报价。
 
 14. 好的，| 没问题。| 我会尽快填好| 并寄回给你。
-    _Alright_，| _no problem_. | _I'll fill it out as soon as possible_ | _and send it back to you_.
+    _Alright, no problem_. | _I'll fill it out as soon as possible_ | _and send it back to you_.
 
 ---
 
@@ -3361,47 +3361,47 @@ Briefing: This dialogue is a conversation between an English-speaking insurance 
 
 Briefing: This dialogue is a conversation between an English-speaking accounting service representative and a Mandarin-speaking small business owner. They are discussing urgent tax filing deadlines and ongoing accounting needs. The dialogue begins now.
 
-1.  _Good morning_. _Thank you for calling_. | _What can I do_ _for you today_?
+1.  _Good morning. Thank you for calling_. | _What can I do for you today_?
     _早上好_，_谢谢你的来电_！| _今天有什么_ _可以帮到你的_？
 
 2.  _早上好_！_我有一个_ _自己的生意_。| _我想跟你聊聊_，_看看你能不能_ _帮我处理一下_ | _我生意的_ _会计方面的事情_。
-    _Good morning_! _I run_ _my own business_. | _I'd like to have a chat_ _and see if you can help me_ | _with the accounting side_ _of things_.
+    _Good morning_! _I run my own business_. | _I'd like to have a chat_ _and see if you can help me_ | _with the accounting side of things_.
 
-3.  _Of course_. _We're more than happy_ _to help you_. | _We specialize_ _in business accounting_. | _Could you let me know more_ _about your business_ | _and the reason_ _you may need_ _an accountant_?
+3.  _Of course_. _We're more than happy to help you_. | _We specialize in business accounting_. | _Could you let me know more_ _about your business_ | _and the reason you may need an accountant_?
     _当然_，_我们很乐意帮忙_！| _我们专门做_ _商业会计_。| _你可以告诉我更多_ _关于你的生意_ | _和你可能需要_ _会计的原因吗_？
 
 4.  _我开了一家_ _电脑销售店_。| _我一直都是_ _自己做账的_。| _但是_，_现在我_ _处理不过来了_。| _我需要_ _会计的帮助_。
-    _I run_ _a computer retail store_. | _I've always done_ _the bookkeeping myself_，| _but now_ _it's getting overwhelming_. | _I need_ _an accountant's help_.
+    _I run a computer retail store_. | _I've always done the bookkeeping myself_，| _but now it's getting overwhelming_. | _I need an accountant's help_.
 
-5.  _That actually happens_ _quite often_ _among our clients_. | _Hiring a professional accountant_ _is definitely a great idea_. | _It can help your business_ _grow quickly_ | _and avoid more mistakes_.
+5.  _That actually happens quite often_ _among our clients_. | _Hiring a professional accountant_ _is definitely a great idea_. | _It can help your business grow quickly_ | _and avoid more mistakes_.
     _这种情况_ _在我们的客户中_ _很常见_。| _找一个专业会计_ _绝对是个好主意_，| _不仅能让你的生意_ _更快发展_，| _也更能减少出错_。
 
 6.  _我完全同意_ _你说的_。| _我也不想_ _犯错误啊_。| _但是我越忙_，_就越容易犯错_。
-    _I totally agree_. _I don't want to make_ _mistakes either_. | _But the busier I get_，_the easier it is_ _to mess up_.
+    _I totally agree_. _I don't want to make mistakes either_. | _But the busier I get_，_the easier it is to mess up_.
 
-7.  _It's actually not hard_ _to prevent that_. | _A professional accountant_ _can ensure_ _your accounts are all in order_. | _Do you have_ _any urgent matters_ _that need to be handled_ _right now_?
+7.  _It's actually not hard to prevent that_. | _A professional accountant_ _can ensure_ _your accounts are all in order_. | _Do you have any urgent matters_ _that need to be handled ight now_?
     _其实_，_这并不难避免_。| _专业会计可以帮你_ _把账目整理好_。| _你现在有什么_ _特别紧急的事_ _需要处理吗_？
 
 8.  _其实_，_还真的有_。| _对于我来说_，_目前最紧急的事情_ _就是所得税的申报_。| _还有两天_ _就要截止了_。
-    _Actually，yes. Right now_，_my biggest concern_ _is filing my income tax_. | _The deadline is_ _in two days_.
+    _Actually，yes. Right now_，_my biggest concern_ _is filing my income tax_. | _The deadline is in two days_.
 
-9.  _Don't worry_. _If you have_ _a professional accountant_，_there will be sufficient time_. | _But you need to send_ _all the relevant documents_ _to our accountant_ _in one go_.
+9.  _Don't worry_. _If you have a professional accountant_，_there will be sufficient time_. | _But you need to send_ _all the relevant documents_ _to our accountant in one go_.
     _别担心_，_有专业会计的话_，_时间是够的_。| _但你需要一次性_ _把相关文件_ _发给我们的会计_。
 
 10. _听你这么说_，_我真的松了一口气啊_。| _我正在弄了_。| _之前一年的情况_ _其实都很好_，| _但是最近两个月_ _就特别紧迫_。
-    _I'm relieved to hear that_. | _I'm working on it now_. | _The past year_ _was actually fine_，| _but the last two months_ _have been really hectic_.
+    _I'm relieved to hear that_. | _I'm working on it now_. | _The past year was actually fine_，| _but the last two months_ _have been really hectic_.
 
-11. _Why don't we schedule_ _a meeting_ _to go through everything_? | _We can also discuss_ _what specific services_ _you need_.
+11. _Why don't we schedule a meeting_ _to go through everything_? | _We can also discuss_ _what specific services you need_.
     _我们约个时间_ _详细过一遍吧_？| _也可以讨论一下_ _你具体需要_ _哪些服务_。
 
 12. _听上去很完美_，_谢谢_。| _我想我需要你_ _帮我做所有的事情_。| _我也想更新一下_ _我这边的_ _会计系统_。
-    _That sounds perfect_，_thanks_! | _I think I need you_ _to handle everything for me_. | _I also want to get_ _my accounting system_ _updated_.
+    _That sounds perfect，thanks_! | _I think I need you_ _to handle everything for me_. | _I also want to get_ _my accounting system updated_.
 
-13. _I'll discuss_ _all the options_ _with you_. | _The right system_ _for business accounting_ _makes everything_ _much simpler and faster_.
+13. _I'll discuss all the options with you_. | _The right system_ _for business accounting_ _makes everything much simpler and faster_.
     _我会和你讨论_ _所有可选方案_。| _合适的商业会计系统_ _可以让一切_ _更简单、更高效_。
 
 14. _太好了_！_这样的话_，_我就能把更多时间_ _放在业务上_，| _而不用担心_ _账务问题了_。| _我等你的安排_，_谢谢_！
-    _That's great_! _This way_，_I can focus more time_ _on my business_，| _without stressing over_ _accounting issues_. | _I'll wait for your arrangements_—_thank you_!
+    _That's great_! _This way，I can focus more time_ _on my business_，| _without stressing over_ _accounting issues_. | _I'll wait for your arrangements—thank you_!
 
 ---
 
@@ -3409,47 +3409,47 @@ Briefing: This dialogue is a conversation between an English-speaking accounting
 
 Briefing: This dialogue is a conversation between two English-speaking friends, one of whom is bilingual and speaks Mandarin. They are discussing moving house and selling furniture due to rental changes. The dialogue begins now.
 
-1.  _Hi_, _I am so glad_ _you have time_ _to meet up_. | _It has been so long_ _since we last met_.
+1.  _Hi, I am so glad_ _you have time to meet up_. | _It has been so long_ _since we last met_.
     _嗨_，_我真高兴_ _你能抽空见面_。| _自从上次见面_ _已经很久了_。
 
 2.  _是啊_，_抱歉我最近太忙了_，| _我准备搬家_，_有太多事情要做了_。
-    _Yeah_, _sorry_, _I've been so busy lately_. | _I'm getting ready to move_ – _there's just too much to do_.
+    _Yeah, sorry_, _I've been so busy lately_. | _I'm getting ready to move_ – _there's just too much to do_.
 
-3.  _All right_, _I didn't know_ _you were moving_! | _I hope you are not_ _moving so far_. | _I will miss seeing you_.
+3.  _All right_, _I didn't know you were moving_! | _I hope you are not_ _moving so far_. | _I will miss seeing you_.
     _好吧_，_我还不知道_ _你要搬家呢_！| _希望你搬得不远_，| _我会想念见到你的_。
 
 4.  _不会的_，_我就搬到隔壁区_，| _我以为我跟你说过了_。| _我的房东_ _把房子卖了_，_我不得不搬家_。
-    _Oh no_, _I'm only moving_ _to the neighbouring district_ – | _I thought I mentioned it_. | _My landlord sold the house_, _so I have to move_.
+    _Oh no, I'm only moving_ _to the neighbouring district_ – | _I thought I mentioned it_. | _My landlord sold the house_, _so I have to move_.
 
-5.  _That sounds stressful_. | _It's hard to rent_ _a place in the area_ _now_, | _and the rent is_ _more expensive_.
+5.  _That sounds stressful_. | _It's hard to rent a place in the area now_, | _and the rent is more expensive_.
     _听着挺紧张的_。| _现在在这附近_ _租房子很难_，| _而且租金也更贵_。
 
 6.  _是的_，_我新的房子更小_，| _而且我们要交的租金_ _还更贵_。| _我想要卖掉一些_ _不用的家具物品_，| _来赚点额外的钱_。
-    _Yes_, _my new place is smaller_, | _and the rent is_ _even higher_. | _I want to sell some_ _unused furniture_ | _to earn some extra cash_.
+    _Yes, my new place is smaller_, | _and the rent is even higher_. | _I want to sell some unused furniture_ | _to earn some extra cash_.
 
-7.  _Why not post_ _some advertisements_ _on social media_? | _There are a few sites_ _that let you do that_, | _and it is very easy_.
+7.  _Why not post some advertisements_ _on social media_? | _There are a few sites_ _that let you do that_, | _and it is very easy_.
     _怎么不在社交媒体上_ _发布广告呢_？| _有几个网站可以发_，| _而且操作很简单_。
 
 8.  _我也许需要花一些时间_ _来设置这些_，| _但是好在不收钱_，| _这对我们很重要_，_我们需要_ _尽可能地省钱_。
-    _They might take some time_ _to set up_, | _but luckily_, _they're free_ – | _which is important for us_ _since we need to save money_ _wherever possible_.
+    _They might take some time to set up_, | _but luckily, they're free_ – | _which is important for us_ _since we need to save money_ _wherever possible_.
 
-9.  _It is definitely time-consuming_ _to sell your things_ _piece by piece_, | _but it will be worth it_, | _because you can make sure_ _you get the right price_ _for your items_.
+9.  _It is definitely time-consuming_ _to sell your things piece by piece_, | _but it will be worth it_, | _because you can make sure_ _you get the right price for your items_.
     _一件一件卖东西_ _肯定很耗时_，| _但这是值得的_，| _因为这样能确保_ _物品都卖到合适的价格_。
 
 10. _我也许还能拍一些照片_，| _这样可能可以卖得更快_，_价格更高_，| _尤其是家具之类的_ _大件东西_。
-    _Perhaps I could take_ _some photos_; | _that might help sell them_ _faster and at a higher price_, | _especially for big items_ _like furniture_.
+    _Perhaps I could take some photos_; | _that might help sell them faster_ _and at a higher price_, | _especially for big items like furniture_.
 
-11. _It sounds like_ _a good idea_. | _I can help you move_ _your things too_; | _that may save you_ _some moving costs_, | _and I can help pack_ _fragile items_.
+11. _It sounds like a good idea_. | _I can help you move your things too_; | _that may save you_ _some moving costs_, | _and I can help pack fragile items_.
     _听起来不错_。| _我也可以帮你搬东西_，| _这样可以节省一些_ _搬家费用_，| _而且我还可以帮忙打包_ _那些易碎物品_。
 
 12. _是的_，_我本来打算自己搬的_，| _这样可以省点钱_，| _能有你帮助可太棒了_，_谢谢你_。
-    _Yeah_, _I was planning to move_ _by myself_ _to save money_, | _but having your help_ _is just great_ – _thank you_.
+    _Yeah, I was planning_ _to move by myself to save money_, | _but having your help is just great_ – _thank you_.
 
-13. _Of course_, _I am happy to help you_ _load some boxes_ _and make a few trips_. | _Let me know_ _when you are ready_.
+13. _Of course_, _I am happy to help you_ _load some boxes_ _and make a few trips_. | _Let me know when you are ready_.
     _当然_，_我很乐意帮忙装箱_ _并跑几趟_。| _你准备好了就告诉我_。
 
 14. _你可真是个好朋友_，| _我们大概两周之内_ _会打包好所有东西_，| _我到时候再给你打电话_。
-    _You're such a good friend_. | _We'll probably have_ _everything packed_ _within two weeks_, | _and I'll call you then_.
+    _You're such a good friend_. | _We'll probably have everything packed_ _within two weeks_, | _and I'll call you then_.
 
 ---
 
@@ -3457,17 +3457,17 @@ Briefing: This dialogue is a conversation between two English-speaking friends, 
 
 Briefing: This dialogue is a conversation between an English-speaking manager and a Mandarin-speaking employee. They are discussing the employee's promotion and new responsibilities including staff recruitment. The dialogue begins now.
 
-1.  _Hi_, _thank you for meeting me_ _in the morning_. | _How are you today_?
+1.  _Hi, thank you for meeting me_ _in the morning_. | _How are you today_?
     _嗨_，_感谢你今天早上_ _抽时间见我_。| _你今天怎么样_？
 
 2.  _我很好_，_谢谢_。| _我也很高兴见到你_。| _我助理说_ _你找我是想跟我谈谈_ _我新工作的事情_？
-    _I'm doing well_, _thank you_. | _I'm also glad to see you_. | _My assistant mentioned_ _that you wanted to talk about_ _my new job_?
+    _I'm doing well, thank you_. | _I'm also glad to see you_. | _My assistant mentioned_ _that you wanted to talk about_ _my new job_?
 
-3.  _Yes_. _Congrats on your promotion_! _You deserve it_. | _We have been very pleased_ _with your dedication and skills_ | _since you joined our company_.
+3.  _Yes. Congrats on your promotion_! _You deserve it_. | _We have been very pleased_ _with your dedication and skills_ | _since you joined our company_.
     _是的_，_恭喜你升职_！_你当之无愧_。| _自从你加入我们公司以来_，| _我们对你的敬业精神_ _和能力非常满意_。
 
 4.  _谢谢_，_我很感激_，_也很感谢_ _你的支持_。| _我很高兴下周_ _就要开始新的工作了_。
-    _Thank you_, _I really appreciate_ _your support_. | _I'm excited to start_ _my new job next week_.
+    _Thank you, I really appreciate your support_. | _I'm excited to start_ _my new job next week_.
 
 5.  _It will be a big change_ _for you_, | _but I'm confident_ _you'll continue to achieve_ _even more_, _just like before_.
     _这对你来说_ _是个很大的变化_，| _但我相信你会像以前一样_，| _不断取得更多成就_。

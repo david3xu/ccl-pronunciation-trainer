@@ -1,68 +1,98 @@
 70248
 council
 community center 
+run a variety of programs
+for the local people 
 diverse 
+there are families 
 older people
 new migrants
 local library
-handle 
+really enjoy this job 
+you help managing the center 
+too much for one person to handle 
 variety
 take over 
 fitness programs
-cope 
-swamped
-cater 
+I can't cope 
+I'm swamped
+I can't handle them all 
+to keep organizing these programs 
+we cater to everyone
 strength training 
 boxing 
-seniors 
-track 
-come up 
-
+classes for seniors 
+mothers and young children 
+manage or track all these 
+give any suggestions 
+to improve our programs 
+looking for new ideas 
+all familiar with everything 
+come up with some ideas 
 
 70247
-bet 
+the office mentioned 
 drop by 
-site 
-swing by 
+to visit the site 
+bet 
+easy to swing by 
 thrilled 
+watching my house 
 take shape 
-crew 
+the crew has now finished 
 the walls 
 floors 
 doors 
 supplier 
 delivered 
+early last week 
 the materials 
 delayed 
+it would take longer 
 nowadays 
-go over the plans 
+hard to get materials 
+material prices have gone up 
+go over the plans with you 
 the construction plans 
 blueprints 
-the workers 
+when I get home 
+the workers delivered 
 the kitchen cabinet 
-benchtop 
-installed 
+and benchtop 
+be installed 
 on the sidewall 
-change it back 
+they should go there 
+that way i can cook 
+laook at the view 
+through the side window 
+change it back for a longer one 
 troublesome 
-definitely 
-struck me 
+that definitely won't work 
+it struck me 
 as a big strange 
 inspect the site 
 puts my mind at ease 
 spot and fix issues 
 promptly 
+I believe in 
+looking after my customers 
+to keep track of everything 
 involved
+could be this complicated 
 
 70246 
-browsing 
-the mall 
+to catch up 
+it's been ages 
+since we last sat down 
+to enjoy coffee and chat 
+to relax coffee and talk so long 
+browsing the mall 
 a new lounge chair 
+looking around the mall 
+that feels really nice 
+i spotted a cream-colored leather sofa 
 big stores 
 loads of options 
-spotted 
-cream-colored 
-leather sofa 
 payment method 
 put it on lay-by 
 in a hurry 
@@ -255,33 +285,44 @@ picked out a desk
 in neutral colors
 no dark desks 
 add blinds 
+very good call 
 redecorate 
+we'll go for 
 simple and neutral designs 
 add some bright colors 
-easy-to-seap items 
+with easy-to-seap items 
 like rugs 
+love that idea 
 seriously can't wait to see it finished 
+can't wait to show you either 
 the finishing touches
 rush it 
 
 70238
-settled in 
-the quieter pace 
+I hope you've settled in 
+the quieter pace yet
+I've never lived in 
+quite a distance to the city
+it takes a while to get to the city  
 the sense of community
-make up for it 
-warmth 
+can make up for it 
+through work
+get that kind of warmth 
+it took a long time 
 before the replacement showed up 
 move back to the city 
 do miss city amenities
-order some grocery items 
+in one shopping center 
+order some grocery items
+I didn't realize you could do that  
 i have allergies
 prefer oat milk 
 but mine's almost gone 
 buy dairy or soy milk 
 two liters of oat milk
-restrock 
+restrock every one or two weeks 
 delivered along with my other goods 
-the delivery fee 
+the delivery fee will be very high 
 stick together 
 
 70237
@@ -293,6 +334,7 @@ run into some issues
 banking systems 
 do vary between countries 
 trying to adapt 
+I keep worring my questions
 sound silly 
 It's quite embarrassing
 No stress at all 
@@ -303,53 +345,63 @@ when bills are due
 keeping up with bill payments 
 bothering me 
 for quite a while
-set up 
+why not set up 
 automatic payment
 authorize direct debit
 the bills get paid on time 
-withour you lifting a finger
+without you lifting a finger
 mobile banking app 
-activate 
+activate it for me 
 give your payment details 
 to the company billing you 
 who manage your payment collection 
 can't set that up from our end 
 make banking way easier 
 getting used to 
-mobile payment 
+online payments 
+mobile payments 
 multiple payment methods built in 
+it super convenient 
 to handle everything on your own 
 occasionally 
 miss chatting face-to-face 
 a bank teller 
 in a branch 
-our hotline is always open
+back when i first arrived 
+our hotline's always open
 any banking confusion 
 give us a ring right away
 got staff ready twenty-four seven 
+thanks a ton for your help 
 
 70236 
 volunteering opportunities
 get involved 
+I just moved here 
+trying to find things to do 
+to get to know the area sooner 
 to help out with our activities 
-schedule
-flexible 
+my schedule's pretty flexible 
 spare 
 end up becoming friends
+si there anything specific 
 enjoy doing 
 match 
-suits your hobbies
+that suits your hobbies
 open to anything 
 I'm indeed into gardening
 and planting stuff 
 working on a little veggie garden 
 an ideal project
 fixing up 
-a great fit 
+that part next to the mall 
+a great fit there 
+I had no idea 
 an empty lot 
-helpers to look after 
-seedlings in our shed 
+need helpers to look after
+the seedlings in our shed 
 planting native plants 
+I can tell this park 
 but it'll be worth it 
 installing some benches 
 a spot to take walks 
@@ -398,24 +450,28 @@ apart from the medical side
 peacefulness and friendliness
 some small daily habits 
 like certain food and drinks 
+much more limited
 where my little shop comes in 
 a few jars of jasmine tea 
 a few bottles of chili sauce 
 they're almost gone 
 receptionist
-porcelain tea set 
-your favourite tea 
-that spicy kick 
+really nice porcelain tea set 
+miss your favourite tea 
+that the spicy kick 
 to refresh my mind 
-stimulate 
+chili sauce to stimulate 
 my appetite for meals 
+I can't get my daily work done 
 consider it done 
 deserves 
 the perfect brew 
 put in an order 
 first thing tomorrow 
-come over immediately
+you are so thoughtful 
+come over immediately to help 
 it really touched me 
+how we do things around here 
 folks look out for each other 
 it's these little things
 a workplace 
@@ -431,7 +487,8 @@ report a crime
 searched forever on my phone 
 for this contact 
 help me out 
-a robbery in process 
+you are in the right place 
+it's like a robbery in process 
 can't handle it here 
 hurt 
 a violent crime 
@@ -560,6 +617,31 @@ small decorations
 be another couple of weeks 
 
 70230
+in the suburbs 
+her joint problems 
+to help with housework
+challenging 
+taking care of aging parents 
+any support services 
+what's actually available 
+designed to help caregivers 
+home care services 
+can visit regularly 
+can't afford it 
+government subsidies 
+available for seniors 
+check with Centrelink 
+about eligiblity 
+what other services are there 
+social groups 
+and exercise classes 
+with loneliness and 
+to stay active 
+make it hard to go out 
+low-impact exercises 
+designed to be gentle on joints 
+a home safety assessment 
+identify potential hazards 
 
 
 70229
@@ -578,55 +660,62 @@ move to
 role-specific training 
 the detailed introduction 
 to start working 
+training programs 
+baisc orientation 
+role-specific training 
+very comprehensive 
+detailed introduction 
+I feel ready to start working 
 
 70227
 stopping by
-the morning rush 
+before the morning rush 
+I've heard great thing 
 your offerings 
 a food supplier 
 specializing in 
-handmade 
-baked goods
-meat products 
-new items 
+handmade baked goods
+and meat products 
+show you some new items 
 perfect timing indeed 
-pastry suppliers
-sets your products apart 
+looking for pastry suppliers
+what sets your products apart 
 the biggest feature
 with local ingredients 
-preservatives 
+don't use any preservatives 
 construction workers 
 technicians 
+they would like your products 
 make and deliver fresh 
 adjust supplies 
-sells well 
+based on what sells well 
 very impressive 
 consistent deliveries 
 learn more 
 sausage rolls and pies 
 handcrafted 
-mass production 
-the quality 
+not from mass production 
+that way the quality is better 
 the capacity 
 these days
 have quite a following
 pies and sausage rolls
 to keep up with my orders 
-extra staff 
+hired five extra staff 
 to meet more customer's needs 
 product offerings 
-dropping by 
+would you mind dropping by 
 some samples 
 get my business partner 
 to taste them with me 
 bring samples 
 in serveral flavours 
-sweet 
-savory types
+sweet and savory types
 sweet and savory pastries 
+always do great in the cafe 
 don't forget to bring 
 wholesale price list 
-partner up 
+once we partner up 
 create seasonal custom products 
 
 
@@ -636,12 +725,14 @@ advisors
 offer free job search support 
 a new immigrant 
 find a job 
-any suitable positions 
+match any suitable positions 
 what we're here for 
 what you're good at 
+or any jobs you've done before
 worked in sales 
 a restaurant server 
-at dealing with with people 
+I'm quite good 
+at dealing with people 
 excellent skills 
 retail 
 hospitality 
@@ -656,27 +747,57 @@ for job seekers
 local employers 
 serveral factors 
 within a few weeks 
-retail positions 
+retail positions available 
 retail work 
-weekend penalty rates
-working hours 
+what the salary is like 
+starting wages are usually around 
+offer weekend penalty rates
+the working hours 
 offer flexible schedules 
 evening shifts 
-family commitments 
+studying or family commitments 
 i have direction 
 
 70225
 pharmacists 
 looked unwell
 at the counter 
+stomach has been upset 
+that lower stomach acid 
+take the medicine 
+for acid reducers 
+right after eating 
+any time you start to feel discomfort 
+any common side effects 
+be aware of 
+acid reducer medications 
+are generally safe 
+though they may accasionally 
+cause consti
+pick one to try 
+it eases my symptoms soon
+you still feel off after a week 
+to find out what's really going on 
+keep that in mind 
+this medicine works right away 
+
 
 70224
+technician 
+cabinets
+my kitchen cabinet door 
+the hinge is a bit loose 
+older cabinets often has this issue 
+completely rusted 
+thsi set of cabinets 
+starting to deteriorate 
+need to be replaced 
 in my van 
 how long will it take to fix 
-replace 
-hinges 
+replace all the hinges 
 they're consistent 
-approximately 
+what's the cost approximately 
+the new hinge costs 
 labor 
 is very reasonable 
 start fixing 
@@ -732,21 +853,20 @@ i'm looking forward to
 trying their services 
 be less busy 
 the lines are shorter 
-less crowded 
-the lunch rush 
+it's less crowded 
+before the lunch rush 
 coffee's on me 
 once I'm all settled
 
 70222
 paramedics 
-made the call 
+made the call earlier 
 walk me through 
-suddenly 
-collapsed 
+suddenly collapsed 
 right in front of me 
 faint on the ground 
 been unconscious 
-any warning signs 
+see any warning signs 
 went down 
 a bit unsteady 
 looked very pale 
@@ -754,7 +874,7 @@ heads-up
 his pulse and breathing 
 right away 
 wait nearby 
-calling his family 
+by calling his family 
 in his pocket 
 help contact his family 
 have a password
@@ -762,19 +882,33 @@ it's unlocked
 look for contacts 
 mared as 'Home' or 'Family'
 his family members 
+tell them what happened and where we are 
 at the shopping center 
 on Main Street 
 come right away 
 take about fifteen minutes 
-his vital signs 
-are stable 
-transport him 
-to the hospital 
+his vital signs are stable now
+transport him to the hospital 
 when the ambulance arrives 
 I hope he'll be okay 
 
-
 70221
+I hope you're already settled in 
+a big change for you 
+I've never lived 
+a bit far from the city 
+driving to the nearest shops 
+it takes a while 
+to get used to it 
+the sense of community 
+can make it up 
+all really lovely 
+I'm adjusting well
+my little clinic 
+through work 
+nearly half of the town 
+
+
 
 
 70220
@@ -881,7 +1015,7 @@ worried about it
 got the right line 
 for non-emergency reports 
 it's urgent 
-need to hang up 
+you need to hang up 
 and dial 000
 not an emergency 
 my van was stolen 
@@ -891,64 +1025,64 @@ discovering something stolen
 is always upsetting
 even non-urgent matters 
 can be serious 
-go over what happened 
+let's go over what happened 
 assist you 
 my work vehicle 
 a real headache 
 the insurance company 
-a police report 
-file a claim 
-crucial 
+get a police report first 
+I can file a claim 
+work vehicle is crucial 
 a van was taken
 a theft report 
 for the insurer
 you last saw it 
 at the construction site 
-i realized my van was stolen 
+around noon i realized my van was stolen 
 That's absolutely terrible 
 the exact location 
 is near the city center 
 at the intersectioin of 
 Main street and Park Road
 notice the van was missing 
-anyone suspicious 
+see anyone suspicious 
 around the area 
 the site has no fence 
 anyone can come in 
-the van's details for the report 
+need the van's details for the report 
 what's the make, model, and color 
 the registration number 
 a white Toyota Hiace van 
 license plate is ABC-123
 this vehicle 
+you can help me find it 
 
 
 70217
 the city council 
 dog-walking regulations
-some neighbours 
+I heard some neighbours 
 get really startled 
+when they see dogs 
 know the rules first 
 having a dog 
 following rules 
-straightforward regulations
+we've got straightforward regulations
 to keep everyone safe 
 have you had a chance 
 to check any local regulations
-about the details 
+not really sure about the details 
 leash my dog 
-comes to detilas 
-on the beach 
+comes to details 
+are allowed on the beach 
 I'm completely lost 
 needs to be leashed 
 in public spaces 
 two designated off-leash parks 
 they can roam 
-the southern section 
-of the beach 
+the southern section of the beach 
 is also leash-free
-loves splashing around
-in the water 
+loves splashing around in the water 
 rolling in the sand 
 and chasing seagulls 
 any spots where dogs aren't allowed
@@ -956,26 +1090,28 @@ in certain spots
 like kids' playgrounds
 sports ovals 
 and some beaches 
-look out for the signs 
+just look out for the signs 
 before you go in 
-accidenally 
-don't follow the rules 
+accidenally don't follow the rules 
 what penalties might I face 
 what's the worst that could happen 
 break the rules 
-letting your dog off-leash 
+like letting your dog off-leash 
 where it's banned 
 get fined 
+fines vary based on 
 how serious the breach is 
-jumps on everyone it meets
+always jumps on everyone it meets
 pay extra attention 
 i need to look out for 
-pick up after your dog 
+remeber to pick up after your dog 
 leaving dog waste 
 means a fine as well
 we've placed bins in most parks 
 clean up after my dog 
 explanation
+if you hadn't mentioned it 
+the council's website 
 noticed those details
 off-leash maps 
 swing by our office 
@@ -984,14 +1120,15 @@ take my dog down to
 
 
 70216
-the police station 
+you've reached the police station 
 how may i assist you today 
-apartment complex
+to report a driver 
+in our apartment complex
 who keeps speeding 
 the car's engine 
 really powerfull and super load 
 neawr kid's play areas 
-sidewalks
+or sidewalks
 speeding happen 
 take my kid to school
 speeding past in his car 
@@ -1029,6 +1166,7 @@ spot anything like this
 I'll keep an eye out 
 this complaint 
 make a difference 
+your report will definitely help 
 we take traffic saftely 
 very seriously 
 in residential areas 
@@ -1049,45 +1187,46 @@ re-learn everything all over again
 staying put would be ideal 
 switch schools 
 and adjust to everything all over again 
-flooded with listings 
-take a bit 
+the market is flooded with listings 
+take a bit to find the right one 
 any luck so far 
-quite a few properties 
+seen quite a few properties 
+there's one we really like 
 it's over our budget 
 stretch our finances 
 that's a shame 
 it's smart to 
 stick to your budget 
+find something you love 
 plenty of fish in the sea 
 an empty property 
 that keeps things simple 
-cluttered with 
-furniture and stuff 
+cluttered with furniture and stuff 
 move into one like that 
 focus on the floor plan 
 getting distracted by 
 the furnishings 
 the decorations
-some layouts
-won't work for us 
+some layouts just won't work for us 
 a two-story home 
-we prefer 
-a single-level place 
+we prefer a single-level place 
 be worth 
 checking out 
 some of the older homes 
 in the area 
-what you're looking for 
-major renovations
+match what you're looking for 
+don't want major renovations
 tweak the layout 
+one property could be perfect 
 not officially listed 
-the owner 
+I know the owner personally 
 can set up an inspection 
 help arrange it for us 
-this works out 
+really hope this works out 
 meet our family's needs 
 
 70214
+the appliance shop speaking 
 a washing machine 
 from you guys 
 a while back 
@@ -1105,25 +1244,170 @@ getting it reparied
 replace it for you 
 cover the repair 
 replace it for free 
-wasn't caused by misuse 
+the issue wasn't caused by misuse 
 pay out of pocket 
 then I'm relieved 
 get the original machine fixed 
 a technician 
 gets out to you soon 
 when someone can come by 
-in retail promitions
+in retail promotions
 I'm off on Mondays
-works for me 
+either of those days works for me 
 will reach out 
 to set up an appointment 
-a diagnostic cycle 
+run a diagnostic cycle 
 to identify the fault 
+the whole process usually take
+the washer gets fixed soon
+should i have anything ready 
+like a screwdriver 
+open it up for a motor inspection 
+get any tools ready 
+it gets fixed properly 
+won't have any more problems 
 
 
 70213
+being swapped 
+got all the time to chat about this 
+how to raise some money 
+for our school band 
+to go on music tours 
+put together a fundraiser 
+pick the right kind of event 
+people would jump at attending 
+put together a coupon book with deals 
+from the local business 
+putting on a conert for the school band 
+use the school's venue and equipment 
+keep the costs down 
+that's a solid idea 
+a great way to show off
+the kids' talents 
+to chip in and support 
+get the word out 
+people will definitely come 
+hosting the event at school 
+would save us a lot on venue costs 
+invite a few local bands 
+to come and perform 
+make the concert more professional 
+and way more exciting 
+gonna show up to support 
+seeing these local bands 
+motivate the kids 
+to rehearse harder 
+promote the concert 
+on their social media 
+free promotion 
+to make some cakes 
+desserts 
+to sell for fundraising 
+genius 
+the vibe willbe way more enjoyable 
+finalize the details 
+
+70212
+the waste sorting system 
+here is quite different 
+the Aussie bin system 
+confuses everyone at first 
+three different color bins 
+separate handling 
+is for general waste 
+for recycling 
+is for organics 
+batteries 
+need special drop-off
+supermarkets take them 
+where should i dispose 
+of old electronic 
+e-waste collection day 
+at the community centre 
+grow some vegetables 
+a few raised garden beds 
+a watering hose 
+gardening tools  
+where to buy them 
+the gardening center 
+along the high way 
+is your best bet 
+a wider range of stuff 
+I didn't bring any gardening tools 
+the shipping costs 
+I've got to buy everything again 
+picking out new tools 
+isn't too pricy 
+pick plants 
+that grow well in our soil 
+choosing the wrong plants 
+sit up front and guide me 
+
+70211
+coworker mentioned 
+adpoted an adorable male puppy 
+has a great reputation 
+we offer a six-week course 
+that covers basic commands 
+and hands-on handling technicals 
+his is intuitive 
+quite naughty 
+get him started with the course 
+puppies are adorable 
+to nip unwanted habits 
+our next session 
+my kids play with puppy all the time 
+they can learn together 
+teach your kids 
+how to handle the puppy 
+keep him under control during walks 
+how to take care of the puppy 
+stuff like walking him 
+grooming him 
+and feeding him properly 
+our course is a perfect fit then 
+socialization training 
+how to interact with 
+people and other animals 
+how much does the course cost 
+crate training 
+potty training 
+rest assured 
+up to date on all his shots 
+the price sounds very reasonable 
+the vet gave him his vaccination certificate 
+get the little guye signed up now 
+when you attend the first lesson 
+raise a well-behaved puppy 
 
 
+70210
+were really tough 
+besiness is getting business now 
+compared to before 
+I've been told 
+the previous owner 
+left a ton of junk 
+it's such a headache 
+I've been so wrappted up 
+in the business 
+I could lend a hand 
+I got a kip bin 
+delivered here last month 
+to clean out the warehouse 
+it turned out much bigger than I though 
+It's only half full
+use it for your trach 
+never cleard the junk 
+easily fill this skip bin 
+It'd be a shame 
+give your a car service 
+your generous offer 
+my car is due for a service 
+It won't take long 
+leave the skip bin here 
+I can start clearing out right away 
 
 
 70209
@@ -1133,24 +1417,77 @@ I hope I'm not bothering you
 the dog that keeps barking 
 It does bark quite a lot 
 It's been driving me crazy 
+since I moved in 
 get any sleep at night 
+It belongs to 
 care about the dog much 
 they don't seem to care 
+I've tried talking to them 
 complain to the community committee 
 strict noise regulations
 any suggestions for dealing with the noise 
 wearing earplugs to sleep 
+or use a white noise machine 
 can help resolve this 
+fell free come to me anytime 
 get this dog situation 
 sorted out soon 
+be able to sleep well soon 
 
 70208
+insurance company 
 I had a car accident 
-need to file 
-an insurance 
+file an insurance claim 
+my policy number is 
+let me pull up 
+your policy details 
+the car is quite damaged 
+the other driver admitted fault 
+is active and comprehensive 
+in the accident 
+waiting at a red light 
+at an intersection 
+the car behind rear-ended me 
+was badly damaged 
+the rear bumper 
+is completely deformed 
+a police report 
+or any photos of the damage 
+help with the claim process 
+I took photos 
+provide the other driver's details 
+just me alone 
+was wearing a seatbelt 
+i wasn't injured 
+start processing your claim 
+receive a claim number within 24 hours 
+just keep all receipts for any expenses 
+reimburse you for reasonable costs 
+
 
 70207
+restaurant 
+book a private room 
+a wonderful celebration 
+check out our availability 
+my father's birthday part 
+he's turning 60 this year 
+a special surprise 
+that's a milestone 
+worth celebrating 
+can the room held 
+we need enough space 
+some performances 
+comfortably seat up to 20 people 
+space for entertainment 
+and a dance floor 
+need to pay a deposit 
+deposit to confirm the booking 
+accept both credit cards and cash 
+process your payment now 
+please contact me in time 
 confirm your booking 
+approximately 
 receive a confirmation email shortly 
 Is there anything else I should know 
 like dress code 
@@ -1186,14 +1523,186 @@ is very advanced
 I'd like to develop here
 That's a great attitude 
 learning abilities 
+organize group activities 
+stronger students help weaker ones 
+communicate with parents 
+about children's progress 
+regular contact 
+the child's strengths 
+and areas for improvements
+was consistently disruptive 
+talk privately with this student 
+he behaves this way 
+a behavior improvement plan 
+with with parents and school counselors
 
 70204
 
 
+70201
+restaurants 
+the Opera House 
+shopping areas 
+
+70195
+the fresh vegetables
+the produce section at the back 
+spinach is on sale 
+fresh chicken breasts 
+thighs 
+whole chickens 
+some seasonings
+soy source and vinegar 
+some noodles 
+pasta 
+I've found everything i need 
+the checkout counters 
+at the front of the store
+regular lanes 
+self-checkout 
+come back soon 
+
+70194
+what are your plans for this weekend 
+somthings fun to do 
+specific plans yet 
+I want to go out 
+don't want to stay at home all day 
+go to the new art museum 
+have you heard about it 
+I'ts downtown near the center part 
+some amazing exhibitions 
+admission is free on weekends 
+free admission 
+less crowded 
+after visiting the museum 
+new Italian restaurant 
+the food is excellent 
+go shopping 
+by some new clothes 
+any good shopping center nearby 
+a great mall 
+2 blocks away
+spend a few hours there 
+a complete day planned 
+book the restaurant in advance 
+to make a reservation 
+I can call them tomorrow 
+to have lunch 
+gives us enough time 
+a fantastic weekend 
+I completely agree 
+do we need to prepare anything else 
+bring comfortable shoes for walking 
+a camera for the museum 
+bring my credit card for shopping 
+I'll be ready 
+
+70193
+welcome to coffee corner 
+what can i get for you today 
+i'd like to orfer a cup of coffee
+what do you recommend 
+a great cappucci
+different sizes 
+we have small, medium, and large 
 
 
 
+70191
+book in advance 
+at least 2 - 3 months ahead 
+real Japanese 
+
+70190
 
 
 
+70187
+eating out
+yoru favorite dish to cook
+making Mapo Tofu 
+a bit complicated 
+tastes great 
+Italian food 
+make basic pasta dishes 
+specialty 
+like pizza and pasta 
+risotto si creamy and rich 
+make with rice and broth 
+very comforting 
+teach me risotto 
+have a cooking exchange 
+what ingredients do you need 
+minced port 
+broard bean paste 
+sichuan pepercorns 
+at Asian supermarkets 
+Chinese seasonings 
+arborio rice
+chicken broth 
+parmesan cheese 
+Italian rice 
+regular rice 
+Arborio rice 
+shrot-grain 
+very starchy 
+it releases starch
+start our cooking lessons 
+learning new dishes 
+a great cooking experience 
 
+70186
+signature dish 
+prepared fresh daily
+excellent seefood
+Peking Duck 
+one serving feed 
+it comes with 
+pancakes 
+scallions
+hoision sauce 
+the stir-fried broccolli
+very fresh and healthy 
+have steamed bok choy 
+the garlic broccoli 
+soup 
+the hot and sour soup 
+wonton soup 
+egg drop soup
+steamed white rice 
+fired rice 
+order drinks 
+tea 
+soft drinks 
+beer 
+a cup of green tea 
+how long will my food take 
+
+
+70185
+some insurance matters 
+to adjust yoru current policy 
+switch 
+particular condition
+trauma insurance 
+health issues
+what could happen in the future 
+trauma insurance coverage 
+critical illness policies 
+six major categories 
+such as heart attacks 
+still have some debts to pay off
+git sick in the future 
+to keep up with the payments
+could be a good option 
+discuss your options
+a good plan 
+all the details of the quotes 
+a form to fill in 
+get some medical information 
+to get a quote 
+for this type of insurance 
+fill it out as soon as possible 
+
+70184
