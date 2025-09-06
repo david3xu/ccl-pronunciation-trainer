@@ -982,10 +982,10 @@ to go through
 is definitely deducted 
 the recipient 
 it's good to note 
-payments made on weekends 
+that payments made on weekends 
 or public holidays 
-get delayed a bit more 
-these tips 
+might get delayed a bit more 
+Now that I know these tips 
 handling banking tasks 
 be much easier 
 I'm getting used to 
@@ -1002,6 +1002,7 @@ I'm confused about something
 our hotline is always here 
 I'm less frustrated now 
 further assistance 
+I'll definitely call you again 
 
 70218
 you've reached 
@@ -1028,11 +1029,11 @@ can be serious
 let's go over what happened 
 assist you 
 my work vehicle 
-a real headache 
+losing it is a real headache 
 the insurance company 
 get a police report first 
 I can file a claim 
-work vehicle is crucial 
+work vehicles are crucial 
 a van was taken
 a theft report 
 for the insurer
@@ -1066,7 +1067,7 @@ get really startled
 when they see dogs 
 know the rules first 
 having a dog 
-following rules 
+means following rules 
 we've got straightforward regulations
 to keep everyone safe 
 have you had a chance 
@@ -1092,7 +1093,7 @@ sports ovals
 and some beaches 
 just look out for the signs 
 before you go in 
-accidenally don't follow the rules 
+accidentally don't follow the rules 
 what penalties might I face 
 what's the worst that could happen 
 break the rules 
@@ -1111,13 +1112,12 @@ we've placed bins in most parks
 clean up after my dog 
 explanation
 if you hadn't mentioned it 
+I wouldn't hae noticed thoese details
 the council's website 
-noticed those details
 off-leash maps 
 swing by our office 
 or give us a ring 
 take my dog down to 
-
 
 70216
 you've reached the police station 
@@ -1146,6 +1146,7 @@ it's driven by
 a young person 
 this cocky look 
 on his face 
+have you heard 
 has noticed this 
 has been involved in 
 any other incidents
@@ -1163,6 +1164,7 @@ stop speeding
 to see some real improvements
 to address this 
 spot anything like this 
+let us know immediately 
 I'll keep an eye out 
 this complaint 
 make a difference 
@@ -1177,7 +1179,7 @@ the complex can be safer
 long time no see 
 I had no clude 
 you are house hunting 
-been renting for years
+renting for years
 it's time to 
 have a place of my own 
 I totally get it 
@@ -1279,13 +1281,16 @@ pick the right kind of event
 people would jump at attending 
 put together a coupon book with deals 
 from the local business 
-putting on a conert for the school band 
+sell some products from the local shop 
+to raise money 
+these are all great ideas
+how about putting on a conert for the school band 
 use the school's venue and equipment 
 keep the costs down 
 that's a solid idea 
-a great way to show off
-the kids' talents 
-to chip in and support 
+a great way 
+to show off the kids' talents 
+happy to chip in and support 
 get the word out 
 people will definitely come 
 hosting the event at school 
@@ -1293,6 +1298,7 @@ would save us a lot on venue costs
 invite a few local bands 
 to come and perform 
 make the concert more professional 
+the band members' friends 
 and way more exciting 
 gonna show up to support 
 seeing these local bands 
@@ -1305,25 +1311,42 @@ to make some cakes
 desserts 
 to sell for fundraising 
 genius 
-the vibe willbe way more enjoyable 
+the vibe will be way more enjoyable 
+make the whole thing more fun 
 finalize the details 
+reach out to some local business 
+for sponsorship 
+the day after tomorrow 
+apply early ofr permission 
+to use the school venue 
+how to divide things up 
+put together a to-do list 
+over the next few days
 
 70212
+a proper chat 
+found any good spots around here 
+figured out the supermarket and the school 
 the waste sorting system 
 here is quite different 
 the Aussie bin system 
 confuses everyone at first 
+what's puzzling you 
 three different color bins 
-separate handling 
-is for general waste 
-for recycling 
-is for organics 
-batteries 
+what waste needs separate handling 
+the red lid 
+general waste 
+recycling 
+organics 
+some items like batteries 
 need special drop-off
-supermarkets take them 
+dispose of old electronic devices 
+holds an e-waste collection day 
+most supermarkets take them 
 where should i dispose 
-of old electronic 
-e-waste collection day 
+of old electronic devices 
+the city council holds 
+an e-waste collection day 
 at the community centre 
 grow some vegetables 
 a few raised garden beds 
@@ -1338,26 +1361,37 @@ I didn't bring any gardening tools
 the shipping costs 
 I've got to buy everything again 
 picking out new tools 
-isn't too pricy 
+be pretty fun 
+plus, that place isn't too pricey 
+which is a bonus 
 pick plants 
 that grow well in our soil 
+that'd be wonderful
 choosing the wrong plants 
 sit up front and guide me 
 
 70211
+lead trainer 
+at the dog training center 
 coworker mentioned 
-adpoted an adorable male puppy 
+adpoted 
+puppy training course 
+an adorable male puppy 
 has a great reputation 
 we offer a six-week course 
 that covers basic commands 
-and hands-on handling technicals 
-his is intuitive 
+and hands-on handling techniques 
+is super cute 
 quite naughty 
+his is intuitive 
 get him started with the course 
+that's a smart move 
 puppies are adorable 
 to nip unwanted habits 
+in the bud 
 our next session 
-my kids play with puppy all the time 
+my kids play with puppy all the time
+I'd love for them to join too 
 they can learn together 
 teach your kids 
 how to handle the puppy 
@@ -1367,25 +1401,31 @@ stuff like walking him
 grooming him 
 and feeding him properly 
 our course is a perfect fit then 
-socialization training 
+includes socialization training 
 how to interact with 
 people and other animals 
 how much does the course cost 
 crate training 
 potty training 
 rest assured 
+the course covers everything 
+you're in good hands 
 up to date on all his shots 
+got all his shots
 the price sounds very reasonable 
 the vet gave him his vaccination certificate 
 get the little guye signed up now 
 when you attend the first lesson 
 raise a well-behaved puppy 
-
+non-mischievous puppy 
 
 70210
+how are things shaping up 
+with your new business 
 were really tough 
 besiness is getting business now 
 compared to before 
+I'm way busier these days 
 I've been told 
 the previous owner 
 left a ton of junk 
@@ -1418,8 +1458,9 @@ the dog that keeps barking
 It does bark quite a lot 
 It's been driving me crazy 
 since I moved in 
-get any sleep at night 
+can't get any sleep at night 
 It belongs to 
+they don't seem to care 
 care about the dog much 
 they don't seem to care 
 I've tried talking to them 
@@ -1428,23 +1469,29 @@ strict noise regulations
 any suggestions for dealing with the noise 
 wearing earplugs to sleep 
 or use a white noise machine 
+It worked quite well 
+I'll definitely try 
 can help resolve this 
-fell free come to me anytime 
+fell free to come to me anytime 
+I really apprciate it 
 get this dog situation 
 sorted out soon 
+works very efficiently 
 be able to sleep well soon 
 
 70208
 insurance company 
+how can I assist you today 
 I had a car accident 
 file an insurance claim 
 my policy number is 
-let me pull up 
-your policy details 
+I am sorry to hear about your accident 
+let me pull up your policy details 
+Thank you for your concern 
 the car is quite damaged 
 the other driver admitted fault 
-is active and comprehensive 
-in the accident 
+your policy is active and comprehensive 
+what happened in the accident 
 waiting at a red light 
 at an intersection 
 the car behind rear-ended me 
@@ -1459,34 +1506,34 @@ provide the other driver's details
 just me alone 
 was wearing a seatbelt 
 i wasn't injured 
+That's very fortunate 
 start processing your claim 
 receive a claim number within 24 hours 
 just keep all receipts for any expenses 
 reimburse you for reasonable costs 
 
-
 70207
 restaurant 
 book a private room 
 a wonderful celebration 
-check out our availability 
-my father's birthday part 
+let me check out our availability 
+it's my father's birthday part 
 he's turning 60 this year 
 a special surprise 
 that's a milestone 
 worth celebrating 
-can the room held 
+how many people can the room held 
 we need enough space 
 some performances 
 comfortably seat up to 20 people 
 space for entertainment 
 and a dance floor 
-need to pay a deposit 
+Do we need to pay a deposit 
 deposit to confirm the booking 
 accept both credit cards and cash 
 process your payment now 
 please contact me in time 
-confirm your booking 
+to confirm your booking 
 approximately 
 receive a confirmation email shortly 
 Is there anything else I should know 
@@ -1496,11 +1543,11 @@ smart casual attire
 is recommended 
 we can also arrange 
 a birthday cake 
-and decorations 
+and decorations If you'd like 
 prepare a birthday cake 
 help with the decorations 
 pay extra for the costs 
-make a note 
+Excellent! I'll make a note 
 of your sepcial requests 
 everything will be ready 
 
@@ -1518,23 +1565,75 @@ teach both subjects
 what made you decide to move to Australia 
 different education systems 
 learn new teaching methods 
-educational philosophy 
+Australia's educational philosophy 
 is very advanced 
 I'd like to develop here
 That's a great attitude 
-learning abilities 
+How do you handle 
+different learning abilities 
+differentiated instruction 
+designing different tasks 
+at different level 
 organize group activities 
-stronger students help weaker ones 
+letting stronger students help weaker ones 
 communicate with parents 
 about children's progress 
-regular contact 
-the child's strengths 
-and areas for improvements
+maintain regular contact with prarents
+strengths and areas for improvements
 was consistently disruptive 
 talk privately with this student 
 he behaves this way 
 a behavior improvement plan 
 with with parents and school counselors
+good problem-solving skills 
+when could you start 
+if we offer you the position
+all the necessary documents ready 
+the school board 
+get back to you 
+
+70205
+I saw your ad 
+for the 2018 Toyota Camry
+is it still available 
+yes, it's still for sale 
+the car is in good condition 
+only driven 50, 000 km 
+do you want to see it 
+I'm looking for 
+a reliable family car 
+can you tell me more about it 
+this car is my first owner 
+regularly maintained 
+no accidents 
+the interior is also clean 
+that sounds promising 
+what's the asking price 
+are you flexible on the price
+I'm asking for $25, 000
+but if you're really interested 
+we can negotiate 
+could you come down to that price 
+is a bit low 
+if you can decide today 
+I can consider #23, 000
+this price is very reasonable 
+take it for a test drive 
+a driver's license 
+take a drive around 
+check the engine 
+brakes 
+transmission 
+the car is over there 
+the car drives well 
+the air conditioning 
+that's a concern 
+not expensive to fix 
+reduce another $500
+include the service history 
+registration papers 
+
+
 
 70204
 
