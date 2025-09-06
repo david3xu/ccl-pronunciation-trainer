@@ -3869,7 +3869,7 @@ Briefing: This dialogue is a conversation between an English-speaking insurance 
     这听起来是个 _和家人共享_ _美好时光_ 的 _很棒的方式_。| _水上驾驶_ 很 _受欢迎_，| _游艇_ 确实是个 _不错的选择_！
 
 10. 是的，| 我想和 _孩子们_ _一起出去_ _野餐_，| _享受_ 在 _夏天游泳_ 的乐趣。
-    _Yes! I'd love to take them out_ _for _picnics and enjoy swimming in summer_.
+    _Yes! I'd love to take them out_ _for picnics and enjoy swimming in summer_.
 
 11. _We offer a range of insurance policies_ _for different types and sizes of boats_. | _Plus, we have discounts for customers_ _who already have policies with us_.
     我们提供 _针对_ _不同类型和尺寸船只_ 的 _各种保险保单_。| _此外_，| 对于 _已经_ 在我们公司 _投保_ 的客户，| 还有 _折扣优惠_。
@@ -3905,31 +3905,31 @@ Briefing: This dialogue is a conversation between an English-speaking council re
     _没错_，| 因为 _降雨量不足_，| 我们需要 _节约用水_。| 这意味着 _家里用水_ 会有 _一些规则_，| 关于 _怎么用水_ 和 _什么时候用水_。
 
 6.  我 _明白了_。| 那很 _有道理_。| 在我的国家，| 我们有 _季风_，_干旱_，_洪水_。| 这些甚至比 _降水量少_ _更严重_，| 我知道在 _澳大利亚_ 的情况 _不一样_。
-    _I see. That makes a lot of sense_. | _In my country, we have monsoons, droughts, and floods_. | _Those are even worse than low rainfall_. | I know the situation is _different_ in _Australia_.
+    _I see. That makes a lot of sense_. | _In my country, we have monsoons, droughts, and floods_. | _Those are even worse than low rainfall_. | _I know the situation is different in Australia_.
 
-7.  _Exactly_. | When we don't _get enough rain_, | the _water levels_ in the _reservoirs behind dams_ _drop_, | which affects our _drinking water supply_. | _This is a problem_.
+7.  _Exactly. When we don't get enough rain_, | _the water levels_ _in the reservoirs behind dams drop_, | _which affects our drinking water supply_. | _This is a problem_.
     _没错_。| 如果 _降雨不足_，| _大坝后_ 的 _水库水位_ 就会 _下降_，| 这会影响我们的 _饮用水供应_。| _这是个问题_。
 
 8.  但是，| 在 _天气很热很干_ 的时候，| 我的 _草坪和花园_ 都会被 _影响到_。| 我可以给它们 _浇水_ 吗？
-    But when it's _really hot and dry_, | my _lawn and garden_ get _affected_. | Am I _allowed to water_ them?
+    _But when it's really hot and dry_, | _my lawn and garden get affected_. | _Am I allowed to water them_?
 
-9.  _Yes_, you can, | but only with _a watering can_. | And you should do it _before 10AM_ or _after 4 PM_—just not _in the middle of the day_.
+9.  _Yes, you can, but only with a watering can_. | _And you should do it before 10AM or after 4 PM_—_just not in the middle of the day_.
     _是的_，您可以，| 但只能用 _浇水壶_。| 而且您应该在 _早上 10 点之前_ 或 _下午 4 点之后_ _浇水_，| 不要在 _中午时分_。
 
 10. _好的_，| 我会 _照你说的做的_。| 我会去 _园艺中心_ 买个 _喷壶_。| 我想我们只能 _希望早点下雨_。
-    _Got it_! | I'll _follow the rules_. | I'll go to _a gardening center_ to buy _a watering can_. | I guess we can only _hope for some rain soon_.
+    _Got it! I'll follow the rules_. | _I'll go to a gardening center_ _to buy a watering can_. | _I guess we can only hope for some rain soon_.
 
-11. If you need _more information_ about _water restrictions_, | you can _check_ the _council's website_. | There's _a page_ with _all the details_.
+11. _If you need more information about water restrictions_, | _you can check the council's website_. | _There's a page with _all the details_.
     如果您需要 _更多关于_ _用水限制_ 的信息，| 可以 _查阅_ _市政网站_。| _网站上_ 有 _一页_ _详细介绍_ _所有内容_。
 
 12. _听起来很不错_。| 我会去 _网站上看看_ 的。| 我不想因为 _不熟悉规定_ 而 _做错事情_。
-    _That sounds great_. | I'll _check out the website_. | I don't want to _make any mistakes_ because I'm _not familiar with the rules_.
+    _That sounds great. I'll check out the website_. | _I don't want to make any mistakes_ _because I'm not familiar with the rules_.
 
-13. _Restrictions_ will _change as well_. | You can _sign up for notifications_ on the website, | so you'll _always be updated_. | _This would help you_.
+13. _Restrictions will change as well_. | _You can sign up for notifications on the website_, | _so you'll always be updated. This would help you_.
     _限制_ 也会 _发生变化_。| 您可以在网站上 _注册接收通知_，| 这样您就能 _随时获得更新_。| _这会帮助您_。
 
 14. 这是个 _好主意_。| _谢谢你_ _今天的帮助_。| 我现在就去 _网站上看看_。
-    _That's a good idea_. | _Thanks for your help_ today. | I'll _go check out the website_ now.
+    _That's a good idea. Thanks for your help today_. | _I'll go check out the website now_.
 
 ---
 
@@ -3937,47 +3937,47 @@ Briefing: This dialogue is a conversation between an English-speaking council re
 
 Briefing: This dialogue is a conversation between an English-speaking animal shelter staff member and a Mandarin-speaking potential foster parent. They are discussing fostering options for pets, especially dogs suitable for elderly residents. The dialogue begins now.
 
-1.  _Good morning_! | _Welcome to_ the _animal shelter_. | _Let me know_ how I can _help you today_.
+1.  _Good morning! Welcome to the animal shelter_. | _Let me know how I can help you today_.
     _早上好_！| _欢迎来到_ _动物收容所_。| 我今天能 _怎么帮助你_ 呢？
 
 2.  你好，| 我 _经常从这里路过_。| 我看到你们门上贴了 关于 _小猫和小狗_ 的 _领养海报_。
-    _Hi_! | I _walk past here quite often_. | I saw some _adoption posters_ for _kittens and puppies_ on your door.
+    _Hi! I walk past here quite often_. | _I saw some adoption posters_ _for kittens and puppies on your door_.
 
-3.  I can _introduce you to_ our _adoption options_, | whether you're interested in _a dog_, _a cat_, | or even _a bird_. | We also have _some rabbits_ at the moment.
+3.  _I can introduce you to our adoption options_, | _whether you're interested in_ _a dog, a cat, or even a bird_. | _We also have some rabbits at the moment_.
     我可以 _给你介绍_ 我们的 _领养选项_，| 你可以选择 _狗_、_猫_，| 甚至是 _鸟_。| 我们现在还有 _一些兔子_ 哦。
 
 4.  我现在还 _不能正式领养_ _宠物_，| 但是我可以 _暂时照看_ _动物_。
-    I _can't officially adopt_ a _pet_ right now, | but I can _foster animals_ _temporarily_.
+    _I can't officially adopt a pet right now_, | _but I can foster animals temporarily_.
 
-5.  _That's also great_! | _Temporary fostering_ helps us _a lot_. | It's also _beneficial to the animals_, | but we expect you to _commit to it_ for _at least one month_.
+5.  _That's also great_! | _Temporary fostering helps us a lot_. | _It's also beneficial to the animals_, | _but we expect you to commit to it_ _for at least one month_.
     _那也太棒了_！| _临时寄养_ 对我们 _帮助很大_，| 对 _动物们_ 也 _很有好处_。| 但我们希望你 _至少能照顾_ _一个月_。
 
 6.  我很 _乐意照顾动物_ _一个月_。| 但是我 _不知道_ _猫_ 还是 _狗_ _更适合我_。
-    I'd love to _foster_ for _a month_. | But I'm _not sure_ whether _a cat_ or _a dog_ would be a _better fit for me_.
+    _I'd love to foster for a month_. | _But I'm not sure whether a cat or a dog_ _would be a better fit for me_.
 
-7.  _Dogs and cats_ have _different needs_. | It depends on your _living situation_ and _personal preference_.
+7.  _Dogs and cats have different needs_. | _It depends on your living situation_ _and personal preference_.
     _猫狗_ 的需求 _不太一样_，| 这主要取决于你的 _生活环境_ 和 _个人喜好_。
 
 8.  我和我的 _老父亲_ _住在一起_，| 我们都 _喜欢狗_。| 不过，| 我的父亲 _拄着拐杖_，| 我们 _不能照顾_ _太活泼的狗_。
-    I live with my _elderly father_, | and we both _love dogs_. | But my father _uses a cane_, | so we _can't handle_ a dog that's _too energetic_.
+    _I live with my elderly father_, _and we both love dogs_. | _But my father uses a cane_, _so we can't handle a dog_ _that's too energetic_.
 
-9.  _Even though_ some _well-behaved big dogs_ are _great companions_, | they may not be _ideal for the elderly_ or those with _mobility issues_. | _A small dog_ might be a _better choice_.
+9.  _Even though some well-behaved big dogs_ _are great companions_, | _they may not be ideal for the elderly_ _or those with mobility issues_. | _A small dog might be a better choice_.
     尽管 _一些_ _性格温顺的大狗_ 很适合 _作伴_，| 但它们可能 _不太适合_ _老人_ 或者 _行动不便的人_。| _一只小狗_ 可能会 _更合适_。
 
 10. _小狗_ _更容易遛_。| 我在你们的 _海报上_ 看到了 _一只毛茸茸的小狗_。
-    _Small dogs_ are _easier to walk_. | I saw _a fluffy little dog_ on your poster.
+    _Small dogs are easier to walk_. | _I saw a fluffy little dog_ _on your poster_.
 
-11. _Yes_, | I know _which dog you're talking about_. | It's _well-behaved_ and would be _a good fit_ for you and your father.
+11. _Yes, I know which dog you're talking about_. | _It's well-behaved_ _and would be a good fit for you and your father_.
     _对_，| 我知道你说的是 _哪只狗_。| 它很 _乖_，| 应该很 _适合你和你父亲_。
 
 12. _太棒了_！| 我想 _领养它_。| 我需要 _办理什么手续_？| 虽然我 _不太了解_ _具体流程_，| 但我很 _开心能做这件事_。
-    _This is amazing_! | I want to _adopt it_. | What _paperwork_ do I need to complete? | I'm _not too familiar_ with the _process_, | but I'm really _happy to do this_.
+    _This is amazing! I want to adopt it_. | _What paperwork do I need to complete_? | _I'm not too familiar with the process_, | _but I'm really happy to do this_.
 
-13. You need to _fill out_ an _application form_ first. | Once that's done, | we will _conduct a home visit_ to ensure your _living environment_ is _suitable for a dog_.
+13. _You need to fill out_ _an application form first_. | _Once that's done, we will conduct a home visit_ _to ensure your living environment_ _is suitable for a dog_.
     你需要先 _填写_ _一份申请表_。| _填好后_，| 我们会 _进行一次家访_，| 来 _确保你的居住环境_ 是 _适合养狗的_。
 
 14. 我 _明白了_，_没问题_。| 我可以 _现在就填表格_！| 我很 _期待_ 和 _父亲一起_ _照顾_ _这个小家伙_。
-    _Got it_, _no problem_! | I can _fill out the form_ right now. | I'm really _looking forward to_ _taking care of_ _this little one_ with my father.
+    _Got it, no problem_! | _I can fill out the form right now_. | _I'm really looking forward to_ _taking care of this little one with my father_.
 
 ---
 
@@ -3985,41 +3985,41 @@ Briefing: This dialogue is a conversation between an English-speaking animal she
 
 Briefing: This dialogue is a conversation between an English-speaking election office staff member and a Mandarin-speaking new citizen. They are discussing voter registration requirements and processes for Australian elections. The dialogue begins now.
 
-1.  _Good morning_, _welcome_. | I believe you're here for _some information about voting in Australia_.
+1.  _Good morning, welcome_. | _I believe you're here for some information_ _about voting in Australia_.
     _早上好_，_欢迎_。| 我想您是来 _了解_ _澳大利亚的_ | _投票信息_ 的吧。
 
 2.  _可不是嘛_。| 我知道 _全国大选_ _没多久了_，| 我想知道我 _能不能投票_。
-    _Exactly_. | I know the _national election_ is _coming up soon_, | and I'd like to know if I'm _eligible to vote_.
+    _Exactly. I know the national election_ _is coming up soon_, | _and I'd like to know if I'm eligible to vote_.
 
-3.  You can _enroll to vote_ if you're _a citizen_ and _over 18 years old_.
+3.  _You can enroll to vote_ _if you're a citizen and over 18 years old_.
     如果您是 _公民_，| 并且 _年满 18 岁_，| 就可以 _登记投票_。
 
 4.  我当然 _不止 18 岁_ 了！| 我 _去年 6 月份_ _成为了_ _澳大利亚公民_，| 我还有 _护照_。
-    I'm definitely _over 18_! | I _became_ an _Australian citizen_ _last June_, | and I have my _passport_.
+    _I'm definitely over 18_! | _I became an Australian citizen last June_, | _and I have my passport_.
 
-5.  _Great_. | You must also have _lived at your current address_ | _for more than one month_ in order to vote.
+5.  _Great. You must also_ _have lived at your current address_ | _for more than one month in order to vote_.
     _很好_。| 您还需要在 _现住址_ _居住超过一个月_，| 才可以 _投票_。
 
 6.  _当然_，| 我在这里 _住了 3 年_ 了。| 我还 _不太明白_ _怎么注册_，| 你能 _解释一下_ 吗？
-    _Of course_, | I've _lived here for three years_. | I'm still _not clear_ on _how to enroll_—could you _explain_?
+    _Of course, | I've lived here for three years_. | _I'm still not clear on how to enroll_—_could you explain_?
 
-7.  _Before you can vote_, | you have to _include your name_ on _the roll_. | You can _enroll online_ using your passport as _proof of identity_.
+7.  _Before you can vote_, _you have to include your name on the roll_. | _You can enroll online_ _using your passport as proof of identity_.
     在 _投票之前_，| 您需要把 _名字加入_ _选民名单_。| 您可以通过 _护照_ 在 _网上登记_，| 作为 _身份证明_。
 
 8.  _听起来_ 这是 _最容易的办法_。| 我还想 _了解其他注册方法_，| 有时候因为我 _住的地方_ 的 _网络问题_，| 我 _没办法上网_。
-    _That sounds like_ the _easiest way_. | I'd like to _know about other methods to enrol_. | Sometimes, _the internet_ where I live has _issues_, | so I _can't get online_.
+    _That sounds lik the easiest way_. | _I'd like to know about other methods to enrol_. | _Sometimes, the internet where I live has issues_, | _so I can't get online_.
 
-9.  You can _print_ the _enrollment form_ from the _election website_, | and then _mail_ or _email it_ to the _election office_. | Or you can _visit_ the _election office_ and _enrol in person_.
+9.  _You can print the enrollment form_ _from the election website_, | _and then mail or email it_ _to the election office_. | _Or you can visit the election office_ _and enrol in person_.
     您可以从 _选举网站_ _打印注册表_，| 然后 _邮寄_ 或 _电邮给_ _选举办公室_。| 您也可以 _亲自到_ _选举办公室_ _注册_。
 
 10. _谢谢_，| 现在我有 _更多选择_ 了。| 我会 _尽早注册_，| 我不想 _错过投票_，| 离 _大选_ 已经 _没几个月了_。
-    _Thank you_, | I have _more options_ now. | I'll _enrol as soon as possible_. | I don't want to _miss voting_, | and the election is only _a few months away_.
+    _Thank you, I have _more options now_. | _I'll enrol as soon as possible_. | _I don't want to miss voting_, | _and the election is only a few months away_.
 
-11. _By law_, _Australian citizens_ _must vote_, | or you'll be _fined_ if you don't. | You're _doing the right thing_ by _enrolling early_.
+11. _By law, Australian citizens must vote_, | _or you'll be fined if you don't_. | _You're doing the right thing by enrolling early_.
     _根据法律_，| _澳大利亚公民_ _必须投票_，| 否则会被 _罚款_。| 您现在 _注册_ 是个 _正确的选择_。
 
 12. 我之前 _不知道_，| _投票_ 让我很 _兴奋_！| 我会去 _查看网站_ 并且 _注册_，| _谢谢你的帮助_，| 和你 _交谈很高兴_。
-    I _didn't know that_ before. | I'm _excited to vote_! | I'll _check the website and enroll_. | _Thanks for your help_; | it's been _nice talking with you_.
+    _I didn't know that before_. | _I'm excited to vote_! | _I'll check the website and enroll_. | _Thanks for your help_ _it's been nice talking with you_.
 
 ---
 
@@ -4028,47 +4028,47 @@ Briefing: This dialogue is a conversation between an English-speaking election o
 
 Briefing: This dialogue is a conversation between an English-speaking council representative and a Mandarin-speaking entrepreneur. They are discussing regulations and permits required for starting a home-based food business. The dialogue begins now.
 
-1.  _Good afternoon, this is Christine_. | _How can I help_ _you today_?
+1.  _Good afternoon, this is Christine_. | _How can I help you today_?
     下午好，我是克莉丝汀。今天有什么我可以帮您的吗？
 
 2.  你好，克莉丝汀。我想在家里开一个食品生意，我想要了解，市政厅在这方面有什么规定。
-    _Hi, Christine. I want_ _to start a food_ _business from home_, | _and I'd like to_ _understand the council regulations_ _for it_.
+    _Hi, Christine. I want to start a food business from home_, | _and I'd like to_ _understand the council regulations for it_.
 
-3.  _Sounds exciting! I can_ _give you some general_ _information_. | _Can you tell me_ _what type of food_ _you're planning to sell_?
+3.  _Sounds exciting! I can_ _give you some general information_. | _Can you tell me what type of food_ _you're planning to sell_?
     听起来很棒！我可以给您一些基本信息。您打算卖哪类食品呢？
 
 4.  我想做一些蛋糕和饼干，并通过网上商店和实体店来卖它们。
-    _I want to make_ _cakes and cookies and_ _sell them through an_ _online store and a_ _local shop_.
+    _I want to make cakes and cookies_ _and sell them through an online store_ _and a local shop_.
 
-5.  _Ok. Firstly, the council_ _requires you to have_ _a permit to sell food_.
+5.  _Ok. Firstly, the council requires you to have_ _a permit to sell food_.
     好的。首先，市政要求您持有销售食品的许可。
 
 6.  我不确定需要提供什么信息给市政厅，您能给我解释一下吗？
-    _I'm not sure what_ _information I need to_ _provide to the council_. | _Could you explain_?
+    _I'm not sure what information I need to_ _provide to the council_. | _Could you explain_?
 
-7.  _You need to include_ _details of your products_ _and the ingredients you're_ _going to use_. | _You'll also need a_ _permit to prepare them_.
+7.  _You need to include details of your products_ _and the ingredients you're going to use_. | _You'll also need a permit to prepare them_.
     您需要提供您产品的详细信息以及所用的原料。此外，您需要一个许可证来制作它们。
 
 8.  我会的，| 我会在家里的厨房里备料和烘焙。| 我还知道会有检查。
-    _I will. I'll be_ _doing the preparation and_ _baking in my home kitchen_. | _I also understand there_ _will be an inspection_.
+    _I will. I'll be doing the preparation_ _and baking in my home kitchen_. | _I also understand there will be an inspection_.
 
 9.  是的，您说得对。| 市政工作人员会到您家里检查厨房，| 以确保符合食品经营的标准。
-    _Yes, that's right. A_ _council officer will come_ _to inspect your kitchen_ | _to ensure it meets_ _food business standards_.
+    _Yes, that's right. A council officer_ _will come to inspect your kitchen_ | _to ensure it meets_ _food business standards_.
 
 10. 好的，| 厨房里有足够的空间来备料，| 我也会保持厨房的整洁，| 希望我能够达到许可的标准。
-    _Alright, my kitchen has_ _enough space for preparation_, | _and I'll keep it clean_. | _I hope I can_ _meet the permit requirements_.
+    _Alright, my kitchen has_ _enough space for preparation_, | _and I'll keep it clean_. | _I hope I can meet the permit requirements_.
 
-11. _You'll also need proper storage_. | _I'll send you an_ _information pack that explains_ _exactly what you need_ _to do to get_ _a permit_.
+11. _You'll also need proper storage_. | _I'll send you an information pack_ _that explains exactly what you need_ _to do to get a permit_.
     您还需要有适当的储存空间。| 我会寄给您一份信息包，| 里面会详细说明如何获得许可证。
 
 12. 谢谢，| 我确实需要详细的信息。| 我以前从来没有开过食品生意。
-    _Thank you. I do_ _need detailed information_. | _I've never run a_ _food business before_.
+    _Thank you. I do need detailed information_. | _I've never run a food business before_.
 
 13. _Info packs are designed_ _to help newcomers_. | _They're easy to follow_ _and simple to read_.
     信息包是为新手准备的，| 很容易理解和阅读。
 
 14. 太好了，| 我收到以后一定会好好阅读的。| 如果我有其他问题的话，| 再给您打电话。
-    _Great, I'll go over_ _it carefully once I_ _receive it_. | _I'll call you if_ _I have more questions_.
+    _Great, I'll go over it carefully_ _once I receive it_. | _I'll call you if I have more questions_.
 
 ---
 
@@ -4077,40 +4077,40 @@ Briefing: This dialogue is a conversation between an English-speaking council re
 Briefing: This dialogue is a conversation between an English-speaking furniture store employee and a Mandarin-speaking customer. They are discussing bedroom furniture purchases and payment plan options. The dialogue begins now.
 
 1.  下午好，| 我是伊恩。| 您在店里需要任何帮助，| 随时跟我说。
-    _Good afternoon, I'm Ian_. | _Let me know if_ _I can help you_ _with anything in the store_.
+    _Good afternoon, I'm Ian_. | _Let me know if I can help you_ _with anything in the store_.
 
 2.  你好，伊恩，| 请帮帮我，| 我想买一个双人床，| 一个衣柜，| 还有两个床头柜。
-    _Hello, Ian, I need_ _your help_. | _I want to buy_ _a double bed_, | _a wardrobe, and two_ _bedside tables_.
+    _Hello, Ian, I need your help_. | _I want to buy a double bed_, | _a wardrobe, and two bedside tables_.
 
 3.  好的，| 我们有很多不同的| 卧室家具。| 我相信| 您会找到| 适合您尺寸的。
-    _Yes, we have a_ _lot of different bedroom_ _furniture_. | _I'm sure you'll find_ _the size that suits you_.
+    _Yes, we have a lot of different bedroom furniture_. | _I'm sure you'll find_ _the size that suits you_.
 
 4.  我很喜欢| 这个深色木质家具，| 但它要2000澳元，| 而我银行账户上| 没有那么多钱。
-    _I really like this_ _dark wood furniture_, | _but it costs $2000_, | _and I don't have_ _that much in my_ _bank account_.
+    _I really like this dark wood furniture_, | _but it costs $2000_, | _and I don't have that much in my bank account_.
 
-5.  _You can pay by_ _credit card. We also_ _have a payment plan_. | _To qualify, you need_ _to earn more than_ _5,000 dollars a year_ _and work full-time_.
+5.  _You can pay by credit card_. _We also have a payment plan_. | _To qualify, you need to earn more than_ _5,000 dollars a year_ _and work full-time_.
     您可以使用信用卡付款。| 我们也有分期付款方案。| 要符合条件，| 您的年收入需超过5000澳元，| 且需全职工作。
 
 6.  我没有信用卡，| 但是我确实是| 全职工作。| 我想更多地了解一下| 付款计划的信息。
-    _I don't have a_ _credit card, but I_ _am working full-time_. | _I'd like to learn_ _more about the payment plan_.
+    _I don't have a credit card, but I am working full-time_. | _I'd like to learn more about the payment plan_.
 
-7.  _You need to pay_ _84 dollars each month_. | _You have two years_ _to pay back the_ _2,000 dollars_.
+7.  _You need to pay 84 dollars each month_. | _You have two years to pay back the 2,000 dollars_.
     您每月需要支付84澳元，| 您有两年的时间| 来偿还这2000澳元。
 
 8.  这个付款方式| 有额外的费用| 或者利息吗？| 如果我用这个付款计划的话，| 会不会付得更多？
-    _Are there any extra_ _fees or interest with_ _this payment method_? | _Would I end up_ _paying more if I_ _use this payment plan_?
+    _Are there any extra fees or interest with this payment method_? | _Would I end up paying more_ _if I use this payment plan_?
 
-9.  _You need to pay_ _a 90-dollar application fee_ _for this plan_. | _There won't be any_ _additional charges if you_ _repay the loan within_ _two years_.
+9.  _You need to pay a 90-dollar application fee_ _for this plan_. | _There won't be any additional charges_ _if you repay the loan within two years_.
     您需要支付90澳元的申请费用。| 如果您在两年内| 还清贷款，| 则不会有额外的费用。
 
 10. 那我应该可以| 在两年之内还完。| 不过，| 如果我确实需要| 额外的时间| 来还款的话，| 会怎么样呢？
-    _Then I should be_ _able to repay it_ _within two years_. | _But what if I_ _do need extra time_ _to pay it off_?
+    _Then I should be able to repay it within two years_. | _But what if I do need extra time_ _to pay it off_?
 
-11. _After two years, we_ _will charge you 10_ _percent interest if you_ _need more time to repay_. | _If you'd like to_ _apply for the plan_, | _I can help you now_.
+11. _After two years, we will charge you 10 percent interest_ _if you need more time to repay_. | _If you'd like to apply for the plan_, | _I can help you now_.
     两年之后，| 如果您需要更多时间| 来还款，| 我们将收取10%的利息。| 如果您想申请这个方案，| 我现在可以帮您。
 
 12. 没问题，| 我想现在申请。| 我觉得| 这个付款计划| 很适合我，| 我真的很期待| 能买这套卧室家具。
-    _No problem, I'd like_ _to apply now_. | _I think this payment_ _plan is perfect for me_, | _and I'm really looking_ _forward to getting this_ _bedroom furniture set_.
+    _No problem, I'd like to apply now_. | _I think this payment plan is perfect for me_, | _and I'm really looking forward to_ _getting this bedroom furniture set_.
 
 ---
 
@@ -4119,46 +4119,46 @@ Briefing: This dialogue is a conversation between an English-speaking furniture 
 Briefing: This dialogue is a conversation between an English-speaking language school representative and a Mandarin-speaking parent. They are discussing Spanish language lessons for the parent's daughter who plans to travel to Europe. The dialogue begins now.
 
 1.  下午好。| 这是语言学习学校。| 我叫杰克。
-    _Good afternoon. This is_ _the language learning school_. | _My name is Jack_.
+    _Good afternoon. This is the language learning school_. | _My name is Jack_.
 
 2.  下午好。| 我想咨询一下| 给女儿安排语言课程。
-    _Good afternoon. I'd like_ _to ask about arranging_ _language lessons for my daughter_.
+    _Good afternoon. I'd like to ask about_ _arranging language lessons for my daughter_.
 
-3.  _Certainly, I'm happy to help_. | _Could you tell me_ _a bit more about_ _your daughter and why_ _she wants to learn_ _a new language_?
+3.  _Certainly, I'm happy to help_. | _Could you tell me a bit more about_ _your daughter and why she wants to learn a new language_?
     当然可以。| 我很乐意帮忙。| 您能多告诉我一些| 关于您女儿的事，| 以及她为什么想学一门新语言吗？
 
 4.  她已经16岁了，| 她决定| 在两年后，| 去国外旅行| 一段时间。
-    _She's 16 now, and_ _she's decided to travel_ _overseas for a while_ _in two years_.
+    _She's 16 now, and she's decided to_ _travel overseas for a while in two years_.
 
-5.  _That sounds exciting! It's_ _great for her to_ _have an adventure planned_ _and something to look_ _forward to after finishing school_.
+5.  _That sounds exciting! It's great for her to_ _have an adventure planned_ _and something to look forward to after finishing school_.
     听起来真让人兴奋！| 有冒险计划，| 完成学业后| 也有所期待，| 真棒。
 
 6.  是的，| 这对她非常好。| 学习语言可以帮她| 为出国做好准备，| 旅游也会更轻松，| 还可以让她更好地| 和当地人交流。
-    _Yes, it's really good_ _for her. Learning a_ _language will help her_ _get ready for going_ _overseas, make traveling easier_, | _and allow her to_ _communicate better with the locals_.
+    _Yes, it's really good for her_. _Learning a language will help her_ _get ready for going overseas_, _make traveling easier_, | _and allow her to communicate better with the locals_.
 
-7.  _That's an excellent idea_. | _We have several young_ _students here. They are_ _also learning a new_ _language to travel overseas_ _after school_.
+7.  _That's an excellent idea_. | _We have several young students here_. _They are also learning a new language to travel overseas after school_.
     这是个很好的主意。| 我们这里有好几个| 年轻学生，| 他们也在学一门新语言，| 以便毕业后| 能去海外旅行。
 
 8.  很高兴| 听到其他同学也是这样的。| 她准备去欧洲旅游。| 大部分的时间，| 她会在西班牙。
-    _I'm glad to hear_ _that other students are_ _doing the same_. | _She plans to travel_ _around Europe, and she'll_ _spend most of her_ _time in Spain_.
+    _I'm glad to hear_ _that other students are doing the same_. | _She plans to travel around Europe_, _and she'll spend most of her time in Spain_.
 
-9.  _OK. We do offer_ _Spanish lessons. The next_ _beginner class will be_ _held at the end_ _of next month_. | _That should be good timing_.
+9.  _OK. We do offer Spanish lessons_. _The next beginner class will be held_ _at the end of next month_. | _That should be good timing_.
     好的。| 我们确实提供| 西班牙语课程。| 下一期的初级班| 是下个月底开。| 这个时机应该很合适。
 
 10. 这个…| 我不确定| 这个是不是合适。| 她希望| 下周左右| 就能开始上课。
-    _Well, I'm not sure_ _if that works_. | _She hopes to start_ _classes around next week_.
+    _Well, I'm not sure if that works_. | _She hopes to start classes around next week_.
 
-11. _We may be able_ _to arrange some lessons_ _that suit her in_ _the meantime_. | _Why don't we meet_ _up and discuss the options_?
+11. _We may be able to arrange some lessons_ _that suit her in the meantime_. | _Why don't we meet up and discuss the options_?
     在这期间，| 我们也许可以安排| 一些适合她的课程。| 我们见面聊聊看| 都有哪些选择，| 您看怎么样？
 
 12. 那太好了，| 但我们要上学和工作，| 很难| 在白天的时候见面。
-    _That sounds great, but_ _with school and work_, | _it's hard for us_ _to meet during the day_.
+    _That sounds great, but with school and work_, | _it's hard for us_ _to meet during the day_.
 
-13. _That won't be a_ _problem. Most of the_ _classes are in the_ _evenings or on weekends_. | _I'm sure we can_ _find a suitable time_.
+13. _That won't be a problem_. _Most of the classes are in the evenings or on weekends_. | _I'm sure we can find a suitable time_.
     这不是问题。| 大部分课程| 都是在晚上或周末。| 我相信| 我们能找到| 合适的时间。
 
 14. 谢谢你，| 我会和女儿| 商量好时间，| 再打电话来| 预约的。
-    _Thank you! I'll discuss_ _a time with my_ _daughter and call back_ _to make an appointment_.
+    _Thank you! I'll discuss a time with my daughter_ _and call back to make an appointment_.
 
 ---
 
@@ -4167,46 +4167,46 @@ Briefing: This dialogue is a conversation between an English-speaking language s
 Briefing: This dialogue is a conversation between two English-speaking friends, one of whom is bilingual and speaks Mandarin. They are discussing planning an engagement party, including venue selection and event organization. The dialogue begins now.
 
 1.  你好，| 最近怎么样？| 我刚收到| 你女儿| 订婚派对的请帖。
-    _Hi, how are you_? | _I just received an_ _invitation to your daughter's_ _engagement party_.
+    _Hi, how are you_? | _I just received an invitation_ _to your daughter's engagement party_.
 
 2.  哦，| 那太好了! | 我还在想着，| 你什么时候| 才能收到请帖呢。
-    _Oh, that's great_! | _I was just wondering_ _when you'd get the invitation_.
+    _Oh, that's great! I was just wondering_ _when you'd get the invitation_.
 
-3.  _Yes, mail service is_ _slow these days, but_ _it is nicer to_ _receive a proper invitation_ _rather than an email_.
+3.  _Yes, mail service is slow these days, but_ _it is nicer to_ _receive a proper invitation_ _rather than an email_.
     是啊，| 最近邮递服务| 慢了点，| 但比起邮件，| 收到| 正式的请帖| 还是更好。
 
 4.  我希望，| 大家都能来| 她的订婚仪式。| 我们的请帖| 发得比较早，| 因为，| 我们需要一些时间| 去准备。| 我真的希望，| 你能来参加。
-    _I really hope everyone_ _can come to her_ _engagement party_. | _We sent the invitations_ _out early because we_ _need some time to prepare_. | _I really hope you_ _can make it_.
+    _I really hope everyone_ _can come to her engagement party_. | _We sent the invitations out early_ _because we need some time to prepare_. | _I really hope you_ _can make it_.
 
-5.  _I understand. It's an_ _important occasion and there's_ _a lot to plan_. | _I should be able_ _to come, and I_ _will put the date_ _into my diary_.
+5.  _I understand. It's an important occasion_ _and there's a lot to plan_. | _I should be able to come_, _and I will put the date into my diary_.
     我明白，| 这是个重要的场合，| 有很多要安排的。| 我应该能去，| 我会把日期| 记在日历上。
 
 6.  那我就太高兴了！| 我希望| 能找到| 一个好地方，| 把大家都聚在一起。| 我和我女儿| 还没确定| 在哪里| 举行仪式呢！
-    _That would make me_ _so happy! I hope_ _we can find a_ _good place to bring_ _everyone together_. | _My daughter and I_ _haven't decided on the_ _venue yet_.
+    _That would make me so happy_! _I hope we can find a good place to bring_ _everyone together_. | _My daughter and I_ _haven't decided on the venue yet_.
 
-7.  _Oh dear. It can_ _be hard to find_ _a good place_. | _If she wants to_ _have a formal one_, | _I know somewhere good_. | _It's a new restaurant_ _that overlooks a lovely beach_.
+7.  _Oh dear. It can be hard to find_ _a good place_. | _If she wants to_ _have a formal one_, | _I know somewhere good_. | _It's a new restaurant_ _that overlooks a lovely beach_.
     哎呀，| 找个好地方| 确实不容易。| 如果她想办个正式的，| 我知道| 一个不错的地方。| 是一家新开的餐厅，| 能看到美丽的| 海滩景色。
 
 8.  她确实想要| 一个正式的仪式。| 她希望| 每个人都盛装出席，| 或者，| 至少| 穿得正式一点。| 她想办一个酒会，| 而不是坐下吃饭的| 晚宴。
-    _She does want a_ _formal ceremony. She hopes_ _everyone will dress up_, | _or at least wear_ _something a bit formal_. | _She's thinking of having_ _a cocktail party, not_ _a sit-down banquet_.
+    _She does want a formal ceremony_. _She hopes everyone will dress up_, | _or at least wear something a bit formal_. | _She's thinking of having_ _a cocktail party_, _not a sit-down banquet_.
 
-9.  _That restaurant is perfect_ _for her then_. | _There is a beautiful_ _beach view with a_ _deck outside and fancy_ _décor inside_.
+9.  _That restaurant is perfect for her then_. | _There is a beautiful beach view_ _with a deck outside_ _and fancy décor inside_.
     那家餐厅| 就很适合她呀，| 外面有个露台| 可以看到海滩，| 里面的装饰| 也很高级。
 
 10. 听起来很好呀。| 她现在还在考虑呢，| 因为| 有太多选择了，| 真不好决定呀。
-    _Sounds great! She's still_ _thinking about it—there are_ _so many options, it's_ _hard to make a decision_.
+    _Sounds great! She's still thinking about it_—_there are so many options, it's hard to make a decision_.
 
-11. _I'm happy to help_ _you plan if you need_. | _I am retired now_, | _and I used to_ _work as an event_ _planner for a few years_.
+11. _I'm happy to help you plan if you need_. | _I am retired now_, | _and I used to work as an event planner for a few years_.
     如果你需要，| 我很愿意帮忙。| 我现在退休了，| 以前做了好几年| 活动策划。
 
 12. 我还真不知道| 你以前做过| 活动策划呀！| 我们确实需要帮忙。| 我和我女儿| 已经忙不过来了，| 都压得喘不过来气了。| 你能抽时间帮我们，| 真的是太慷慨了！| 我太感激了！
-    _I didn't know you_ _used to work as_ _an event planner_! | _We really need help_. | _My daughter and I_ _are swamped, we're barely_ _keeping up_. | _It's so generous of_ _you to offer your time_. | _I'm really grateful_.
+    _I didn't know you used to work as_ _an event planner_! | _We really need help_. | _My daughter and I are swamped_, _we're barely keeping up_. | _It's so generous of you to offer your time_. | _I'm really grateful_.
 
-13. _I'm happy to help_ _if you would like_. | _I can meet you_ _and your daughter in_ _a few days to_ _talk more_.
+13. _I'm happy to help if you would like_. | _I can meet you and your daughter in a few days to talk more_.
     如果你愿意的话，| 我很乐意帮忙的。| 我们可以过几天| 再见面，| 跟你和你女儿| 详细聊聊。
 
 14. 太好了！| 有你的帮忙| 真是太好了！| 很开心| 能在这里遇见你！
-    _Great! It's wonderful to_ _have your help_. | _I'm so happy to_ _have run into you here_!
+    _Great! It's wonderful to have your help_. | _I'm so happy to have run into you here_!
 
 ---
 
@@ -4215,46 +4215,46 @@ Briefing: This dialogue is a conversation between two English-speaking friends, 
 Briefing: This dialogue is a conversation between two English-speaking friends, one of whom is bilingual and speaks Mandarin. They are discussing organizing a fundraising event in partnership with a local animal shelter. The dialogue begins now.
 
 1.  嗨！进来坐吧！| 抱歉| 我昨天太忙了，| 不过现在| 我准备好| 跟你讨论了。
-    _Hi there! Come on_ _in and have a_ _seat, please_! | _Sorry I was quite_ _occupied yesterday, but I'm_ _all set to discuss_ _things with you now_.
+    _Hi there! Come on in and have a seat, please_! | _Sorry I was quite occupied yesterday_, _but I'm all set to discuss things with you now_.
 
 2.  没关系的。| 我们可以讨论| 如何筹集资金，| 你有什么想法吗?
-    _No problem! We can_ _talk about how to_ _raise funds_. | _Do you have any ideas_?
+    _No problem! We can talk about how to raise funds_. | _Do you have any ideas_?
 
-3.  _This has been on_ _my mind all week_. | _I think it's a_ _good idea to host_ _an event_. | _I believe some people_ _might be keen to join it_.
+3.  _This has been on my mind all week_. | _I think it's a good idea to host an event_. | _I believe some people_ _might be keen to join it_.
     我这周| 一直在想| 这个。| 我觉得| 举办一个活动| 是个好主意。| 我相信| 有些人可能| 会很想参加。
 
 4.  这个主意真不错。| 我一直在想，| 是否可以| 向本地的商家| 寻求捐赠，| 募集一些物品| 来进行销售。| 我还想动员他们，| 通过举办| 社区活动，| 筹集到更多的资金。
-    _That's a great idea_! | _I've been thinking about_ _whether we could ask_ _local businesses for donations_ _to collect some items_ _for sale_. | _I also want to_ _get them involved in_ _organizing community events to_ _raise more funds_.
+    _That's a great idea_! | _I've been thinking about_ _whether we could ask_ _local businesses for donations_ _to collect some items for sale_. | _I also want to get them involved in_ _organizing community events to raise more funds_.
 
-5.  _That's a fantastic idea_! | _I think reaching out_ _to local stores is_ _a great way to_ _get the community involved_. | _What kind of event_ _do you think we_ _should organize to make_ _this happen_?
+5.  _That's a fantastic idea_! | _I think reaching out_ _to local stores is a great way to_ _get the community involved_. | _What kind of event_ _do you think we_ _should organize to make this happen_?
     这真是个好主意！| 我觉得| 联系本地商店| 是让社区参与的好办法。| 你觉得| 我们应该组织| 什么样的活动| 来实现这个目标呢？
 
 6.  我觉得| 这次活动可以跟动物有关。| 你觉得| 跟本地的| 动物收容所合作| 怎么样？
-    _I think this event_ _could be animal-related_. | _What do you think_ _about cooperating with the_ _local animal shelter_?
+    _I think this event_ _could be animal-related_. | _What do you think about_ _cooperating with the local animal shelter_?
 
-7.  _What do you think_ _about organizing a native_ _animal show_? | _We can advertise locally_, | _and I think it_ _would be a hit_ _with families_. | _It would offer something_ _fresh and different_.
+7.  _What do you think about_ _organizing a native animal show_? | _We can advertise locally_, | _and I think it would be a hit_ _with families_. | _It would offer something_ _fresh and different_.
     你觉得| 组织一个本地动物展| 怎么样？| 我们可以在本地宣传，| 我觉得| 家庭会很喜欢。| 这可以带来一些| 新鲜和不同的体验。
 
 8.  听起来很棒呀！| 大家可以去| 动物收容所参观，| 看看| 被救助的| 猫和狗。| 参观完，| 还可以领养动物。
-    _It sounds great! People_ _can visit the animal_ _shelter and see the_ _rescued cats and dogs_. | _After the visit, they_ _can also adopt animals_.
+    _It sounds great! People can visit the animal shelter_ _and see the rescued cats and dogs_. | _After the visit, they can also adopt animals_.
 
-9.  _Absolutely! We can raise_ _more funds to benefit_ _these animals_. | _By encouraging people to_ _adopt, we not only_ _give these animals a_ _new home but also_ _reduce the strain on_ _the shelter_.
+9.  _Absolutely! We can raise_ _more funds to benefit these animals_. | _By encouraging people to adopt_, _we not only give these animals a new home_ _but also reduce the strain on the shelter_.
     当然可以！| 我们可以筹集| 更多资金| 来帮助这些动物。| 通过鼓励人们领养，| 不仅能给这些动物| 一个新家，| 还能减轻| 收容所的压力。
 
 10. 好的，| 这件事我可以做。| 我们需要找到一些志愿者，| 来帮我们组织这次活动。| 这样可以帮助我们| 降低| 预算和费用。
-    _Sure, I can take_ _care of this_. | _We need to find_ _some volunteers to help_ _us organize the event_. | _This way, we can_ _help keep our budget_ _and cost down_.
+    _Sure, I can take care of this_. | _We need to find some volunteers_ _to help us organize the event_. | _This way, we can help keep our budget and cost down_.
 
-11. _Yes, we'll need a_ _group of volunteers to_ _help plan the event_ _details_. | _Their support will be_ _essential for organizing everything_ _smoothly_. | _By working together, we_ _can keep our cost_ _down and ensure the_ _event is successful_.
+11. _Yes, we'll need a group of volunteers to_ _help plan the event details_. | _Their support will be_ _essential for organizing everything smoothly_. | _By working together_, _we can keep our cost down_ _and ensure the event is successful_.
     是的，| 我们需要一组志愿者| 来帮忙策划| 活动的细节。| 他们的帮助| 对顺利组织| 一切是非常重要的。| 通过合作，| 我们可以降低成本，| 确保活动成功。
 
 12. 好的，听起来不错！| 那我们可以聊聊| 活动的具体安排，| 还有怎么协调| 我们的工作。
-    _Great, that sounds good_! | _Let's talk about the_ _specific arrangements for the_ _event and how we_ _can coordinate our work_.
+    _Great, that sounds good_! | _Let's talk about the specific arrangements for the event_ _and how we can coordinate our work_.
 
-13. _Sure! We also need_ _to get the word_ _out about the event_ _and aim for as_ _many people as possible_ _to notice it_. | _It's important to get_ _a big crowd to join it_.
+13. _Sure! We also need_ _to get the word out about the event_ _and aim for as many people as possible to notice it_. | _It's important to get_ _a big crowd to join it_.
     没问题！| 我们还需要宣传这个活动，| 尽量让更多人| 注意到它。| 吸引大批人参与| 是很重要的。
 
 14. 我同意你的看法。| 我们可以约定| 几天后| 再深入讨论一下| 活动的细节。| 我也会准备一些资料，| 发给你们。| 期待我们的合作！
-    _I agree with you_. | _We can schedule to_ _discuss the details of_ _the event further in_ _a few days_. | _I'll also prepare some_ _materials and send them_ _to you_. | _I'm looking forward to_ _working together_!
+    _I agree with you_. | _We can schedule to discuss_ _the details of the event further in a few days_. | _I'll also prepare some materials and send them to you_. | _I'm looking forward to working together_!
 
 ---
 
@@ -4263,46 +4263,46 @@ Briefing: This dialogue is a conversation between two English-speaking friends, 
 Briefing: This dialogue is a conversation between an English-speaking visa department officer and a Mandarin-speaking working holiday visa holder. They are discussing travel permissions and visa conditions. The dialogue begins now.
 
 1.  早上好。| 这里是签证部门。| 我今天能为您做些什么？
-    _Good morning. This is_ _the Visa department_. | _What can I do_ _for you today_?
+    _Good morning. This is the Visa department_. | _What can I do for you today_?
 
 2.  早上好。| 我目前在澳大利亚居住。| 我想要咨询一些| 关于签证状态的问题。
-    _Good morning. I am_ _currently living in Australia_. | _I would like to_ _inquire about my visa status_.
+    _Good morning. I am currently living in Australia_. | _I would like to inquire about my visa status_.
 
-3.  _No problem. There are_ _many different types of_ _visas_. | _Some cases can be_ _complex_. | _What type of visa_ _do you hold_?
+3.  _No problem. There are_ _many different types of visas_. | _Some cases can be complex_. | _What type of visa do you hold_?
     没问题。| 有很多不同类型的签证。| 有些情况可能| 比较复杂。| 请问您持有| 什么类型的签证？
 
 4.  我现在持有| 打工度假签证。| 我很享受| 在澳大利亚的生活。| 这里真的是个好地方。| 我希望| 我能在这里永久的生活下去。
-    _I currently hold a_ _Working Holiday Visa_. | _I really enjoy my_ _life in Australia_. | _It's truly a wonderful place_. | _I hope to be_ _able to live here_ _permanently_.
+    _I currently hold a Working Holiday Visa_. | _I really enjoy my life in Australia_. | _It's truly a wonderful place_. | _I hope to be able to live here_ _permanently_.
 
-5.  _A lot of people_ _on short-term visas feel_ _the same way_. | _I'm glad you are_ _enjoying Australia_. | _How can I assist_ _you today_?
+5.  _A lot of people on short-term visas_ _feel the same way_. | _I'm glad you are enjoying Australia_. | _How can I assist you today_?
     很多持短期签证的人| 都有同样的感受。| 我很高兴| 您喜欢澳大利亚。| 今天我能如何帮助您？
 
 6.  我的朋友| 下个月要结婚了。| 我想回去| 参加她的婚礼。| 但是，| 我不确定| 我可以这样做吗?
-    _My friend is getting_ _married next month_. | _I would like to_ _go back to attend_ _her wedding_. | _However, I'm not sure_ _if I can do that_.
+    _My friend is getting married next month_. | _I would like to go back to attend her wedding_. | _However, I'm not sure if I can do that_.
 
-7.  _That sounds exciting! The_ _Working Holiday Visa allows_ _you to travel in_ _and out of Australia_ _as many times as_ _you wish_.
+7.  _That sounds exciting! The Working Holiday Visa allows you_ _to travel in and out of Australia_ _as many times as you wish_.
     听起来很令人兴奋! | 打工度假签证| 是允许您| 多次往返| 澳大利亚的。
 
 8.  听你这么说，| 我就放心了。| 我现在只需要| 回家一个星期，| 然后，| 我会回来工作的。| 我刚找到| 一份新工作。
-    _I am relieved to_ _hear that_. | _I only need to_ _go home for a_ _week, and then I_ _will be back to work_. | _I just found a_ _new job_.
+    _I am relieved to hear that_. | _I only need to go home for a week_, _and then I will be back to work_. | _I just found a new job_.
 
-9.  _That's great! You must_ _be excited about that_. | _The Working Holiday Visa_ _is a very good_ _way for you to_ _travel here_.
+9.  _That's great! You must be excited about that_. | _The Working Holiday Visa is a very good way for you to travel here_.
     太好了！| 您一定对此很兴奋。| 打工度假签证| 是您在这里旅行的| 一个很好的方式。
 
 10. 我想多挣点钱| 去环游澳大利亚。| 这里有很多美丽的地方| 值得一去。| 我想开车北上，| 去看看美丽的| 北海岸。| 我也想去看看北领地。
-    _I want to earn_ _some extra money to_ _travel around Australia_. | _There are many beautiful_ _places worth visiting here_. | _I want to drive_ _north to see the_ _beautiful north coast_. | _I also want to_ _check out the Northern Territory_.
+    _I want to earn some extra money_ _to travel around Australia_. | _There are many beautiful places worth visiting here_. | _I want to drive north_ _to see the beautiful north coast_. | _I also want to_ _check out the Northern Territory_.
 
-11. _I'm sure the sights_ _along the way are_ _beautiful_. | _I hope you have_ _a wonderful time_. | _Do you have any_ _other questions about your_ _visa conditions_? | _If so, don't hesitate_ _to call us back_.
+11. _I'm sure the sights along the way are beautiful_. | _I hope you have a wonderful time_. | _Do you have any other questions about your visa conditions_? | _If so, don't hesitate to call us back_.
     我相信| 沿途的风景| 一定很美。| 我希望| 您玩得愉快。| 您还有其他| 关于签证条件的问题吗？| 如果有，| 随时可以| 打电话回来。
 
 12. 我会的。| 我发现，| 当有问题的时候，| 直接与人沟通，| 会更容易。| 我在你们的签证网站上| 看到的信息| 让我感觉到困惑。| 我头都晕了。
-    _I will. I find_ _that it's easier to_ _communicate directly with someone_ _when I have questions_. | _The information I saw_ _on your visa website_ _left me feeling confused_. | _I'm overwhelmed_.
+    _I will. I find that it's easier to_ _communicate directly with someone_ _when I have questions_. | _The information I saw_ _on your visa website_ _left me feeling confused_. | _I'm overwhelmed_.
 
-13. _I agree. There is_ _a lot of information_ _on the website, and_ _it can take some_ _time to read through_ _it all_.
+13. _I agree. There is a lot of information_ _on the website, and_ _it can take some time to read through it all_.
     我同意。| 网站上的信息量很大，| 阅读全部内容| 可能需要一些时间。
 
 14. 谢谢你的帮助。| 希望我没有其他问题了。| 不过，| 如果我还有其他想了解的信息，| 我一定会打电话回来的。
-    _Thank you for your_ _help. I hope I_ _don't have any other_ _questions_. | _However, if there's any_ _other information I'd like_ _to know, I will_ _definitely call back_.
+    _Thank you for your help. I hope I_ _don't have any other questions_. | _However, if there's any other information I'd like to know_, _I will definitely call back_.
 
 ---
 
@@ -4311,46 +4311,46 @@ Briefing: This dialogue is a conversation between an English-speaking visa depar
 Briefing: This dialogue is a conversation between an English-speaking lawyer and a Mandarin-speaking small business owner. They are discussing legal assistance for selling a business and handling employee contracts. The dialogue begins now.
 
 1.  早上好，| 感谢您致电| 我们律师事务所。| 今天我能如何帮助您| 解决您的法律问题呢？| 我们在这里为您提供帮助，| 您可以分享| 您愿意透露的| 任何细节。
-    _Good morning. Thanks for_ _calling our law firm_. | _How can I help_ _you with your legal_ _matter today_? | _We're here to support_ _you, so feel free_ _to share any details_ _you're comfortable with_.
+    _Good morning. Thanks for calling our law firm_. | _How can I help you with your legal matter today_? | _We're here to support you, so feel free_ _to share any details you're comfortable with_.
 
 2.  早上好。| 我需要咨询一些法律建议。| 你们的网站上说，| 你们专门帮助| 做小生意的人。| 好像你们的口碑| 也很好。
-    _Good morning. I need_ _some legal advice_. | _Your website mentions that_ _you specialize in helping_ _small business owners_, | _and it seems like_ _your reputation is quite good_.
+    _Good morning. I need some legal advice_. | _Your website mentions that_ _you specialize in helping_ _small business owners_, | _and it seems like_ _your reputation is quite good_.
 
-3.  _Thank you, we really_ _appreciate all the positive_ _feedback_. | _We always strive to_ _provide the best service_ _for our clients_. | _We offer guidance to_ _business owners on both_ _commercial and employment issues_. | _So why do you_ _need legal advice_?
+3.  _Thank you, we really appreciate all the positive feedback_. | _We always strive to_ _provide the best service_ _for our clients_. | _We offer guidance to business owners on both_ _commercial and employment issues_. | _So why do you need legal advice_?
     感谢您。| 我们很感激| 所有的好评。| 我们一直致力于| 为客户提供| 最优质的服务。| 我们为企业主提供| 商业和雇佣问题上的指导。| 那么，您为什么需要法律建议呢？
 
 4.  是这样的：| 我有一家小型零售店，| 雇佣了三名员工。| 但我决定| 要卖掉这个生意。| 我不得不说，| 这是一个艰难的决定。
-    _Here is the thing_: | _I have a small_ _retail store and employ_ _three staff members_. | _However, I've decided to_ _sell the business_. | _I have to say_, | _it's a tough decision_.
+    _Here is the thing_: | _I have a small retail store and employ three staff members_. | _However, I've decided to sell the business_. | _I have to say_, | _it's a tough decision_.
 
-5.  _I see. I can_ _assist you with the_ _legal aspects of selling_ _your business, if you'd like_. | _Additionally, I can help_ _you make any adjustments_ _regarding staffing_.
+5.  _I see. I can assist you with thelegal aspects_ _of selling your business, if you'd like_. | _Additionally, I can help you make any adjustments_ _regarding staffing_.
     我明白了。| 如果您愿意，| 我可以帮您处理| 卖生意的法律事务。| 此外，| 我还可以帮助您| 在员工安排上| 做任何调整。
 
 6.  谢谢。| 我需要您帮我起草| 一份买卖合同。| 我刚刚找到一个买家。| 事情发生的| 比我预想的| 要快很多。| 而且，| 我的组织能力| 不是很好。
-    _Thank you. I need_ _your help drafting a_ _sales contract_. | _I just found a_ _buyer_. | _Things are moving much_ _faster than I expected_, | _and my organizational skills_ _aren't very strong_.
+    _Thank you. I need your help drafting a sales contract_. | _I just found a buyer_. | _Things are moving much faster than I expected_, | _and my organizational skills aren't very strong_.
 
-7.  _Congratulations! I can help_ _you draft the contract_. | _That won't be a_ _problem_. | _When do you need_ _to terminate the employment_ _contracts with the staff_ _members_? | _I can assist you_ _with that as well_.
+7.  _Congratulations! I can help you draft the contract_. | _That won't be a problem_. | _When do you need to terminate_ _the employment contracts with the staff members_? | _I can assist you with that as well_.
     恭喜你！| 我可以帮你起草合同，| 这没问题的。| 你什么时候需要| 解除与员工的劳动合同？| 我也可以帮助你处理这个。
 
 8.  其中的两位员工，| 已经找到新工作了。| 我对此感觉到很高兴。| 第三位员工| 准备退休了。
-    _Two of the employees_ _have already found new_ _jobs, and I'm quite_ _happy about that_. | _The third employee is_ _preparing to retire_.
+    _Two of the employees_ _have already found new jobs_, _and I'm quite happy about that_. | _The third employee is preparing to retire_.
 
-9.  _That would be a_ _good outcome for all_ _of you_. | _There will be some_ _forms for you to_ _fill out_. | _I can help to_ _make sure you complete_ _them correctly and comply_ _with government regulations_.
+9.  _That would be a good outcome for all of you_. | _There will be some forms for you to fill out_. | _I can help to make sure you complete them correctly_ _and comply with government regulations_.
     那对你们所有人来说| 都会是一个很好的结果。| 您有一些表格要填写。| 我可以帮您确保| 填写正确，| 并符合| 政府规定。
 
 10. 谢谢你。| 自从我开业以来，| 我的员工| 就一直在为我工作。| 我从来没有处理过| 辞职或者解雇的问题。
-    _Thank you. Ever since_ _I started my business_, | _my employees have been_ _working for me_. | _I've never dealt with_ _resignations or terminations before_.
+    _Thank you. Ever since I started my business_, | _my employees have been working for me_. | _I've never dealt with_ _resignations or terminations before_.
 
-11. _You must be a_ _really good boss! And_ _it sounds you've had_ _a stable team_. | _We can work on_ _the sales contract and_ _the employment contracts at_ _the same time_. | _There's a lot to_ _take care of_.
+11. _You must be a really good boss! And_ _it sounds you've had a stable team_. | _We can work on the sales contract_ _and the employment contracts at the same time_. | _There's a lot to take care of_.
     您一定是个很好的老板！| 而且听起来您的团队很稳定。| 我们可以同时处理| 销售合同和劳动合同。| 要做的事情很多。
 
 12. 谢谢你的夸奖。| 我尽量做好。| 是的，| 我还有很多| 存货和设备，| 也需要包含在| 这个卖生意的合同里。| 事情确实| 有点复杂，| 但我相信| 在你的帮助下，| 可以顺利进行。
-    _Thanks for the compliment_! | _I tried my best_. | _Yes, I also have_ _a lot of inventory_ _and equipment that need_ _to be included in_ _the sales contract_. | _It is a bit_ _complicated, but I believe_ _things can be done_ _smoothly with your help_.
+    _Thanks for the compliment_! | _I tried my best_. | _Yes, I also have a lot of inventory and equipment_ _that need to be included in the sales contract_. | _It is a bit complicated, but I believe_ _things can be done smoothly with your help_.
 
-13. _Of course. I'm here_ _to guide you through_ _every step of the_ _process_. | _Why don't we schedule_ _a time to organize_ _your contracts_? | _If that works for_ _you, we can meet_ _tomorrow at 2 PM_.
+13. _Of course. I'm here to guide you through_ _every step of the process_. | _Why don't we schedule a time to organize your contracts_? | _If that works for you, we can meet tomorrow at 2 PM_.
     当然可以。| 我会在每一步过程中| 指导你。| 我们约个时间| 把你的合同| 整理一下| 怎么样？| 如果你觉得合适，| 我们可以明天下午2点见。
 
 14. 那太好了！| 我很感激| 你能帮我安排| 这一切。| 感觉| 跟你合作| 会让我轻松很多。| 那我们明天见啦。| 我很期待| 跟您见面| 并且开始进行| 这些工作。
-    _That's great! I really_ _appreciate you helping me_ _arrange all of this_. | _I feel like working_ _with you will make_ _things much easier for me_. | _So, see you tomorrow_! | _I'm looking forward to_ _meeting you and getting_ _started on this work_.
+    _That's great! I really appreciate you helping me arrange all of this_. | _I feel like working with you will make things much easier for me_. | _So, see you tomorrow_! | _I'm looking forward to meeting you and getting started on this work_.
 
 ---
 
@@ -4359,46 +4359,46 @@ Briefing: This dialogue is a conversation between an English-speaking lawyer and
 Briefing: This dialogue is a conversation between an English-speaking friend and a Mandarin-speaking parent. They are discussing a daughter's adjustment to a new school and suggestions for making friends through extracurricular activities. The dialogue begins now.
 
 1.  你好，请进，| 请坐！| 很开心见到你。| 我一直想问你呢：| 你女儿| 在新学校| 过得怎么样?
-    _Hello, please come in_ _and take a seat_! | _I'm glad to see_ _you. I've been wanting_ _to ask you_: | _how is your daughter_ _doing at her new school_?
+    _Hello, please come in and take a seat_! | _I'm glad to see you. I've been wanting to ask you_: | _how is your daughter doing at her new school_?
 
 2.  我非常高兴| 您打电话问我。| 我一直想| 约时间| 跟您见一面，| 聊一聊。
-    _I'm really glad you_ _called to ask me_. | _I've been wanting to_ _set up a time_ _to meet with you_ _and chat_.
+    _I'm really glad you called to ask me_. | _I've been wanting to set up a time_ _to meet with you and chat_.
 
-3.  _You mentioned before that_ _changing schools was a_ _good thing for your_ _daughter, but it seems_ _she's encountering some issues now_.
+3.  _You mentioned before that changing schools_ _was a good thing for your daughter_, _but it seems she's encountering some issues now_.
     你之前跟我说，| 你感觉| 换学校| 对你女儿来说很好，| 但好像现在| 她遇到了| 一些问题。
 
 4.  是的，| 转学以后，| 她的成绩有提高。| 但是，| 她在社交方面| 好像有些困难。| 她到现在| 还没有交到| 任何新朋友呢。
-    _Yes, her grades have_ _improved since the transfer_. | _However, she seems to_ _be having some difficulties_ _socially_. | _She still hasn't made_ _any new friends_.
+    _Yes, her grades have improved since the transfer_. | _However, she seems to be having some difficulties socially_. | _She still hasn't made any new friends_.
 
-5.  _It's great that her_ _grades have improved; that's_ _a very positive sign_. | _Just give her some_ _time to adjust to_ _the school, and gradually_ _she will start making friends_.
+5.  _It's great that her grades have improved_; _that's a very positive sign_. | _Just give her some time to adjust to the school_, _and gradually she will start making friends_.
     她的成绩有提高| 是很棒的。| 这是个很积极的信号。| 就多给她点时间| 去适应学校吧，| 然后| 渐渐地，| 她就会开始交朋友了。
 
 6.  或许吧。| 我有点担心她。| 她没有跟我说过什么，| 但是我知道，| 她感觉非常孤独。| 我也不希望| 她的成绩下降。
-    _Maybe. I'm a bit_ _worried about her_. | _She hasn't said anything_ _to me, but I_ _know she feels very lonely_. | _I don't want her_ _grades to drop either_.
+    _Maybe. I'm a bit worried about her_. | _She hasn't said anything to me_, _but I know she feels very lonely_. | _I don't want her grades to drop either_.
 
-7.  _Perhaps you could help_ _her find some after_ _school activities that suit her_. | _That way, she might_ _meet some students in_ _similar situations_. | _What does she enjoy doing_?
+7.  _Perhaps you could help her find some after school activities_ _that suit her_. | _That way, she might meet some students in similar situations_. | _What does she enjoy doing_?
     也许| 你可以给她看看| 有没有适合她的| 课外活动。| 这样| 她或许可以遇见| 和她有相似处境的学生。| 她喜欢做什么呢?
 
 8.  她在她以前的学校| 参加了乐队的。| 她离开的时候，| 她还在乐队里学习。| 她似乎| 很享受| 乐队活动。
-    _She was in the_ _band at her previous_ _school_. | _When she left, she_ _was still learning in_ _the band_. | _She seemed to really_ _enjoy the band activities_.
+    _She was in the band at her previous school_. | _When she left, she was still learning in the band_. | _She seemed to really enjoy the band activities_.
 
 9.  _I think the school_ _band is a great_ _idea_. | _It can give her_ _a chance to make_ _friends in a small_ _group setting_.
     我认为| 学校乐队| 是很好的想法。| 这可以给她| 一个在小团体里| 结交朋友的机会。
 
 10. 您真的说到点子上了。| 她以前是学吹长笛的。| 我可以和乐队老师| 确认一下，| 看一看| 还能不能让她继续学。
-    _You've really hit the_ _mark. She used to_ _play the flute_. | _I can check with_ _the band teacher to_ _see if she can_ _continue learning_.
+    _You've really hit the mark_. _She used to play the flute_. | _I can check with the band teacher_ _to see if she can continue learning_.
 
-11. _She could even learn_ _a new instrument_. | _She might also be_ _interested in learning something_ _new_. | _It depends on the_ _band's display arrangements such_ _as the setlist and_ _stage setup_.
+11. _She could even learn a new instrument_. | _She might also be interested in learning something new_. | _It depends on the band's display arrangements_ _such as the setlist and stage setup_.
     她甚至可以学| 个新乐器。| 她应该也会对学习新东西| 感兴趣。| 这要看乐队的演出安排，| 比如| 曲目清单和舞台布置。
 
 12. 她马上就放学回家了。| 我会和她聊一聊。| 看她想不想| 尝试一下| 进乐队。
-    _She will be home_ _from school soon_. | _I'll talk to her_ _and see if she_ _wants to try joining_ _the band_.
+    _She will be home from school soon_. | _I'll talk to her and see if she_ _wants to try joining the band_.
 
 13. _Alright. You can encourage_ _her to give it_ _a try_. | _Encourage her to put_ _in some extra effort_. | _I think that would_ _be very helpful_.
     好的。| 你可以鼓励她| 试试看。| 鼓励她| 多努力一点。| 我觉得| 这会很有帮助。
 
 14. 我同意| 您说的。| 我很难知道| 还能再为她做些什么了。| 但和您聊过以后，| 真的帮到我很多。| 谢谢您。
-    _I agree with what_ _you said_. | _I find it hard_ _to know what else_ _I can do for her_. | _But talking with you_ _has really helped me_ _a lot_. | _Thank you_.
+    _I agree with what you said_. | _I find it hard to know what else I can do for her_. | _But talking with you_ _has really helped me a lot. Thank you_.
 
 ---
 
@@ -4406,48 +4406,47 @@ Briefing: This dialogue is a conversation between an English-speaking friend and
 
 Briefing: This dialogue is a conversation between two English-speaking neighbors, one of whom is bilingual and speaks Mandarin. They are discussing organizing a casual neighborhood gathering to meet new residents. The dialogue begins now.
 
-1.  _Hi_! | It's _nice to see you_ | _drop by_. | _Come on in_! | _Would you like_ | to have a _cup of coffee_?
+1.  _Hi! It's nice to see you drop by_. | _Come on in_! | _Would you like to have a cup of coffee_?
     _你好_！| _很高兴看到你过来_！| _进来吧_！| 你想来杯_咖啡_吗？
 
 2.  _你好呀_。| _给我来杯咖啡吧_！| _谢谢你_！| 我有一个_非常让人兴奋的想法_，| 想跟你_讨论一下_。
-2.  _你好呀_。| _给我来杯咖啡吧_！| _谢谢你_！| 我有一个_非常让人兴奋的想法_，| 想跟你_讨论一下_。.>
-    _Hi! I'd love a_ | _cup of coffee_. | _Thank you_! | I have an _exciting idea_ | that I'd like to _discuss with you_.
+    _Hi! I'd love a cup of coffee. Thank you_! | I have an exciting idea that I'd like to discuss with you_.
 
-3.  _Wow_, | that sounds _very intriguing_! | I'm _interested_. | I _love to hear_ | _exciting ideas_. | _Why not sit down_ | and have a _chat with me_?
+3.  _Wow, that sounds very intriguing! I'm interested_. | _I love to hear exciting ideas_. | _Why not sit down and have a chat with me_?
     _哇_，| _听起来很有趣_！| 我_很感兴趣_。| 我_很想听听_ | 你的_想法_。| _不如坐下来_ | 我们_聊聊_？
 
 4.  _昨天_，| 我_遇到_一位_女士_。| 她_刚搬到_我家_对面_。| 我_突然意识到_，| 我对_住在这里的_ | _很多人_，| 都_不太熟悉_。
-    _Yesterday, I met a_ | _lady_ | who just _moved in_ | _across from my home_. | I _suddenly realized_ | that I'm _not very familiar_ | with _many people_ | _living here_.
+    _Yesterday, I met a lady who just moved in_ _across from my home_. | _I suddenly realized that I'm_ _not very familiar with many people living here_.
 
-5.  _Yes_, | you _don't say_. | _Loads of_ | _new people_ | have _moved here_ | over the _past six months_. | I _don't know them_ either.
+5.  _Yes, you don't say_. | _Loads of new people have moved here_ _over the past six months_. | _I don't know them either_.
     _是啊_，| 你_说得对_。| _过去六个月里_ | 有_很多新搬过来的人_，| 我也_不认识他们_。
 
 6.  _下周末_，| 我们_找一个下午_，| _举办_一个_聚会_吧？| 这样可以有一个_不错的机会_，| 让_大家_可以_互相见见面_，| 还可以_吃点东西_，| _喝点东西_。
-    _How about we organize_ | a _gathering one afternoon_ | _next weekend_? | It would be a _great opportunity_ | for _everyone to meet_, | and we can have | some _snacks and drinks_.
+    _How about we organize a gathering_ _one afternoon next weekend_? | _It would be a great opportunity for everyone to meet_, | _and we can have some snacks and drinks_.
 
-7.  It sounds _fantastic_. | I think | it _won't be_ | _too difficult_ | to _organize_ | this _gathering_. | We can just _do it_ | _casually_. | Let's _do it_ | _next weekend_.
+7.  _It sounds fantastic_. | _I think it won't be too difficult_ _to organize this gathering_. | _We can just do it casually_. | _Let's do it next weekend_.
     _听起来很棒_！| 我_觉得_ | _组织_这个_聚会_ | _不会太难_。| 我们可以_随意点_。| 我们就_下周末搞吧_。
 
 8.  _好的_。| 我_想_，| _现在最重要的事情_是，| 我们可以_告诉大家_，| _那天下午_ | _有空了_ | 就可以_来参加_。| _不需要太正式_。
-    _Great. I think the_ | _most important thing_ now | is to _let everyone know_ | that they're _welcome to join_ | _that afternoon if_ | _they are free_. | It _doesn't need to be_ | _too formal_.
+    _Great. I think the most important thing now_ _is to let everyone know_ _that they're welcome to join that afternoon_ _if they are free_. | _It doesn't need to be too formal_.
 
-9.  I still have | the _decorations_ | from my _last party_. | We can _use them_. | I _don't think_ | we need _music_ | at the _gathering_. | _After all_, | our _main goal_ | is to _chat_ | and _connect with_ | _each other_.
+9.  _I still have the decorations_ _from my last party_. | _We can use them_. | _I don't think we need music_ _at the gathering_. | _After all, our main goal is to chat and connect with each other_.
     我还有_上次聚会的_ | _装饰品_。| 我们可以_用它们_。| 我_觉得_ | _聚会_不需要_音乐_，| _毕竟_ | 我们的_主要目的_ | 是_聊天_和_互相认识_。
 
 10. _没错_。| _最重要的事情_ | 是让_大家知道_ | _聚会即将举行_。| 我们要_尽快_ | _发邀请函_。
-    _Exactly_. | The _most important thing_ | is to _let everyone know_ | that the _gathering_ | is _coming up_. | We should _send out_ | the _invitations_ | as _soon as possible_.
+    _Exactly. The most important thing_ | _is to let everyone know that the gathering is coming up_. | _We should send out the invitations as soon as possible_.
 
-11. That sounds _really exciting_! | _Once_ | the _invitations_ | are _ready_, | _do let me know_. | I'll _help you_ | _deliver them_ | to _everyone_. | And if I _run into them_, | I'll be sure to _mention it_ | _as well_.
+11. _That sounds really exciting_! | _Once the _invitations are ready_, | _do let me know_. | _I'll help you deliver them to everyone_. | _And if I run into them_, | _I'll be sure to mention it as well_.
     _听起来真令人激动_！| _一旦_ | _邀请函准备好了_，| _记得告诉我_。| 我_帮你_ | _发给大家_。| 如果我_遇到他们_，| 我也会_告诉他们_ | 这件事的。
 
 12. 我_喜欢烹饪_。| 我_很乐意_ | _准备食物_。| 我_可能没有计划_ | 做什么_特别的食物_，| 就_准备_一些_小吃_吧。
-    I _enjoy cooking_, | and I'd be _happy to_ | _prepare_ | some _food_. | I might _not plan_ | _anything special_, | just some _snacks_.
+    _I enjoy cooking_, | _and I'd be happy to prepare  some food_. | _I might not plan anything special_, _just some snacks_.
 
-13. We could _go to_ | the _supermarket_ | to _get_ | some _supplies_ | and _drinks_. | I _can't wait_ | to _make_ | my _favorite_ | _iced lemon tea_.
+13. _We could go to the _supermarket_ _to _get some supplies  and _drinks_. | _I can't wait to make my favorite_ _iced lemon tea_.
     我们可以去_超市_ | _买一些_ | _材料_和_喝的东西_。| 我_迫不及待_ | 想做我_最爱的_ | _冰镇柠檬茶_了。
 
 14. _太好了_！| _谢谢你_！| 这_一定会很有趣_！| 我_很期待_ | 通过这个_活动_ | _更了解_我的_新邻居们_。
-    _That sounds great_! | _Thank you_! | This is going to be _so much fun_! | I'm _really looking forward to_ | _getting to know_ | my _new neighbors_ | through this _event_.
+    _That sounds great! Thank you! This is going to be so much fun_! | _I'm really looking forward to_ | _getting to know my new neighbors_ _through this event_.
 
 ---
 
@@ -4455,47 +4454,47 @@ Briefing: This dialogue is a conversation between two English-speaking neighbors
 
 Briefing: This dialogue is a conversation between an English-speaking lawyer and a Mandarin-speaking small business owner. They are discussing legal assistance for selling a business and ensuring employee protection. The dialogue begins now.
 
-1.  _Good morning_. | _Thanks for your call_. | _How can I help you_?
+1.  _Good morning. Thanks for your call. How can I help you_?
     _早上好_。| _感谢您的来电_。| 我能_怎么帮助您_？
 
 2.  _早上好_。| 我需要_咨询_一些_法律建议_。| 我_看到_你们的_网站上_说，| 你们_专门针对_ | _小生意_提供_法律建议_。
-    _Good morning_. | I need some _legal advice_. | I saw on your _website_ | that you _specialize in_ | _providing_ | _legal advice_ | for _small businesses_.
+    _Good morning. I need some legal advice_. | _I saw on your website_  _that you specialize in_ _providing legal advice for small businesses_.
 
-3.  _Yes_, | that's _correct_. | We _provide_ | _business owners_ | with _advice_ | on _commercial_ | and _employment matters_. | _Why do you need_ | _legal advice_?
+3.  _Yes, that's correct_. | _We provide business owners_ _with advice on commercial and employment matters_. | _Why do you need legal advice_?
     _是的_，_没错_。| 我们给_商家_提供 | _商业和雇佣方面_的_法律建议_。| 您_为什么_需要_法律建议_呢？
 
 4.  _事情是这样的_：| 我有一个_小生意_ | 和_三个雇员_，| 但我_现在想要_ | _卖掉_这个_生意_。| 这是一个_很艰难的决定_。
-    _Here is the thing_: | I have a _small business_ | with _three employees_, | but I want to _sell_ | the _business_ now. | It's a _tough decision_.
+    _Here is the thing_: | _I have a small business with three employees_, | _but I want to sell the business now_. | _It's a tough decision_.
 
-5.  I _see_. | I can _help you_ | with the _legal aspects_ | of _selling_ | your _business_, | if you _like_. | _However_, | you will need to _handle_ | the _arrangements_ | for the _employees_ yourself.
+5.  _I see. I can help you with the legal aspects_ _of selling your _business, if you like_. _However, you will need to handle the arrangements_ _for the employees yourself.
     我_明白了_。| 如果您_愿意_，| 我可以_帮助您_ | _处理_出售生意_的_法律事务_。| _然而_，| 您需要_自己处理_ | _员工的安排_。
 
 6.  _谢谢_。| 我需要您_帮我起草_ | _卖生意_的_协议_。| 我_已经找到买家了_，| 但我的_组织能力_ | _不是很好_。
-    _Thank you_. | I need your help | to _draft_ | the _sales agreement_. | I have _already found_ | a _buyer_, | but my _organizational skills_ | are _not very strong_.
+    _Thank you. I need your help to draft the sales agreement_. | _I have already found a buyer_, | _but my organizational skills are not very strong_.
 
-7.  _Congratulations_! | I can _help you_ | _draft_ | the _agreement_. | That _won't be a problem_. | _When_ you need to _terminate_ | the _employment contracts_, | I can _help with that_ | _as well_.
+7.  _Congratulations! I can help you draft the agreement_. | _That won't be a problem_. | _When you need to terminate the employment contracts_,  _I can help with that as well_.
     _恭喜_！| 我可以_帮助您起草合同_。| _没问题的_。| 您需要_终止员工合同_的时候，| 我也可以_帮忙_。
 
 8.  _不_，| _员工希望_ | _继续_为_新买家工作_。| _买家已经同意了_，| 我也_希望_ | 他们都能有个_好去处_。
-    _No_, | the _employees_ want to _continue working_ | for the _new buyer_. | The _buyer_ | has _agreed_, | and I _hope_ | they all _find_ | a _good place_.
+    _No, the employees want to continue working_ _for the new buyer_. | _The buyer has agreed, and I hope they all find a good place_.
 
-9.  That would be | a _good outcome_ | for _all of you_. | I will _prepare_ | a _conditional_ | _sales agreement_, | which will also _provide_ | _legal protection_ | for the _employees_.
+9.  _That would be a good outcome for all of you_. | _I will prepare a conditional sales agreement_, _which will also providelegal protection for the employees_.
     那对你们_所有人_来说 | 都会是一个_很好的结果_。| 我会_起草_一份 | _附带条件的_ | _出售协议_，| 让_员工_也能_获得法律保护_。
 
 10. _谢谢你_，| 这样我就_放心多了_。| 我_不喜欢_ | 因为_遗漏一些部分_，| 而导致_预想不到的事情发生_。
-    _Thank you_. | This makes me feel | _much more relieved_. | I _don't like it_ | when _unexpected things happen_ | because of _missing some parts_.
+    _Thank you. This makes me feel much more relieved_. | _I don't like it_ _when unexpected things happen_ _because of missing some parts_.
 
-11. _Yes_, | it's always | a _wise decision_ | to _seek help_ | from _professionals_, | as _drafting_ | a _sales agreement_ | _involves_ | _many considerations_.
+11. _Yes, it's always a wise decision_ _to seek help from professionals_, _as drafting a sales agreement_ _involves many considerations_.
     _是的_，| _寻求专业人士的帮助_ | 总是_明智的决定_，| 因为_起草出售协议_ | _涉及_ | _许多需要考虑的事项_。
 
 12. _是的_，| 我还有_很多_ | _存货和设备_，| 也需要_包含在_ | _卖生意的协议_里。
-    _Yes_, | I also have | a lot of _inventory_ | and _equipment_ | that need to be _included_ | in the _sales agreement_.
+    _Yes, I also have a lot of inventory_ _and equipment that need to be included_ _in the sales agreement_.
 
-13. _Why don't we_ | _schedule an appointment_ | to _organize_ | the _sales agreement_? | If it's _urgent_, | I'm _available_ | at _2 p.m._ _tomorrow_.
+13. _Why don't we schedule an appointment_ | _to organize the sales agreement_? | _If it's urgent, I'm available at _2 p.m. tomorrow_.
     我们_约个时间_ | 来_整理_ | _出售协议_ | _怎么样_？| 如果_事情紧急_的话，| 我_明天下午两点_ | _有空_。
 
 14. _太好了_！| _明天见_，| _期待_ | _见到您_ | 以及_开始弄协议_。
-    _Great_! | _See you tomorrow_. | I _look forward to_ | _meeting you_ | and _getting started_ | on the _agreement_.
+    _Great! See you tomorrow_. | _I look forward to meeting you and getting started on the agreement_.
 
 ---
 
@@ -4503,35 +4502,35 @@ Briefing: This dialogue is a conversation between an English-speaking lawyer and
 
 Briefing: This dialogue is a conversation between an English-speaking council office staff member and a Mandarin-speaking new immigrant. They are discussing rental housing procedures and differences between countries. The dialogue begins now.
 
-1.  _Good morning_. _Welcome to the Council Office_. | _Please tell me_ _how I can help you today_.
+1.  _Good morning. Welcome to the Council Office_. | _Please tell me how I can help you today_.
     早上好，欢迎来到市政厅办公室。| 请告诉我今天我能如何帮助您。
 
 2.  上午好，我想要了解更多关于租房的信息。| 我想要住在这个地区，这里看起来是个很好的地方。
-    _Good morning_. _I would like to learn more_ _about renting a property_. | _I want to live in this area_; _it seems like a great place_.
+    _Good morning. I would like to learn more_ _about renting a property_. | _I want to live in this area_; _it seems like a great place_.
 
-3.  _Yes, it is_. _People love to live here_. | _There are many shops and restaurants_ _in this area_. | _The parks are beautiful_ _and very close to the beach_.
+3.  _Yes, it is. People love to live here_. | _There are many shops and restaurants in this area_. | _The parks are beautiful_ _and very close to the beach_.
     是的，这里确实如此。人们喜欢住在这里。| 这个地区有很多商店和餐馆，| 公园也很美丽，非常靠近海滩。
 
 4.  太好了。我没想到这里的海滩这么棒，而且还这么近。| 我刚来到澳大利亚时间还不长。| 目前为止，我见到的所有海滩都很棒。
-    _That's great_. _I didn't expect the beach here_ _to be so wonderful and so close_. | _I've only recently arrived in Australia_, | _and so far_, _all the beaches I've seen_ _have been great_.
+    _That's great. I didn't expect the beach here_ _to be so wonderful and so close_. | _I've only recently arrived in Australia_, | _and so far, all the beaches I've seen have been great_.
 
 5.  _Welcome to Australia_. _I believe it would be challenging_ _to move to a new country_, | _as many things are quite different_.
     欢迎来到澳大利亚。我相信搬到一个新国家会很有挑战，| 因为许多事情都很不同。
 
 6.  是的，确实如此。很多事情都非常不同。| 如果能找到一个好的住所这会非常有帮助。| 如果可能的话，我想要注册一个房子或者公寓。
-    _Yes, indeed_. _Many things are very different_. | _It would be very helpful_ _to find a good place to live_. | _If possible_, _I would like to register for_ _a house or an apartment_.
+    _Yes, indeed. Many things are very different_. | _It would be very helpful_ _to find a good place to live_. | _If possible, I would like to register for_ _a house or an apartment_.
 
-7.  _I'm not sure_ _if I understand what you mean_ _by registering for a house_ _or an apartment_.
+7.  _I'm not sure if I understand what you mean_ _by registering for a house or an apartment_.
     我不太明白您所说的"注册房屋或公寓"是什么意思。
 
 8.  在我原来的地方，市政办公室负责帮助我们注册房屋，| 把我们加入申请房屋的等待名单中。
     _In my previous place_, _the Council Office was responsible for_ _helping us register for housing_ | _and adding us to the waiting list_ _for a property_.
 
-9.  _I see_. _That's totally different here_. | _In general_, _the Council can't provide rental properties_ _and can't help people rent properties_.
+9.  _I see. That's totally different here_. | _In general, the Council can't provide rental properties_ _and can't help people rent properties_.
     我明白了。这在这里完全不同。| 通常情况下，市政办公室不能提供租赁房产，也不能帮助人们租房。
 
 10. 哦，原来是这样。我不确定我现在能做些什么。| 我从来没有租过房子。
-    _Oh, I see_. _I'm not sure what I can do now_; | _I have never rented a property before_.
+    _Oh, I see. I'm not sure what I can do now_; | _I have never rented a property before_.
 
 11. _Real estate agencies_ _manage rental properties_. | _You could start by talking with them_ _to find a suitable property_.
     房地产中介负责管理租赁房产。| 你可以从跟他们谈谈开始，寻找合适的房子。
@@ -4543,7 +4542,7 @@ Briefing: This dialogue is a conversation between an English-speaking council of
     网上有对中介的评价，| 你也可以看看。
 
 14. 谢谢你的帮助。非常感谢你给我介绍了处理这件事的方法。| 我期待成为这个社区的一员。
-    _Thank you for your help_. _Thank you very much_ _for explaining how to deal with this matter_. | _I look forward to becoming_ _a part of this community_.
+    _Thank you for your help. Thank you very much_ _for explaining how to deal with this matter_. | _I look forward to becoming_ _a part of this community_.
 
 ---
 
@@ -4551,25 +4550,25 @@ Briefing: This dialogue is a conversation between an English-speaking council of
 
 Briefing: This dialogue is a conversation between an English-speaking school counselor and a Mandarin-speaking parent. They are discussing a transfer student's social difficulties and suggestions for joining sports teams to make friends. The dialogue begins now.
 
-1.  _Hi_, _thank you for coming to see me_. | _I understand you want to talk about_ _your daughter at her new school_, _right_?
+1.  _Hi, thank you for coming to see me_. | _I understand you want to talk about_ _your daughter at her new school, right_?
     你好，谢谢你来见我。| 我知道你想谈谈你女儿在新学校的情况，对吗？
 
 2.  很高兴您给我打电话。我一直想约您见面谈这件事。
-    _I'm glad you called me_. | _I've been wanting to meet with you_ _to discuss this_.
+    _I'm glad you called me_. | _I've been wanting to meet with you to discuss this_.
 
-3.  _I know you changed a school_ _for your daughter_. _That's good for her_. | _But it sounds like_ _she has some new problems_.
+3.  _I know you changed a school for your daughter_. _That's good for her_. | _But it sounds like she has some new problems_.
     我知道你给你女儿换了学校，这对她来说是件好事。| 不过听起来她似乎遇到了一些新问题。
 
 4.  是的，转学之后她的成绩提高了不少。| 但是在社交方面有些困难。她没交到什么朋友。
-    _Yes_, _her grades have improved a lot_ _since the transfer_. | _But she's having some trouble socially_. _She hasn't made any friends_.
+    _Yes, her grades have improved a lot_ _since the transfer_. | _But she's having some trouble socially_. _She hasn't made any friends_.
 
 5.  _It's good that her marks improved_. _That's a positive sign_. | _She may just need more time_ _to settle in and make friends_.
     她的成绩有提高，这是个好兆头。| 她可能只是需要更多时间来适应和交朋友。
 
 6.  可能吧。我有点担心她。她不怎么说话，| 但是我觉得她很孤独。我不想她的成绩再下降。
-    _Maybe_. _I'm a bit worried about her_. _She doesn't talk much_, | _but I think she's feeling lonely_. _I don't want her grades_ _to drop again_.
+    _Maybe. I'm a bit worried about her_. _She doesn't talk much_, | _but I think she's feeling lonely_. _I don't want her grades to drop again_.
 
-7.  _Maybe some after-school activities_ _will help_. | _Is she interested in anything_?
+7.  _Maybe some after-school activities will help_. | _Is she interested in anything_?
     也许一些课外活动会有所帮助。| 她对什么感兴趣吗？
 
 8.  她以前参加团体运动，但是后来，她之前的学校发生了霸凌事件，她就放弃了。| 她还挺擅长运动的。
@@ -4579,9 +4578,9 @@ Briefing: This dialogue is a conversation between an English-speaking school cou
     团体运动是认识更多同学的好机会。| 学校有什么校队吗？
 
 10. 有。我想应该有篮球队和足球队。| 她在以前的学校经常踢足球。
-    _Yes_. _I think they have_ _a basketball and a football team_. | _She used to play football a lot_ _at her previous school_.
+    _Yes. I think they have_ _a basketball and a football team_. | _She used to play football a lot_ _at her previous school_.
 
-11. _That's great_! _She should be able to join_ _without any problems_ | _if she played football before_.
+11. _That's great! She should be able to join_ _without any problems_ | _if she played football before_.
     太好了！如果她以前踢过足球，| 加入应该没问题的。
 
 12. 她马上放学回家了。我会和她聊一聊，让她去试一下。
@@ -4591,7 +4590,7 @@ Briefing: This dialogue is a conversation between an English-speaking school cou
     鼓励她试一试吧。这给她增加了一些额外的事情去做。| 我觉得这可能会有帮助。
 
 14. 同意。之前我不知道能为她做些什么。| 但是和您交流感觉很有帮助。谢谢您。
-    _I agree_. _I didn't know_ | _what I could do_ | _for her before_ | _but talking with you_ _has been_ | _very helpful_. _Thank you_.
+    _I agree. I didn't know_ _what I could do for her before_ _but talking with you has been very helpful. Thank you_.
 
 ---
 
@@ -4599,11 +4598,11 @@ Briefing: This dialogue is a conversation between an English-speaking school cou
 
 Briefing: This dialogue is a conversation between two English-speaking business associates, one of whom is bilingual and speaks Mandarin. They are discussing expansion ideas for a catering business and market research strategies. The dialogue begins now.
 
-1.  _Hello_, _I haven't seen you_ _since you finished_ _your business course_. | _What a nice coincidence_ _to see you here_!
+1.  _Hello, I haven't seen you_ _since you finished your business course_. | _What a nice coincidence to see you here_!
     你好，你上完商业课程以后，我就没见过你了。| 真巧在这里遇到你。
 
 2.  你好。是啊。我每天在这里为我的生意采购新鲜食材。| 我也很高兴见到你。
-    _Hello_. _Yes_, _I come here every day_ _to buy fresh ingredients_ _for my business_. | _I'm also very happy to see you_.
+    _Hello. Yes, I come here every day_ _to buy fresh ingredients for my business_. | _I'm also very happy to see you_.
 
 3.  _I'm really glad to see_ _that you have your own business_. | _How's your business going_?
     很开心你有了自己的生意。| 你的生意怎么样了？
@@ -4611,34 +4610,34 @@ Briefing: This dialogue is a conversation between two English-speaking business 
 4.  最近很好。我刚刚搬到一个大一点的场地，在一个大商场旁边。| 我需要一个更大的场地。
     _It's been going well recently_. _I just moved to a bigger place_, _next to a large shopping mall_. | _I needed more space_.
 
-5.  _That's exciting_! _I want to_ | _hear more about it_. | _Do you have time_ | _to sit and talk_ | _with me_?
+5.  _That's exciting! I want to hear more about it_. | _Do you have time to sit and talk with me_?
     那很让人激动啊。我想多了解了解。| 你有时间坐下来跟我聊聊吗？
 
 6.  有。在我开始工作之前还有几分钟时间。| 我也想和你聊聊生意上的事。
-    _Yes_, _I have a few minutes_ _before I start work_. | _I'd also like to talk to you_ _about business matters_.
+    _Yes, I have a few minutes before I start work_. | _I'd also like to talk to you_ _about business matters_.
 
-7.  _Good_. _I'm happy to help_ _if I can_. | _Do you need any advice_ _on business ideas_?
+7.  _Good. I'm happy to help if I can_. | _Do you need any advice on business ideas_?
     很好。如果我能帮到你的话，我很开心。| 你需要一些关于商业点子的建议吗？
 
 8.  嗯。现在我接到更多晚宴订单。| 我有个想法，我可以为其他文化做传统美食。
-    _Yes_. _I'm getting more orders_ _for dinner events_. | _I have an idea to make_ _traditional dishes_ _for other cultures_.
+    _Yes. I'm getting more orders_ _for dinner events_. | _I have an idea to make traditional dishes_ _for other cultures_.
 
 9.  _Do you know what culture_ _you want to cook for_? | _You may need to create_ _a list of recipes and ingredients_.
     你知道你想做哪种文化的菜吗？| 你可能需要准备一个菜谱和食材清单。
 
 10. 是啊，不过那会很有趣。我不确定是哪种文化。| 我需要发掘。
-    _Yes_, _but it would be fun_. _I'm not sure_ | _which culture it_ | _will be yet_. | _I need to_ | _explore that_.
+    _Yes, but it would be fun_. _I'm not sure which culture it will be yet_. | _I need to explore that_.
 
-11. _A survey of your customers_ _might help_. | _You don't want to serve food_ _your customers aren't interested in_.
+11. _A survey of your customers might help_. | _You don't want to serve food_ _your customers aren't interested in_.
     对你的客户进行调研可能会有帮助。| 你也不想提供他们不感兴趣的食物。
 
 12. 有道理。我需要考虑一下再决定。| 做事情没必要匆匆忙忙的。
-    _That makes sense_. _I need to think it through_ _before deciding_. | _There's no need to rush_.
+    _That makes sense_. _I need to think it through before deciding_. | _There's no need to rush_.
 
 13. _You're in a good position_. _You're doing well_, _and you have time_ _to think about the next step_. | _Now you need to work_.
     你现在的情况很棒。你做得很好，而且有时间考虑下一步。| 现在你需要去工作啦。
 
 14. 是的。我没时间了，不过我很高兴和你谈话。| 感谢你倾听我的想法。
-    _Yes_. _I'm running out of time_, _but it's been great_ _talking with you_. | _Thank you for hearing my thoughts_.
+    _Yes. I'm running out of time_, _but it's been great talking with you_. | _Thank you for hearing my thoughts_.
 
 ---
