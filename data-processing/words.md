@@ -1827,310 +1827,317 @@ keep coming
 support more people in need
 
 70203
-central library
-a library card
-a new immigrant
-borrow books
-learn english
-a great collection
-english learning materials
-documents
-bring
-passport
-proof
-address
-a phone number
-email address
-types of books
-interested in
-novels
-textbooks
-beginner-level
-a special section
-english learners
-borrow up to
-at once
-keep
-return late
-renew
-requested
-library card number
-PIN
-visit in person
-computer use
-printing
-free computer access
-internet
-costs 10 cents
-online resources
-e-books
-audiobooks
-language learning apps
-online courses
-process
-borrowing books
-go choose books
-second floor
-staff member
+law information helpline
+legal issue
+how to get started
+refer
+lawyer
+take your case
+a referral
+a government service
+legal information
+referrals
+won't owe us a cent
+engage a lawyer
+avoid
+go to court
+details of your problem
+start from there
+dispute
+neighbour
+fence
+insists
+half the cost
+refuse
+solid grounds
+split the cost
+kicking a ball against
+leaving it badly damaged
+ignore
+a standard process
+shared fense
+on the hook
+full cost
+promising
+refuse
+cooperate
+simplest route
+a friendly chat
+reach an agreement
+goes smoothly
+
 
 70202
-order
-takeaway
-open until
-kung Pao Chicken
-Mapo Tofu
-Egg fried rice
-dishes
-spicy
-moderately spicy
-not spicy at all
-quite spicy
-put less chili
-wait here
-come back later
-calculate
-pay in cash
-accept credit cards
-mobile payments
-Apple Pay
-insert
-tap it
-processed
-order number
-sit over there to wait
-chairs
-by the window
-call your number
-ready
+new business
+inital ideas
+before going ahead
+business ideas
+a soap business
+making soaps
+intend
+business aspects
+professional help
+on the market
+made for dogs
+dog shampoos
+top market
+dog owners
+natural materials
+no chemicals
+additives
+contains
+essential oils
+smell fresher
+a marketing plan
+add a few points
+a selling plan
+timeline
+works for me
+
 
 70201
-tourist
-a bit lost
-find my way
-visit
-famous
-Opera House
-must-see
-attraction
-get there
-walk from here
-take a bus
-prefer walking
-simple directions
-go straight along this street
-turn right
-third intersection
-keep goin g
-reach
-waterfront
-that sounds easy enough
-Harbour Bridge
-close to
-restaurants
-nearby
-try
-local food
-seafood restaurants
-'The Rocks'
-souvenir shops
-craft stores
-half a day
-photos
-the rocks shopping
-Sydney
+interview
+reputation
+a top comapny
+in the industry
+clients
+employees
+legal requirements
+position
+license requirements
+correct license
+offering
+driving record
+a clean record
+no tickets
+accidents
+drivers
+drving experience
+not clear on
+vehicle
+a regular car license
+a truck license
+drive a truck
+signed a contract
+urgently
+find the right driver
+truck-driving experience
+candidate
+a great chance for this job
+get a new license
+take the test
+let you know the result
 
 70200
-in your area
-raining
-weather
-sunny
-mild temperature
-outdoor activities
-jealous
-rain
-so heavy
-lately
-I can't wait for summer
-go swimming
-at the beach
-picnic
-going camping
-mountains
-hiking
-join
-prepare
-equipment
-tents
-sleeping bags
-camping gear
-book a campsite
-in advance
-a week ahead
-take time off
-plenty of time
-explore
-relax
-look at the stars
-night sky
-beautiful
-bring a camera
-capture
-scenery
-snacks
-responsible
-trip
-amazing
-mountain views
-camping experience
-unforgettable
+business support open day
+artist
+looking for advice
+broaden
+sales channels
+have any of your pieces
+on the market
+set up a stall
+at the local market
+sell my work
+quite inconsistent
+galleries
+an approach
+thought about that before
+reached out
+commission rates
+barely any profit
+gallery commissions are no joke
+really steep
+online sales
+booming
+much experience
+specific platforms
+websites
+socail media platforms
+to connect with
+a broader audience
+get full transparency
+full perspectives
+more appealing
+oil paintings
+sketches
+piling up
+nowhere to go
+engage directly with
+potential buyers
+post updates
+showcase new work
+on a regular basis
+posting on social media
+build a following
+get engagement
+I believe you'll nail it
+plan an exhibition
+special event
+down the line
+promote
+via social channels
+practical ideas
+confidence
 
 70199
-city medical centre
-book an appointment
-not feeling well
-symptoms
-experiencing
-headaches
-feeling very tired
-comprehensive
-check-up
-doctors
-available
-preference
-a specific doctor
-no particular preference
-a female doctor
-feel more comfortabel that way
-availability
-fill out
-forms
-medicare card
-a form of ID
-a list of medications
-prepare
-initial consultation
-tests
-cancel
-reschedule
-how much notice
-require 24 hours notice
-cancellations
-confirmed
-reminder
-the day before
+the disability support program
+hotline
+heard about
+holiday program
+designed for
+children with disabilities
+learn more details
+coordinators
+how you found out about it
+taking part in
+sports training
+at a hospital
+noticed a poster
+hospital notice board
+promote
+broadly
+support is limited
+operates
+free of charge
+indeed no change
+a spacious house
+by the beech
+free of cost
+accommodate
+simultaneously
+in the family
+assigned
+along with
+its own private bathroom
+supply food
+shared cooking and dning
+connect with new people
+opportunity
+make friends
+share similar experiences
+get support from fellow parents
+proceed with the application
+take a family vacation
+application process
+enjoy the holiday
+a single form
+to fill out
+holiday date
+a wonderfull program
 
 70198
-free time
-curious
-hobbies
-activities
-favorite
-photography
-landscape photography
-camera
-DSLR
-Sony
-mirrorless camera
-photo quality
-mainly photograph
-take street photography
-portraints
-subjects
-photographing
-natural landscapes
-especially
-sunrises
-sunsets
-city buildings
-old architecture
-creative hobbies
-painting
-drawing
-admire
-paint
-style
-watercolor landscapes
-abstract art
-relaxing
-paint well
-being perfect
-simple shapes
-beginner
-besides
-enjoy
-hiking
-camping
-in nature
-outdoor activities
-moutain climbing
-swimming
-cycling
-in common
-go hiking together
-hiking trails
-weekend trip
-shares similar interests
-common hobbies
+airline customer service
+make an enquiry
+flight
+flying with us
+reservation
+ticket
+proceed
+flight details
+go on vacation
+started a new job
+take time off
+new position
+won't make the trip
+unfortunate
+push the flight
+a later date
+cancel and get a refund
+get leave
+rescheduled or canceled
+fees may apply
+extra fees
+a firm leave date
+take time off by year's end
+fare class
+modest
+get refunded the balance
+cancellation
+act soon
+read the terms of your ticket
+discounted tickets
+changable
+fare type
+all terms and fees
+on our site
+unclear
+go online
+weigh my options
 
 70197
-city real estate
-rent
-apartment
-a place to live
-two-bedroom
-preferably
-city center
-convenient
-transportation
-budget
-serveral options
-suit
-specfic requirements
-have parking
-balcony
-basic furniture
-furnished apartments
-furnished options
-properties
-subway station
-located
-downtown area
-central station
-85 square meters
-bathroom
-kitchen
-plus utilities
-approximately
-deposit
-a security deposit
-one month's rent
-see the apartment firt
-convenient
-show you
-passport
-prooof of income
-references
-like the apartment
-process
-application
+the Australian Police Assistance Hotline
+how may I be of service today
+broke into
+safety
+ensure
+inside
+stay out
+nobody inside
+the place empty
+someone was there earlier
+scary
+keep calm
+start from the beginning
+ransacked
+laundry room window
+smashed
+gained entry
+chaotic
+stolen
+stereo
+refrain
+tyding up
+touching
+at the scene
+dispatch
+residence
+file a report
+the stolen items
+hassle
+belongings
+insured
+cover the cost of replacing
+wait inside your car
+the police show up
+nothings gets disturbed
+a lifesaver
 
 70196
-colleague at work
-language exchange event
-work together
-envy
-fluently
-quite good
-practice makes perfect
-encouragement
-working hard to practice
-incredible
-favorite Chinese dish
-hot pot
-dim sum
-Peking duck
-Sichuan cuisine
-Mapo Tofu
-Kung Pao Chicken
-spicy food
+a bit under the weather
+unwell
+coughing
+caught the same virus
+a potent virus
+circulating
+hit by it
+madication
+stay home
+going to school
+recovered
+much sicker
+auful
+bounce back
+viral infections
+adults
+contagious
+prescribe
+cure
+outright
+run its course
+your body heals on its own
+take a while
+aches
+lying in bed
+painful
+have a fever
+over-the-counter
+options
+lower your fever
+let you sleep better
+cold
+broke out
+in a heavy sweat
+
+
 

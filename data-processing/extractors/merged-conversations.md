@@ -2354,11 +2354,11 @@ Briefing: This dialogue takes place between a Mandarin-speaking entrepreneur and
 
 Briefing: This dialogue takes place between a Mandarin-speaking job candidate and an English-speaking employer. The conversation takes place at the employer's office. The dialogue starts now.
 
-1.  _Come in_. | _Have a seat_. | _Thank you for coming_ _to the interview_. | _Are you interested_ _in joining us_?
+1.  _Come in. |Have a seat_. | _Thank you for coming_ _to the interview_. | _Are you interested in joining us_?
     请进。坐吧。谢谢你来面试。你有兴趣加入我们吗？
 
 2.  谢谢。我很想在这里工作。贵公司有很好的声誉。
-    _Thanks_. | _I really want to work here_. | _Your company has a very good reputation_.
+    _Thanks. I really want to work here_. | _Your company has a very good reputation_.
 
 3.  _That's good to hear_. | _We are a top company_ _in the industry_. | _Making sure our clients and employees_ _are happy is very important to us_.
     听到这个我很高兴。我们是行业顶尖的公司。确保我们的客户和员工都满意对我们非常重要。
@@ -2366,13 +2366,13 @@ Briefing: This dialogue takes place between a Mandarin-speaking job candidate an
 4.  如果我能得到这份工作就太好了。我想我一定会在这里工作得很开心。但是我知道你们对这份工作有一些法律要求。
     _It would be wonderful_ _if I could get this job_. | _I think I would be very happy_ _working here_. | _But I know you have some legal requirements_ _for this position_.
 
-5.  _Yes_. | _We currently have license requirements_. | _We need you to have_ _the correct license_ _before offering you this job_.
+5.  _Yes. We currently have license requirements_. | _We need you to have_ _the correct license_ _before offering you this job_.
     是的。目前我们对驾照有要求。在聘用您之前，我们需要您持有合适的驾照。
 
 6.  我明白了。我知道你们要检查驾照和驾驶记录。我开车很多年了，记录很好，从来没有任何罚单和事故。
     _I understand_. | _I know you'll check my license_ _and driving record_. | _I've been driving for many years_, | _with a clean record_ | _and no tickets or accidents_.
 
-7.  _Excellent_. | _That's good_. | _We prefer our drivers_ _to have some driving experience_, | _and we only hire drivers_ _with clean records_.
+7.  _Excellent. That's good_. | _We prefer our drivers_ _to have some driving experience_, | _and we only hire drivers_ _with clean records_.
     太好了。这很好。我们偏好有驾驶经验的司机，而且只雇用记录良好的司机。
 
 8.  我不清楚你们想让我开什么类型的车。我有普通汽车的驾照，也有卡车驾照。
@@ -2406,13 +2406,13 @@ Briefing: This dialogue takes place between a Mandarin-speaking artist and an En
     你好！欢迎参加我们的生意支持开放日，我今天有什么可以帮你的吗？
 
 2.  你好。我是一名画家。我今天过来是想获得一些怎么拓宽销售渠道的建议。
-    _Hi_. | _I'm an artist and I've come here today_ | _looking for advice on how to broaden_ _my sales channels_.
+    _Hi. I'm an artist_ _and I've come here today_  _looking for advice on how to broaden_ _my sales channels_.
 
 3.  _That's wonderful!_ | _Do you already have any_ _of your pieces on the market_?
     太好了！您已经在市面上出售作品了吗？
 
 4.  是的，我一般会在本地集市摆摊卖画，不过销售情况时好时坏。
-    _Yes_. | _I usually set up a stall_ _at the local market_ _to sell my work_, | _but my sales are quite inconsistent_.
+    _Yes. I usually set up a stall_ _at the local market_ _to sell my work_, | _but my sales are quite inconsistent_.
 
 5.  _Got it_. | _Have you tried selling your work_ _through galleries_? | _It's an approach_ _many artists take_.
     明白了。您尝试过在画廊销售吗？许多艺术家都会这样做。
@@ -2450,7 +2450,7 @@ Briefing: This dialogue takes place between a Mandarin-speaking artist and an En
 
 Briefing: This dialogue takes place between a Mandarin-speaking parent and an English-speaking disability support program coordinator. The conversation takes place over the phone. The dialogue starts now.
 
-1.  _Hi_. | _You have reached_ _the Disability Support Program hotline_. | _How may I assist you today_?
+1.  _Hi. You have reached_ _the Disability Support Program hotline_. | _How may I assist you today_?
     下午好，您已拨通残疾人支持项目热线，请问今天有什么我可以帮忙的吗？
 
 2.  你好，我是孩子的家长，最近听说了你们的一个为残疾儿童设计的假期项目，我想了解更多详细情况。
@@ -2460,7 +2460,7 @@ Briefing: This dialogue takes place between a Mandarin-speaking parent and an En
     我很乐意帮忙，我是这个项目的协调员之一。请问您是怎么得知这个项目的呢？
 
 4.  我儿子在一家医院参加体育训练。就在这个礼拜，我在医院的公告板上注意到了一张你们介绍这个假期项目的海报。
-    _My son is currently taking part_ _in sports training at a hospital_, | _and just this week_, | _I noticed a poster_ _on the hospital notice board_ | _about your holiday program_.
+    _My son is currently taking part in_ _sports training at a hospital_, | _and just this week_, | _I noticed a poster_ _on the hospital notice board_ | _about your holiday program_.
 
 5.  _I'm glad that you noticed the poster_. | _We don't promote it broadly_ | _since our support is limited_ _to a few families annually_.
     我很高兴您看到了那个海报。我们不大范围宣传，因为每年我们只能帮助少数几个家庭。
@@ -2546,7 +2546,7 @@ Briefing: This dialogue takes place between a Mandarin-speaking customer and an 
 
 Briefing: This dialogue takes place between a Mandarin-speaking homeowner and an English-speaking police officer. The conversation takes place over the phone. The dialogue starts now.
 
-1.  _Hi_. | _You've reached_ _the Australian Police Assistance Hotline_. | _This is Officer Williams speaking_. | _How may I be of service today_?
+1.  _Hi. You've reached_ _the Australian Police Assistance Hotline_. | _This is Officer Williams speaking_. | _How may I be of service today_?
     你好，你已拨通澳大利亚警察求助热线，我是警官威廉姆斯。今天有什么可以为你效劳的吗？
 
 2.  警察同志你好。我家突然有人闯进来了，我现在完全不知道该怎么办才好。
@@ -2558,7 +2558,7 @@ Briefing: This dialogue takes place between a Mandarin-speaking homeowner and an
 4.  目前家里已经没有人了。我刚到家时发现房里空荡荡的没人，但明显看得出之前有人来过。太吓人了。
     _Now there's nobody inside_. | _I just got home_ | _and found the place empty_ _with no one inside_, | _but it's clear someone was there earlier_. | _It's so scary_.
 
-5.  _I see_. | _Please try to keep calm_ | _and start from the beginning_. | _Can you explain what happened_?
+5.  _I see. Please try to keep calm_ | _and start from the beginning_. | _Can you explain what happened_?
     我明白。请尽量保持冷静，从头开始跟我说说到底发生了什么？
 
 6.  好的，我尽量平复一下我的情绪吧。我刚刚旅游回来，发现家里被翻得乱七八糟。而且，洗衣房的窗户被砸破了！
