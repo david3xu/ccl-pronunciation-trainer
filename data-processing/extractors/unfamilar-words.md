@@ -1715,76 +1715,164 @@ real Japanese
 
 70190
 
+70189
+watching his films
+Inception 
+dreams and reality 
+like action movies 
+recommend 
+non-stop action from start to finish 
+won many awards 
+academy awards 
+action scenes are incredible
+genres 
+comedies and romantic films
+very funny and clever 
+add it to my watchlist 
+watching 
+a drama 
+a drug dealer 
+very intense 
+its' considered 
+ever made 
+the acting is amazing 
+period dramas
+chinese movies 
+chinese files 
+learning about chinese culture 
+they are both classic 
+
+70188
+taking the time to see you 
+try to leave some free time 
+availabe each for students 
+studies are going well
+not very satiffied with 
+the grade I received 
+such a low score 
+have a talk with you about that 
+I just haven't have the chance 
+give me some feedback 
+until the next class 
+your paper isn't as good as it could be 
+lacks a clear logical flow 
+wrote in the final minutes 
+cover all the requirements of the topic 
+your arguments aren't set up well 
+was harder to write than I imagined 
+a complicated topic 
+easy to lose direction 
+university-level assignments 
+get good grades 
+offers great tutoring sessions 
+on writing papers 
+
 
 
 70187
-eating out
+chinese 
+spicy food 
+my favorites 
+cook some basic dishes 
+risotto 
+heathier than eating out
 yoru favorite dish to cook
-making Mapo Tofu 
+I love making Mapo Tofu 
 a bit complicated 
 tastes great 
-Italian food 
+cook Italian food 
 make basic pasta dishes 
-specialty 
+specialty is 
 like pizza and pasta 
-risotto si creamy and rich 
+never tried risotto 
+what does the taste like 
+risotto is creamy and rich 
 make with rice and broth 
 very comforting 
+I'd love to try it 
+cook together 
 teach me risotto 
 have a cooking exchange 
 what ingredients do you need 
 minced port 
 broard bean paste 
 sichuan pepercorns 
+are the soul of sichuan cousie 
+buy thses ingredients 
 at Asian supermarkets 
 Chinese seasonings 
 arborio rice
 chicken broth 
 parmesan cheese 
+is the key ingredients 
 Italian rice 
 regular rice 
 Arborio rice 
 shrot-grain 
 very starchy 
-it releases starch
+it releases starch when cooked 
+making the dish creamy 
+sounds magical 
 start our cooking lessons 
+I'm looking forward to 
 learning new dishes 
 a great cooking experience 
 
 70186
+I'd like to order 
+what do you recommend 
 signature dish 
 prepared fresh daily
 excellent seefood
 Peking Duck 
 one serving feed 
+is perfect for 2 - 3 people 
 it comes with 
 pancakes 
 scallions
 hoision sauce 
+want some vegetables 
 the stir-fried broccolli
 very fresh and healthy 
 have steamed bok choy 
 the garlic broccoli 
-soup 
+do yo have soup 
 the hot and sour soup 
 wonton soup 
 egg drop soup
+is very popular 
 steamed white rice 
 fired rice 
+whould you like either of those 
 order drinks 
 tea 
 soft drinks 
 beer 
+what would you like 
 a cup of green tea 
 how long will my food take 
+the soup will come in 10 mins 
+takes about 30 mins 
+I can wait
+let me calculate 
+pay in cash 
+your food will be ready soon 
 
 
 70185
+hear from you again so soon 
+everything's going well 
 some insurance matters 
+are you looking 
 to adjust yoru current policy 
-switch 
+switch to a different type 
+a new type of insurance 
+searching trauma insurance online 
+give you a quote based on your needs 
+can anything purchase trauma insurance 
 particular condition
-trauma insurance 
+won't be converd by trauma insurance 
+generally excludes pre-existing conditions 
 health issues
 what could happen in the future 
 trauma insurance coverage 
@@ -1805,3 +1893,142 @@ for this type of insurance
 fill it out as soon as possible 
 
 70184
+
+
+70183
+getting ready to move 
+not moving so far 
+miss seeing you 
+to the neighbouring district 
+rent a place 
+new place 
+unused furniture 
+earn extra cash
+on social media 
+a few sites 
+let you do that 
+take some time to set up 
+need to save money wherever possible 
+time-consuming 
+to sell your things piece by piece 
+get the right price for your items 
+at a higher price 
+big items like furniture 
+move your things
+save you some moving costs 
+load some boxes 
+make a few trips 
+have everything packed within two weeks 
+
+70182 
+talk about my new job 
+on your position 
+you deserve it 
+dedication and skills 
+appreciate your support 
+a big change for you 
+I'm confident 
+continue to achieve even more 
+just like before 
+I will do my best 
+management tasks 
+help with hiring 
+notices of resignation 
+the departing employees 
+under too much stress 
+choose condidates for intervies 
+fill the positions promptly 
+handling my current workload 
+hand over 
+your current responsibilities 
+focus on your new job 
+prepared the handover documents 
+you are prepared 
+that's very efficient 
+looking forward to the challenge 
+
+70181
+schedule an appointment 
+please take a seat 
+will be with you shortly 
+he is on time for appointment 
+may I ask you some questions 
+just need to pick the phone if it rings 
+got infected 
+cut his leg 
+come to the clinic regularly 
+proper wound dressing 
+to control infection 
+very painful 
+a home care nurse 
+available to help handle a range of medical needs 
+a much easier option 
+the current situation very troublesome 
+how to arrange it 
+ask the doctor shortly 
+refer you to a service provider 
+originally though this 
+a referral 
+this arragement work very well 
+still come in for regular check-ups 
+trust the doctor 
+
+70180
+saw yrou advertisment 
+about selling house 
+buying and selling properties 
+is my main business 
+do manage rental apartments in town 
+a very good time to sell at the moment 
+all moved out 
+want to downsize
+various methods of selling a house 
+homeowners 
+the different selling methods 
+their advantages 
+the size of the house 
+is typical in this area 
+a fixed price 
+an idea of what to expect 
+it helps the buyers as well 
+auctions 
+set a specific date 
+get the best price possible 
+visit your house first 
+I can come then 
+I look forward to seeing you 
+
+70179
+dialed the right number 
+not extremely serious 
+all sorts of crime can affect victim 
+report the crime 
+was broken into 
+power tools 
+common targets 
+trace them 
+engraved on them 
+excellent precausion 
+investigate the incident 
+comprehensive insurance 
+cover theft losses 
+any additional information you can remember 
+think it over carefully 
+if i can recall 
+
+
+70178
+is indeed a big challenge 
+it's brave for you 
+make new friends 
+the kids start school 
+garden supplies store 
+buy some seeds 
+depends on the weather 
+talk with him about gardening 
+climates 
+keep me posted 
+grow vegetables 
+
+70177
+

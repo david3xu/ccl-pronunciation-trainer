@@ -1,12 +1,106 @@
 # CCL Conversations Collection
 
-**Dialogue Range:** 70248 → 70158 (91 conversations total)  
-**Last Updated:** 29 August 2025  
-**Processing Order:** Descending (newest first)  
-**Categories:** Social, Business, Medical, Legal  
-**Source:** Merged from individual conversation files, properly categorized based on raw.md  
+**Dialogue Range:** 70248 → 70158 (91 conversations total)
+**Last Updated:** 29 August 2025
+**Processing Order:** Descending (newest first)
+**Categories:** Social, Business, Medical, Legal
+**Source:** Merged from individual conversation files, properly categorized based on raw.md
 
 _This file contains all CCL conversation dialogues with highlighted vocabulary terms for pronunciation training._
+
+## Table of Contents
+
+- [#70248. New Council Employee Helps Community Centre 2](#70248-new-council-employee-helps-community-centre-2--social)
+- [#70247. Suite Bathroom Design Clarification 2](#70247-suite-bathroom-design-clarification-2--business)
+- [#70246. A New Creamy Leather Lounge Chair 2](#70246-a-new-creamy-leather-lounge-chair-2--business)
+- [#70245. ABN and Business Structure Questions](#70245-abn-and-business-structure-questions--business)
+- [#70244. Seeking Advice After Workplace Layoffs](#70244-seeking-advice-after-workplace-layoffs--business)
+- [#70243. Urgent Lawyer Appointment for Job Contract Review](#70243-urgent-lawyer-appointment-for-job-contract-reviewlegal)
+- [#70242. New Council Employee Helps Community Centre](#70242-new-council-employee-helps-community-centre--social)
+- [#70241. Suite Bathroom Design Clarification](#70241-suite-bathroom-design-clarificationbusiness)
+- [#70240. A New Creamy Leather Lounge Chair](#70240-a-new-creamy-leather-lounge-chair---business)
+- [#70239. Light-Filled Home Office Plans](#70239-light-filled-home-office-plans---business)
+- [#70238. Ordering Oat Milk in a Small Town](#70238-ordering-oat-milk-in-a-small-town---business)
+- [#70237. New Immigrant's Banking Adjustment](#70237-new-immigrants-banking-adjustment---business)
+- [#70236. Shed to Park: Planting Volunteers](#70236-shed-to-park-planting-volunteers--social)
+- [#70235. Late Fee and Direct Debit](#70235-late-fee-and-direct-debit---business)
+- [#70234. Small Town Doctor & Grocer](#70234-small-town-doctor--grocer--social)
+- [#70233. Excavator Theft](#70233-excavator-theft---business)
+- [#70232. Ceiling Leak Emergency Report](#70232-ceiling-leak-emergency-report---business)
+- [#70231. Designing a Relaxing Indoor-Outdoor Space](#70231-designing-a-relaxing-indoor-outdoor-space---business)
+- [#70230. Support for Aging Parents](#70230-support-for-aging-parents---business)
+- [#70229. Getting Insured After Moving Out](#70229-getting-insured-after-moving-out---business)
+- [#70228. First-Day Onboarding with HR](#70228-first-day-onboarding-with-hr---business)
+- [#70227. Handmade Sausage Rolls and Pies for Café Menu](#70227-handmade-sausage-rolls-and-pies-for-café-menu---business)
+- [#70226. Retail & Hospitality Jobs for New Migrant](#70226-retail--hospitality-jobs-for-new-migrant---business)
+- [#70225. Over-the-Counter Drugs for Indigestion](#70225-over-the-counter-drugs-for-indigestion---medical)
+- [#70224. Kitchen Cabinet Hinge Repair](#70224-kitchen-cabinet-hinge-repair---business)
+- [#70223. Discovering the Neighbourhood Post Office](#70223-discovering-the-neighbourhood-post-office---business)
+- [#70222. Bystander Assistance to Paramedic](#70222-bystander-assistance-to-paramedic---medical)
+- [#70221. Friendly Support for the New Town Doctor](#70221-friendly-support-for-the-new-town-doctor--social)
+- [#70220. Tenant Requests Pest Control](#70220-tenant-requests-pest-control---business)
+- [#70219. Understanding Bill Payment Delays](#70219-understanding-bill-payment-delays---business)
+- [#70218. Van Theft Report and Insurance Steps](#70218-van-theft-report-and-insurance-steps---legal)
+- [#70217. Clarifying Local Dog Leash Rules](#70217-clarifying-local-dog-leash-rules---legal)
+- [#70216. Resident Alerts Police to Speeding Driver](#70216-resident-alerts-police-to-speeding-driver---legal)
+- [#70215. Inspecting An Off-Market Property](#70215-inspecting-an-off-market-property---business)
+- [#70214. Customer Calls About Faulty Washer](#70214-customer-calls-about-faulty-washer---business)
+- [#70213. Strategies for School Band Fundraising](#70213-strategies-for-school-band-fundraising---business)
+- [#70212. Newcomer Navigates Waste Sorting and Gardening](#70212-newcomer-navigates-waste-sorting-and-gardening---business)
+- [#70211. Puppy Course: Commands & Grooming](#70211-puppy-course-commands--grooming---business)
+- [#70210. Making Use of a Spare Skip Bin](#70210-making-use-of-a-spare-skip-bin---business)
+- [#70209. Birthday Book Dilemma](#70209-birthday-book-dilemma---business)
+- [#70208. Resolving Off-Plan Apartment Concerns](#70208-resolving-off-plan-apartment-concerns---business)
+- [#70207. Pitching Baked Goods to a Café](#70207-pitching-baked-goods-to-a-café---business)
+- [#70206. Easy Ways to Pick Up Our Kids](#70206-easy-ways-to-pick-up-our-kids---education)
+- [#70205. Fixing a Faulty Laptop Under Warranty](#70205-fixing-a-faulty-laptop-under-warranty---business)
+- [#70204. Using Media and Web to Boost Food Donations](#70204-using-media-and-web-to-boost-food-donations---businesssocial)
+- [#70203. Government Legal Helpline for Fence Dispute](#70203-government-legal-helpline-for-fence-dispute---legal)
+- [#70202. Soap Business Marketing Discussion](#70202-soap-business-marketing-discussion---business)
+- [#70201. Truck Driver Job Interview](#70201-truck-driver-job-interview---business)
+- [#70200. Social Media Strategies for Selling Art](#70200-social-media-strategies-for-selling-art---business)
+- [#70199. Parent's Call for Disability Holiday Program Details](#70199-parents-call-for-disability-holiday-program-details---social)
+- [#70198. Flight Change Request After New Job Start](#70198-flight-change-request-after-new-job-start---tourismbusiness)
+- [#70197. Police Call About House Invasion](#70197-police-call-about-house-invasion---legal)
+- [#70196. Pharmacist Advice for Flu-Like Symptoms](#70196-pharmacist-advice-for-flu-like-symptoms---medical)
+- [#70195. Office Meeting on Remote Work Challenges](#70195-office-meeting-on-remote-work-challenges---business)
+- [#70194. Phone Inquiry about Electric Bike Rules](#70194-phone-inquiry-about-electric-bike-rules---legalbusiness)
+- [#70193. Talking Through a Retirement Plan](#70193-talking-through-a-retirement-plan---business)
+- [#70192. Discussing a Film Festival with the City Council](#70192-discussing-a-film-festival-with-the-city-council---social)
+- [#70191. Navigating Customer Service Challenges](#70191-navigating-customer-service-challenges---business)
+- [#70190. From Crib to Platform Bed](#70190-from-crib-to-platform-bed---socialbusiness)
+- [#70189. Helping Hands for a Neighbourhood Park](#70189-helping-hands-for-a-neighbourhood-park---social)
+- [#70188. A Low-score University Assignment](#70188-a-low-score-university-assignment---education)
+- [#70187. Social Worker Directories](#70187-social-worker-directories---social)
+- [#70186. Discussing the Upcoming Museum Visit](#70186-discussing-the-upcoming-museum-visit---education)
+- [#70185. Trauma Insurance 101](#70185-trauma-insurance-101---business)
+- [#70184. Tax Deadlines and Accounting Solutions](#70184-tax-deadlines-and-accounting-solutions---business)
+- [#70183. Packing Up and Selling](#70183-packing-up-and-selling---business)
+- [#70182. Promotion and Transition](#70182-promotion-and-transition---business)
+- [#70181. From Clinic to Home](#70181-from-clinic-to-home---medical)
+- [#70180. Downsizing After 15 Years](#70180-downsizing-after-15-years---business)
+- [#70179. Stolen Tools Report](#70179-stolen-tools-report---legal)
+- [#70178. Settling In and Planting Seeds](#70178-settling-in-and-planting-seeds--social)
+- [#70177. Booking a 100th Birthday Shoot](#70177-booking-a-100th-birthday-shoot---business)
+- [#70176. Birthday Party Venue Planning](#70176-birthday-party-venue-planning--social)
+- [#70175. Drainage Concerns](#70175-drainage-concerns---business)
+- [#70174. Getting a Quote for Boat Insurance](#70174-getting-a-quote-for-boat-insurance---business)
+- [#70173. Water Restrictions in Australia](#70173-water-restrictions-in-australia--sociallegal)
+- [#70172. Looking for a Foster Pet](#70172-looking-for-a-foster-pet--social)
+- [#70171. Enrol to Vote](#70171-enrol-to-vote---legal)
+- [#70170. Home-based Bakery Business](#70170-home-based-bakery-business---business)
+- [#70169. Bedroom Furniture Payment Plan](#70169-bedroom-furniture-payment-plan---business)
+- [#70168. Inquiring About Spanish Lessons](#70168-inquiring-about-spanish-lessons---education)
+- [#70167. Discussing an engagement Party](#70167-discussing-an-engagement-party--socialbusiness)
+- [#70166. Fundraising Event Planning](#70166-fundraising-event-planning--socialbusiness)
+- [#70165. Working Holiday Visa Inquiry](#70165-working-holiday-visa-inquiry---immigration)
+- [#70164. Resignations and Terminations](#70164-resignations-and-terminations---legal)
+- [#70163. Guiding a Daughter's School Transition](#70163-guiding-a-daughters-school-transition--socialeducation)
+- [#70162. Planning a Neighborhood Gathering](#70162-planning-a-neighborhood-gathering--social)
+- [#70161. Legal Consultation for Selling a Small Business](#70161-legal-consultation-for-selling-a-small-business---legal)
+- [#70160. Rental Inquiry at the Council Office](#70160-rental-inquiry-at-the-council-office---business)
+- [#70159. A Lonely Transfer Student](#70159-a-lonely-transfer-student---education)
+- [#70158. Catering Business Ideas](#70158-catering-business-ideas---business)
 
 ---
 
@@ -333,7 +427,7 @@ Briefing：This dialogue is a conversation between a new council employee and a 
     我觉得我会很喜欢这份新工作带来的多样性。| 您先说说您可能最需要我帮忙的地方吧。
 
 8.  去年，我们为年轻妈妈和她们的孩子举办了几个月的亲子活动，| 我希望能把它变成一个定期活动。
-    _Last year we ran a parent_ _and child program for several months_ | _for young mothers and their children_. | _I'd like to make it_ _a regular thing_.
+    _Last year we ran_ _a parent and child program for several months_ | _for young mothers and their children_. | _I'd like to make it_ _a regular thing_.
 
 9.  _That's a great idea, I am sure_ _I can help organize that for you_. | _Sounds like it was a popular program_.
     这是个好主意。我相信我可以帮你组织。| 听起来这项目很受欢迎啊。
@@ -351,7 +445,7 @@ Briefing：This dialogue is a conversation between a new council employee and a 
     真好。等我把中心的各项工作都熟悉了，| 我肯定能想出一些点子。
 
 14. 太棒了。我相信我们会合作的非常愉快。
-    _Great, I'm sure we'll work_ _together very well_.
+    _Great, I'm sure we'll work together very well_.
 
 ---
 
@@ -371,7 +465,7 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
 4.  速度真快！| 因为材料送过来的时间延期了，| 我本来还以为需要更长的时间呢。| 现在材料好像都很难买，| 运输也很慢。
     _That was quick_! | _Since the material delivery was delayed_, | _I thought it would take longer_. | _Nowadays it seems really hard_ _to get materials_, | _and shipping is so slow too_.
 
-5.  _True, and material prices_ _have gone up too_. | _Since you're here_, | _I'd like to review_ _the plans with you_.
+5.  _True, and material prices_ _have gone up too_. | _Since you're here_, | _I'd like to go over_ _the plans with you_.
     没错，材料现在也涨价了。| 既然你来了，| 我想和你一起过一下图纸。
 
 6.  没问题。| 我感觉我每天晚上回家都会看施工图纸。| 所以每个房间具体会是什么样子的，我都清清楚楚。
@@ -417,7 +511,7 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
 4.  对，我就是想买把新休闲椅，| 所以一直在商场里逛，| 想挑个质感好的。
     _Yeah, I just want to buy_ _a new lounge chair_, | _so I've been looking around the mall_ | _for one that feels really nice_.
 
-5.  _That's really awesome_. | _Big stores have loads of options_. | _But furniture can be expensive_, | _depending on what you want_.
+5.  _That's awesome_. | _Big stores have loads of options_. | _But furniture can be expensive_, | _depending on what you want_.
     那太好了。| 大商场的选择多得很。| 不过家具可不便宜啊，| 这要看你想要什么样的了。
 
 6.  我看上了一款奶油色皮质沙发，很对我胃口，可价格不算低。| 我不太确定最划算的付款方式是怎样的。
@@ -469,7 +563,7 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
 6.  _我们一次只_ _装修一个房间_，| _这样就_ _更容易管理_。| _而且不用赶时间_，_我们可以_ _慢慢琢磨_。
     _We're doing one room at a time_ | _to keep it more manageable_. | _No rush, we can take our time_ _to think things through_.
 
-7.  _That's really smart. Taking your time_ _ensures the house turns out just right_. | _Which room are you tackling now_?
+7.  _That's smart. Taking your time_ _ensures the house turns out just right_. | _Which room are you tackling now_?
     _这法子聪明_。| _慢慢来才能_ _把房子装出_ _理想效果_。_你们现在弄_ _哪个房间_？
 
 8.  _我们在装修时_，_弄了个_ _大阁楼_。_现在准备_ _把它做成_ _家庭办公室_，_那里的_ _自然光线_ _特别好_。
@@ -503,7 +597,7 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
 2.  _你好_！_是的_，_我从来没住过_ _这么小的地方_，| _而且这儿离城里_ _又很远_。| _不过邻居们_ _都特别热情_。
     _Hello, yes, I've never lived in_ _such a small place_, | _and it's quite a distance from the city_. | _But the neighbours have been really welcoming_.
 
-3.  _It is. It takes a while_ _to get to the city_ _and time to get used to everything here_. | _I hope the sense of community_ _can make up for it_.
+3.  _It is. It takes a while_ _to get to the city_ _and a while to get used to everything here_. | _I hope the sense of community_ _can make up for it_.
     _确实_，_去城里要花点时间_，_这里的生活节奏_ _也要慢慢适应_。| _我希望这里的_ _社区氛围_ _能弥补这些不便_。
 
 4.  _对_，_我发现_ _小镇上的人_ _都很友好_，| _我通过工作_，_已经认识了_ _大半个镇上的人_。| _这种亲切感_ _在大城市里_ _可体验不到_。
@@ -515,7 +609,7 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
 6.  _我现在不打算_ _搬回城里_，| _但是_，_我确实很想念_ _城里的东西_，_尤其是那些商店_。| _想买什么_ _都能在一个商场里_ _搞定_。
     _I'm not planning to_ _move back to the city_, | _but I do miss city amenities_, _especially those shops_. | _You could get everything_ _in one shopping centre_.
 
-7.  _I totally understand_. _I can order some grocery items_ _from my suppliers_ | _if they're things you buy regularly_ | _but we don't have them in stock_.
+7.  _I understand_. _I can order some grocery items_ _from my suppliers_ | _if they're things you buy regularly_ | _but we don't have them in stock_.
     _我明白_。_如果你经常买的_ _日用品_ _我们没有库存_，| _我可以帮你_ _从我供应商那里_ _订购_。
 
 8.  _太好了_，_我都不知道_ _你可以这样做_，| _我有过敏_，_所以我更喜欢_ _喝燕麦奶_。| _但是现在_ _快喝完了_。
@@ -637,49 +731,47 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
 
 #70235. Late Fee and Direct Debit - Business
 
-**Briefing**: This is a customer service conversation between a bank customer support representative named Dylan and a customer who has received a late payment fee. The customer believes they paid on time through the bank's mobile app, but the payment was processed late, resulting in a late fee. The representative explains payment processing times and suggests solutions like direct debit and BPAY to avoid future late fees.
-
 1.  _Hi! Thank you for calling our bank_. | _My name is Dylan from Customer Support_. | _Please be aware_ _that this call may be recorded_ _for quality and training purposes_.
-    _您好_！_感谢致电_ _我们银行_。| _我是客户支持部的_ _Dylan_。| _请注意_，_此通话可能会被录音_，_用于质量监控和培训目的_。
+    您好！感谢致电我们银行。我是客户支持的迪伦。请注意，为保证服务质量和培训目的，您的通话可能会被录音。
 
-2.  _你好_，_Dylan_。_我有个问题_ _想咨询一下_。| _我昨天_ _通过手机银行_ _付了一笔账单_，| _但是今天_ _我收到了_ _逾期费用通知_。
-    _Hello, Dylan. I have a question_ _I'd like to ask_. | _Yesterday I paid a bill_ _through mobile banking_, | _but today I received_ _a late fee notice_.
+2.  早上好。我刚收到一张账单，上面说我欠了"滞纳金"。我明明记得付过钱了！这到底是怎么回事？
+    _Good morning. I just received a bill_ _saying I owe a "late payment fee"_. | _I'm sure I paid it_! | _What's exactly going on_?
 
-3.  _I'm sorry to hear that_. | _Let me help you_ _look into this issue_. | _Can you tell me_ _which bill you paid_ _and when you made the payment_?
-    _很抱歉听到这个情况_。| _让我帮您_ _查看这个问题_。| _您能告诉我_ _您付的是哪笔账单_，_以及您什么时候_ _付的款吗_？
+3.  _I understand that can be frustrating_. | _Let me check your account history_ _for that biller_. | _To help me, could you tell me_ _how you made the payment_?
+    我理解这很令人沮丧。让我查一下您对该收款方的账户记录。方便告诉我您是怎么付款的吗？
 
-4.  _我付的是_ _电费账单_，_昨天下午_ _三点左右_ _在手机上付的_。| _账单截止日期_ _是昨天_，_所以我觉得_ _我应该是按时付的_。
-    _I paid the electricity bill_, _around 3 PM yesterday_ _on my phone_. | _The due date was yesterday_, _so I think I should have_ _paid it on time_.
+4.  我是用你们手机银行的应用付的。真怀念能去银行分行当面跟柜员聊聊啊，这样我直接拿手机给柜员看就行了。
+    _I paid it using your bank's app_. | _I really miss being able to just go into a branch_ _and talk to a clerk face-to-face_. | _Then I could just show them_ _what's on my phone_.
 
-5.  _I understand your concern_. | _Let me check_ _the payment processing time_ _for your transaction_. | _Sometimes there can be delays_ _between when you submit_ _and when it's processed_.
-    _我理解您的担心_。| _让我查看一下_ _您这笔交易的_ _处理时间_。| _有时候_，_从您提交到处理完成_ _可能会有延迟_。
+5.  _Don't worry. Looking at the dates_, | _it seems you paid on the due date_. | _For some billers, the payment might not be processed_ _until the next business day_.
+    别担心。看日期，您好像是在到期日当天付的款。对一些收款方来说，款项可能要到下一个工作日才处理。
 
-6.  _延迟_？_这是什么意思_？| _我以为_ _我点击付款_ _钱就马上_ _转过去了_。
-    _Delay? What does that mean_? | _I thought when I clicked pay_, _the money would be transferred_ _immediately_.
+6.  我当天付了钱，只是处理晚了，收款方没在截止时间前收到。现在我就得付那个滞纳金？这太不合理了！
+    _I paid on the day_. | _It was just that the processing was late_, | _and the biller didn't receive it_ _before the deadline_. | _Now I have to pay that late fee_? | _That seems unfair_!
 
-7.  _When you submit a payment_, _it goes into a queue_ _for processing_. | _Usually it takes_ _1-2 business days_ _to complete_. | _That's why we recommend_ _paying a few days early_.
-    _当您提交付款时_，_它会进入_ _处理队列_。| _通常需要_ _1-2个工作日_ _才能完成_。| _这就是为什么我们建议_ _提前几天付款_。
+7.  _Unfortunately, that's correct_ _according to the biller's terms_. | _To avoid this in the future_, | _I strongly recommend setting up a direct debit_.
+    很遗憾，根据收款方的条款，确实如此。为了避免将来再发生这种情况，我强烈建议您设置直接扣款。
 
-8.  _原来如此_。_那我以后_ _得提前几天付款了_。| _不过这次_ _逾期费用_ _能给我免掉吗_？| _毕竟我确实_ _在截止日期前_ _付了款_。
-    _I see. So I'll need to pay_ _a few days early from now on_. | _But can you waive_ _this late fee_? | _After all, I did pay_ _before the due date_.
+8.  直接扣款？意思是，钱自动从我的账户划走？这样安全吗？万一金额错了，怎么办？
+    _Direct debit? Meaning the money is taken out_ _of my account automatically_? | _Is that safe_? | _What if the amount is wrong_?
 
-9.  _I can definitely help you with that_. | _Since you made the payment_ _before the due date_, _I'll waive the late fee_. | _I'll also set up_ _direct debit for you_ _to avoid this in the future_.
-    _我肯定能帮您_ _解决这个问题_。| _既然您在截止日期前_ _付了款_，_我会给您免掉逾期费用_。| _我还会帮您开通_ _自动扣款_，_避免以后_ _再出现这种情况_。
+9.  _With direct debit, you authorise the biller_ _to take the payment directly_ _from your account_. | _It's very secure and ensures_ _you never miss a payment_.
+    使用直接扣款，您授权收款方直接从您的账户扣款。这非常安全，确保您永远不会错过付款。
 
-10. _自动扣款_？_这个怎么操作_？| _我需要_ _提供什么信息_？
-    _Direct debit? How does that work_? | _What information do I need to provide_?
+10. 听起来不错。那不能设置直接扣款的账单呢？比如，我的网费账单好像就不行。我还有其他选择吗？
+    _That sounds good_. | _What about those bills_ _that can't be set up_ _for direct debit_? | _Like my internet bill, I don't think it lets me_ _set that up_. | _Do I have other options_?
 
-11. _You'll need to provide_ _your account details_ _and authorize us_ _to automatically deduct_ _the payment amount_ _on the due date_. | _This way, payments are always_ _processed on time_.
-    _您需要提供_ _账户信息_，_并授权我们_ _在到期日_ _自动扣款_。| _这样_，_付款总是能_ _按时处理_。
+11. _You can use BPAY_. | _It's a very common way_ _to pay bills in Australia_ _through online banking or our app_. | _You'll find the unique biller code_ _on your bill_.
+    您可以使用账单支付服务。这是在澳大利亚通过网上银行或我们的应用来支付账单的常用方式。您可以在账单上找到唯一的收款方代码。
 
-12. _听起来不错_。| _那我需要_ _填写什么表格吗_？| _还是可以在_ _网上操作_？
-    _That sounds good_. | _Do I need to_ _fill out any forms_? | _Or can I do it online_?
+12. 明白了。那我下次最好提前几天付款，或者用直接扣款或账单支付服务，对吧？这样就不会再有滞纳金了。
+    _Got it. So next time, I should pay_ _a few days early_, | _or use direct debit or BPAY, right_? | _Then there won't be_ _any more late fees_.
 
-13. _You can do it entirely online_ _through our website_. | _I'll send you_ _a link to the direct debit form_. | _It only takes_ _a few minutes to set up_.
-    _您完全可以在_ _我们的网站上_ _在线操作_。| _我会给您发送_ _自动扣款表格的链接_。| _设置只需要_ _几分钟时间_。
+13. _That's exactly right_! | _You can find guides for both methods_ _on our website or in our app_. | _Would you like me_ _to email you the links_?
+    完全正确！您可以在我们网站上或应用里找到这两种方法的指南。需要我把链接发邮件给您吗？
 
-14. _太好了_，_谢谢你的帮助_！| _这样我以后_ _就不用担心_ _逾期付款了_。
-    _Great, thank you for your help_! | _This way I won't have to worry_ _about late payments in the future_.
+14. 请发给我吧！谢谢你一切都解释得这么清楚。我现在知道该怎么避免滞纳金了。这样一来，办理银行业务就方便多了。
+    _Please send them_! | _Thank you for explaining everything_ _so clearly_. | _I know how to avoid_ _late fees now_. | _This makes banking_ _much more convenient_.
 
 ---
 
@@ -724,11 +816,11 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
 12. 你真是太贴心了！小镇的人也都很好！| 前天晚上，诊所有个小状况，| 镇上几位邻居马上就来帮忙了，让我特别感动。
     _You're so thoughtful_! _The people in town_ _are really wonderful too_! | _Just the night before last_, _there was a small issue_ _at the clinic_, | _and several neighbors_ _came over immediately to help_. | _It really touched me_.
 
-13.  _That's just how we do things_ _around here_. | _Folks look out for each other_, | _especially for someone like you_ _who's become so important_ _to us all_.
+13.  _That's just how we do things_ _around here_. | _Folks look out for each other_, | _especially for someone like you_ _who's become so important to us all_.
     我们这儿的人就是这样。| 大家互相照应，| 特别是对你这样对我们所有人都很重要的人。
 
 14. 谢谢你！就是这些点点滴滴的小事，让我觉得这里不只是一个工作的地方，| 更像一个可以扎根的家。
-    _Thank you_! _It's these little things_ _that make me feel_ _this place isn't just a workplace_, | _but more like a home_ _where I can stay for good_.
+    _Thank you! It's these little things_ _that make me feel_ _this place isn't just a workplace_, | _but more like a home_ _where I can stay for good_.
 
 ---
 
@@ -878,49 +970,47 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
 
 #70230. Support for Aging Parents - Business
 
-**Briefing**: This is a conversation between friends discussing the challenges of caring for aging parents. One person has been frequently visiting their mother who lives in the suburbs and suffers from joint problems. The other friend provides helpful advice about social services, home safety assessments, community programs for seniors, and government support available for caregivers.
+1.  _Good morning! I haven't run into you much lately_. | _I heard you've been on the go_ _from morning till night_. | _How have you been doing_?
+    早上好！最近都不怎么碰到你，听说你最近从早到晚都很忙。你最近还好吗？
 
-1.  _Good morning! I haven't seen_ _you much lately_. | _I heard you've been on the go_ _from morning till night_. _How have you been doing_?
-    早上好！最近很少碰到你。| 听说你从早到晚都在忙。| 你最近怎么样？
+2.  谢谢你的关心！最近我常常去看我妈妈，她腿疼，身体还不太舒服。所以，我总要抽时间过去。
+    _Thanks for asking! Recently, I've been visiting my mother a lot_. | _She's been having leg pain_ _and isn't feeling well_, | _so I've been making time_ _to see her_.
 
-2.  我妈妈住在郊区，最近关节问题越来越严重。| 我几乎每天都要去看她，帮她做家务。
-    _My mother lives in the suburbs_, _and her joint problems_ _have been getting worse lately_. | _I almost have to visit her daily_ _to help with housework_.
+3.  _I remember you said_ _your mother has joint issues_. | _The round trip must take hours_. | _I can imagine how tough this is for you_.
+    我记得你说过你妈妈有关节问题。来回一趟得好几个小时吧？我能想象这对你来说得有多辛苦。
 
-3.  _That sounds really challenging_. | _Taking care of aging parents_ _can be overwhelming_. | _Have you looked into_ _any support services_?
-    听起来真的很困难。| 照顾年迈的父母确实很累人。| 你有没有了解过一些支持服务？
+4.  是呀，我母亲不喜欢热闹，所以住在郊外。来回要开车2个小时。我基本就没什么空余时间了。
+    _Yeah, my mom prefers quiet places_, | _so she lives in the suburbs_. | _It's a two-hour drive each way_. | _I barely have any free time left_.
 
-4.  我听说过一些，但不太清楚具体有哪些。| 你能给我介绍一些吗？
-    _I've heard of some_, _but I'm not sure_ _what's actually available_. | _Can you tell me_ _about some of them_?
+5.  _Maybe you could speak_ _with a social worker_. | _They might be able_ _to check on your mother sometimes_. | _They've helped people_ _in similar situations_.
+    或许你可以跟社工聊聊，说不定他们可以偶尔去看看你妈妈。他们以前也帮过跟你情况类似的人。
 
-5.  _Absolutely! There are many services_ _designed to help caregivers_. | _For example, there are_ _home care services_ _that can visit regularly_.
-    当然！有很多专门为照顾者设计的服务。| 比如，有定期上门护理服务。
+6.  那太好了，我之前还不知道有这种服务可以用呢。那我该联系谁呢？我得赶紧弄清楚。
+    _That would be great_. | _I didn't even know_ _that kind of service was available_. | _Who should I talk to_? | _I'd better look into it immediately_.
 
-6.  上门护理？这个费用高吗？| 我担心我妈妈负担不起。
-    _Home care? Is that expensive_? | _I'm worried my mother_ _can't afford it_.
+7.  _My friend got some_ _government payments last year_. | _You could try contacting_ _the same office_. | _Also, there are_ _social worker directories available_.
+    我有个朋友去年也领过政府的一些补助。你可以试着找同一个部门问问。另外，还有社工名录。
 
-7.  _The cost varies_, _but there are government subsidies_ _available for seniors_. | _You should check_ _with Centrelink_ _about eligibility_.
-    费用各不相同，但老年人有政府补贴。| 你应该去Centrelink了解一下资格条件。
+8.  我自己没领过什么政府福利，我会试试的。社工名录听上去也很有帮助。
+    _I've never received_ _any government benefits myself_. | _I'd like to give it a try_. | _The social worker directory_ _sounds really helpful too_.
 
-8.  好的，我会去问问。| 还有什么其他服务吗？
-    _Okay, I'll ask about that_. | _What other services are there_?
+9.  _It's important to find someone_ _with qualifications_. | _Even if they can't help you directly_, | _they'll know who can_.
+    找到有资质的人很重要。就算他们不能直接帮你，他们也一定知道谁可以帮你。
 
-9.  _There are also community programs_ _for seniors_, _like social groups_ _and exercise classes_. | _These can help_ _with loneliness and mobility_.
-    还有针对老年人的社区项目，比如社交团体和运动课程。| 这些可以帮助解决孤独和行动不便的问题。
+10. 这些信息对我太有用了。我其实还有不少父母养老的问题，希望他们愿意帮忙。
+    _This info is super helpful_. | _I've actually got a lot of questions_ _about caring for aging parents_. | _I hope they'll be willing to help_.
 
-10. 运动课程听起来不错。| 我妈妈一直想保持活跃，但关节问题让她很难出门。
-    _Exercise classes sound good_. | _My mother has always wanted_ _to stay active_, _but her joint problems_ _make it hard to go out_.
+11. _You're such a devoted child_. | _It's always difficult_ _when parents get older_. | _They do need more care_.
+    你很孝顺。父母年纪大了，总是件难事。他们需要的照顾更多。
 
-11. _Many community centers_ _offer low-impact exercises_ _specifically for seniors_. | _They're designed to be gentle_ _on joints_.
-    很多社区中心都提供专门为老年人设计的低强度运动。| 这些运动对关节很温和。
+12. 我想请社工帮妈妈做家庭安全评估，比如安装扶手和防滑垫。这样她在家里会更安全。
+    _I'd like to ask a social worker_ _to help my mother_ _with a home safety assessment_, | _like installing handrails_ _and non-slip mats_. | _That way she'll be safer_ _in her place_.
 
-12. 这太好了！| 还有什么其他建议吗？
-    _That's really great_! | _Any other suggestions_?
+13. _Lots of community centers_ _host a weekly free lunch_ _for seniors_. | _Your mother might enjoy_ _the company_.
+    许多社区中心每周都会为老年人提供免费午餐。你妈妈可能会喜欢有人一起陪伴。
 
-13. _You should also consider_ _a home safety assessment_. | _They can identify_ _potential hazards_ _and suggest improvements_.
-    你还应该考虑家庭安全评估。| 他们可以识别潜在危险并提出改进建议。
-
-14. 谢谢你的建议！| 这些信息真的很有帮助。| 我感觉现在有方向了。
-    _Thank you for your advice_! | _This information is really helpful_. | _I feel like I have direction now_.
+14. 这真是个好主意！我妈妈很喜欢有人陪她一起吃饭。我马上联系他们。非常感谢你的帮助！
+    _That's a great idea_! | _My mother enjoys_ _having someone eat with her_. | _I'll get in touch with them_ _right away_. | _Thank you very much_ _for your help_!
 
 ---
 
@@ -944,7 +1034,7 @@ Briefing: This dialogue is a conversation between an English-speaking insurance 
     祝你一切顺利。| 那你想了解保险方面的哪些内容？| 你能提前考虑这些，真的很不错。
 
 6.  我知道，我需要给自己的车和个人物品上保险。| 我想了解一下，怎样才能买到性价比最高的那种保险。
-    _I know I need to get insurance_ _for my car and my belongings_. | _I'd like to know_ _how to get_ _the most cost-effective insurance_.
+    _I know I need to get insurance_ _for my car and my belongings_. | _I'd like to know how to get_ _the most cost-effective insurance_.
 
 7.  _I totally get that_. | _Insurance can be pricey_, | _so it's important to choose_ _the right level of cover_ _so you're not overpaying_.
     我完全理解。| 买保险确实不便宜，| 关键是得买到适合自己的保障，不至于多花钱。
@@ -974,49 +1064,47 @@ Briefing: This dialogue is a conversation between an English-speaking insurance 
 
 #70228. First-Day Onboarding with HR - Business
 
-Briefing: This dialogue is a conversation between an English-speaking HR representative named Jill and a Mandarin-speaking new employee on their first day at the company. They are discussing the orientation process, company culture, and getting the new employee settled in. The dialogue begins now.
-
 1.  _Good morning, and welcome to our company_! | _I'm Jill in HR_, | _and I'll be guiding you_ _through today's orientation_.
-    早上好，欢迎加入我们公司！| 我是人力资源部的吉尔，| 我会带你走一遍今天的入职流程。
+    早上好，欢迎加入我们公司！我是人力资源部的吉尔，我会带你走一遍今天的入职流程。
 
-2.  你好，吉尔。谢谢您抽时间见我，| 这份新工作让我非常激动，| 我也很想尽快融入团队！
-    _Hello, Jill. Thank you_ _for taking time to meet_. | _I'm very excited about this new job_, | _and I really want_ _to integrate quickly_!
+2.  你好，吉尔。谢谢您抽时间见我，这份新工作让我非常激动，我也很想尽快融入团队！
+    _Hello Jill. Thank you for taking time to meet me_. | _I'm really excited about this new role_ | _and eager to fit in with the team_.
 
-3.  _We're excited to have_ _you join us too_! | _Your enthusiasm is exactly_ _what we look for_. | _Let's start with_ _a tour of the office_.
-    我们也很高兴你能加入我们！| 你的热情正是我们需要的。| 让我们先从办公室参观开始吧。
+3.  _That's great news_! | _We're thrilled to have you work here_ | _and we truly appreciate every new employee_ _joining our company_.
+    太好了！您能来这工作，我们也非常高兴。我们真心感激每位加入公司的新员工。
 
-4.  太好了！我很想了解公司的布局，| 还有我的工作区域在哪里。
-    _Great! I really want to understand_ _the company layout_, | _and where my workspace will be_.
+4.  我在接受这个职位前，和几位员工聊过。他们都对这里的工作氛围赞不绝口。
+    _Before accepting the offer_, _I spoke with a few employees_. | _They all spoke highly_ _of the work atmosphere here_.
 
-5.  _Perfect! I'll show you_ _the main areas first_. | _This is our open-plan office_, | _and over there is the break room_.
-    很好！我先带你看看主要区域。| 这是我们的开放式办公室，| 那边是休息室。
+5.  _We do take pride_ _in our company culture_ | _and how we take care_ _of our employees_. | _We hope you'll find it rewarding_ _working here_.
+    我们确实对公司文化和员工关怀很自豪，希望你在这工作会有成就感。
 
-6.  开放式办公室看起来很棒！| 这样大家交流起来会更方便。| 休息室里有咖啡机吗？
-    _The open-plan office looks great_! | _This will make it easier_ _for everyone to communicate_. | _Is there a coffee machine_ _in the break room_?
+6.  我相信一定会的。我以前没在这么大规模的公司工作。我听说这里有完善的入职培训。
+    _I'm sure I will_. | _I've never worked_ _at such a large company before_. | _I heard that you have_ _thorough onboarding training_.
 
-7.  _Yes, we have a fully stocked_ _break room with coffee_, _tea, and snacks_. | _It's a great place_ _to meet colleagues_ _and take short breaks_.
-    是的，我们的休息室设备齐全，有咖啡、茶和零食。| 这是认识同事和短暂休息的好地方。
+7.  _Exactly! It helps newcomers_ _settle in smoothly_. | _We walk you through everything_ _from day one_, | _starting with basic training_.
+    没错！这样新人能顺利适应。我们从第一天就手把手指导，从基础培训开始。
 
-8.  听起来很温馨。| 我还想了解一下公司的文化，| 比如工作时间、着装要求等。
-    _That sounds cozy_. | _I'd also like to learn about_ _the company culture_, | _such as working hours_, _dress code, etc_.
+8.  真好。你们有指导手册可以帮我更快融入吗？还有，放我进来的保安说，我得有一个员工证。
+    _That's great! Do you have a guidebook_ _to help me settle in faster_? | _Also, the security guard_ _who let me in said_ _I need a staff ID card_.
 
-9.  _Those are great questions_! | _We have flexible working hours_, | _and our dress code is business casual_. | _We value work-life balance_.
-    好问题！| 我们有弹性工作时间，| 着装要求是商务休闲。| 我们重视工作与生活的平衡。
+9.  _Yes, you'll need it_ _for building entry and elevator access_. | _We'll take your photo_ _and print the card right away_. | _Then I'll introduce you_ _to your mentor_.
+    是的，你得用它进大楼和用电梯。我们会马上给你拍照做卡，然后我会带您去见您的导师。
 
-10. 这听起来很人性化。| 我想知道，我什么时候能见到我的直属上司？
-    _That sounds very humanized_. | _I'd like to know when_ _I can meet my direct supervisor_?
+10. 还有导师吗？真好！照片的话，希望不会太难看，我一向不太喜欢拍证件照。
+    _And I even have a mentor_? | _That's amazing! About the photo..._ | _I hope it won't turn out too bad_. | _I've always hated_ _taking ID photos_.
 
-11. _Your manager will join us_ _for lunch today_. | _They're looking forward_ _to meeting you_. | _We'll also go over_ _your job responsibilities_.
-    你的经理今天会和我们一起吃午饭。| 他们很期待见到你。| 我们还会过一遍你的工作职责。
+11. _Tell me about it_! | _But no stress, we'll take a few_, | _and you can pick_ _the one you like best_.
+    可不是嘛！不过别紧张，我们会多拍几张，你可以挑一张满意的。
 
-12. 太好了！我很期待见到他们。| 我还想了解一下，公司有没有培训项目？
-    _Great! I'm looking forward to meeting them_. | _I'd also like to know_ _if the company has training programs_?
+12. 听你这么说，我就没那么紧张了。你们团队的氛围太温暖了，我都觉得我已经适应这里了。
+    _Now that you say that_, _I feel less nervous_. | _Your team has such_ _a welcoming vibe_. | _I already feel like_ _I belong here_!
 
-13. _Absolutely! We have comprehensive_ _training programs for new employees_. | _You'll start with_ _basic orientation this week_, | _then move to_ _role-specific training_.
-    当然！我们有全面的新员工培训项目。| 你这周先从基础入职培训开始，| 然后转到具体岗位培训。
+13. _You will find your way_ _before you know it_! | _We hope you'll enjoy_ _your time working here_. | _Every day is different_ _in our company_.
+    你很快就能上手了！希望你喜欢在这儿工作。我们公司的每一天都不一样。
 
-14. 这听起来很完善。| 谢谢你的详细介绍，吉尔。| 我感觉我已经准备好开始工作了！
-    _That sounds very comprehensive_. | _Thank you for the detailed introduction_, _Jill_. | _I feel ready_ _to start working_!
+14. 太好了！这正是吸引我入职的原因。我知道在这工作不会无聊。我都等不及要开始啦。
+    _Perfect! That's exactly why I joined_. | _I know it won't be boring_ _working here_. | _I can't wait to start_!
 
 ---
 
@@ -1042,7 +1130,7 @@ Briefing: This dialogue is a conversation between an English-speaking café owne
 6.  我们每天现做现送。| 我们还可以根据哪些产品卖得好，来调整供应。
     _We make and deliver fresh every day_. | _And we can adjust supplies_ _based on what sells well_.
 
-7.  _Very impressive_! _We need consistent deliveries_. | _I'd love to learn more_ _about your handmade_ _baked products_.
+7.  _Very impressive_! _We need consistent deliveries_. | _I'd love to learn more_ _about your handmade baked products_.
     厉害！我们需要持续的配送。| 我很乐意多了解你的手做烘焙产品。
 
 8.  我的香肠卷和馅饼，都是纯手工制作的，| 不是流水线生产，| 这样质量更好。
@@ -1070,49 +1158,47 @@ Briefing: This dialogue is a conversation between an English-speaking café owne
 
 #70226. Retail & Hospitality Jobs for New Migrant - Business
 
-Briefing: This dialogue is a conversation between an English-speaking job advisor named Noah at a skills and jobs centre, and a Mandarin-speaking new immigrant who is seeking employment assistance. They are discussing the immigrant's skills and potential job matches in retail and hospitality sectors. The dialogue begins now.
-
 1.  _Welcome to our skills and jobs Centre_! | _I'm Noah, one of the advisors here_. | _We offer free job search support_. | _What can I help you with today_?
-    欢迎来到我们的技能与就业中心。| 我是诺亚，这里的一位顾问。| 我们提供免费求职辅导。| 请问我今天能帮您做些什么？
+    欢迎来到我们的技能与就业中心。我是诺亚，这里的一位顾问。我们提供免费求职辅导。请问我今天能帮您做些什么？
 
-2.  你好，我是新移民。| 我想找个活儿干。| 但是我不清楚，我的技能是不是可以帮我匹配到合适的岗位。
+2.  你好，我是新移民。我想找个活儿干。但是我不清楚，我的技能是不是可以帮我匹配到合适的岗位。
     _Hi, I'm a new immigrant_. | _I'd like to find a job_, | _but I'm not sure_ _if my skills will match_ _any suitable positions_.
 
 3.  _Sure, that's exactly what we're here for_! | _Tell me a bit about_ _what you're good at_ | _or any jobs you've done before_.
-    当然，这正是我们在这里的目的！| 告诉我一些你擅长的事情，| 或者你以前做过的工作。
+    当然，我们就是干这个的！稍微跟我说说你擅长什么，或者以前干过什么工作吧。
 
-4.  我在中国做过销售，| 也做过餐厅服务员。| 我觉得我比较擅长和人打交道。
-    _I worked in sales in China_, | _and also as a restaurant server_. | _I think I'm quite good_ _at dealing with people_.
+4.  之前，在国内，我在服装店卖过衣服，也在餐馆做过服务员端盘子。
+    _Back home, I worked in a clothing store_ _selling clothes_ | _and I also waited tables_ _as a waitress in a restaurant_.
 
-5.  _Those are excellent skills_ _for retail and hospitality_! | _Customer service experience_ _is highly valued here_. | _Do you speak English well_?
-    这些技能对零售和酒店业来说很棒！| 客户服务经验在这里很受重视。| 你的英语说得怎么样？
+5.  _That's really useful experience_! | _Retail and hospitality are big employers_ _here in Australia_, | _with lots of openings_. | _Would you like to stick_ _with those industries_?
+    这些经验很有用啊！零售和餐饮业在澳洲招人很多，机会很多的。您想继续在这两个行业里找工作吗？
 
-6.  我的英语还可以，| 基本的交流没问题。| 但是我觉得我需要提高一下。
-    _My English is okay_, | _basic communication is no problem_. | _But I think I need to improve_.
+6.  这两个领域，我都可以的。主要是，我的英语还不太溜，我怕我干活儿的时候，沟通费劲。
+    _I'm fine with both of these fields_. | _The main thing is, my English isn't very smooth yet_, | _and I'm worried that communication_ _will be tough when I'm working_.
 
-7.  _That's a great attitude_! | _We offer free English classes_ _for job seekers_. | _Many local employers_ _are looking for_ _people like you_.
-    这种态度很好！| 我们为求职者提供免费英语课程。| 很多雇主都在寻找像你这样的人。
+7.  _No worries. Lots of employers_ _in these areas hire new migrants_ | _and are patient with language barriers_. | _They might start you_ _with simpler tasks_.
+    别担心。这些行业的许多雇主都招新移民，对语言障碍也很包容。通常他们会先给你安排些更简单的活儿。
 
-8.  真的吗？那太好了！| 我想知道，我大概什么时候能找到工作？
-    _Really? That's great_! | _I'd like to know_ _when I might find a job_?
+8.  他们格局还挺大。我愿意先从简单点儿的活儿开始。你能给我推荐几份合适的工作吗？
+    _They are very open-minded_. | _I'm happy to start_ _with simpler tasks_. | _Could you recommend_ _a few suitable jobs for me_?
 
-9.  _It depends on several factors_, | _but with your experience_, | _I'd say within a few weeks_. | _We have many retail positions_ _available_.
-    这取决于几个因素，| 但以你的经验，| 我想说几周内吧。| 我们有很多零售职位空缺。
+9.  _Let me have a look_ _through our job listings_. | _Since you're into retail and hospitality_, | _I'll look for entry-level roles_ _in those fields_.
+    我仔细查查我们的岗位库。既然您对零售和餐饮业感兴趣，我找找这些领域里入门的岗位。
 
-10. 零售工作听起来不错。| 我想知道，这些工作的薪水怎么样？
-    _Retail work sounds good_. | _I'd like to know_ _what the salary is like_ _for these jobs_?
+10. 非常感谢你。我想能尽快上岗，挣些钱养活自己，至少，让自己能吃饱饭。
+    _Thank you so much_. | _I'd like to start working soon_ | _and earn some money_ _to support myself_. | _At least put food on the table_.
 
-11. _Starting wages are usually around_ _twenty-five dollars per hour_. | _With more experience_, _you can earn more_. | _Many positions also offer_ _weekend penalty rates_.
-    起薪通常是每小时二十五澳元左右。| 有经验后，你可以赚得更多。| 很多职位还提供周末加班费。
+11. _I get that! Starting with an entry-level job_ _is smart_. | _You'll build local work experience_ | _and sharpen your English_. | _Any other questions or concerns_?
+    我懂。从入门级岗位开始干很明智，这样您能积累本地工作经验，也能练习英语。还有其他问题或顾虑吗？
 
-12. 这听起来很合理。| 我还想了解一下，这些工作的工作时间怎么样？
-    _That sounds reasonable_. | _I'd also like to know_ _what the working hours are like_ _for these jobs_?
+12. 暂时没有了！真是太谢谢你的帮助了！回头，要是遇到什么麻烦，我再来请教您。
+    _Not at the moment, thank you so much_ _for your help_. | _If I run into any problems later_, | _I'll come back_ _for your advice_.
 
-13. _Most retail jobs_ _offer flexible schedules_. | _You can often choose_ _between morning, afternoon, or evening shifts_. | _This is great for_ _studying or family commitments_.
-    大多数零售工作都提供灵活的时间安排。| 你通常可以在早班、下午班或晚班之间选择。| 这对学习或家庭责任来说很好。
+13. _I've already sent the positions_ _I recommended to your email_. | _Don't hesitate to get in touch with us_ _if you need anything_. | _Good luck with your job hunt_!
+    我已经把推荐的工作发你邮箱了。如果需要帮助，尽管联系我们。祝你找工作顺利！
 
-14. 这听起来很完美！| 谢谢你的帮助，诺亚。| 我感觉我现在有方向了。
-    _That sounds perfect_! | _Thank you for your help_, _Noah_. | _I feel like I have direction now_.
+14. 谢谢你！今天了解了很多信息，感觉踏实多了。希望能尽快拿到第一份工资！
+    _Thank you! I've learned a lot today_, | _feeling much more settled_. | _Hope I can get_ _my first paycheck soon_!
 
 ---
 
@@ -1138,13 +1224,13 @@ Briefing: This dialogue is a conversation between an English-speaking pharmacist
 6.  这还是头一次呢！| 我以前从来不胃胀的，| 所以我也不知道我该吃什么药。
     _This is the first time_. | _My stomach has never been bloated before_, | _so I'm not sure_ _what medicine to take_.
 
-7.  _No worries. We've got a few_ _over-the-counter drugs_ _for indigestion_. | _I'd suggest trying one_ _that lowers stomach acid_.
+7.  _No worries. We've got a few_ _over-the-counter drugs for indigestion_. | _I'd suggest trying one_ _that lowers stomach acid_.
     别担心。我们有好几种非处方药可以缓解消化不良，| 我推荐您试试能抑制胃酸的那类药。
 
 8.  谢谢你。这药我应该怎么吃呢？| 比如，是饭前吃，还是饭后吃？一天要吃几次呢？
-    _Thank you. How should_ _I take the medicine_? | _For example, before or after meals_, _and how many times a day_?
+    _Thank you. How should I take the medicine_? | _For example, before or after meals_, _and how many times a day_?
 
-9.  _For acid reducers_, | _you can take them_ _right after eating_, | _or any time_ _you start to feel discomfort_.
+9.  _For acid reducers_, | _you can take them right after eating_, | _or any time you start to feel discomfort_.
     对于抑酸药，| 您可以一吃完东西就服用，| 或者，一感觉不舒服就吃。
 
 10. 好的，那这类药有没有什么常见的副作用呢？| 吃药的时候，我需要注意些什么吗？
@@ -1166,49 +1252,47 @@ Briefing: This dialogue is a conversation between an English-speaking pharmacist
 
 #70224. Kitchen Cabinet Hinge Repair - Business
 
-Briefing: This dialogue is a conversation between an English-speaking repair technician and a Mandarin-speaking homeowner who has called for kitchen cabinet repair services. The homeowner's kitchen cabinet door won't close properly due to loose hinges. The dialogue begins now.
-
 1.  _Morning! I received your appointment info for today_. | _I'm the technician_ _checking your cabinets_. | _What's going on with them_?
-    早上好！我已经收到了您今天的预约信息。| 我是来检查橱柜的技工。| 哪里出问题了？
+    早上好！我已经收到了您今天的预约信息。我是来检查橱柜的技工。哪里出问题了？
 
-2.  您好，快请进！我厨房橱柜的门，出了点问题。| 铰链有些松动了，| 所以，门关不上了。
-    _Hello, come on in_! _There's something wrong_ _with my kitchen cabinet door_. | _The hinge is a bit loose_, | _so the door won't close_.
+2.  您好，快请进！我厨房橱柜的门，出了点问题。铰链有些松动了，所以，门关不上了。
+    _Hello, come on in! There's something wrong_ _with my kitchen cabinet door_. | _The hinge is a bit loose_, | _so the door won't close_.
 
-3.  _Got it. Older cabinets_ _often have this issue_. | _Let me check those hinges properly first_. | _Oh! They're completely rusted_.
-    明白了。老橱柜常有这毛病。| 我好好检查下铰链。| 哦！它们已经完全生锈了。
+3.  _Got it. Older cabinets_ _often have this issue_. | _Let me check those hinges properly_. | _Oh! They're completely rusted_.
+    明白了。老橱柜常有这毛病。我好好检查下铰链。哦！它们已经完全生锈了。
 
-4.  对的，这套橱柜已经用了很多年了，| 材料可能开始老化了。
-    _Yes, this set of cabinets_ _has been used for many years_, | _and the materials_ _may be starting to deteriorate_.
+4.  对的，这套橱柜已经用了很多年了，材料可能开始老化了。
+    _Right, this set of cabinets_ _has been in use for years_ | _and the material probably starts to wear out_.
 
-5.  _I can see the problem_. | _These hinges need to be replaced_. | _I have new ones_ _in my van_.
-    我能看到问题所在。| 这些铰链需要更换。| 我车上有新的。
+5.  _These hinges are worn_, | _and the wood around them is chipped_. | _I need to replace the hinges_ | _and patch up the wood_.
+    这些铰链已经磨损了，周围的木头也掉渣了。得换铰链了，还得把木头补好。
 
-6.  太好了！那大概需要多长时间能修好？
-    _Great! How long_ _will it take to fix_?
+6.  好的，我没问题。如果要换新的铰链，费用是多少？还有，大概需要多长时间？
+    _Alright, I'm fine with that_. | _If we're replacing the hinges_, | _how much would it cost_? | _Also, roughly how long does it take_?
 
-7.  _It should only take_ _about twenty minutes_. | _I'll replace all the hinges_ _to make sure_ _they're consistent_.
-    大概只需要二十分钟。| 我会把所有铰链都换掉，确保它们一致。
+7.  _Replacing the hinges_ _and reinforcing the wood frame_ | _will run you about two hundred dollars_, | _labour and materials included_.
+    更换铰链，还有加固木头框架，大概需要200澳币，包括材料和人工费。
 
-8.  好的，那费用大概是多少？
-    _Okay, what's the cost approximately_?
+8.  明白了。那您估计需要多长时间修好呢？如果能尽快完成就太好了。我今天还要准备一顿大餐。
+    _Got it. How long do you estimate_ _the repair will take_? | _It'd be great if it could be done quickly_. | _I have a big meal_ _to prepare today_.
 
-9.  _The new hinges cost_ _about fifteen dollars each_, | _and labor is fifty dollars_. | _So total would be_ _around eighty dollars_.
-    新铰链每个大约十五澳元，| 人工费五十澳元。| 所以总共大约八十澳元。
+9.  _It'll only take around two hours_. | _If you're happy with the quote_, | _I can get started immediately_. | _Won't mess with your big dinner plans_!
+    大概两小时就能完成。如果您对报价满意，我现在就可以开始。不会影响你的大餐计划的！
 
-10. 这个价格很合理。| 那您开始修吧，我去给您倒杯水。
-    _That price is very reasonable_. | _Then you can start fixing_, _and I'll get you a glass of water_.
+10. 那可以。我就怕厨房用不了，所以能尽快修好就最好了。柜子坏了很不方便。
+    _That's okay. I'm just worried_ _about not having a functional kitchen_, | _so I'd appreciate a quick fix_. | _Broken cabinets are such a hassle_!
 
-11. _Thanks! I'll get started right away_. | _The new hinges_ _will last much longer_ _than the old ones_.
-    谢谢！我马上开始。| 新铰链会比旧的耐用得多。
+11. _No worries. You'll have your kitchen back_ _by this afternoon_. | _I'll just grab my tools_ _from the van_, | _you know, drill and stuff_.
+    别担心，你的厨房今天下午就能恢复使用啦。我这就去面包车上拿一下工具，就那些，电钻什么的。
 
-12. 那太好了！| 我希望能用很久，| 不用再经常修了。
-    _That's really great_! | _I hope they last a long time_, | _so I won't need to_ _fix them frequently_.
+12. 谢谢您。您修理的时候，我需要清空柜子吗？我可以在厨房做点简单的事吗？
+    _Thank you. While you're working_, | _do I need to empty the cabinets_? | _Can I still do some light stuff_ _in the kitchen_?
 
-13. _These are high-quality hinges_. | _They should last_ _at least ten years_. | _I'll also tighten_ _all the other cabinet doors_.
-    这些都是高质量的铰链。| 它们应该至少能用十年。| 我还会把其他橱柜门都拧紧。
+13. _It would be great_ _if you could empty these cabinets_, | _so I have room to work safely_. | _Don't use the stove for safety_, | _but feel free to use the sink_.
+    最好把这些橱柜清空，这样我有空间安全工作。出于安全原因，请不要用炉灶，不过水槽随便用。
 
-14. 太感谢了！| 这样我就能安心使用厨房了。
-    _Thank you so much_! | _This way I can use_ _my kitchen with peace of mind_.
+14. 谢谢您的提醒，我会把橱柜里的东西都挪到一边去的。非常感谢您的专业和效率！
+    _Thanks for the heads-up! I'll move everything_ _in the cabinets aside_. | _I really appreciate_ _how professional and efficient you are_!
 
 ---
 
@@ -1216,7 +1300,7 @@ Briefing: This dialogue is a conversation between an English-speaking repair tec
 
 Briefing: This dialogue is a conversation between an English-speaking neighbor named Robin and a Mandarin-speaking new resident who has just moved into the neighborhood. Robin is helping the new resident learn about local services, particularly the post office. The dialogue begins now.
 
-1.  _Hi there, I'm Robin. I just saw_ _a moving van_ _parked around here earlier_, | _and I thought_ _I'd come and say hi_.
+1.  _Hi there, I'm Robin. I just saw_ _a moving van_ _parked around here earlier_, | _and I thought I'd come and say hi_.
     你好，我是罗宾。我刚看到这附近停着一辆搬家货车，| 就想过来打个招呼。
 
 2.  你好呀！我是刚搬来的，现在屋里还乱着呢，| 箱子还有一半没拆完，家具也堆得乱七八糟。
@@ -1262,49 +1346,47 @@ Briefing: This dialogue is a conversation between an English-speaking neighbor n
 
 #70222. Bystander Assistance to Paramedic - Medical
 
-Briefing: This dialogue is a conversation between an English-speaking paramedic and a Mandarin-speaking bystander who called emergency services after witnessing an incident. The paramedic is gathering information about what happened from the witness. The dialogue begins now.
-
 1.  _Hi there, I'm one of the paramedics_. | _You said you made the call earlier_. | _Can you walk me through what happened_?
-    你好，我是其中一位急救人员。| 你说刚才是你打的电话。| 你能给我详细说说发生了什么吗？
+    你好，我是其中一位急救人员。你说刚才是你打的电话。你能给我详细说说发生了什么吗？
 
-2.  你好，这位男士刚才就在我面前突然倒下了，| 我看到他晕倒在地上了。
+2.  你好，这位男士刚才就在我面前突然倒下了，我看到他晕倒在地上了。
     _Hi. Just now, this man suddenly collapsed_ _right in front of me_. | _I saw him faint on the ground_.
 
 3.  _Do you know how long_ _he's been unconscious_? | _Did you see any warning signs_ _before he went down_?
-    你知道他昏迷多久了吗？| 他倒下前，有没有表现出任何预兆？
+    你知道他昏迷多久了吗？他倒下前，有没有表现出任何预兆？
 
-4.  有两分钟左右了。倒下之前，| 他有点站不稳，脸色也很苍白。
-    _About two minutes_. _Before he collapsed_,| _he was a bit unsteady_ _and looked very pale_.
+4.  有两分钟左右了。倒下之前，他有点站不稳，脸色也很苍白。
+    _About two minutes_. | _Before he collapsed_, | _he was a bit unsteady_ | _and looked very pale_.
 
 5.  _Got it, thanks for the heads-up_. | _I'm going to check_ _his pulse and breathing right away_.
-    明白了，谢谢你的提醒。| 我马上检查他的脉搏和呼吸。
+    明白，多谢告知。我现在马上检查他的脉搏和呼吸情况。
 
-6.  好的，我就在旁边等着，| 如果需要我做什么，请告诉我。
-    _Okay, I'll wait nearby_. | _If you need me to do anything_, _please let me know_.
+6.  这像是心脏病发作了？我还能帮上什么忙吗？比如找药什么的？
+    _Is this a heart attack_? | _What else can I do to help_, | _like look for medication_?
 
-7.  _Actually, could you help me_ _by calling his family_? | _I found his phone_ _in his pocket_.
-    实际上，你能帮我联系他的家人吗？| 我在他口袋里找到了他的手机。
+7.  _I'm not certain yet_. | _Please stay calm and move back a bit_ | _so I have room to work_.
+    现在还不确定。请保持冷静，后退一点儿，好让我有空间操作。
 
-8.  当然可以！| 我来帮他联系家人。| 他的手机有密码吗？
-    _Of course I can_! | _I'll help contact his family_. | _Does his phone have a password_?
+8.  没问题。我往后退一点。我刚给打电话叫了救护车。救护车还有多久到？
+    _No problem, I'll step back_. | _I just called an ambulance_. | _How long does it take_ _for the ambulance to arrive_?
 
-9.  _No, it's unlocked_. | _Look for contacts_ _marked as "Home" or "Family"_. | _Tell them what happened_ _and where we are_.
-    没有，手机没锁。| 找找标记为"家"或"家人"的联系人。| 告诉他们发生了什么，我们在哪里。
+9.  _The ambulance is minutes away_. | _Right now, I'm looking for any injuries_ _from the fall_, | _especially around his head and spine_.
+    救护车几分钟就到。我现在在检查他的摔伤情况，特别是头部和脊椎附近。
 
-10. 好的，我马上联系。| 他的家人知道他在哪里吗？
-    _Okay, I'll contact them right away_. | _Do his family members know where he is_?
+10. 我刚才好像看到他头部撞到地了。需要在他脑袋下面，垫点软的东西吗？
+    _I think I saw his head_ _hit the ground just now_. | _Should we put something soft_ _under his head_?
 
-11. _I'm not sure, but tell them_ _we're at the shopping center_ _on Main Street_. | _They should come quickly_.
-    我不确定，但告诉他们我们在主街的购物中心。| 他们应该快点来。
+11. _It's better to leave him_ _as he is for now_, | _until we assess him properly_. | _Moving him may cause further injury_.
+    在我们好好检查他之前，最好先让他保持现状。动他可能会让他伤得更严重。
 
-12. 我已经联系上他的妻子了，| 她说她马上过来。| 大概需要十五分钟。
-    _I've contacted his wife_, | _and she said she'll come right away_. | _It should take about fifteen minutes_.
+12. 明白，我不碰他。真希望他能快些恢复。大家也别慌啊！
+    _Understood. I won't touch him_. | _I really hope he recovers soon_. | _Everyone stays calm_!
 
-13. _Perfect, thank you_. | _His vital signs are stable now_. | _We'll transport him_ _to the hospital_ _when the ambulance arrives_.
-    很好，谢谢。| 他的生命体征现在稳定了。| 救护车到了我们就送他去医院。
+13. _You did well by calling for help_. | _The ambulance is almost here_, | _and they will take over_.
+    你打电话求助，做得很好。救护队快到了，他们会接手处理的。
 
-14. 太好了！| 我很高兴能帮上忙。| 希望他没事。
-    _That's absolutely great_! | _I'm glad I could help_. | _I hope he'll be okay_.
+14. 好的，我会保持镇定的。咱们确保，这块地方在救护车来的时候，是畅通的。
+    _Okay, I'll stay calm_. | _Let's make sure the area is clear_ _for the ambulance_ _when it arrives_.
 
 ---
 
@@ -1324,7 +1406,7 @@ Briefing: This dialogue is a conversation between an English-speaking local resi
 4.  这个小镇上的人都很可爱。| 我适应得还不错。| 我的小诊所已经开了半年多，| 通过工作，我也认识了镇上大半的人。
     _The people in this small town are_ | _all really lovely_. | _I'm adjusting well_. | _My little clinic has been open for_ | _over six months_, | _and through work_ _I've met nearly half the town_.
 
-5.  _I'm sure everyone is_ | _excited about the new doctor_. | _The previous doctor_ | _moved back to the city_. _It took a while_ | _for the replacement octor to arrive_.
+5.  _I'm sure everyone is_ | _excited about the new doctor_. | _The previous doctor_ | _moved back to the city_. _It took a while_ | _for the replacement doctor to arrive_.
     我肯定大家都对新医生感到很兴奋。| 之前的医生搬回城里了。过了好一阵子，才有替代的医生来。
 
 6.  现在，我并不打算搬回去。| 但是，我确实很想念城市里的各种活动、很多东西，还有许多商店。
@@ -1400,7 +1482,7 @@ Briefing: This dialogue is a conversation between an English-speaking property m
     只要保持厨房清洁，清理任何食物残渣。| 害虫防治团队会处理其余的事情。| 他们来的时候我会给你打电话。
 
 14. 谢谢你的帮助，崔西。| 我真的希望这个问题能尽快解决。
-    _Thank you for your help_, _Tracy_. | _I really hope this issue_ _can be resolved quickly_.
+    _Thank you for your help, Tracy_. | _I really hope this issue_ _can be resolved quickly_.
 
 ---
 
@@ -1884,1251 +1966,1014 @@ Briefing: This dialogue is a conversation between two friends where one is an En
 
 ---
 
-#70209. New Neighbour's Dog Barking - Social
+#70209. Birthday Book Dilemma - Business
 
-Briefing: This dialogue is a conversation between two neighbours where one is an English-speaking person and the other is a Mandarin-speaking person. They are discussing a new neighbour's dog that barks a lot and how to handle the situation. The dialogue begins now.
+Briefing: This dialogue is a conversation between a bookstore staff member and a customer who wants to return a book that was meant as a birthday gift but the recipient already owns it. The dialogue begins now.
 
-1.  _Hi there! | I'm your new neighbour_ _from next door_. | _I just moved in last week_.
-    你好！我是你隔壁的新邻居。我上周刚搬来。
+1.  _Hi there! I recall seeing you_ _a few days back_ _when you picked up_ _that actor's biography_.
+    嗨！我记得几天前见过你，那时候你买了那位演员的传记。
 
-2.  你好！欢迎来到这个社区！| 我是小明，很高兴认识你。
-    _Hello! Welcome to the neighbourhood_! | _I'm Xiaoming, nice to meet you_.
+2.  你好！我本来想把这本书当作朋友的生日礼物，可她已经买过同一本了，因为她是那位演员的头号粉丝。
+    _Hi! I was going to give this book_ _as a birthday gift_ _to my friend_, _but she already has bought one herself_ _because she's a huge fan_ _of that actor_.
 
-3.  _Nice to meet you too_! | _I'm Sarah_. | _I hope I'm not bothering you_, | _but I wanted to ask about_ _the dog that keeps barking_.
-    很高兴认识你！我是莎拉。| 希望没有打扰到你，| 但我想问问那只一直叫的狗。
+3.  _Oh dear, that's unfortunate_. | _Since she's such a fan_, | _it really would have made_ _an ideal present_.
+    天哪，那太不巧了。既然她是粉丝，这本书本来可以是件完美的礼物啊。
 
-4.  哦，你说的是那只狗啊。| 它确实叫得挺厉害的，| 我也注意到了。
-    _Oh, you mean that dog_. | _It does bark quite a lot_, | _I've noticed it too_.
+4.  没错，这主意原本很棒的。当时，这本书很快就脱销了，但我还是设法买到了一本。
+    _Yes, it was a great idea_. | _At that time, the book sold out fast_, | _but I managed to get a copy_.
 
-5.  _It's been driving me crazy_ _since I moved in_. | _I can't get any sleep at night_. | _Do you know whose dog it is_?
-    自从我搬来后，它就一直让我发疯。| 我晚上根本睡不着觉。| 你知道这是谁的狗吗？
+5.  _I'm certain your friend will appreciate_ _the effort and thought_ _you made picking out_ _a gift for her_, | _despite how things turned out_.
+    我相信你朋友肯定能感受到你给她挑礼物时花的心思和努力啦，不管结果如何。
 
-6.  我知道，是新搬来的那家人养的。| 他们好像不太管那只狗，| 让它整天在外面叫。
-    _I know, it belongs to_ _the new family that moved in_. | _They don't seem to care about the dog much_, | _letting it bark outside all day_.
+6.  是啊，她还是收到了一些不错的礼物的，所以也不是很有关系的。不过我现在有点不知道该怎么办，我自己是不想要这本书的。
+    _Right, she did get some nice presents_, | _so it's no big deal_. | _But I'm kind of unsure_ _what to do now_. | _I don't want to keep_ _this book myself_.
 
-7.  _That's terrible_! | _I've tried talking to them_, | _but they don't seem to care_. | _What should I do_?
-    太糟糕了！我试过跟他们谈，| 但他们似乎不在乎。| 我该怎么办？
+7.  _If you don't want this one_, | _you could swap it_ _for something different_. | _Are there any other books_ _your friend might enjoy_?
+    如果你不想要这一本，你可以换成别的。你朋友或许还喜欢什么别的书吗？
 
-8.  我建议你先去找社区委员会投诉。| 我们这里对噪音有严格规定，| 他们应该能帮你解决。
-    _I suggest you first_ _complain to the community committee_. | _We have strict noise regulations here_, | _they should be able to help_.
+8.  我只知道她喜欢那本人物传记。至于她还爱看什么其他书，我还真的不知道。与其说绞尽脑汁也可能送不到她心仪的礼物，不如我请她去吃个广式早茶。
+    _I just know she likes that biography_. | _As for what other books_ _she loves to read_, | _I honestly don't know_. | _Rather than racking my brains_ _and possibly still failing_ _to give her a gift_ _she truly loves_, | _I might as well take her out_ _for dim sum_.
 
-9.  _That's a good idea_. | _I'll do that tomorrow_. | _In the meantime_, _do you have any suggestions_ _for dealing with the noise_?
-    好主意。我明天就去。| 同时，你有什么建议| 来应对这个噪音吗？
+9.  _That's a lovely idea as well_. | _So, I can process_ _a refund for you_ _on this book_.
+    这主意也不错。那么我可以帮你把这本书退掉。
 
-10. 你可以试试戴耳塞睡觉，| 或者用白噪音机。| 我朋友用过，效果还不错。
-    _You could try_ _wearing earplugs to sleep_, | _or use a white noise machine_. | _My friend used one_, _it worked quite well_.
+10. 谢谢你。我真没想到这本书她已经有了，看来办理退款是最合适的解决办法了。
+    _Thank you_. | _I really didn't expect_ _she already had this book_. | _Getting a refund seems like_ _the best solution_.
 
-11. _Thanks for the suggestions_! | _I'll definitely try the earplugs tonight_. | _Hopefully the community committee_ _can help resolve this_.
-    谢谢你的建议！我今晚肯定试试耳塞。| 希望社区委员会能帮助解决这个问题。
+11. _Alternatively, you could choose_ _a different book for yourself_. | _If nothing else grabs your interest_, | _just return here for a refund_.
+    或者你也可以挑一本别的书给自己。如果没找到喜欢的，随时回来柜台给你退款。
 
-12. 不客气！如果还有其他问题，| 随时可以来找我。| 我们邻居之间应该互相帮助。
-    _You're welcome_! _If you have other questions_, | _feel free to come to me anytime_. | _We neighbours should help each other_.
+12. 好的。我还有一个小时才得回去上班，所以我有时间慢慢挑。你能在这么棒的店工作，真让人羡慕呀！
+    _Alright. I still have an hour_ _before I go back to work_, | _so I have time to browse slowly_. | _I envy you for working_ _in such a great store_!
 
-13. _That's very kind of you_. | _I really appreciate it_. | _Hopefully we can get this dog situation_ _sorted out soon_.
-    你真是太好了。我真的很感激。| 希望我们很快就能解决这个狗的问题。
+13. _Thanks. I adore my job_. | _I'm passionate about books_ | _and guiding people_ _to find books they'll enjoy_. | _It's a perfect job for me_.
+    谢谢。我很喜欢我的工作。我热爱书，也爱帮人挑到喜欢的书。这工作对我来说太合适了。
 
-14. 一定会的！社区委员会办事效率很高。| 我们很快就能睡个好觉了。
-    _Definitely! The community committee_ _works very efficiently_. | _We'll be able to sleep well soon_.
-
----
-
-#70208. Car Insurance Claim After Accident - Business
-
-Briefing: This dialogue is a conversation between an English-speaking insurance agent and a Mandarin-speaking customer who has been in a car accident and needs to make an insurance claim. The dialogue begins now.
-
-1.  _Good morning, sir_. | _Thank you for calling_ _our insurance company_. | _How can I assist you today_?
-    早上好，先生。感谢您致电我们保险公司。今天有什么可以为您效劳的吗？
-
-2.  你好，我昨天发生了车祸，| 现在需要申请保险理赔。| 我的保单号是123456789。
-    _Hello, I had a car accident yesterday_, | _and now I need to file_ _an insurance claim_. | _My policy number is 123456789_.
-
-3.  _I'm sorry to hear about your accident_. | _I hope you're okay_. | _Let me pull up_ _your policy details_ _first_.
-    听到您发生车祸我很遗憾。希望您没事。让我先调出您的保单详情。
-
-4.  谢谢关心，我没事，| 只是车子受损比较严重。| 对方司机承认了责任。
-    _Thank you for your concern, I'm fine_, | _but the car is quite damaged_. | _The other driver admitted fault_.
-
-5.  _That's good to hear_ _that you're okay_. | _I can see your policy_ _is active and comprehensive_. | _What happened_ _in the accident_?
-    听到您没事很好。我可以看到您的保单是有效的综合险。事故中发生了什么？
-
-6.  我在十字路口等红灯时，| 后面的车追尾了。| 我的车被撞得很严重，| 后保险杠完全变形了。
-    _I was waiting at a red light_ _at an intersection_, | _when the car behind_ _rear-ended me_. | _My car was badly damaged_, | _the rear bumper_ _is completely deformed_.
-
-7.  _I understand that_. | _Do you have a police report_ _or any photos of the damage_? | _This will help with the claim process_.
-    我明白了。您有警方报告或损坏的照片吗？这将有助于理赔流程。
-
-8.  有的，我拍了照片，| 也有警方报告。| 报告编号是PR-2024-001。
-    _Yes, I took photos_, | _and I have a police report_. | _The report number is PR-2024-001_.
-
-9.  _Perfect. I'll need you to_ _email those photos_ _to claims@insurance.com_. | _Also, please provide the other driver's details_.
-    很好。我需要您把照片发到claims@insurance.com。另外，请提供对方司机的详细信息。
-
-10. 好的，我马上发邮件。| 对方司机的信息我也有，| 包括姓名、电话和车牌号。
-    _Okay, I'll send the email right away_. | _I also have the other driver's information_, | _including name, phone, and license plate_.
-
-11. _Excellent. Now, let me ask_ _a few more questions_. | _Was anyone else in your car at the time_?
-    很好。现在让我再问几个问题。当时您车里还有其他人吗？
-
-12. 没有，就我一个人。| 我系了安全带，| 所以没有受伤。
-    _No, just me alone_. | _I was wearing a seatbelt_, | _so I wasn't injured_.
-
-13. _That's very fortunate_. | _I'll start processing your claim now_. | _You should receive a claim number_ _within 24 hours_.
-    那很幸运。我现在开始处理您的理赔。您应该在24小时内收到理赔号。
-
-14. 太好了，谢谢你的帮助！| 还有什么需要我做的吗？
-    _Great, thank you for your help_! | _Is there anything else I need to do_?
-
-15. _Just keep all receipts for any expenses_ _related to the accident_. | _We'll reimburse you_ _for reasonable costs_. | _Thank you for choosing our insurance company_.
-    只要保留所有与事故相关的费用收据。我们会报销合理的费用。感谢您选择我们保险公司。
+14. 我能感觉到你的热情！你真是位超级棒的店员呀。你们这里的服务也确实很棒。
+    _I can feel your passion_! | _You really are an amazing staff member_. | _The service here is truly great_.
 
 ---
 
-#70207. Restaurant Reservation for Large Group - Business
+#70208. Resolving Off-Plan Apartment Concerns - Business
 
-Briefing: This dialogue is a conversation between an English-speaking restaurant staff member and a Mandarin-speaking customer who wants to make a reservation for a large group. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking house owner and an English-speaking lawyer. The conversation takes place over the phone. The dialogue starts now.
 
-1.  _Good afternoon, welcome to Golden Dragon Restaurant_. | _How may I help you today_?
-    下午好，欢迎光临金龙餐厅。今天有什么可以为您效劳的吗？
+1.  _Morning, thanks for ringing in_. | _What can I do for you today_?
+    早上好，感谢致电。我今天能为您做些什么？
 
-2.  你好，我想预订一个包间，| 大概15个人左右。| 时间是下周五晚上7点。
-    _Hello, I'd like to book a private room_, | _for about 15 people_. | _The time is next Friday at 7 PM_.
+2.  您好，我在网上看到你们的网站，对地产方面有些疑问，想请您帮忙。
+    _Hi, I came across your website online_ _and have a few questions about property_. | _I'd appreciate your help_.
 
-3.  _That sounds like a wonderful celebration_! | _Let me check our availability_ _for that date and time_.
-    听起来是个很棒的庆祝活动！让我查看一下那个日期和时间的可用性。
+3.  _Absolutely, we specialize in property law_, | _and will do everything we can_ _to sort out your issue_.
+    当然可以，地产法是我们的专长，我们会尽全力帮您解决问题的。
 
-4.  是的，是我父亲的生日聚会。| 他今年60岁了，| 我们想给他一个特别的惊喜。
-    _Yes, it's my father's birthday party_. | _He's turning 60 this year_, | _and we want to give him_ _a special surprise_.
+4.  谢谢。我买了个公寓楼花，定金已经付了，可是现在我遇到大麻烦。我很焦虑，不知道怎么处理。
+    _Thank you_. | _I purchased an off-the-plan apartment_ _and paid the deposit_, | _but a serious issue has come up_. | _I'm really anxious_ _and don't know what to do_.
 
-5.  _Congratulations! That's a milestone_ _worth celebrating_. | _I can see we have_ _a large private room available_.
-    恭喜！这确实值得庆祝的里程碑。我可以看到我们有一个大包间可用。
+5.  _I totally understand_. | _Buying real estate is a big investment_, | _and even when things go smoothly_, | _the process itself can be quite stressful_.
+    我完全理解。买房是一笔大投资，就算一切顺利，过程本身也非常让人紧张。
 
-6.  太好了！包间能容纳多少人？| 我们需要足够的空间，| 因为可能会有一些表演。
-    _Great! How many people_ _can the room hold_? | _We need enough space_, | _because there might be some performances_.
+6.  确实啊，事情不太顺利。昨天我刚和卖家签了合同。但是，我之后又发现了一些问题。
+    _It's really not going well_. | _I exchanged contracts with the seller_ _just yesterday_, | _but I believe there are some problems_.
 
-7.  _The room can comfortably seat_ _up to 20 people_. | _There's also space for entertainment_ _and a dance floor_.
-    这个包间可以舒适地容纳20人。还有娱乐和舞池的空间。
+7.  _Could you clarify the issues_? | _Is it about the building itself_, | _or maybe pet-related_? | _We'll check the contract_ _and resolve them for you_.
+    您能具体说明是什么问题吗？是关于房屋本身的问题，还是宠物相关的问题？我们会查阅合同内容，为您解决问题。
 
-8.  完美！那我们就订这个包间。| 需要付订金吗？| 大概多少钱？
-    _Perfect! Then we'll book this private room_. | _Do we need to pay a deposit_? | _How much is it_?
+8.  其实都不是。那些都没问题。我刚发现隔壁批准了一座新的公寓楼，从它那边正好能直接看到我的后院，这让我太不喜欢了。
+    _Actually, neither_. | _Those are all fine_. | _I just found out they approved_ _a new apartment building_ _right next door_ _that'll have a straight view_ _into my backyard_. | _I really don't like this at all_.
 
-9.  _Yes, we require a 20% deposit_ _to confirm the booking_. | _For 15 people, that would be_ _approximately $300_.
-    是的，我们需要20%的订金来确认预订。15个人大概需要300美元。
+9.  _I understand_. | _Since you signed only yesterday_, | _you could invoke_ _the cooling-off period clause_ _to get your deposit back_.
+    我明白了。既然您是昨天才签的合同，你可以利用合同中的冷静期条款，把定金拿回来。
 
-10. 好的，我可以现在付订金。| 你们接受信用卡吗？| 还是需要现金？
-    _Okay, I can pay the deposit now_. | _Do you accept credit cards_? | _Or do you need cash_?
+10. 您能帮帮我吗？这几年我为了买房，节衣缩食地存钱，我承担不起这笔定金损失啊。
+    _Can you please help me_? | _I've been saving every penny_ _for years to buy this property_. | _I can't afford to lose this deposit_!
 
-11. _We accept both credit cards and cash_. | _I can process your payment now_. | _What's your name for the booking_?
-    我们两种都接受。我现在就可以处理您的付款。预订用的姓名是什么？
+11. _Certainly! I'd be glad to help_. | _We can schedule an appointment_ _to review the contract together_. | _Is there anything else_ _you'd like to discuss_?
+    当然可以！乐意效劳。我们可以约个时间一起看看合同。您还有其他想聊的吗？
 
-12. 我叫李明，| 电话是0412-345-678。| 如果有什么变化，请及时联系我。
-    _My name is Li Ming_, | _and my phone number is 0412-345-678_. | _If there are any changes_, _please contact me in time_.
+12. 我们明天见面，您有空吗？我会带着所有的文件的。谢谢您，真希望能尽快得到帮助。
+    _Would you be available_ _to meet tomorrow_? | _I'll bring all the documents with me_. | _Thank you_. | _I really hope to get your help_ _as soon as possible_.
 
-13. _Perfect, Mr. Li Ming_. | _I'll confirm your booking_ _for next Friday at 7 PM_. | _You'll receive a confirmation email shortly_.
-    很好，李先生。我会确认您下周五晚上7点的预订。您很快就会收到确认邮件。
+13. _Sure. How does 2 pm tomorrow_ _work for you_? | _We can go over your options then_.
+    没问题。您看明天下午2点方便吗？到时候我们可以详细讨论您可选的方案。
 
-14. 谢谢！还有什么需要注意的吗？| 比如着装要求或特殊安排？
-    _Thank you! Is there anything else I should know_? | _Like dress code_ _or special arrangements_?
-
-15. _Smart casual attire_ _is recommended_. | _We can also arrange_ _a birthday cake_ _and decorations if you'd like_.
-    建议穿商务休闲装。如果您愿意，我们还可以安排生日蛋糕和装饰。
-
-16. 那太好了！请帮我们准备生日蛋糕，| 装饰也请帮忙布置一下。| 费用我会额外支付。
-    _That's great! Please help us_ _prepare a birthday cake_, | _and help with the decorations too_. | _I'll pay extra for the costs_.
-
-17. _Excellent! I'll make a note_ _of your special requests_. | _Everything will be ready_ _for your father's special day_.
-    很好！我会记录您的特殊要求。一切都会为您父亲的特别日子准备好。
+14. 太好了！我的人生又有希望了！这个时间很合适。谢谢您！明天见！
+    _That's fantastic_! | _My life has hope again_! | _This time works perfectly_. | _Thank you_! | _See you tomorrow_!
 
 ---
 
-#70206. Job Interview for Teaching Position - Business
+#70207. Pitching Baked Goods to a Café - Business
 
-Briefing: This dialogue is a conversation between an English-speaking school principal and a Mandarin-speaking job candidate who is applying for a teaching position. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking baker and an English-speaking café owner. The conversation takes place at the café. The dialogue starts now.
 
-1.  _Good morning, Ms. Chen_. | _Thank you for coming to interview today_. | _I'm Principal Johnson_.
-    早上好，陈女士。感谢您今天来面试。我是约翰逊校长。
+1.  _Welcome inside!_ | _I've got around half an hour_ _before the morning rush hits_. | _You said before_ _you wanted to pitch your products_?
+    请进！我还有大约半小时，之后就早高峰了。你之前说想给我推介一下你的产品？
 
-2.  早上好，约翰逊校长。| 很高兴见到您。| 感谢您给我这次面试机会。
-    _Good morning, Principal Johnson_. | _Nice to meet you_. | _Thank you for giving me this interview opportunity_.
+2.  谢谢，我知道你们的咖啡店早上最忙，我不会耽误你太久的。
+    _Thank you, I know your coffee shop_ _is the busiest in the morning_. | _I won't hold you up_ _for too long_.
 
-3.  _You're welcome_. | _I've reviewed_ _your resume and qualifications_. | _You have an impressive background_ _in education_.
-    不客气。我已经看过您的简历和资历了。您的教育背景令人印象深刻。
+3.  _That's right_. | _Most of our trade happens in the morning_. | _Afternoons are pretty quiet_. | _Folks around here tend to_ _clock in and out early_.
+    是啊，我们大部分的生意都集中在上午，下午就很冷清。这附近的人上下班都挺早的。
 
-4.  谢谢您的认可。| 我在中国有8年的教学经验，| 主要教授英语和数学。
-    _Thank you for your recognition_. | _I have 8 years_ _of teaching experience in China_, | _mainly teaching English and Mathematics_.
+4.  我知道你的顾客大多是建筑工人和技工，我觉得他们会喜欢我的产品的。你需要多少，我都能供货。
+    _I know most of your customers_ _are construction workers and tradespeople_, | _and I think they'll love my products_. | _You name the quantity_, | _and I can supply it_.
 
-5.  _That's excellent. We're looking for_ _someone who can teach both subjects_. | _What made you decide_ _to move to Australia_?
-    这很好。我们正在寻找能教授这两门学科的人。是什么让您决定搬到澳大利亚的？
+5.  _I'm always on the lookout_ _for new offerings_. | _I make my own sandwiches and salads_, | _but I also source from suppliers_ _like you_.
+    我总是对新产品很感兴趣。我自己做三明治和沙拉，但也会从像您这样的供应商那里拿货。
 
-6.  我想体验不同的教育体系，| 学习新的教学方法。| 澳大利亚的教育理念很先进，| 我很想在这里发展。
-    _I want to experience_ _different education systems_, | _and learn new teaching methods_. | _Australia's educational philosophy_ _is very advanced_, | _and I'd like to develop here_.
+6.  我很乐意每天给你送来新鲜的产品。我会根据你的热销产品，来调整供应的。
+    _I'm happy to deliver fresh products daily_. | _I can adjust my supply_ _based on what sells best_.
 
-7.  _That's a great attitude_. | _How do you handle_ _students with different learning abilities_ _in the same class_?
-    这是很好的态度。您如何处理同一班级中学习能力不同的学生？
+7.  _That's amazing!_ | _You never know_ _which product will be the hit_. | _I'd love to hear more_ _about what you offer_.
+    太好了！你永远不知道哪款会成为热销品。我很想多了解一下你的产品。
 
-8.  我采用分层教学法，| 为不同水平的学生设计不同的任务。| 我还会组织小组活动，| 让能力强的学生帮助能力弱的学生。
-    _I use differentiated instruction_, | _designing different tasks_ _for students at different levels_. | _I also organize group activities_, | _letting stronger students help weaker ones_.
+8.  我擅长烘焙，尤其是蛋糕和饼干。这些食谱都是我祖母传下来的。
+    _I specialize in baking_, | _especially cakes and cookies_—| _my recipes come straight_ _from my grandmother_.
 
-9.  _That's exactly what we need here_. | _How do you communicate with parents_ _about their children's progress_?
-    这正是我们这里需要的。您如何与家长沟通他们孩子的进步情况？
+9.  _I see_. | _You bake old-fashioned treats_ _that spark childhood nostalgia_. | _I think they'll be a hit_.
+    我明白了。你做的是那种能唤起童年记忆的传统点心。我觉得它们肯定很受欢迎。
 
-10. 我定期与家长保持联系，| 通过电话、邮件或面谈。| 我会详细说明孩子的优点和需要改进的地方，| 并给出具体的建议。
-    _I maintain regular contact with parents_, | _through phone, email, or face-to-face meetings_. | _I'll explain in detail_ _the child's strengths and areas for improvement_, | _and give specific suggestions_.
+10. 是的，很多人都很喜欢我的食谱。我已经把业务拓展了，有了更大的店铺，生意还在不断增长。
+    _Yes, lots of people love my recipes_. | _I've expanded my business_ _and got a bigger shop_, | _and business keeps growing_.
 
-11. _Perfect. What would you do if a student_ _was consistently disruptive in your class_?
-    很好。如果有学生在您的课堂上持续捣乱，您会怎么做？
+11. _Well, I think your products_ _would fit my café perfectly_. | _Can you come by_ _with some samples this week_?
+    嗯，我觉得你的产品会非常适合我的咖啡馆。你这周能带些样品过来吗？
 
-12. 首先，我会私下与这个学生谈话，| 了解他为什么会有这种行为。| 然后制定一个行为改进计划，| 并与家长和学校辅导员合作。
-    _First, I would talk privately_ _with this student_, | _to understand why_ _he behaves this way_. | _Then I would develop_ _a behavior improvement plan_, | _and work with parents and school counselors_.
+12. 当然可以，没问题的。我会带上产品目录和批发价表。周四您方便吗？
+    _Sure thing_. | _No problem_. | _I'll bring my product catalogue_ _and wholesale price list_. | _Is Thursday good for you_?
 
-13. _That shows good problem-solving skills_. | _One last question_: _when could you start_ _if we offer you the position_?
-    这显示了很好的解决问题的能力。最后一个问题：如果我们提供这个职位，您什么时候可以开始？
+13. _Thursday works great_. | _My business partner will be here too_, | _and we can decide then_.
+    星期四很合适。我的生意合伙人那天也会在，我们那时候可以做决定。
 
-14. 我可以立即开始。| 我已经准备好了所有必要的文件，| 包括工作签证和教师资格证。
-    _I can start immediately_. | _I have all the necessary documents ready_, | _including work visa_ _and teaching qualifications_.
-
-15. _Excellent. I'll discuss this_ _with the school board_ _and get back to you_ _by the end of the week_. | _Thank you for your time_.
-    很好。我会与学校董事会讨论这件事，并在本周末前回复您。感谢您的时间。
-
-16. 谢谢您，约翰逊校长。| 我期待听到好消息。| 祝您有愉快的一天。
-    _Thank you, Principal Johnson_. | _I look forward to hearing good news_. | _Have a great day_.
+14. 太好了。我很期待见到你的合伙人。谢谢你给我这个机会，周四见！
+    _Great_. | _I look forward to meeting your partner_. | _Thanks for the opportunity_—| _see you on Thursday_!
 
 ---
 
-#70205. Buying a Used Car from Private Seller - Business
+#70206. Easy Ways to Pick Up Our Kids - Education
 
-Briefing: This dialogue is a conversation between an English-speaking car buyer and a Mandarin-speaking private car seller. They are discussing the purchase of a used car, including price negotiation and vehicle inspection. The dialogue begins now.
+Briefing: This dialogue takes place between two Mandarin-speaking parents and an English-speaking parent. The conversation takes place at a social gathering. The dialogue starts now.
 
-1.  _Hi there! | I saw your ad_ _for the 2018 Toyota Camry_. | _Is it still available_?
-    你好！我看到了你2018年丰田凯美瑞的广告。还在卖吗？
+1.  _Hi! It's good to see you!_ | _Come on in!_ | _Everyone's here already_.
+    嗨，很高兴见到你！进来吧——大家都到了。
 
-2.  是的，还在卖。| 车况很好，| 只开了5万公里。| 你想看看车吗？
-    _Yes, it's still for sale_. | _The car is in good condition_, | _only driven 50,000 km_. | _Do you want to see it_?
+2.  你好，不好意思我迟到了，你今天组织了这么盛大的活动呀。
+    _Hi, sorry I'm late_. | _You've organized such a grand event today_.
 
-3.  _Absolutely! I'm looking for_ _a reliable family car_. | _Can you tell me more about it_?
-    当然！我正在找一辆可靠的家庭用车。你能告诉我更多关于它的信息吗？
+3.  _Thank you!_ | _It's been a long time_ _since we last met_. | _I've been thinking of arranging_ _an afternoon tea_. | _I hope nothing bad happened_ _to make you late_?
+    谢谢！我们很久没见了。我一直想安排一次下午茶。希望你不是遇到什么麻烦才迟到的？
 
-4.  这辆车是我一手车，| 定期保养，| 没有出过事故。| 内饰也很干净。
-    _This car is my first owner_, | _regularly maintained, no accidents_. _The interior is also clean_.
+4.  不是，完全不是。我下午计划去学校接孩子放学，所以我走路去，又走路回来的。
+    _No, not at all_. | _I planned to pick up my kid_ _from school this afternoon_. | _So I walked there and back_.
 
-5.  _That sounds promising_. | _What's the asking price_? | _And are you flexible on the price_?
-    听起来不错。要价是多少？价格方面有商量余地吗？
+5.  _Sounds like a great adventure!_ | _I've never tried walking there before_. | _It must have taken you_ _a long time to get there and back_, _right_?
+    听起来像一次大冒险！我从来没走过。你来回一定要很久吧？
 
-6.  我标价是2万5千澳元，| 但如果你真心想买，| 我们可以谈谈。| 你觉得怎么样？
-    _I'm asking for $25,000_, | _but if you're really interested_, | _we can negotiate_. | _What do you think_?
+6.  嗯，比我预期的要久，但路并不难走。我从公园穿过去，没有沿着主路走。
+    _Yeah, it took longer than I expected_, | _but the route wasn't difficult_. | _I cut through the park_ _instead of taking the main road_.
 
-7.  _That's a bit higher than I expected_. | _I've seen similar cars_ _for around $22,000_. | _Could you come down to that price_?
-    比我预期的要高一些。我见过类似的车型大约2万2千澳元。你能降到那个价格吗？
+7.  _I wish I could walk_ _with my kids like that_. | _But I've been swamped lately_. | _Even driving to pick them up_ _is tough_.
+    我真希望能这样和孩子们一起走着上学。但最近我太忙了，连开车去接他们都难。
 
-8.  2万2千有点低了，| 但如果你今天能定下来，| 我可以考虑2万3千。| 这个价格很合理了。
-    _$22,000 is a bit low_, | _but if you can decide today_, | _I can consider $23,000_. | _This price is very reasonable_.
+8.  我打算经常这样做。如果你愿意，这几天我可以帮你接孩子。下午我不上班，对我来说很方便。你就不用专门跑一趟学校了。
+    _I plan to do this regularly_. | _If you like, I can pick up your child_ _for you over the next few days_. | _I'm off work in the afternoons_, | _so it's easy for me_. | _You wouldn't have to make_ _a special trip to the school_.
 
-9.  _That's more reasonable_. | _Can I take it_ _for a test drive first_? | _I want to make sure everything works properly_.
-    这个价格更合理。我能先试驾一下吗？我想确保一切都能正常工作。
+9.  _Wow, that would be a huge help!_ | _I'm sure my kids would enjoy walking!_ | _It's good exercise for them_. | _As long as you don't mind, of course_. | _I hope it's not a bother_.
+    哇，这真帮大忙了。我肯定孩子们会喜欢走路！对他们锻炼身体也好。当然，只要你不介意就好，我不想给你添麻烦。
 
-10. 当然可以。| 你有驾照吗？| 我们可以开一圈，| 大概15分钟。
-    _Of course. Do you have a driver's license_? | _We can take a drive around_, | _about 15 minutes_.
+10. 没问题。我在之前的学校，和另外三个家长组了个小组，轮流拼车接孩子。现在趁大家都在，我们还可以问问其他家长是否愿意加入。
+    _No problem_. | _At my kid's previous school_, | _three other parents and I_ _formed a carpool group_ | _taking turns to pick up the kids_. | _While everyone is here now_, | _we could ask other parents_ _if they'd like to join_.
 
-11. _Perfect. I have my license_. | _Let's go for a test drive_. | _I want to check the engine_, _brakes_, _and transmission_.
-    很好。我有驾照。我们去试驾吧。我想检查发动机、刹车和变速箱。
+11. _I think that's a wonderful idea!_ | _I already know a few parents here_ _who'd be interested in joining_.
+    我觉得这是个很棒的主意! 我已经知道这里有几位家长会有兴趣加入的。
 
-12. 没问题。| 车就在那边，| 钥匙给你。| 你可以仔细检查。
-    _No problem. The car is over there_, | _here are the keys_. | _You can check carefully_.
+12. 好的，我们需要组织一下，这样每个人都能清楚安排。但我不太清楚该怎么开始。
+    _Okay, we need to organize this_ _so everyone knows the schedule_. | _But I'm not quite sure_ _how to get started_.
 
-13. _Thanks. The car drives well_. | _But I noticed the air conditioning_ _isn't working properly_. | _That's a concern_.
-    谢谢。车开起来不错。但我注意到空调工作不正常。这让我担心。
+13. _We need to first find out_ _who's interested_ | _and set up a group chat_ _on social media_ | _to organize these things_.
+    我们需要先看看谁有兴趣，然后在社交媒体上建个群聊来组织这些事。
 
-14. 空调确实有点问题，| 但修起来不贵，| 大概200澳元就能修好。| 我可以再降500澳元。
-    _The air conditioning does have some issues_, | _but it's not expensive to fix_, | _about $200. I can reduce another $500_.
-
-15. _That's fair. So the final price_ _would be $22,500_? | _And you'll include the service history_ _and registration papers_?
-    这很公平。所以最终价格是2万2千5百澳元？你还会包括维修历史和注册文件吗？
-
-16. 是的，所有文件都包括。| 如果你同意这个价格，| 我们可以今天完成交易。| 现金或银行转账都可以。
-    _Yes, all documents included_. | _If you agree to this price_, | _we can complete the transaction today_. | _Cash or bank transfe are both fine_.
-
-17. _Great! I'll take it_ _for $22,500_. | _Let's go inside_ _and complete the paperwork_.
-    很好！我以2万2千5百澳元买下它。我们进去完成文件手续吧。
+14. 太棒了，建群很简单，这样每个人就能清楚具体的安排了。
+    _Perfect_. | _Setting up a group is easy_. | _Then everyone will know_ _the exact plan_.
 
 ---
 
-#70204. Reporting a Lost Credit Card - Business
+#70205. Fixing a Faulty Laptop Under Warranty - Business
 
-Briefing: This dialogue is a conversation between an English-speaking bank customer service representative and a Mandarin-speaking customer who has lost their credit card and needs to report it immediately. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking customer and an English-speaking computer shop staff member. The conversation takes place at the computer shop. The dialogue starts now.
 
-1.  _Good morning, welcome to_ _First National Bank_. | _How may I assist you today_?
-    早上好，欢迎光临第一国民银行。今天有什么可以为您效劳的吗？
+1.  _Hi there! Thanks for stopping by_ _our computer shop_. | _What can I do for you today_?
+    你好，欢迎光临我们的电脑店。请问今天有什么我能帮忙的吗？
 
-2.  你好，我的信用卡丢了，| 我需要立即挂失。| 我很担心有人会盗用我的卡。
-    _Hello, I lost my credit card_, | _and I need to report it_ _immediately_. | _I'm worried someone_ _might use it fraudulently_.
+2.  你好，我今天不是来买东西的。我的笔记本电脑出了点毛病。
+    _Hi, I'm not here to buy anything today_. | _My laptop's having some issues_.
 
-3.  _I understand your concern_. | _Let me help you_ _report this right away_. | _What's your account number_?
-    我理解您的担心。让我立即帮您挂失。您的账号是多少？
+3.  _That's totally fine_. | _We offer diagnostics and repair services here_. | _I'll definitely see_ _what I can do for you_.
+    没问题，我们这边有提供检查和维修服务。我肯定可以帮你看看。
 
-4.  我的账号是1234-5678-9012-3456。| 我的名字是张伟，| 身份证号是123456789012345678。
-    _My account number is 1234-5678-9012-3456_. | _My name is Zhang Wei_, | _and my ID number is 123456789012345678_.
+4.  我把笔记本带过来了，是在你们店买的，可是它最近总是出问题，搞得我很头大。
+    _I brought my laptop with me_. | _I bought it from your store_, | _but lately it keeps having problems_. | _It's really frustrating_.
 
-5.  _Thank you, Mr. Zhang. I can see your account_. | _When did you last see your credit card_?
-    谢谢您，张先生。我可以看到您的账户。您最后一次看到信用卡是什么时候？
+5.  _Got it_. | _Good thing you brought it in_. | _Did you happen to bring_ _the receipt and the warranty card_?
+    明白了，您带过来就对了。您带发票和保修卡了吗？
 
-6.  昨天下午3点左右，| 我在购物中心购物时还在用。| 回家后发现钱包不见了，| 信用卡就在钱包里。
-    _Yesterday around 3 PM_, | _I was still using it_ _at the shopping mall_. | _When I got home_, _I found my wallet missing_, | _and the credit card_ _was in the wallet_.
+6.  有的，小票我带了，电脑也还在质保期。这台电脑，我买到现在还不到一年呢。
+    _Yeah, I brought the receipt_. | _It's still under warranty_. | _I bought this computer_ _less than a year ago_.
 
-7.  _I'll cancel your card immediately_. | _This will prevent_ _any unauthorized transactions_. | _Do you want me to_ _order a replacement card_?
-    我会立即取消您的卡。这将防止任何未经授权的交易。您要我为您订购一张新卡吗？
+7.  _I see_. | _Since it's still under warranty_, | _it really shouldn't be having problems_ _this early_. | _It's a solid model_.
+    了解，既然还在保修期，按理说不该这么快出问题。这款型号的电脑不错的。
 
-8.  是的，请帮我订一张新卡。| 新卡什么时候能到？| 我需要支付什么费用吗？
-    _Yes, please order a new card for me_. | _When will the new card arrive_? | _Do I need to pay any fees_?
+8.  刚买的时候都还好，我很满意的。但是用了两三个星期之后，它就开始发烫了，我不得不关机。它还会开始随意自动关机。
+    _It worked fine at first_, | _and I was very happy with it_. | _But after 2-3 weeks_, | _it started getting too hot_, | _so I had to turn it off_. | _It even began shutting down_ _by itself randomly_.
 
-9.  _The replacement card_ _will arrive in 5-7 business days_. | _There's a $15 fee_ _for the replacement_, | _but I can waive it this time_.
-    新卡将在5-7个工作日内到达。换卡需要15美元的费用，但我这次可以为您免除。
+9.  _Yeah, laptops do get warm_, | _depending on what you're doing_, | _and your room temperature_, | _but they shouldn't be overheating_.
+    明白。笔记本在使用过程中会发热，跟工作内容和室温有关，但不该这么烫的。
 
-10. 太好了，谢谢您！| 新卡到了之后，| 我需要激活它吗？
-    _Great, thank you_! | _After the new card arrives_, | _do I need to activate it_?
+10. 我用这个电脑处理商务文件的。无论什么资料，处理的时候都会丢失。这事搞得我很烦，我也不知道是哪出了问题。
+    _I use this computer_ _for business documents_. | _Every time I work on files with it_, | _they get lost_. | _This is driving me crazy_, | _and I can't figure out_ _what's wrong_.
 
-11. _Yes, you'll need to activate it_ _by calling our hotline_ _or using our mobile app_. | _The activation instructions_ _will come with the card_.
-    是的，您需要通过拨打我们的热线或使用我们的手机应用来激活它。激活说明会随卡一起寄来。
+11. _Oh, no!_ | _It might be a busted fan_, | _a battery issue_, | _or something on the software side_. | _I'll have to take a look_ _to know for sure_.
+    哎呀！可能是风扇坏了，可能是电池问题，也可能是软件方面的故障。我得检查一下才能确定。
 
-12. 好的，我明白了。| 现在我的旧卡已经完全不能用了，对吗？
-    _Okay, I understand_. | _Now my old card_ _is completely unusable, right_?
+12. 那我是不是得把电脑放在这？我已经把文件都备份好了，我就是怕修电脑的时候资料会丢。
+    _So I need to leave the laptop here, right_? | _I've backed up everything already_—| _I'm just worried something_ _might get lost during the repair_.
 
-13. _Correct. The old card_ _has been cancelled_ _and cannot be used for any transactions_. | _If you find it later_, _please destroy it_.
-    正确。旧卡已经被取消，不能用于任何交易。如果您后来找到了它，请销毁它。
+13. _Great_. | _Yup, just leave it here with me_. | _Once I figure out what's wrong_, | _I'll give you a call_.
+    太好了。对，把电脑留到我这就行，我找到问题就给你打电话。
 
-14. 明白了。还有什么其他需要注意的吗？| 比如监控我的账户活动？
-    _I understand. Is there anything else_ _I should know_? | _Like monitoring my account activity_?
-
-15. _Yes, please monitor your account regularly_ _for any suspicious transactions_. | _We'll also send you_ _alerts for any unusual activity_.
-    是的，请定期监控您的账户，查看是否有可疑交易。我们也会为任何异常活动发送警报。
-
-16. 好的，我会密切关注。| 谢谢您的帮助，| 我现在感觉安心多了。
-    _Okay, I'll keep a close eye_. | _Thank you for your help_, | _I feel much more at ease now_.
-
-17. _You're welcome, Mr. Zhang_. | _Is there anything else_ _I can help you with today_?
-    不客气，张先生。今天还有其他我可以帮助您的吗？
-
-18. 没有了，谢谢您。| 祝您有愉快的一天。
-    _No, that's all, thank you. Have a great day_.
+14. 谢谢你啦，希望只是小毛病，我可不想再折腾一次啦。
+    _Thanks, I really hope_ _it's nothing serious_. | _I really don't want_ _to go through this hassle again_.
 
 ---
 
-#70203. Applying for a Library Card - Business
+#70204. Using Media and Web to Boost Food Donations - Business+Social
 
-Briefing: This dialogue is a conversation between an English-speaking library staff member and a Mandarin-speaking person who wants to apply for a library card. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking volunteer and an English-speaking volunteer coordinator. The conversation takes place at a food bank. The dialogue starts now.
 
-1.  _Good afternoon, welcome to Central Library_. | _How may I help you today_?
-    下午好，欢迎光临中央图书馆。今天有什么可以为您效劳的吗？
+1.  _Hey, thanks for getting here_ _on such short notice_. | _I'd like to go over_ _our latest numbers with you_.
+    嗨，感谢你这么早就到了。我想和你一起过一下我们最新的数据情况。
 
-2.  你好，我想申请一张借书证。| 我是新来的移民，| 想在这里借书学习英语。
-    _Hello, I'd like to apply_ _for a library card_. | _I'm a new immigrant_, | _and I want to borrow books_ _to learn English_.
+2.  没问题！我喜欢早点开始。我之前就希望我们这周能找个时间，深入聊聊这个事。
+    _No problem!_ | _I like to start early_. | _I was thinking we could schedule_ _some time this week_ | _to really dig into this_.
 
-3.  _That's wonderful! We have a great collection_ _of English learning materials_. | _Let me help you with the application_.
-    这很好！我们有很棒的英语学习材料收藏。让我帮您办理申请。
+3.  _We're now serving over twice_ _the number of people_ _compared to two years ago_, | _and I'm honestly_ _worried about keeping up_.
+    我们现在帮助的人数是两年前的两倍多，说实话我有点担心我们能不能应付得来。
 
-4.  太好了！我需要带什么证件吗？| 我有护照和地址证明。
-    _Great! What documents_ _do I need to bring_? | _I have my passport_ _and proof of address_.
+4.  确实，以前主要是老人和家庭，但现在越来越多年轻人也需要我们。
+    _It's true_ —| _while we've traditionally served_ _seniors and families_, | _more young people_ _are coming to us now_.
 
-5.  _Perfect! I'll need to see_ _both of those_. | _Can you also provide_ _a phone number and email address_?
-    很好！我需要看这两个证件。您还能提供电话号码和电子邮件地址吗？
+5.  _I guess many folks are struggling_ _to cover basic groceries these days_. | _Prices have really climbed_.
+    我猜现在很多人都难以负担基本食材。物价确实涨得厉害。
 
-6.  当然可以。| 我的电话是0412-345-678，| 邮箱是zhang.wei@email.com。
-    _Of course. My phone number is 0412-345-678_, | _and my email is zhang.wei@email.com_.
+6.  要是需求这么高下去，求助的人还是这么多，咱们的库存马上就耗光了，我不知道我们该怎么做。
+    _If the demand keeps surging like this_ | _and we keep getting so many requests_, | _we'll burn through our inventory soon_. | _I don't know how to handle this_.
 
-7.  _Excellent. Now let me ask_ _a few questions_. | _What type of books_ _are you most interested in_?
-    很好。现在让我问几个问题。您对什么类型的书最感兴趣？
+7.  _We've got to brainstorm ways_ _to boost food donations_ _from the public_. | _I'm sure you've got_ _some solid ideas_.
+    咱们得想办法多提高公众的食物捐赠。我相信你肯定有好点子。
 
-8.  我想看一些简单的英语小说，| 还有英语学习教材。| 我刚开始学英语，| 所以需要初级水平的书。
-    _I want to read_ _some simple English novels_, | _and English learning textbooks_. | _I'm just starting to learn English_, | _so I need beginner-level books_.
+8.  我们可以发起社交媒体捐赠活动，还可以用新闻报道来宣传，呼吁大家多捐款和食物，来充实我们的食品库。
+    _We could start a social media donation campaign_ | _and get news coverage_ _to spread the word_. | _Let's ask people to donate_ _more money and food_ | _to stock up our food bank_.
 
-9.  _That's perfect! We have a special section_ _for English learners_. | _You can borrow up to_ _10 books at once_.
-    这很好！我们有专门的英语学习者区域。您一次可以借10本书。
+9.  _If we can get the local TV station_ _to cover this_, | _we might even make the news_. | _That would really help!_
+    要是能让本地电视台报道一下，说不定还能上新闻呢，那就帮大忙了！
 
-10. 10本书？太好了！| 借书期限是多久？| 如果逾期了会有什么后果？
-    _10 books? That's great_! | _How long can I keep them_? | _What happens if I return them late_?
+10. 好主意！借助新闻扩大影响力，能覆盖到比我们直接接触还更广泛的人群。
+    _Good idea!_ | _Using news to expand influence_ | _can cover a wider crowd_ | _than we could reach directly_.
 
-11. _Books can be borrowed_ _for 3 weeks_. | _You can renew them_ _for another 3 weeks_ _if no one else has requested them_.
-    书可以借3周。如果没有其他人预约，您可以再续借3周。
+11. _We could also add a page_ _to our website_ | _explaining that volunteers run the pantry_, | _so more funds go directly to food_.
+    咱们还可以在官网上加个页面，说明食品库是志愿者运营的，这样更多钱就能直接买食物了。
 
-12. 续借？怎么操作？| 可以在网上续借吗？
-    _Renew? How does that work_? | _Can I renew online_?
+12. 我们还可以在网站放上一些我们的照片，比如志愿者工作照，让人看到大家热心做事的样子。在这儿工作的人也会乐意一直帮助我们。
+    _We could also post some photos_ _on our website_—| _like volunteers in action_—| _to show people how passionate everyone is_. | _The folks working here_ | _would be happy to keep helping out too_!
 
-13. _Yes, absolutely! You can renew online_ _using your library card number and PIN_. | _Or you can call us_ _or visit in person_.
-    是的，当然可以！您可以使用借书证号码和PIN在网上续借。或者您可以打电话给我们或亲自来访。
+13. _Love that!_ | _I really appreciate_ _all you have done!_ | _None of this happens_ _without your effort_.
+    太棒了！我非常感激你所有的付出。要不是你，咱们这儿根本做不起来。
 
-14. 明白了。还有什么其他服务吗？| 比如电脑使用或打印？
-    _I understand. Are there other services_? | _Like computer use or printing_?
-
-15. _Yes, we offer free computer access_ _and internet_. | _Printing costs 10 cents per page_. | _You can also access_ _our online resources_.
-    是的，我们提供免费的电脑使用和互联网。打印每页10美分。您还可以访问我们的在线资源。
-
-16. 在线资源？都有什么？
-    _Online resources? What are they_?
-
-17. _We have e-books_, _audiobooks_, _language learning apps_, | _and online courses_. | _All free with your library card_.
-    我们有电子书、有声书、语言学习应用和在线课程。有了借书证，这些都是免费的。
-
-18. 太棒了！| 我现在就可以拿到借书证吗？
-    _That's amazing! Can I get my library card now_?
-
-19. _Yes, I'll process it right away_. | _Here's your card and PIN_. | _You can start borrowing books immediately_.
-    是的，我立即为您办理。这是您的卡和PIN。您可以立即开始借书。
-
-20. 谢谢您！| 我现在就可以去选书了吗？
-    _Thank you! Can I go choose books now_?
-
-21. _Absolutely! The English learning section_ _is on the second floor_. | _If you need help, just ask any staff member_.
-    当然可以！英语学习区域在二楼。如果您需要帮助，就问任何工作人员。
+14. 收到感谢真的很有成就感！希望捐赠可以源源不断，这样我们就能帮到更多有需要的人啦。
+    _It's so rewarding to be appreciated!_ | _Hopefully, the donations will keep coming_ | _so we can support more people in need_.
 
 ---
 
-#70202. Ordering Takeaway Food - Business
+#70203. Government Legal Helpline for Fence Dispute - Legal
 
-Briefing: This dialogue is a conversation between an English-speaking restaurant staff member and a Mandarin-speaking customer who wants to order takeaway food. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking caller and an English-speaking legal helpline operator. The conversation takes place over the phone. The dialogue starts now.
 
-1.  _Good evening, welcome to_ _Golden Wok Restaurant_. | _How may I help you today_?
-    晚上好，欢迎光临金锅餐厅。今天有什么可以为您效劳的吗？
+1.  _Good afternoon, you've reached_ _the Law Information Helpline_. | _What legal issue_ _can I help you with today_?
+    下午好，您已拨通法律信息热线，请问今天有什么法律问题我可以帮您解答？
 
-2.  你好，我想订外卖。| 你们现在还在营业吗？
-    _Hello, I'd like to order takeaway_. | _Are you still open now_?
+2.  下午好，我这边有件事想请教，但不知道该怎么开口说起。
+    _Good afternoon_. | _I've got an issue_ _I need help with_, | _but I'm not sure_ _how to get started_.
 
-3.  _Yes, we're open until 10 PM_. | _What would you like to order today_?
-    是的，我们营业到晚上10点。您今天想点什么？
+3.  _That's fine_. | _I can explain your options_ | _and refer you to a lawyer_ _who can take your case_ _if you need one_.
+    没问题——我可以给您提供一些信息，如果需要，我也能帮您推荐一位律师。
 
-4.  我想点一份宫保鸡丁，| 一份麻婆豆腐，| 还有一份蛋炒饭。| 这些菜辣吗？
-    _I'd like to order_ _Kung Pao Chicken_, | _Mapo Tofu_, | _and Egg Fried Rice_. | _Are these dishes spicy_?
+4.  能告诉我推荐的律师是谁吗？这样可能也不错。不过我想先了解一下推荐费是多少。
+    _Could you tell me_ _the lawyer's name_? | _That sounds not bad_—| _but first, I'd like to know_ _how much a referral costs_.
 
-5.  _The Kung Pao Chicken_ _is moderately spicy_, | _and the Mapo Tofu_ _is quite spicy_. | _The Egg Fried Rice_ _is not spicy at all_.
-    宫保鸡丁是中等辣度，麻婆豆腐比较辣。蛋炒饭一点都不辣。
+5.  _Actually, we're a government service_. | _Our legal information and referrals are free_. | _You won't owe us a cent_ _unless you engage a lawyer_.
+    事实上，我们是政府部门，提供免费法律信息和推荐服务。只有您真的聘请律师，才会产生费用。
 
-6.  好的，那宫保鸡丁和麻婆豆腐都少放点辣椒。| 大概需要多长时间？
-    _Okay, then please put less chili_ _in the Kung Pao Chicken and Mapo Tofu_. | _How long will it take_?
+6.  哦，明白了。我现在也不确定需不需要律师，希望能免去这步，我实在不想上法庭。
+    _Oh, got it_. | _I'm not sure I need a lawyer_—| _I really hope I can avoid this_. | _I really don't want_ _to go to court_.
 
-7.  _It will take about 20-25 minutes_. | _Would you like to wait here_ _or come back later_?
-    大约需要20-25分钟。您想在这里等还是稍后再来？
+7.  _It's a wise idea_ _to avoid going to court_ _if possible_. | _Why don't you tell me_ _about the details of your problem_, | _and let's start from there_?
+    避免上法庭确实是个明智的想法。您不如先跟我说说您的具体问题，我们从那儿开始？
 
-8.  我在这里等吧。| 总共多少钱？
-    _I'll wait here_. | _How much is the total_?
+8.  我和邻居在围栏问题上有分歧。他坚持让我出新围栏一半的费用，但我不同意。
+    _I have a dispute with my neighbour_ _over our fence_. | _He insists I pay half_ _the cost of a new fence_, | _but I refuse_.
 
-9.  _Let me calculate_: | _Kung Pao Chicken is $18_, | _Mapo Tofu is $16_, | _and Egg Fried Rice is $12_. | _Total is $46_.
-    让我计算一下：宫保鸡丁18美元，麻婆豆腐16美元，蛋炒饭12美元。总共46美元。
+9.  _Could you explain why_? | _It seems you have solid grounds_ _for not wanting to split that cost_.
+    能说说原因吗？听起来您有充足的理由不想分摊这笔费用。
 
-10. 好的，我付现金。| 你们接受信用卡吗？
-    _Okay, I'll pay in cash_. | _Do you accept credit cards_?
+10. 邻居家孩子整整几个小时对着围栏踢球，把围栏踢到严重损坏。我让他们停下，可他们根本不理。
+    _Their kids have been kicking a ball_ _against the fence for hours_, | _leaving it badly damaged_. | _I told them to stop_, | _but they ignored me_.
 
-11. _Yes, we accept both cash and credit cards_. | _We also accept mobile payments_ _like Apple Pay_.
-    是的，我们接受现金和信用卡。我们也接受移动支付，比如Apple Pay。
+11. _There's a standard process_ _for these disputes_. | _If they damaged the shared fence_, | _they're on the hook_ _for the full cost_ _of the new fence_.
+    通常解决这类纠纷有固定流程：如果是他们造成的共有围栏损坏，就得由他们承担新栅栏的全部费用。
 
-12. 那我用信用卡付吧。| 这是我的卡。
-    _Then I'll pay with credit card_. | _Here's my card_.
+12. 噢！我没意识到这一点！这听起来很有希望啊。不过如果他们不配合，该怎么办呢？
+    _Oh—I didn't realize that!_ | _That sounds promising_. | _But what if they refuse to cooperate_?
 
-13. _Thank you. Your total is $46_. | _Please insert your card_ _or tap it_.
-    谢谢您。您的总额是46美元。请插入您的卡或轻触它。
+13. _The simplest route is to have_ _a friendly chat with your neighbour_ | _and try to reach an agreement_.
+    最简单的做法是先跟邻居好好沟通，看看能不能尽量达成一致。
 
-14. 好的，我轻触一下。
-    _Okay, I'll tap it_.
-
-15. _Perfect. Your payment has been processed_. | _Your order number is 1234_. | _Please wait for your food_.
-    很好。您的付款已经处理完成。您的订单号是1234。请等待您的食物。
-
-16. 谢谢！| 我可以在那边坐着等吗？
-    _Thank you! Can I sit over there to wait_?
-
-17. _Of course! There are some chairs_ _by the window_. | _We'll call your number when it's ready_.
-    当然可以！窗边有一些椅子。准备好时我们会叫您的号码。
-
-18. 太好了！| 谢谢您的帮助。
-    _Great! Thank you for your help_.
+14. 好，我会这样办的。希望能顺利解决，有需要我会再来电的。谢谢你！
+    _All right—I'll do that_. | _Hopefully it goes smoothly_; | _if not, I'll call back_. | _Thank you!_
 
 ---
 
-#70201. Asking for Directions to Tourist Attractions - Social
+#70202. Soap Business Marketing Discussion - Business
 
-Briefing: This dialogue is a conversation between an English-speaking local resident and a Mandarin-speaking tourist who is asking for directions to popular tourist attractions in the city. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking entrepreneur and an English-speaking business consultant. The conversation takes place at the consultant's office. The dialogue starts now.
 
-1.  _Excuse me, sir_. | _I'm a tourist_ _and I'm a bit lost_. | _Can you help me find my way_?
-    打扰一下，先生。我是游客，有点迷路了。您能帮我找到路吗？
+1.  _Hi. Nice to see you_. | _You must be excited_ _to start your new business_.
+    嗨，很高兴见到你。你一定很激动要开始你的新生意吧。
 
-2.  当然可以！| 我很乐意帮助游客。| 您想去哪里？
-    _Of course! I'm happy to help tourists_. | _Where do you want to go_?
+2.  嗯，我打算开一个新生意。我已经有了一些初步的想法，但是还有一些细节需要想想。
+    _Well, I'm planning to start_ _a new business_. | _I already have some initial ideas_, | _but there are still some details_ _to think about_.
 
-3.  _I want to visit_ _the famous Opera House_. | _I heard it's a must-see attraction_. | _How do I get there_?
-    我想参观著名的歌剧院。我听说这是必看的景点。我怎么去那里？
+3.  _Of course_. | _I think there are still a lot of things_ _to consider before going ahead_. | _Tell me about your business ideas_.
+    当然，我觉得在继续之前还有很多事情要考虑。告诉我你的商业想法吧。
 
-4.  歌剧院确实很棒！| 从这里走路大约需要20分钟，| 或者您可以坐公交车。
-    _The Opera House_ _is indeed amazing_! | _It's about 20 minutes walk from here_, | _or you can take a bus_.
+4.  我打算开一个肥皂生意。我做肥皂好多年了，它们作为礼物很受欢迎。我现在打算出售肥皂。
+    _I plan to start a soap business_. | _I've been making soaps for many years_—| _they're popular as gifts_. | _Now I intend to sell soaps_.
 
-5.  _I prefer walking to see the city_. | _Can you give me simple directions_?
-    我更喜欢走路看城市。您能给我简单的指示吗？
+5.  _All right_. | _You have your product_; | _you also have experience making them_. | _You just need to organize_ _the business aspects properly_.
+    好的，你已经有产品了，也有制作经验。你只需把商业方面的事安排好就行了。
 
-6.  好的，很简单。| 沿着这条街一直走，| 到第三个路口右转，| 然后一直走到海边。
-    _Sure, it's simple_. | _Go straight along this street_, | _turn right at the third intersection_, | _then keep going_ _until you reach the waterfront_.
+6.  没错，这就是我为什么来这儿。我想得到专业的帮助，找到最好的方法来卖肥皂。
+    _Exactly_. | _That's why I came here_. | _I want professional help_ | _to find the best way to sell soap_.
 
-7.  _That sounds easy enough_. | _What about the Harbour Bridge_? | _Is it close to the Opera House_?
-    听起来很简单。海港大桥呢？它离歌剧院近吗？
+7.  _I'm happy to help_. | _Tell me more about your soap_. | _What's special about it_ _compared with other products_ _on the market_?
+    我很乐意帮助。跟我说说你的肥皂吧。它跟市面上的其他产品相比有什么特别之处？
 
-8.  是的，很近！| 从歌剧院步行到海港大桥只需要10分钟。| 两个景点可以一起参观。
-    _Yes, very close_! | _It's only 10 minutes_ _walk from the Opera House_ _to the Harbour Bridge_. | _You can visit both attractions together_.
+8.  嗯，这是一种不同的肥皂。它是专门针对狗狗的。市场上有很多狗狗香波，但肥皂不多。
+    _Well, this is a different soap_. | _It's specially made for dogs_. | _There are many dog shampoos_ _on the market_, | _but not many soaps_.
 
-9.  _Perfect! Are there any_ _good restaurants nearby_? | _I'd like to try local food_.
-    很好！附近有什么好餐厅吗？我想尝尝当地美食。
+9.  _That's a surprise_. | _I didn't expect dogs_ _would be your top market_. | _Do you know why dog owners_ _would choose your products_?
+    真让我惊讶。我没想到狗狗会是你的主要市场。你知道为什么狗主人会选你的产品吗？
 
-10. 当然有！| 在歌剧院附近有很多餐厅，| 特别是海鲜餐厅。| 我推荐"悉尼海鲜"。
-    _Of course! There are many restaurants_ _near the Opera House_, | _especially seafood restaurants_. | _I recommend "Sydney Seafood"_.
+10. 这个肥皂是用天然材质制作的，没有化学物质、没有添加剂。里面还加入了精油成分，让狗狗闻起来更清新。
+    _This soap is made with natural materials_, | _with no chemicals or additives_. | _It also contains essential oils_ | _to make dogs smell fresher_.
 
-11. _That sounds delicious_! | _What about shopping areas_? | _I want to buy some souvenirs_.
-    听起来很美味！购物区呢？我想买一些纪念品。
+11. _OK_. | _I will create a marketing plan_ | _and add a few points_ _based on what we discussed before_. | _I just need to do some research first_.
+    好的。我会制定一个营销计划，并根据我们之前讨论的内容补充几点。我只不过需要先做些调研。
 
-12. 在歌剧院附近有"岩石区"，| 那里有很多纪念品商店和手工艺品店。| 价格也比较合理。
-    _Near the Opera House_ _there's "The Rocks"_, | _with many souvenir shops_ _and craft stores_. | _The prices are also reasonable_.
+12. 太好了。我接下来一两周需要这个计划。我已经有了售卖计划，希望你有足够的时间。
+    _Great_. | _I'll need this plan_ _in the next week or two_. | _I already have a selling plan_—| _hope you'll have enough time_.
 
-13. _Great! How long should I plan_ _to spend at these attractions_?
-    很好！我应该计划在这些景点花多长时间？
+13. _Yes, that timeline works for me_. | _You'll also need a website_. | _If you don't have one yet_, | _I can include some options_ _in the plan_.
+    好的，这个时间表对我来说没问题。你还需要一个网站。如果还没有，我可以在方案里加一些选项。
 
-14. 建议您至少安排半天时间。| 歌剧院参观需要1-2小时，| 海港大桥拍照30分钟，| 岩石区购物1-2小时。
-    _I recommend at least half a day_. | _Opera House tour takes 1-2 hours_, | _Harbour Bridge photos 30 minutes_, | _The Rocks shopping 1-2 hours_.
-
-15. _Thank you so much for your help_! | _You've been very helpful_.
-    非常感谢您的帮助！您帮了我很多。
-
-16. 不客气！| 祝您在悉尼玩得开心！| 如果还有问题，随时可以问我。
-    _You're welcome! Have a great time in Sydney_! | _If you have more questions_, _feel free to ask me anytime_.
+14. 一定要，请你一定要加上。这会很有帮助。我还有很多事要做。
+    _Definitely_. | _Please make sure to include it_. | _That'd be really helpful_. | _I still have a lot to do_.
 
 ---
 
-#70200. Discussing Weather and Seasonal Activities - Social
+#70201. Truck Driver Job Interview - Business
 
-Briefing: This dialogue is a conversation between two friends where one is an English-speaking person and the other is a Mandarin-speaking person. They are discussing the weather and planning seasonal activities together. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking job candidate and an English-speaking employer. The conversation takes place at the employer's office. The dialogue starts now.
 
-1.  _Hi there! | _ow's the weather_ _in your area today_? | _It's been raining_ _all morning here_.
-    你好！你们那边今天天气怎么样？我们这里整个上午都在下雨。
+1.  _Come in_. | _Have a seat_. | _Thank you for coming_ _to the interview_. | _Are you interested_ _in joining us_?
+    请进。坐吧。谢谢你来面试。你有兴趣加入我们吗？
 
-2.  我们这里天气很好！| 阳光明媚，温度适中。| 很适合户外活动。
-    _The weather here is great_! | _Sunny and mild temperature_. | _Perfect for outdoor activities_.
+2.  谢谢。我很想在这里工作。贵公司有很好的声誉。
+    _Thanks_. | _I really want to work here_. | _Your company has a very good reputation_.
 
-3.  _That sounds wonderful_! | _I'm jealous. The rain has been_ _so heavy lately_. | _I can't wait or summer_.
-    听起来很棒！我很羡慕。最近雨下得很大。我等不及夏天了。
+3.  _That's good to hear_. | _We are a top company_ _in the industry_. | _Making sure our clients and employees_ _are happy is very important to us_.
+    听到这个我很高兴。我们是行业顶尖的公司。确保我们的客户和员工都满意对我们非常重要。
 
-4.  夏天确实很棒！| 我们可以去海滩游泳，| 或者去公园野餐。| 你有什么计划吗？
-    _Summer is indeed great_! | _We can go swimming_ _at the beach_, | _or have a picnic in the park_. | _What are your plans_?
+4.  如果我能得到这份工作就太好了。我想我一定会在这里工作得很开心。但是我知道你们对这份工作有一些法律要求。
+    _It would be wonderful_ _if I could get this job_. | _I think I would be very happy_ _working here_. | _But I know you have some legal requirements_ _for this position_.
 
-5.  _I'm thinking of_ _going camping in the mountains_. | _The weather should be perfect for hiking_. | _Would you like to join_?
-    我在考虑去山里露营。天气应该很适合徒步旅行。你想加入吗？
+5.  _Yes_. | _We currently have license requirements_. | _We need you to have_ _the correct license_ _before offering you this job_.
+    是的。目前我们对驾照有要求。在聘用您之前，我们需要您持有合适的驾照。
 
-6.  露营听起来很有趣！| 我从来没去过，| 需要准备什么装备吗？
-    _Camping sounds fun_! | _I've never been before_, | _what equipment do we need to prepare_?
+6.  我明白了。我知道你们要检查驾照和驾驶记录。我开车很多年了，记录很好，从来没有任何罚单和事故。
+    _I understand_. | _I know you'll check my license_ _and driving record_. | _I've been driving for many years_, | _with a clean record_ | _and no tickets or accidents_.
 
-7.  _We'll need tents_, _sleeping bags_, _and camping gear_. | _I have most of it_, | _so you don't need to worry_.
-    我们需要帐篷、睡袋和露营装备。我大部分都有，所以你不用担心。
+7.  _Excellent_. | _That's good_. | _We prefer our drivers_ _to have some driving experience_, | _and we only hire drivers_ _with clean records_.
+    太好了。这很好。我们偏好有驾驶经验的司机，而且只雇用记录良好的司机。
 
-8.  太好了！| 我们什么时候去？| 需要提前预订露营地吗？
-    _Great! When are we going_? | _Do we need to book_ _a campsite in advance_?
+8.  我不清楚你们想让我开什么类型的车。我有普通汽车的驾照，也有卡车驾照。
+    _I'm not clear on_ _what type of vehicle_ _you want me to drive_. | _I have a regular car license_, | _and I also have a truck license_.
 
-9.  _Yes, we should book_ _at least a week ahead_. | _I'm thinking next month_. | _The weather should be perfect then_.
-    是的，我们应该至少提前一周预订。我在想下个月。那时天气应该很好。
+9.  _We need a driver_ _who can drive a truck_. | _We just signed a contract_ _with another company_, | _so we urgently need_ _to find the right driver_.
+    我们需要一名能开卡车的司机。我们刚与另一家公司签了合同，所以急需合适的司机。
 
-10. 下个月很好！| 我可以请假。| 我们会在那里待几天？
-    _Next month is perfect_! | _I can take time off_. | _How many days_ _will we stay there_?
+10. 我猜你们需要我开卡车。我有开卡车的经验。我之前和另一位候选人聊过，他没有卡车驾照。
+    _I guess you need me_ _to drive a truck_. | _I do have truck-driving experience_. | _I spoke with another candidate earlier_—| _he doesn't have a truck license_.
 
-11. _I'm thinking 3 days and 2 nights_. | _That gives us plenty of time_ _to explore and relax_.
-    我在想3天2夜。这样我们有足够的时间探索和放松。
+11. _That's great_. | _I think you have a great chance_ _for this job_. | _You have this type of experience_ _that we are looking for_.
+    太好了。我觉得您很有机会得到这份工作。您正好有我们需要的那种经验。
 
-12. 听起来很棒！| 我们还可以看星星，| 听说山里的夜空很美。
-    _Sounds great! We can also_ _look at the stars_, | _I heard the night sky_ _in the mountains is beautiful_.
+12. 如果我需要考新驾照来增加获得这份工作的机会，我愿意去学习，去考驾照的。
+    _If I need to get a new license_ _to improve my chances_ _of getting this job_, | _I'm willing to go for it_ _and take the test_.
 
-13. _Absolutely! The stars are amazing_ _in the mountains_. | _We should also bring_ _a camera to capture_ _the beautiful scenery_.
-    当然！山里的星星很神奇。我们还应该带相机来捕捉美丽的风景。
+13. _No, you have the right license now_. | _I'll let you know the result_ _in a few days_.
+    不用的，您现在的驾照就符合要求。我会在几天后告知您结果。
 
-14. 好主意！| 我负责带相机和零食。| 你负责帐篷和装备。
-    _Good idea! I'll bring the camera_ _and snacks_. | _You're responsible for_ _tents and equipment_.
-
-15. _Perfect! This is going to be_ _an amazing trip_. | _I can't wait to show you_ _the beautiful mountain views_.
-    完美！这将是一次很棒的旅行。我等不及要向你展示美丽的山景了。
-
-16. 我也很期待！| 这将是我第一次露营经历，| 我相信会很难忘。
-    _I'm also looking forward to it_! | _This will be my first camping experience_, | _I believe it will be unforgettable_.
+14. 好的，谢谢。我期待很快收到您的回复。
+    _Okay, thanks_. | _I look forward to hearing_ _from you soon_.
 
 ---
 
-#70199. Booking a Doctor's Appointment - Business
+#70200. Social Media Strategies for Selling Art - Business
 
-Briefing: This dialogue is a conversation between an English-speaking medical receptionist and a Mandarin-speaking patient who wants to book an appointment with a doctor. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking artist and an English-speaking business support advisor. The conversation takes place at a business support event. The dialogue starts now.
 
-1.  _Good morning, welcome to City Medical Centre_. | _How may I help you today_?
-    早上好，欢迎光临城市医疗中心。今天有什么可以为您效劳的吗？
+1.  _Hi! Welcome to our_ _Business Support Open Day_. | _How can I assist you today_?
+    你好！欢迎参加我们的生意支持开放日，我今天有什么可以帮你的吗？
 
-2.  你好，我想预约看医生。| 我最近感觉不太舒服。
-    _Hello, I'd like to book_ _an appointment with a doctor_. | _I haven't been feeling well lately_.
+2.  你好。我是一名画家。我今天过来是想获得一些怎么拓宽销售渠道的建议。
+    _Hi_. | _I'm an artist and I've come here today_ | _looking for advice on how to broaden_ _my sales channels_.
 
-3.  _I'm sorry to hear_ _that you're not feeling well_. | _What symptoms are you experiencing_?
-    听到您感觉不舒服我很遗憾。您有什么症状？
+3.  _That's wonderful!_ | _Do you already have any_ _of your pieces on the market_?
+    太好了！您已经在市面上出售作品了吗？
 
-4.  我最近总是头痛，| 而且感觉很疲劳。| 我想做个全面检查。
-    _I've been having headaches recently_, | _and feeling very tired_. | _I'd like to have_ _a comprehensive check-up_.
+4.  是的，我一般会在本地集市摆摊卖画，不过销售情况时好时坏。
+    _Yes_. | _I usually set up a stall_ _at the local market_ _to sell my work_, | _but my sales are quite inconsistent_.
 
-5.  _I understand. We have several doctors_ _available this week_. | _Do you have a preference_ _for a specific doctor_?
-    我明白了。我们这周有几位医生可用。您有特定的医生偏好吗？
+5.  _Got it_. | _Have you tried selling your work_ _through galleries_? | _It's an approach_ _many artists take_.
+    明白了。您尝试过在画廊销售吗？许多艺术家都会这样做。
 
-6.  没有特别的偏好，| 但我希望是女医生。| 这样我会感觉更自在一些。
-    _No particular preference_, | _but I hope it's a female doctor_. | _I'd feel more comfortable that way_.
+6.  这一点我其实也想到过。我有联系过几家画廊的。但是，他们抽的佣金实在太高了，就会导致我的利润很少。
+    _I've actually thought about that before_. | _I've reached out to a few galleries_, | _but their commission rates are so high_ | _and it leaves me with barely any profit_.
 
-7.  _Of course. Dr. Sarah Johnson_ _has availability on Thursday afternoon_. | _Would 2 PM work for you_?
-    当然可以。莎拉·约翰逊医生周四下午有空。下午2点对您来说可以吗？
+7.  _I totally get that_. | _Gallery commissions are no joke_. | _They can be really steep_. | _Have you ever thought about_ _selling your work online_? | _Online sales are booming right now_.
+    我完全能理解。画廊抽成可不是闹着玩的，能贵到离谱。您有没有想过把销售转到网上呢？现在网上销售也很火。
 
-8.  周四下午2点很好。| 我需要提前多久到？
-    _Thursday 2 PM is perfect_. | _How early do I need to arrive_?
+8.  网上销售？我听说过，但是我没什么这方面的经验。您是指通过专门的平台或者网站吗？
+    _Online sales?_ | _I've heard about it_. | _But I don't have much experience_ _with that_. | _Do you mean specific platforms_ _or websites_?
 
-9.  _Please arrive 15 minutes early_ _to fill out the necessary forms_. | _Do you have your Medicare card_?
-    请提前15分钟到达，填写必要的表格。您有Medicare卡吗？
+9.  _Well, you might want to begin_ _by using social media platforms_ | _to connect with a broader audience_. | _Plus, your buyers can get_ _full transparency_ _on what they're purchasing_.
+    嗯，您或许可以先从社交媒体平台入手，来接触更广泛的受众。另外，你的买家也能非常透明地看到他们买的是什么。
 
-10. 有的，我带了。| 我还需要带什么其他证件吗？
-    _Yes, I have it_. | _Do I need to bring any other documents_?
+10. 这个建议太棒了。在线上，客户能全方位看到我的作品，肯定更吸引人。我家里的油画和素描现在都堆成山了，根本没地方放了。
+    _This advice is amazing!_ | _When clients can get_ _the full perspective of my work online_, | _that would be more appealing_. | _My oil paintings and sketches_ | _are just piling up at home now_ | _with nowhere to go_.
 
-11. _Just bring your Medicare card_ _and a form of ID_. | _If you have a list of medications_, _that would be helpful too_.
-    只需要带您的Medicare卡和身份证。如果您有药物清单，那也会很有帮助。
+11. _You can also engage directly_ _with potential buyers_ | _with the help of social media_. | _Also, you can post updates_ _whenever you want_ | _and showcase new work_ _on a regular basis_.
+    社交媒体还能让您直接跟潜在买家互动。而且，您可以随时发布更新和经常展示新作品。
 
-12. 好的，我会准备的。| 这次预约大概需要多长时间？
-    _Okay, I'll prepare them_. | _How long will this appointment take_?
+12. 听上去很棒。在社交媒体上发帖，对我来说其实并不是那么复杂。但是我估计需要花点时间积累粉丝和互动。
+    _That sounds amazing_. | _Posting on social media_ | _isn't actually that complicated for me_, | _but I guess it'll take some time_ | _to build a following_ | _and get engagement_.
 
-13. _The initial consultation_ _usually takes about 30 minutes_. | _If you need tests_, _that might take longer_.
-    初次咨询通常需要30分钟左右。如果您需要做检查，可能需要更长时间。
+13. _I believe you'll nail it!_ | _Also, if you want to plan_ _an exhibition or special event_ _down the line_, | _you can promote it_ _via social channels too_.
+    我相信你能做到的！而且，以后如果您想办个展览或特别活动，你也能用社媒渠道来宣传。
 
-14. 明白了。| 如果我想取消或改期，| 需要提前多久通知？
-    _I understand. If I want_ _to cancel or reschedule_, | _how much notice do I need to give_?
-
-15. _We require 24 hours notice_ _for cancellations_. | _You can call us_ _or use our online system_.
-    我们要求取消预约提前24小时通知。您可以打电话给我们或使用我们的在线系统。
-
-16. 好的，我记住了。| 还有什么其他需要注意的吗？
-    _Okay, I'll remember that_. | _Is there anything else I should know_?
-
-17. _That's all for now_. | _Your appointment_ _is confirmed for Thursday at 2 PM_. | _We'll send you a reminder_ _the day before_.
-    现在就是这些了。您的预约确认在周四下午2点。我们会在前一天发送提醒。
-
-18. 太好了！| 谢谢您的帮助。| 周四见！
-    _Great! Thank you for your help_. | _See you Thursday_!
+14. 谢谢你的夸奖！今天你给了我很多可行的思路和信心，真的是帮了我大忙！
+    _Thank you for your kind words_. | _You've given me a lot_ _of practical ideas and confidence today_. | _This has really helped me a lot_!
 
 ---
 
-#70198. Discussing Hobbies and Interests - Social
+#70199. Parent's Call for Disability Holiday Program Details - Social
 
-Briefing: This dialogue is a conversation between two friends where one is an English-speaking person and the other is a Mandarin-speaking person. They are discussing their hobbies and interests, sharing what they enjoy doing in their free time. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking parent and an English-speaking disability support program coordinator. The conversation takes place over the phone. The dialogue starts now.
 
-1.  _Hi there! | What do you like to do_ _in your free time_? | _I'm always curious_ _about people's hobbies_.
-    你好！你在空闲时间喜欢做什么？我总是对人们的爱好很好奇。
+1.  _Hi_. | _You have reached_ _the Disability Support Program hotline_. | _How may I assist you today_?
+    下午好，您已拨通残疾人支持项目热线，请问今天有什么我可以帮忙的吗？
 
-2.  我喜欢很多活动！| 我最喜欢的是摄影，| 特别是风景摄影。| 你呢？
-    _I like many activities_! | _My favorite is photography_, | _especially landscape photography_. | _What about you_?
+2.  你好，我是孩子的家长，最近听说了你们的一个为残疾儿童设计的假期项目，我想了解更多详细情况。
+    _Hello, I am the parent of a child_, | _and I recently heard about_ _your holiday program_ _designed for children with disabilities_. | _I would like to learn more details_.
 
-3.  _That's interesting_! | _I love photography too_. | _What kind of camera do you use_? | _I have a DSLR_.
-    很有趣！我也喜欢摄影。你用什么相机？我有一台单反相机。
+3.  _I'd be happy to help_. | _I'm one of the coordinators_ _for this program_. | _Could you tell me_ _how you found out about it_?
+    我很乐意帮忙，我是这个项目的协调员之一。请问您是怎么得知这个项目的呢？
 
-4.  我有一台索尼微单相机，| 虽然不是最贵的，| 但拍出来的照片质量很好。| 你主要拍什么？
-    _I have a Sony mirrorless camera_, | _though not the most expensive_, | _but the photo quality is very good_. | _What do you mainly photograph_?
+4.  我儿子在一家医院参加体育训练。就在这个礼拜，我在医院的公告板上注意到了一张你们介绍这个假期项目的海报。
+    _My son is currently taking part_ _in sports training at a hospital_, | _and just this week_, | _I noticed a poster_ _on the hospital notice board_ | _about your holiday program_.
 
-5.  _I mostly take street photography_ _and portraits_. | _I find people very interesting subjects_. | _What about landscapes do you enjoy_?
-    我主要拍街头摄影和人像。我觉得人是非常有趣的主题。你喜欢什么样的风景？
+5.  _I'm glad that you noticed the poster_. | _We don't promote it broadly_ | _since our support is limited_ _to a few families annually_.
+    我很高兴您看到了那个海报。我们不大范围宣传，因为每年我们只能帮助少数几个家庭。
 
-6.  我喜欢拍自然风景，| 特别是日出和日落。| 我还喜欢拍城市建筑，| 特别是古老的建筑。
-    _I like photographing_ _natural landscapes_, | _especially sunrises and sunsets_. | _I also like photographing_ _city buildings_, | _especially old architecture_.
+6.  我懂的。现在我想清楚点了解一下这个残疾儿童假期计划是怎么运作的。因为海报上明确写着，这个假期完全免费的。
+    _I understand_. | _Now, I would like to clearly know_ | _how this holiday program_ _for children with disabilities operates_, | _as the poster clearly states_ | _that this holiday is completely free of charge_.
 
-7.  _That sounds beautiful_! | _Do you also enjoy_ _other creative hobbies_? | _I love painting and drawing_.
-    听起来很美！你还喜欢其他创意爱好吗？我喜欢绘画和素描。
+7.  _There's indeed no charge_. | _We provide a spacious house_ _by the beach free of cost_. | _It can accommodate_ _two families simultaneously_.
+    确实不需要支付任何费用。我们会免费提供一栋很大的靠近海滩的房子，可以同时容纳两个家庭。
 
-8.  绘画？太棒了！| 我从来没学过，| 但我很羡慕会画画的人。| 你画什么风格？
-    _Painting? That's amazing_! | _I've never learned_, | _but I admire people who can paint_. | _What style do you paint_?
+8.  那真是太好了！我儿子特别喜欢海滩。但是我们家有四口人，如果能安排两间房间，就再合适不过了。
+    _That's really great!_ | _My son especially loves beaches_. | _But there are four of us_ _in the family_, | _having two bedrooms_ _would be just perfect_.
 
-9.  _I mostly do watercolor landscapes_ _and abstract art_. | _It's very relaxing_. | _Would you like to try painting sometime_?
-    我主要画水彩风景和抽象艺术。这很放松。你想什么时候试试绘画吗？
+9.  _Every family is assigned_ _two bedrooms_ | _along with its own private bathroom_. | _We also supply food_ _for shared cooking and dining_, | _which gives you the chance_ _to connect with new people_.
+    每个家庭都会配备两间卧室和独立的浴室。我们还会提供食材，让大家可以一起做饭和就餐，这样你们有机会认识新朋友。
 
-10. 我很想试试！| 但我担心画不好。| 你有什么建议给初学者吗？
-    _I'd love to try_! | _But I'm worried_ _I won't paint well_. | _Do you have any advice for beginners_?
+10. 太好了。这样的话，我们就有机会认识其他的家庭了！我儿子也能认识一些能理解他的情况和一起分享相似经历的朋友。
+    _That's great_. | _That way, we will have the opportunity_ | _to connect with other families_, | _and my son can make friends_ | _with those who understand his situation_ | _and share similar experiences_.
 
-11. _Don't worry about being perfect_! | _Just start with simple shapes_ _and have fun_. | _Everyone starts as a beginner_.
-    不要担心完美！从简单的形状开始，享受乐趣。每个人都是从初学者开始的。
+11. _He can make new friends so sure_, | _and you'll also get support_ _from fellow parents_. | _Would you like to proceed_ _with the application now_?
+    他一定会交到新朋友，您也能从其他家长那里获得支持。您现在要办理申请吗？
 
-12. 你说得对！| 我决定试试。| 除了摄影和绘画，| 你还喜欢什么其他活动？
-    _You're right! I've decided to try_. | _Besides photography and painting_, | _what other activities do you enjoy_?
+12. 要的，非常感谢。我已经好久没有和家人一起度假了，希望这个申请过程不要太繁琐，让我们可以轻松享受这次假期。
+    _Yes, thank you very much_. | _I haven't taken a family vacation_ _for a long time_, | _and I hope this application process_ _won't be too complicated_ | _so that we can easily enjoy the holiday_.
 
-13. _I love hiking_ _and camping in nature_. | _Being outdoors helps me relax_. | _Do you enjoy outdoor activities too_?
-    我喜欢在大自然中徒步旅行和露营。户外活动帮助我放松。你也喜欢户外活动吗？
+13. _It won't be at all_. | _It's very simple_, | _with just a single form_ _to fill out_. | _Once you complete it_, | _we'll contact you_ _to schedule your holiday date_.
+    一点也不复杂的。非常简单。只需要填写一张表格。您一填完表，我们就联系您确定度假日期。
 
-14. 是的！| 我喜欢徒步旅行，| 特别是爬山。| 我还喜欢游泳和骑自行车。
-    _Yes! I like hiking_, | _especially mountain climbing_. | _I also like swimming and cycling_.
-
-15. _That's great! We have_ _so many interests in common_. | _Maybe we could go hiking together sometime_.
-    这很好！我们有这么多共同的兴趣。也许我们可以什么时候一起去徒步旅行。
-
-16. 好主意！| 我知道附近有一些很好的徒步路线。| 我们可以计划一次周末旅行。
-    _Great idea! I know some good_ _hiking trails nearby_. | _We can plan a weekend trip_.
-
-17. _Perfect! It's wonderful_ _to find someone who shares similar interests_. | _We'll have a great time together_.
-    完美！找到有相似兴趣的人真是太好了。我们在一起会很开心。
-
-18. 我完全同意！| 有共同爱好的朋友让生活更有趣。| 我很期待我们的徒步旅行！
-    _I completely agree_! | _Friends with common hobbies_ _make life more interesting_. | _I'm looking forward to our hiking trip_!
+14. 非常感谢您的帮助。我真的很期待这次假期，我儿子也肯定会非常兴奋的。也感谢您组织了这么棒的项目。
+    _Thank you so much for your help_. | _I'm really looking forward_ _to this holiday_; | _my son is definitely going to be very excited_. | _And thank you for organizing_ _such a wonderful program_.
 
 ---
 
-#70197. Renting an Apartment - Business
+#70198. Flight Change Request After New Job Start - Tourism+Business
 
-Briefing: This dialogue is a conversation between an English-speaking real estate agent and a Mandarin-speaking person who wants to rent an apartment. They are discussing available properties, requirements, and rental terms. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking customer and an English-speaking airline customer service representative. The conversation takes place over the phone. The dialogue starts now.
 
-1.  _Good morning, welcome to City Real Estate_. | _How may I help you today_?
-    早上好，欢迎光临城市房地产。今天有什么可以为您效劳的吗？
+1.  _Good afternoon, thank you for calling_ _our Airline Customer Service_. | _How may I assist you today_?
+    下午好，感谢您致电我们航司客服部，今天有什么可以帮您的吗？
 
-2.  你好，我想租一套公寓。| 我刚刚搬到这个城市，| 需要找个地方住。
-    _Hello, I'd like to rent an apartment_. | _I just moved to this city_, | _and need a place to live_.
+2.  下午好，我想咨询一下我下个月航班的事情，我有一些疑问。
+    _Good afternoon, I'd like to make an enquiry_ _about my flight next month_. | _I have a few questions_.
 
-3.  _Welcome to the city_! | _I'd be happy to help you find a place_. | _What are you looking for_?
-    欢迎来到这个城市！我很乐意帮您找地方。您在找什么样的？
+3.  _Absolutely!_ | _Thank you for flying with us_. | _I'd be glad to answer_ _any questions you have_ _about your reservation_.
+    当然！感谢您乘坐我们的航班。我很乐意为您解答有关预订的任何问题。
 
-4.  我想要一套两居室的公寓，| 最好在市中心附近，| 交通要方便。| 预算大概每月2000澳元。
-    _I want a two-bedroom apartment_, | _preferably near the city center_, | _with convenient transportation_. | _Budget is about $2000 per month_.
+4.  大概三个月前，我在你们官网订了票，并且已经付款了。现在我想更改预定，但是我不太清楚流程。
+    _I booked and paid for my ticket_ _on your website_ _about three months ago_. | _I'd like to change my reservation now_, | _but I'm not sure how to proceed_.
 
-5.  _That's a good budget_. | _I have several options_ _that might suit you_. | _Do you have any specific requirements_?
-    这是个不错的预算。我有几个可能适合您的选择。您有什么具体要求吗？
+5.  _Sure thing_. | _I'm happy to help!_ | _Could you give me_ _your flight details_ | _so I can check_ _what options are available_?
+    当然可以。我很乐意帮忙！能告诉我您的航班信息吗？我来看看有哪些可行的方案。
 
-6.  我希望有停车位，| 最好有阳台，| 而且要有基本的家具。| 你们有带家具的公寓吗？
-    _I hope to have parking_, | _preferably with a balcony_, | _and basic furniture_. | _Do you have furnished apartments_?
+6.  本来我是打算去度假的，可我刚入职一个新工作，现在请不了假。
+    _I planned to go on vacation_, | _but I just started a new job_ | _and can't take time off now_.
 
-7.  _Yes, we do have some furnished options_. | _Let me show you_ _a few properties_. | _This one has 2 bedrooms_, _parking_, _and a balcony_.
-    是的，我们确实有一些带家具的选择。让我给您看几个房产。这个有2个卧室、停车位和阳台。
+7.  _Congrats on your new position!_ | _I'm sorry you won't make the trip_—| _that's really unfortunate_.
+    恭喜您找到新工作！很遗憾您度假度不成了，太不巧了。
 
-8.  听起来不错！| 这个公寓在哪里？| 离地铁站近吗？
-    _Sounds good! Where is this apartment_? | _Is it close to the subway station_?
+8.  是的，我也没想好该怎么办。我正在考虑要么改期，要么退票取消预定。
+    _Yes, I haven't decided_ _what to do yet_. | _I'm thinking either to push the flight_ _to a later date_ | _or cancel and get a refund_.
 
-9.  _It's located in the downtown area_, | _just 5 minutes walk_ _from the central station_. | _There are also_ _many shops and restaurants nearby_.
-    它位于市中心区域，距离中央车站步行只需5分钟。附近还有很多商店和餐厅。
+9.  _Alright_. | _When do you think_ _you might get leave_? | _Some tickets can be rescheduled or canceled_, | _but fees may apply_.
+    好的。您估计您什么时候能休假？有些票可以改期或者取消，但可能会收取一些费用。
 
-10. 太好了！| 这个公寓有多大？| 月租是多少？
-    _Great! How big is this apartment_? | _What's the monthly rent_?
+10. 我知道会有些额外费用，希望不要太贵。我还不确定能休假的确切时间，需要跟我的新雇主商量一下。他说过年底应该可以请假。
+    _I know there will be extra fees_—| _hopefully not too expensive_. | _I don't have a firm leave date yet_; | _I need to discuss it_ _with my new employer_, | _who said I could take time off_ _by year's end_.
 
-11. _It's 85 square meters_ _with 2 bedrooms_, _1 bathroom_, _and a kitchen_. | _The monthly rent is $1,800_, _plus utilities_.
-    85平方米，有2个卧室、1个浴室和厨房。月租是1800澳元，加上水电费。
+11. _It depends on your fare class_, | _but fees are usually modest_. | _You'll get refunded the balance_ _after cancellation_. | _You probably need to act soon_ | _and read the terms_ _of your ticket carefully_. | _Some discounted tickets aren't changeable_.
+    这要看您的票种，不过一般手续费不高。取消后差额会退还。您可能得尽快操作，并仔细阅读机票的条款。有些特价票不能更改。
 
-12. 水电费大概多少钱？| 我需要付押金吗？
-    _How much are utilities approximately_? | _Do I need to pay a deposit_?
+12. 好的，我回去看看我机票的种类，再给你回电。你们网站上能查到这些信息吗？
+    _Okay, I'll check my fare type_ | _and call you back_. | _Is that info available_ _on your website_?
 
-13. _Utilities are usually_ _around $150 - 200 per month_. | _Yes, we require a security deposit_ _of one month's rent_.
-    水电费通常是每月150-200澳元。是的，我们需要一个月的租金作为押金。
+13. _Yes_. | _You can find all terms and fees_ _on our site_. | _If anything's unclear_, | _feel free to call back_.
+    没问题，您可以在我们网站上查看所有条款和费用。如有疑问，您尽管给我们打电话。
 
-14. 明白了。| 我可以先看看房子吗？| 什么时候方便？
-    _I understand. Can I see the apartment first_? | _When is convenient_?
-
-15. _Of course! I can show you_ _tomorrow afternoon at 2 PM_. | _Does that time work for you_?
-    当然可以！我可以在明天下午2点带您看房。那个时间对您来说可以吗？
-
-16. 明天下午2点很好！| 我需要带什么证件吗？
-    _Tomorrow 2 PM is perfect_! | _What documents do I need to bring_?
-
-17. _Please bring your passport_, _proof of income_, _and references_. | _If you like the apartment_, _we can process_ _the application immediately_.
-    请带您的护照、收入证明和推荐信。如果您喜欢这个公寓，我们可以立即处理申请。
-
-18. 好的，我会准备的。| 谢谢您的帮助！| 明天见！
-    _Okay, I'll prepare them_. | _Thank you for your help_! | _See you tomorrow_!
+14. 好的，我会上网查一下怎么处理，权衡权衡这些选择。谢谢你的帮助！
+    _Alright, I'll go online_ | _to see how to handle this_ | _and weigh my options_. | _Thanks for your help_!
 
 ---
 
-#70196. Making Small Talk at a Party - Social
+#70197. Police Call About House Invasion - Legal
 
-Briefing: This dialogue is a conversation between two people at a party where one is an English-speaking person and the other is a Mandarin-speaking person. They are making small talk and getting to know each other. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking homeowner and an English-speaking police officer. The conversation takes place over the phone. The dialogue starts now.
 
-1.  _Hi there! I don't think_ _we've met before_. | _I'm Sarah. What's your name_?
-    你好！我想我们之前没见过。我是莎拉。你叫什么名字？
+1.  _Hi_. | _You've reached_ _the Australian Police Assistance Hotline_. | _This is Officer Williams speaking_. | _How may I be of service today_?
+    你好，你已拨通澳大利亚警察求助热线，我是警官威廉姆斯。今天有什么可以为你效劳的吗？
 
-2.  你好，莎拉！| 很高兴认识你。| 我叫李明，| 我是王先生的朋友。
-    _Hello, Sarah! Nice to meet you_. | _My name is Li Ming, I'm Mr. Wang's friend_.
+2.  警察同志你好。我家突然有人闯进来了，我现在完全不知道该怎么办才好。
+    _Hello, officer_. | _Someone broke into my house_, | _and I really have no idea_ _what to do now_.
 
-3.  _Nice to meet you, Li Ming_! | _How do you know Mr. Wang_? | _He's my colleague at work_.
-    很高兴认识你，李明！你是怎么认识王先生的？他是我工作上的同事。
+3.  _Alright, the most important thing_ _is your safety_. | _First, ensure you're okay_ | _and if anyone is still inside_, | _please stay out_.
+    好的，最重要的是确保您的安全。首先，确认您没事，如果家里还有人，请不要进去。
 
-4.  我们是在语言交换活动中认识的。| 我教他中文，| 他教我英语。| 你们在一起工作多久了？
-    _We met at a language exchange event_. | _I teach him Chinese_, | _he teaches me English_. | _How long have you worked together_?
+4.  目前家里已经没有人了。我刚到家时发现房里空荡荡的没人，但明显看得出之前有人来过。太吓人了。
+    _Now there's nobody inside_. | _I just got home_ | _and found the place empty_ _with no one inside_, | _but it's clear someone was there earlier_. | _It's so scary_.
 
-5.  _We've been working together for about_ _2 years now_. | _He's a great colleague_. | _How long have you been learning English_?
-    我们已经一起工作大约2年了。他是个很好的同事。你学英语多久了？
+5.  _I see_. | _Please try to keep calm_ | _and start from the beginning_. | _Can you explain what happened_?
+    我明白。请尽量保持冷静，从头开始跟我说说到底发生了什么？
 
-6.  我学英语已经3年了，| 但口语还是不太好。| 我很羡慕你的英语说得这么流利。
-    _I've been learning English for 3 years_, | _but my speaking is still not very good_. | _I envy_ _how fluently you speak English_.
+6.  好的，我尽量平复一下我的情绪吧。我刚刚旅游回来，发现家里被翻得乱七八糟。而且，洗衣房的窗户被砸破了！
+    _Okay, I'll try to calm down_. | _I just got back from a trip_ | _and found my home completely ransacked_. | _The laundry room window also got smashed_!
 
-7.  _Thank you, but your English_ _is actually quite good_! | _I can understand everything you're saying_. | _Practice makes perfect_.
-    谢谢，但你的英语其实很好！我能理解你说的每一句话。熟能生巧。
+7.  _It appears they gained entry_ _by smashing the laundry room window_. | _I know this situation is chaotic_, | _but could you check_ _if anything has been stolen_?
+    他们可能是通过砸破洗衣房的窗户闯进去的。我知道情况很混乱，但你能否确认一下有没有东西被盗走？
 
-8.  谢谢你的鼓励！| 我一直在努力练习。| 你以前去过中国吗？
-    _Thank you for your encouragement_! | _I've been working hard to practice_. | _Have you been to China before_?
+8.  哎呀，我还没来得及细看所有的东西呢，因为我第一时间就打电话给你们了。不过，我发现电视和立体声音响不见了，而且还有一台电脑也没了。
+    _Oh boy_. | _I haven't had the chance_ _to look over everything in detail_ | _since I called you immediately_. | _However, I noticed the TV is gone_, | _the stereo is gone_, | _and a computer is missing_.
 
-9.  _Yes, I visited Beijing and Shanghai last year_. | _It was an amazing experience_. | _The food was incredible_.
-    是的，我去年去过北京和上海。那是一次很棒的体验。食物很美味。
+9.  _Alright, please refrain from tidying up_ | _or touching anything at the scene_. | _I'll dispatch an officer_ _to your residence_ | _so you can file a report_ _regarding the stolen items_.
+    好的，请不要清理或碰动现场的任何东西。我会派一名警官到您家，让您报案记录被盗物品的情况。
 
-10. 太好了！| 你最喜欢什么中国菜？| 我猜你一定喜欢火锅。
-    _That's great! What's your favorite Chinese dish_? | _I bet you love hot pot_.
+10. 天啊，我真是难以置信会有人做出这种事。虽然我家里没有特别贵重的东西，但要重新买回这些东西还是很麻烦啊。
+    _Oh my god_. | _I really can't believe_ _someone would do something like this_. | _Even though I don't have_ _any highly valuable items at home_, | _replacing these things is still a hassle_.
 
-11. _You're absolutely right_! | _I love hot pot_! | _I also enjoyed_ _dim sum and Peking duck_. | _What about you_?
-    你完全正确！我喜欢火锅！我也喜欢点心和北京烤鸭。你呢？
+11. _If your home and belongings are insured_, | _your insurance should help cover_ _the cost of replacing_ _the stolen items_. | _Also, could you check_ _if anything else is missing_?
+    如果您的房屋和物品都有保险，保险应该可以帮您赔偿更换被盗的物品。另外，您能再确认一下是否还有别的东西被偷了吗？
 
-12. 我喜欢川菜，| 特别是麻婆豆腐和宫保鸡丁。| 你喜欢辣的食物吗？
-    _I like Sichuan cuisine_, | _especially Mapo Tofu_ _and Kung Pao Chicken_. | _Do you like spicy food_?
+12. 对对对，我竟然忘了我还有保险！保险肯定能帮上忙。要是可以的话，我想等警察来了以后，我再详细检查整个房子。
+    _Oh right!_ | _I can't believe I forgot_ _about my insurance!_ | _It definitely should help_. | _If possible, I'd prefer to check_ _the entire house carefully_ | _after the police arrive_.
 
-13. _I do like ome spicy food_, | _but not too hot_. | _I prefer_ _mild to medium spice levels_.
-    我确实喜欢一些辣的食物，但不要太辣。我更喜欢温和到中等辣度。
+13. _Definitely, it's a smart idea_ | _to wait inside your car_ | _until the police show up_ | _so nothing gets disturbed_. | _It won't take much time_.
+    当然，最好是在车里等到警察到达，这样可以确保不破坏现场。时间不会太久的。
 
-14. 那下次我们可以一起去吃川菜，| 我推荐一些不太辣的菜。| 你觉得怎么样？
-    _Then next time_ _we can go eat Sichuan food together_, | _I'll recommend some less spicy dishes_. | _What do you think_?
-
-15. _That sounds great_! | _I'd love to try more Chinese food_. | _It's wonderful to meet someone_ _who knows the local cuisine_.
-    听起来很棒！我很想尝试更多中国菜。遇到了解当地美食的人真是太好了。
-
-16. 我也很高兴认识你！| 我们可以经常一起吃饭，| 这样我也可以练习英语。
-    _I'm also very happy to meet you_! | _We can often eat together_, | _so I can also practice English_.
-
-17. _Perfect! This is going to be a great friendship_. | _I'm looking forward to_ _our next meal together_.
-    完美！这将是一段很棒的友谊。我期待我们下次一起吃饭。
-
-18. 我也是！| 很高兴认识你，莎拉！
-    _Me too! Nice to meet you, Sarah_!
+14. 非常感谢你们帮忙。回家看到这种情况，真是我最不想遇到的。你们的帮助实在是救了我一命啊。
+    _Thank you so much for your help_. | _This is the last thing_ _I ever wanted to see_ _when I got home_, | _your assistance has truly been a lifesaver_.
 
 ---
 
-#70195. Shopping for Groceries - Business
+#70196. Pharmacist Advice for Flu-Like Symptoms - Medical
 
-Briefing: This dialogue is a conversation between an English-speaking supermarket staff member and a Mandarin-speaking customer who is shopping for groceries. They are discussing products, prices, and shopping assistance. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking customer and an English-speaking pharmacist. The conversation takes place at a pharmacy. The dialogue starts now.
 
-1.  _Good morning, welcome to Fresh Market_. | _How may I help you today_?
-    早上好，欢迎光临新鲜市场。今天有什么可以为您效劳的吗？
+1.  _Hi, you seem a bit under the weather_. | _What can I do for you_?
+    嗨，你看上去好像身体不太舒服。有什么我能帮忙的吗？
 
-2.  你好！我在找一些食材做晚饭。| 你能帮我找到鸡蛋和牛奶吗？
-    _Hello! I'm looking for ingredients for dinner_. | _Can you help me find_ _eggs and milk_?
+2.  是呀。我很难受。我女儿大概从一周前就开始咳嗽了，现在我也咳嗽起来了，我感觉我好像也感染了同一种病毒。
+    _Yes, I feel unwell_. | _About a week ago_, | _my daughter started coughing_, | _and now I'm coughing too_. | _I feel like I've caught_ _the same virus_.
 
-3.  _Of course! The dairy section_ _is over there on the right_. | _Eggs and milk_ _are in the refrigerated area_.
-    当然可以！乳制品区域在右边那边。鸡蛋和牛奶在冷藏区域。
+3.  _Oh dear, there's quite a potent virus_ _circulating these days_, | _and many people_ _have already been hit by it_.
+    哎呀，最近有一种很厉害的病毒在传播，已经影响到很多人了。
 
-4.  谢谢！| 我还需要一些蔬菜。| 你们有新鲜的菠菜吗？
-    _Thank you! I also need some vegetables_. | _Do you have fresh spinach_?
+4.  医生说我女儿不用吃药，只要呆在家休息，不去上学就行。她现在已经恢复了，不过我病得比她严重，感觉特别难受。
+    _The doctor said my daughter_ _doesn't need any medication_ | _and should just stay home_ _instead of going to school_. | _She's recovered now_, | _but I'm much sicker than her_ | _and feel really awful_.
 
-5.  _Yes, we do_! | _The fresh vegetables_ _are in the produce section_ _at the back_. | _Spinach is on sale this week_.
-    是的，我们有！新鲜蔬菜在后面的农产品区域。这周菠菜在特价。
+5.  _Well, kids usually bounce back_ _from viral infections_ _more quickly than adults_. | _I'm sorry you've caught it too_. | _It's quite unfortunate_. | _This virus can be quite contagious_.
+    孩子通常比大人更快从病毒感染中恢复。很遗憾你也感染了。太不幸了。这个病毒传染性很强。
 
-6.  太好了！| 菠菜多少钱一斤？| 还有其他蔬菜在特价吗？
-    _Great! How much is spinach per pound_? | _Are there other vegetables on sale_?
+6.  没错，这病毒的传染性实在是太强了。你能不能帮我开点药，让我感觉好一点呢？
+    _Yeah, this virus is so contagious_. | _Could you prescribe some medication_ | _to help me feel a bit better_?
 
-7.  _Spinach is $2.99 per pound this week_. | _We also have carrots_, _broccoli_, _and tomatoes on special_.
-    这周菠菜每磅2.99美元。我们还有胡萝卜、西兰花和西红柿在特价。
+7.  _Unfortunately, no medicine can cure_ _a viral infection outright_. | _The virus usually has to run its course_ | _while your body heals on its own_, | _which can take a while_.
+    遗憾的是，没有任何药物能直接治愈病毒感染。通常病毒需要靠你身体自己恢复，这可能得花一段时间。
 
-8.  我想买一些胡萝卜和西红柿。| 你们有有机蔬菜吗？
-    _I'd like to buy_ _some carrots and tomatoes_. | _Do you have organic vegetables_?
+8.  我感觉是实在太糟了，全身酸痛，就连躺在床上也觉得疼。而且，我还发烧了。
+    _I feel really terrible_; | _my whole body aches_ | _and even lying in bed is painful_. | _I also have a fever_.
 
-9.  _Yes, we have an organic section_ _in the produce area_. | _The organic vegetables_ _are a bit more expensive_, | _but they're pesticide-free_.
-    是的，我们在农产品区域有有机区域。有机蔬菜稍微贵一些，但它们是农药免费的。
+9.  _I understand_. | _Although I can't directly prescribe medicine here_, | _I can definitely recommend_ _some over-the-counter options_ | _that may help lower your fever_ | _and let you sleep better_.
+    我明白。虽然我不能直接给你开药，但我完全可以推荐一些非处方药，它们可能可以帮你退烧，让你睡得更好些。
 
-10. 我明白了。| 我还需要一些肉类。| 你们有新鲜的鸡肉吗？
-    _I understand. I also need some meat_. | _Do you have fresh chicken_?
+10. 太好了，发烧真是太难熬了。一开始我觉得特别冷，接着出了好多汗，热得要命。而且我的喉咙也很痛。刀割一样疼。
+    _That's great, having a fever is really awful_. | _At first, I felt really cold_, | _and then I broke out_ _in a heavy sweat_. | _It was unbearably hot_. | _Plus, my throat is hurting so badly_, | _it feels like it's being sliced_ _with a knife_.
 
-11. _Yes, we have fresh chicken breasts_, _thighs_, _and whole chickens_. | _The chicken breasts are $8.99 per pound_.
-    是的，我们有新鲜的鸡胸肉、鸡腿和整只鸡。鸡胸肉每磅8.99美元。
+11. _You might try some throat lozenges_ | _that might ease your sore throat_. | _You could also try_ _some steam inhalation_, | _which can help soothe your cough_.
+    你可以试试含点含片，可能会缓解你的喉咙痛。你也可以试试吸蒸汽，有助于缓解咳嗽。
 
-12. 价格不错！| 我还需要一些调味料。| 你们有酱油和醋吗？
-    _Good price! I also need some seasonings_. | _Do you have soy sauce and vinegar_?
+12. 好的，我试试。非常感谢你。我真希望我能快点好，我不能一直待在家里，耽误上班了。
+    _Alright, I'll give that a try_. | _Thanks a lot_. | _I really hope I can get better soon_. | _I can't keep staying home_ _and missing work_.
 
-13. _Yes, we have a large selection_ _of Asian condiments_ _in aisle 5_. | _We carry_ _both Chinese and Japanese brands_.
-    是的，我们在第5通道有大量亚洲调味料选择。我们销售中国和日本品牌。
+13. _Yes, while the medicine won't tackle_ _the virus itself_, | _it should definitely help_ _with the symptoms_. | _I hope you feel better soon_ | _and can get back to work_.
+    是的，虽然药物不能直接治好病毒，但肯定能缓解你的症状。希望你快点好起来，能回去上班。
 
-14. 太好了！| 我还需要一些面条。| 你们有意大利面吗？
-    _Great! I also need some noodles_. | _Do you have pasta_?
-
-15. _Yes, we have many types of pasta_ _in the pasta aisle_. | _Spaghetti_, _penne_, _and fettuccine_ _are all available_.
-    是的，我们在意大利面通道有很多类型的意大利面。意大利细面、通心粉和宽面都有。
-
-16. 完美！| 我想我找到所有需要的东西了。| 收银台在哪里？
-    _Perfect! I think I've found_ _everything I need_. | _Where are the checkout counters_?
-
-17. _The checkout counters_ _are at the front of the store_. | _We have both regular lanes_ _and self-checkout_. | _Which would you prefer_?
-    收银台在商店前面。我们既有普通通道也有自助结账。您更喜欢哪个？
-
-18. 我想用自助结账。| 谢谢你的帮助！
-    _I'd like to use self-checkout_. | _Thank you for your help_!
-
-19. _You're welcome! Have a great day! Come back soon_!
-    不客气！祝您有愉快的一天！欢迎再来！
+14. 非常感谢你的帮助。生病真是太麻烦了，总让人觉得特别难受，我真心希望能尽快恢复正常。
+    _Thank you so much for your help_. | _Being sick is such a hassle_. | _It always makes you feel terrible_. | _I truly hope to get back to normal_ _as soon as possible_.
 
 ---
 
-#70194. Discussing Weekend Plans - Social
+#70195. Office Meeting on Remote Work Challenges - Business
 
-Briefing: This dialogue is a conversation between two friends where one is an English-speaking person and the other is a Mandarin-speaking person. They are discussing their plans for the upcoming weekend and suggesting activities to do together. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking employee and an English-speaking manager. The conversation takes place at the office. The dialogue starts now.
 
-1.  _Hey there! | What are your plans for this weekend_? | _I'm looking for something fun to do_.
-    嘿！你这个周末有什么计划？我在找一些有趣的事情做。
+1.  _Good morning_. | _I really appreciate you_ _taking the time_ _to come to the office_ _to meet me today_.
+    早上好。感谢你今天抽空来办公室和我见面。
 
-2.  我还没有具体计划。| 你有什么想法吗？| 我想出去走走，| 不想整天待在家里。
-    _I don't have specific plans yet_. | _Do you have any ideas_? | _I want to go out_, | _don't want to stay home all day_.
+2.  早上好啊。没事的。能见到你和团队的其他人，我很开心。
+    _Good morning_. | _It's okay_. | _I'm really glad to see you_ | _and the other members of the team_.
 
-3.  _Great idea! I was thinking_ _we could go to the new art museum_ _that just opened_. | _Have you heard about it_?
-    好主意！我在想我们可以去刚开张的新艺术博物馆。你听说过吗？
+3.  _That's good to know_. | _I'd like to have a quick chat_ | _about how your work-from-home setup_ _is coming along_. | _How are things going so far_?
+    那挺好的。我想跟你简单聊聊你在家办公的安排情况。目前都还好吗？
 
-4.  新艺术博物馆？| 在哪里？| 我还没听说过。
-    _New art museum_? | _Where is it_? | _I haven't heard about it_.
+4.  目前都挺好的。虽然我很想念你们，但是不用每天跑办公室上班，真的是帮我省了不少的通勤时间啊！
+    _So far, so good_. | _Although I really miss you all_, | _not having to rush over_ _to the office every day_ | _has really saved me_ _a lot of commuting time_!
 
-5.  _It's downtown, near the central park_. | _They have some amazing exhibitions_ _this month_. | _And admission is free on weekends_.
-    在市中心，靠近中央公园。他们这个月有一些很棒的展览。而且周末免费入场。
+5.  _Well, we miss having you around as well_, | _but it's great to know_ _you're enjoying working from home_. | _I understand how much_ _it matters to you_.
+    嗯，我们也很想念跟你一起工作。不过，了解到你喜欢居家办公真是太好了。我理解这对你来说很重要。
 
-6.  免费入场？太好了！| 我们什么时候去？| 周六还是周日？
-    _Free admission? That's great_! | _When should we go? Saturday or Sunday_?
+6.  是呀。不用再花两个小时在通勤上，真的给我带来了很大的变化。我现在感觉精力充沛了不少。
+    _Yes, not having to spend_ _two hours commuting_ | _has made a huge difference_. | _I feel much more energetic now_.
 
-7.  _I think Saturday would be better_. | _It's usually less crowded than Sunday_. | _We could go around 10 AM_.
-    我觉得周六会更好。通常比周日人少。我们可以在上午10点左右去。
+7.  _That's wonderful to hear_. | _But I've been informed_ _by the IT Department_ | _that you've encountered_ _some technical problems recently_.
+    真是太好了。不过，信息技术部跟我说你最近遇到了一些技术问题。
 
-8.  上午10点很好！| 参观完博物馆后，| 我们还可以做什么？
-    _10 AM is perfect_! | _After visiting the museum_, | _what else can we do_?
+8.  是呀，我家里的网络状况不是很好，尤其是在高峰时段，网速很慢，有时甚至会崩溃。
+    _Yes, my internet connection_ _isn't very good_, | _especially during peak hours_: | _it gets really slow_ | _and sometimes it even crashes_.
 
-9.  _We could have lunch_ _at that new Italian restaurant nearby_. | _I've heard the food is excellent_. | _Then maybe_ we could go shopping_.
-    我们可以在附近那家新开的意大利餐厅吃午饭。我听说食物很棒。然后也许我们可以去购物。
+9.  _I noticed that you get disconnected_ _from online meetings occasionally_, | _though I wasn't aware_ | _that it was due to technical glitches_.
+    我注意到线上会议时你偶尔会掉线，但我不知道这是技术故障造成的。
 
-10. 听起来很棒！| 我想买一些新衣服。| 你知道附近有什么好的购物中心吗？
-    _Sounds great! I want to buy some new clothes_. | _Do you know any good shopping centers nearby_?
+10. 唉。我试过把路由器放到家里的每一个角落，但是都没有用。技术人员建议更换一台新设备，还要升级到更快的套餐。
+    _Ah, I've tried placing the router_ _in every corner of the house_, | _but nothing worked_. | _The technician suggested replacing it_ _with a new device_ | _and upgrading to a faster plan_.
 
-11. _Yes, there's a great mall_ _just 2 blocks away_. | _They have all the major stores_. | _We could spend a few hours there_.
-    是的，就在2个街区外有一个很棒的购物中心。他们有所有主要的商店。我们可以在那里花几个小时。
+11. _I see_. | _We'll arrange to get you_ _a new network device_ | _and switch you over_ _to a higher-level plan_.
+    我了解了。我们会给你更换一台新的网络设备，并且帮你升级到一个更高级的套餐。
 
-12. 太好了！| 这样我们就有完整的一天计划了。| 我们需要提前预订餐厅吗？
-    _Great! So we have a complete day planned_. | _Do we need to book_ _the restaurant in advance_?
+12. 好的。我都开始担心这些问题会影响我的工作效率和工作量了，技术故障真是让人头疼啊！
+    _Okay_. | _I'm starting to worry_ | _that these issues will affect_ _my work efficiency and workload_; | _technical glitches are such a headache_!
 
-13. _It's probably a good idea_ _to make a reservation_. | _I can call them tomorrow_. | _What time would you like to have lunch_?
-    提前预订可能是个好主意。我明天可以打电话给他们。你想什么时候吃午饭？
+13. _Don't worry_. | _I'll talk with the appropriate team_, | _and once we have the go-ahead_, | _I'll let you know_. | _You're also welcome to reach out_ _to them directly_ | _to get it resolved_.
+    别担心。我会跟相关团队沟通，一批下来就通知你。你也可以直接联系他们解决。
 
-14. 下午1点左右怎么样？| 这样我们有足够的时间参观博物馆。
-    _How about around 1 PM_? | _This gives us enough time_ _to visit the museum_.
-
-15. _Perfect timing! I'll make a reservation for 1 PM_. | _This is going to be a fantastic weekend_.
-    时间很完美！我会预订下午1点。这将是一个很棒的周末。
-
-16. 我完全同意！| 我很期待。| 我们还需要准备什么吗？
-    _I completely agree_! | _I'm looking forward to it_. | _Do we need to prepare anything else_?
-
-17. _Just bring comfortable shoes for walking_. | _And maybe a camera_ _for the museum_. | _I'll bring my credit card for shopping_.
-    只需要带舒适的步行鞋。也许还要带相机去博物馆。我会带信用卡去购物。
-
-18. 好的！| 我会准备好的。| 周六上午10点见！
-    _Okay! I'll be ready. See you Saturday at 10 AM_!
+14. 太好了。我真的非常感激你帮我解决这个问题。我希望能尽快恢复到正常的工作状态。
+    _That's great_. | _I truly appreciate your help_ | _in resolving this issue_. | _I hope to get back_ _to normal work_ _as soon as possible_.
 
 ---
 
-#70193. Ordering Coffee at a Café - Business
+#70194. Phone Inquiry about Electric Bike Rules - Legal+Business
 
-Briefing: This dialogue is a conversation between an English-speaking barista and a Mandarin-speaking customer who wants to order coffee at a café. They are discussing coffee options, sizes, and preferences. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking parent and an English-speaking police officer. The conversation takes place over the phone. The dialogue starts now.
 
-1.  _Good morning, welcome to Coffee Corner_! | _What can I get for you today_?
-    早上好，欢迎光临咖啡角！今天我能为您准备什么？
+1.  _Hi, you've reached the police station_. | _Are you calling about an emergency_ | _or do you need to report_ _something non-urgent_?
+    你好，这里是警局。您是因为紧急情况来电，还是有非紧急事件需要报案呢？
 
-2.  你好！我想点一杯咖啡。| 你们有什么推荐的吗？
-    _Hello! I'd like to order a cup of coffee_. | _What do you recommend_?
+2.  你好，我没有紧急情况。我有点犹豫，不知道如果我不是来报案的，打个电话咨询一下是不是可以？
+    _Hello, I don't have an emergency_. | _I'm a bit hesitant about_ | _whether it's okay to call_ _just to ask a question_ | _when I'm not reporting an incident_.
 
-3.  _Our most popular drink_ _is the caramel latte_. | _It's smooth and sweet_. | _We also have a great cappuccino_.
-    我们最受欢迎的饮品是焦糖拿铁。它很顺滑甜美。我们还有很棒的卡布奇诺。
+3.  _Don't worry about calling_. | _During emergencies_, | _we might be tied up_, | _but it's quiet at the moment_. | _I'm here to help_.
+    电话咨询没问题。如果碰到紧急情况，我们可能忙不过来。不过，现在不忙。我很乐意帮忙。
 
-4.  焦糖拿铁听起来不错！| 你们有不同的大小吗？
-    _Caramel latte sounds good_! | _Do you have different sizes_?
+4.  谢谢你。我儿子让我给他买一辆电动自行车。这样，他去朋友家就更方便了。但是，我不太放心。
+    _Thank you_. | _My son asked me_ _to buy him an electric bike_ | _so that it is more convenient_ _for him to go_ _to his friend's place_. | _But I'm a bit worried_.
 
-5.  _Yes, we have small, medium, and large_. | _The medium is our most popular size_. | _What size would you like_?
-    是的，我们有小杯、中杯和大杯。中杯是我们最受欢迎的尺寸。您想要什么尺寸？
+5.  _Well, electric bikes have become_ _very popular among teenagers_, | _and parents love them as well_, | _since they no longer have to drive_ _their kids around_.
+    嗯，电动自行车很受青少年欢迎，家长也很喜欢，因为这样他们就不用开车接送孩子了。
 
-6.  我要中杯吧。| 你们可以调整甜度吗？
-    _I'll have medium, please_. | _Can you adjust the sweetness_?
+6.  对，我愿意给儿子买。但是，我对电动自行车的道路规定有些疑问。我试着在网上查了查，但是我感觉那些信息不是特别清楚。
+    _Yes, I am willing_ _to buy one for my son_. | _But I have some questions_ | _about the road rules_ _for electric bikes_. | _I tried checking online_, | _but I felt that the information_ _was not very clear_.
 
-7.  _Absolutely! We can make it less sweet_ _or add extra caramel_. | _How sweet do you like it_?
-    当然可以！我们可以让它不那么甜或添加额外的焦糖。您喜欢多甜？
+7.  _Electric bikes follow_ _the same general road rules_ _as push bikes_, | _but there are also_ _a few special rules just for them_.
+    电动自行车和普通自行车一样，都适用一般的道路规则。不过它们也有一些专门的规定。
 
-8.  我喜欢不太甜的，| 所以请少放点糖浆。| 你们有脱脂牛奶吗？
-    _I like it not too sweet_, | _so please put less syrup_. | _Do you have skim milk_?
+8.  原来是这样。我不太清楚，我儿子骑电动自行车的话，是不是要像骑摩托车那样，需要考驾照。
+    _I see_. | _I'm not sure if my son_ _needs to get a driver license_ | _to ride an electric bike_, | _just like riding a motorcycle_.
 
-9.  _Yes, we have skim milk_, _whole milk, and almond milk_. | _Which would you prefer_?
-    是的，我们有脱脂牛奶、全脂牛奶和杏仁奶。您更喜欢哪种？
+9.  _No, he doesn't need one_. | _Even though both vehicles have motors_, | _they're categorized differently_. | _Electric bikes don't need_ _a license or insurance_.
+    不，不需要。虽然这两种车都有电机，但是它们的类别不同。电动自行车不需要驾照或保险。
 
-10. 我要脱脂牛奶。| 总共多少钱？
-    _I'll have skim milk_. | _How much is the total_?
+10. 我明白了，这样确实能简单点儿。不过，我在给儿子买电动自行车之前，还得考虑很多问题，毕竟，市面上电动自行车的选择实在太多了。
+    _I see_. | _That definitely makes things_ _a bit simpler_. | _However, there are still many factors_ _to consider_ | _before buying him an electric bike_. | _After all, there are so many options out there_.
 
-11. _The medium caramel latte_ _with skim milk is $4.50_. | _Would you like_ anything else with your coffee_?
-    中杯焦糖拿铁配脱脂牛奶是4.50美元。您还要其他什么配咖啡吗？
+11. _Absolutely, there are plenty of options_. | _I believe a dealer_ _can really offer you_ _some solid advice_ | _on picking the right electric bike_.
+    确实，选择非常多。我觉得，经销商能给你一些挑选合适电动车的有用建议。
 
-12. 你们有什么糕点吗？| 我想配个甜点。
-    _Do you have any pastries_? | _I'd like a dessert to go with it_.
+12. 有道理。我会确保我儿子熟悉电动自行车的道路规则的。我也会买一辆符合规定的车给他。
+    _That makes sense_. | _I will make sure my son_ _is familiar with_ _the road rules_ _for electric bikes_. | _I will also buy him_ _a bike that meets the rules_.
 
-13. _We have fresh croissants_, _muffins, and cookies_. | _The chocolate chip cookies_ _are baked daily_.
-    我们有新鲜的可颂、马芬和饼干。巧克力豆饼干是每天现烤的。
+13. _Great, that's good to know_. | _You can always check_ _the government transportation website_ | _for all the road safety rules_. | _I hope your son has fun riding_ | _and stays safe_.
+    听到这个我很高兴。你可以在政府交通网站上查到所有道路安全规定。希望你儿子骑得开心，也能注意安全。
 
-14. 我要一个巧克力豆饼干。| 这样总共多少钱？
-    _I'll have a chocolate chip cookie_. | _How much is the total now_?
-
-15. _Your total is $6.25_. | _Your order number is 42_. | _Please wait for your coffee_.
-    您的总额是6.25美元。您的订单号是42。请等待您的咖啡。
-
-16. 好的，谢谢！| 大概需要多长时间？
-    _Okay, thank you! How long will it take_?
-
-17. _It should be ready in about 5 minutes_. | _We'll call your number when it's ready_.
-    应该在大约5分钟内准备好。准备好时我们会叫您的号码。
-
-18. 太好了！| 我可以在那边坐着等吗？
-    _Great! Can I sit over there to wait_?
-
-19. _Of course! There are some tables by the window_. | _We'll bring your order to your table_.
-    当然可以！窗边有一些桌子。我们会把您的订单送到您的桌子。
+14. 太感谢了。警察同志，你真的是帮了我大忙。我非常感激你的耐心解答。这次通话解决了我的很多疑问。
+    _Thank you so much_. | _Officer, you have really helped me a lot_. | _I really appreciate_ _how patiently you answered my questions_. | _This call has resolved_ _many of my questions_.
 
 ---
 
-#70192. Asking for Help with Homework - Social
+#70193. Talking Through a Retirement Plan - Business
 
-Briefing: This dialogue is a conversation between two students where one is an English-speaking person and the other is a Mandarin-speaking person. They are discussing homework difficulties and helping each other with academic problems. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking client and an English-speaking retirement planning advisor. The conversation takes place over the phone. The dialogue starts now.
 
-1.  _Hey, Li Wei! How's your homework going_? | _I'm stuck on the math problems_.
-    嘿，李伟！你的作业做得怎么样？我在数学题上卡住了。
+1.  _Morning!_ | _Thanks a lot for calling in_. | _What can I help you with today_?
+    早上好，谢谢你打电话来。我今天能帮你点什么？
 
-2.  你好，汤姆！| 我的数学作业也遇到困难了。| 这些代数题太难了。
-    _Hello, Tom! My math homework is also difficult_. | _These algebra problems are too hard_.
+2.  你好呀，我想聊聊我的退休计划，可以吗？我最近一直在考虑这个问题。
+    _Hey there!_ | _I was hoping to talk_ _about my retirement plan_—| _if that's okay_? | _It's just something_ _that's been on my mind lately_.
 
-3.  _I know, right? I've been working on them for hours_. | _Do you want to study together_?
-    我知道，对吧？我已经做了几个小时了。你想一起学习吗？
+3.  _Of course!_ | _That's exactly what I do_. | _I help people_ _with retirement planning_. | _It's super important_ _to have enough saved up_ | _so you can live comfortably_ | _once you stop working_.
+    当然可以啦，我专门做这个的。我帮大家做退休规划。存够钱很重要，这样退休后才能过得舒舒服服的。
 
-4.  好主意！| 两个人一起做会容易一些。| 我们可以互相帮助。
-    _Great idea! It's easier when two people work together_. | _We can help each other_.
+4.  对，我想管理好开支，退休以后能有更多时间去做现在没空做的事。
+    _Yeah, I want to keep_ _my expenses under control_ | _and have more time in retirement_ | _to do the things_ _I don't really get to do right now_.
 
-5.  _Perfect! Let's start with problem number 5_. | _I think I understand the first part_.
-    完美！我们从第5题开始。我想我理解第一部分。
+5.  _Yeah, totally_. | _The earlier you plan_, | _the better_. | _Plus, it's better_ _to keep checking in_ _on your plan_, | _because your situation and needs_ | _are always changing_.
+    没错，越早开始规划越好。而且，最好时不时检查一下计划，因为你的情况和需求一直会变。
 
-6.  好的，让我看看第5题。| 这道题是关于二次方程的，对吗？
-    _Okay, let me look at problem 5_. | _This is about quadratic equations, right_?
+6.  我以前确实没太考虑这些事。不过，现在离退休不远了。我觉得要重新整理一下了。
+    _I hadn't really thought_ _about this before_. | _But as I get closer_ _to retirement age_, | _I think it's time_ _to revisit my plan_.
 
-7.  _Yes, exactly! We need to find the valueof x. | _I got x equals 3, but I'm not sure_.
-    是的，完全正确！我们需要找到x的值。我得到x = 3，但我不确定。
+7.  _Absolutely_. | _This isn't something_ _you just set up once_ | _and forget about_. | _But I'll make it easier for you_. | _So: where do you want to start_?
+    当然了，这不是那种一次搞定就能不管的事。不过我会帮您把过程简化。那您想先从哪块儿说起？
 
-8.  让我检查一下你的答案。| 如果x = 3，| 那么代入原方程：3² + 2(3) - 15 = 0。
-    _Let me check your answer_. | _If x equals 3_, | _then substitute into the original equation_: _3² + 2(3) - 15 = 0_.
+8.  我不知道自己到底该存多少钱。我看新闻和媒体都有讲这方面的事，我挺担心自己的积蓄不够用。
+    _I'm not really sure_ _how much money I need to save_. | _I see news and media_ _talking about this_, | _and I'm pretty worried_ | _my savings won't cut it_.
 
-9.  _That's 9 + 6 - 15 = 0_, | _which equals 0_. | _So x equals 3 is correct_!
-    那是9 + 6 - 15 = 0，等于0。所以x = 3是正确的！
+9.  _That's a common concern_ _that many people share_. | _I hear folks throw out_ _some figures all the time_. | _But honestly, it all depends_ _on your own goals_. | _What you need might be_ _totally different from someone else_.
+    是啊，很多人都会担心这件事。我经常听到有人随口提一些数字。但说实话，这完全取决于你自己的目标——每个人的需求可能完全不同。
 
-10. 太好了！| 现在让我们做下一题。| 这道题看起来更复杂。
-    _Great! Now let's do the next problem_. | _This one looks more complicated_.
+10. 说得有道理。我得先搞清楚我想过什么样的退休生活，才能对症下药地规划。
+    _That makes sense_. | _I need to figure out_ | _what kind of retirement life_ | _I really want_ | _so I can plan accordingly_.
 
-11. _You're right, this one is harder_. | _It's about factoring polynomials_. | _Do you remember how to do this_?
-    你说得对，这道题更难。这是关于因式分解多项式的。你还记得怎么做吗？
+11. _Exactly_. | _Once you've got a clear picture_ | _of what you need_, | _I can help you figure out_ | _how to get there step by step_.
+    完全正确。一旦你搞清楚了自己需要什么，我就能一步步帮你规划达成目标的方案。
 
-12. 我记得一些，| 但不太确定。| 我们可以一起试试。
-    _I remember some, but I'm not sure_. | _We can try together_.
+12. 我挺开心能终于开始动手整理我的退休理财了。毕竟，我已经有一段时间没管这个问题了。
+    _I'm really glad_ | _I'm finally doing something_ | _about my retirement finances_. | _After all, I've been ignoring it_ _for a while_.
 
-13. _Let's start by looking for common factors_. | _I see we can_ _factor out an x_ _from each term_.
-    让我们先寻找公因式。我看到我们可以从每一项中提取x。
+13. _That's a solid first step_. | _I can also send you_ _a few forms_ | _to help you think through_ | _what things you'll need_ | _to take into account when planning_.
+    这是很棒的第一步。我还可以发你一些表格，帮你理清在做计划时要考虑的点。
 
-14. 对！| 所以我们可以写成x(x² + 2x - 15)。| 现在括号里的部分可以进一步分解。
-    _Right! So we can write it as x(x² + 2x - 15)_. | _Now the part inparentheses_ _can be factored further_.
+14. 好的。最好能在我下一次预约之前，把表格发过来。我想先看看内容，再决定怎么继续，这样会比较安心。多谢你。
+    _Sounds good_. | _It would be great_ | _if you could send those forms over_ | _before I book the next session_. | _I'd feel more comfortable_ | _looking things over first_ | _before I decide how to move forward_. | _Thanks a lot_.
 
-15. _Exactly! We need to_ _find two numbers that_ _multiply to -15 and_ _add to 2_.
-    完全正确！我们需要找到两个数，它们相乘等于-15，相加等于2。
+---
 
-16. 让我想想...| 5和-3怎么样？| 5 × (-3) = -15，5 + (-3) = 2。
-    _Let me think... How about 5 and -3_? | _5 × (-3) = -15_, _5 + (-3) = 2_.
+#70192. Discussing a Film Festival with the City Council - Social
 
-17. _Perfect! So the answer is x(x + 5)(x - 3)_. | _You're really good at this_!
-    完美！所以答案是x(x + 5)(x - 3)。你真的很擅长这个！
+Briefing: This dialogue takes place between a Mandarin-speaking community organizer and an English-speaking city council representative. The conversation takes place at the city council hall. The dialogue starts now.
 
-18. 谢谢！| 我们一起做确实容易多了。| 我们继续做下一题吗？
-    _Thank you! It's much easier when we work together_. | _Should we continue with the next problem_?
+1.  _Hey there, welcome to the council hall!_ | _What brings you here today_?
+    你好，欢迎来到市政厅！今天有什么能帮您的？
+
+2.  下午好！我来是想问问我正在策划的一个社区活动。
+    _Good afternoon, I'd like to ask_ _about the community event_ _I'm organizing_.
+
+3.  _Of course!_ | _Can you give me more details_ _about the event_? | _How do you think_ _the city council can help_?
+    没问题！可以多给我讲讲这个活动吗？你觉得市政厅能怎么帮你？
+
+4.  是这样的，我发现最近有一些新移民搬到这里，我想通过组织一个活动，向他们介绍澳大利亚的文化。
+    _Well, I've noticed_ | _that some new migrants_ _have moved in recently_, | _so I'd like to organize an event_ | _to showcase Australian culture_.
+
+5.  _Wow!_ | _We're always happy to welcome_ _new migrants from different parts_ _of the world_ | _who have settled in this area_. | _I think this is a fantastic idea_.
+    哇！我们一直很欢迎来自世界各地的新移民搬到这个社区定居。我觉得这个想法真的太棒了。
+
+6.  谢谢你！我想咨询一下，能不能租下社区大厅一周？我打算办一个小型的澳大利亚电影节。
+    _Thank you!_ | _I'd like to know_ | _if I can hire the community hall_ _for a week_. | _I'm planning to hold_ _a small Australian film festival_.
+
+7.  _You can rent the community hall_ _for an entire week_, | _but it will depend_ _on the schedule_ | _and whether the space is available_.
+    您可以租用社区大厅一整周，但这取决于时间安排和场地是否空闲。
+
+8.  我了解了。我计划六个月以后举办电影节。为了拿到批准，我可真是费了不少工夫啊。
+    _I got it_. | _I'm planning to hold_ _the film festival in six months_. | _Getting the approval for it_ | _really took me quite a lot of effort_.
+
+9.  _I'm sure putting this event together_ | _takes a lot of effort_, | _but it sounds fantastic_. | _I believe many people will love it_.
+    筹备这个活动肯定需要不少工夫。但听起来真的很棒。我相信会有很多人喜欢的。
+
+10. 只要场地确定下来，我就可以开始在本地做宣传了。我希望能吸引更多人来参加。
+    _Once the venue is confirmed_, | _I can start promoting it locally_. | _I hope to attract_ _more people to join_.
+
+11. _The council might be able_ _to assist with promotion_. | _Our local engagement team_ | _can help with that_. | _This is a wonderful event_.
+    可能市政厅可以帮你宣传。我们的本地推广团队可以帮忙。这个活动很棒。
+
+12. 太感谢了！我真的希望活动能办得成功。市政厅的宣传支持对我来说帮助很大，能吸引更多人来参与。
+    _Thank you so much!_ | _I really hope_ _the event will be a success_. | _The council's support in promotion_ | _is a big help to me_, | _and it will attract_ _more people to participate_.
+
+13. _How about coming over_ | _to meet the events team_? | _They'll be available tomorrow_, | _so you can finalize the venue_ | _and go over the advertising details_.
+    要不要过来见见活动团队？他们明天有空，你可以确认场地，并商量宣传的细节。
+
+14. 太棒了！我明天整天都有空，那就明天见咯！谢谢你的帮助，期待和团队见面！
+    _That's great!_ | _I'm free all day tomorrow_, | _so I'll see you then!_ | _Thanks for your help_, | _and I'm looking forward_ _to meeting the team_!
 
 19. _Absolutely! I think we're on a roll now_. | _Let's keep going_.
     当然！我想我们现在状态很好。让我们继续。
 
 ---
 
-#70191. Discussing Travel Plans - Social
+#70191. Navigating Customer Service Challenges - Business
 
-Briefing: This dialogue is a conversation between two friends where one is an English-speaking person and the other is a Mandarin-speaking person. They are discussing their upcoming travel plans and sharing travel experiences. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking employee and an English-speaking supervisor. The conversation takes place at the workplace. The dialogue starts now.
 
-1.  _Hi there! I heard you're planning_ _a trip to Japan_. | _Is that really true_?
-    你好！我听说你计划去日本旅行。是真的吗？
+1.  _Hi, great to see you!_ | _Come on in and have a seat_. | _I wanted to check_: | _how's the new job treating you_?
+    嗨，见到你真高兴！快进来坐吧。我想问问，你的新工作怎么样？
 
-2.  是的！我下个月要去日本。| 我很兴奋，这是我第一次去亚洲。
-    _Yes! I'm going to Japan next month_. | _I'm very excited_, _this is my first time going to Asia_.
+2.  很好，谢谢！最近工作挺忙的，不过我喜欢这种忙碌的感觉，这样上班时间会过得特别快。
+    _It's going really well, thanks!_ | _Work's been pretty hectic lately_, | _but I enjoy staying busy_. | _It really makes the workday fly by_.
 
-3.  _That's amazing! Japan is a wonderful country_. | _Which cities are you_ _planning to visit_?
-    太棒了！日本是一个很棒的国家。你计划访问哪些城市？
+3.  _Yeah, I get that_. | _I had a chat with your supervisor_, | _and he mentioned_ | _that you're doing great_ | _and picking things up really fast_.
+    是啊，我理解。我和你的主管聊过，他说你表现得很棒，学东西也特别快。
 
-4.  我想去东京、京都和大阪。| 每个城市待3天。| 你有什么建议吗？
-    _I want to go to_ _Tokyo, Kyoto, and Osaka_. | _Three days in each city_. | _Do you have any suggestions_?
+4.  我很高兴他对我的工作满意。毕竟我已经干了几个星期了，现在感觉越来越有自信了。
+    _I'm really glad to hear_ | _that he's happy with my work_. | _After all, I've been here_ _for a few weeks now_, | _so I'm starting to feel more confident_.
 
-5.  _That's a great itinerary_! | _Tokyo is amazing for shopping and food_. | _Kyoto is perfect_ _for traditional culture_.
-    这是很棒的行程！东京购物和美食很棒。京都传统文化很完美。
+5.  _The more you interact with customers_, | _the more confident you'll get_. | _Providing good customer service is key_.
+    接触的顾客越多，你的信心就会越足。高质量的客户服务很重要。
 
-6.  我听说京都的寺庙很美。| 你有什么推荐的景点吗？
-    _I heard the temples_ _in Kyoto are beautiful_. | _What attractions do you recommend_?
+6.  确实。我很喜欢跟顾客交流，帮他们找到最好的解决方案。但说实话，这并不简单。
+    _Absolutely_. | _I really enjoy talking to customers_ | _and figuring out the best way_ _to help them_. | _But honestly, it's not always easy_.
 
-7.  _Absolutely! You must visit_ _the Golden Pavilion_ _and Fushimi Inari Shrine_. | _They're absolutely breathtaking_.
-    当然！你必须参观金阁寺和伏见稻荷大社。它们令人叹为观止。
+7.  _So true_. | _Even if a business_ _has a great system in place_, | _issues still pop up_. | _And when they do_, | _customers tend to get_ _even more frustrated_. | _Have you run into_ _any tough situations_?
+    没错。就算生意的运营流程很好，还是会出现问题。一旦有问题，顾客往往会更不高兴。你遇到过难处理的情况吗？
 
-8.  我会把它们加入我的行程。| 关于交通，你有什么建议？
-    _I'll add them to my itinerary_. | _What about transportation, any suggestions_?
+8.  是的。有人把本该打折的商品按原价卖给了顾客。那位女士回家后才发现，她非常郁闷。
+    _Yeah_. | _Someone charged a customer_ _full price for something_ | _that was supposed to be discounted_. | _The customer didn't realize it_ | _until she got home_, | _and she was really upset_.
 
-9.  _I recommend getting a Japan Rail Pass_ _if you're traveling between cities_. | _It's very cost-effective for_ _multiple trips_.
-    如果你在城市间旅行，我建议买日本铁路通票。多次旅行很划算。
+9.  _Oh no!_ | _I can totally see_ _why she'd be mad_: | _it must've been such a hassle for her_. | _I hope you were able_ _to sort it out_.
+    哎呀！我完全能理解她为什么生气，这对她来说肯定很麻烦。希望你已经把问题解决了。
 
-10. 好主意！| 我还需要预订酒店吗？| 还是可以用其他住宿方式？
-    _That's a good idea_! | _Do I also need to book hotels_? | _Or can I use other accommodation options_?
+10. 是的，我纠正了这个错误，退还了差价。但她还是很生气，我真不知道还能怎么做。
+    _Yeah, I fixed the mistake_ | _and refunded the price difference_. | _But she was still pretty upset_, | _and I wasn't sure_ | _what else I could do_.
 
-11. _You have several options_: | _hotels, ryokans (traditional inns)_, _or Airbnb_. | _I stayed in a ryokan in Kyoto_, _it was amazing_.
-    你有几个选择：酒店、日式旅馆（传统客栈）或爱彼迎。我在京都住过日式旅馆，很棒。
+11. _In situations like that_, | _you could offer her_ _a discount voucher_ | _for her next purchase_. | _Just be sure to check_ _with your supervisor first_.
+    遇到这种情况，你可以给她一张下次购物的折扣券。不过要先跟你主管确认一下。
 
-12. 日式旅馆听起来很有趣！| 它们贵吗？| 需要提前预订吗？
-    _Ryokans sound interesting_! | _Are they very expensive_? | _Do I need to book in advance_?
+12. 哦！我明白了。如果当时我给她折扣券，她可能就有不一样的反应了。我知道她是我们的常客。
+    _Oh! I see_. | _If I had given her_ _a discount voucher at the time_, | _she might have reacted differently_. | _I know she's a regular customer_.
 
-13. _They can be expensive_, | _but the experience is worth it_. | _Yes, you should book_ _at least 2 - 3 months ahead_.
-    它们可能很贵，但体验值得。是的，你应该至少提前2-3个月预订。
+13. _Exactly!_ | _Keeping returning customers happy_ | _is super important_. | _The last thing we want_ | _is a bad review online_.
+    没错！让回头客满意真的太重要了。我们最不想看到的就是网上的差评。
 
-14. 明白了。| 关于食物，你有什么推荐？| 我想尝试真正的日本料理。
-    _I understand completely_. | _What about food, any recommendations_? | _I want to try real Japanese cuisine_.
-
-15. _You must try sushi_, _ramen, and tempura_! | _Also, don't miss the street food in Osaka_. | _It's absolutely incredible_.
-    你必须尝试寿司、拉面和天妇罗！还有，不要错过大阪的街头小吃。很不可思议。
-
-16. 听起来很美味！| 我需要学习一些日语吗？| 还是英语就够了？
-    _That sounds delicious_! | _Do I need to learn some Japanese_? | _Or is English enough_?
-
-17. _Learning basic phrases_ _like "hello" and "thank you" is helpful_. | _But in big cities_, _many people speak some English_.
-    学习基本短语如"你好"和"谢谢"很有帮助。但在大城市，很多人会说一些英语。
-
-18. 好的，我会学一些基本短语。| 还有什么其他建议吗？
-    _Okay, I'll learn some basic phrases_. | _Any other useful suggestions_?
-
-19. _Just enjoy yourself completely_! | _Japan is very safe_ _and the people are friendly_. | _You'll have an amazing time_.
-    只要享受自己！日本很安全，人们很友好。你会度过很棒的时光。
-
-20. 谢谢你的建议！| 我真的很期待这次旅行。
-    _Thank you for your suggestions_! | _I'm really looking forward to this trip_.
+14. 明白了。要是没处理好，可能会影响不好。我很高兴我现在知道该怎么给客户多多提供帮助了。
+    _Got it_. | _If things aren't handled well_, | _they could have a negative impact_. | _I'm really glad_ | _I now know how to go_ _the extra mile for customers_.
 
 ---
 
-#70190. Ordering Pizza Delivery - Business
+#70190. From Crib to Platform Bed - Social+Business
 
-Briefing: This dialogue is a conversation between an English-speaking pizza delivery staff member and a Mandarin-speaking customer who wants to order pizza for delivery. They are discussing pizza options, toppings, and delivery details. The dialogue begins now.
+Briefing: This dialogue takes place between two Mandarin-speaking friends. The conversation takes place at one friend's home. The dialogue starts now.
 
-1.  _Good evening, welcome to_ _Pizza Palace_. | _How may I help you today_?
-    晚上好，欢迎光临披萨宫殿。今天有什么可以为您效劳的吗？
+1.  _Hey!_ | _It's so nice to see you again_. | _It feels like forever_ | _since we last caught up_. | _How have you been_?
+    嗨！再见到你真好。感觉我们很久没聊天了，你最近怎么样？
 
-2.  你好！我想订披萨外卖。| 你们现在还在营业吗？
-    _Hello! I'd like to order pizza for delivery_. | _Are you still open now_?
+2.  是啊，好一阵子没见了。这段时间我一直忙着装修家里，现在终于搞定了。总算可以好好享受新家的感觉了！
+    _Yeah, it's been a while!_ | _I've been caught up_ _with renovating my home_ | _and now it's finally done_. | _I can finally enjoy my new home_!
 
-3.  _Yes, we're open until 11 PM_. | _What kind of pizza would you like to order today_?
-    是的，我们营业到晚上11点。您今天想订什么类型的披萨？
+3.  _That's awesome!_ | _I remember when you showed me_ _your renovation plans_. | _It felt like a huge project_. | _Did everything go as planned_?
+    太棒了！我记得你之前给我看过装修计划，感觉是个大工程。一切顺利吗？
 
-4.  我想订一个大披萨，| 可以自己选择配料吗？
-    _I'd like to order a large pizza_, | _can I choose my own toppings_?
+4.  是的，整体来说都挺顺利的。幸运的是，我们找到了一家很靠谱的建筑公司，大工程已经完成了。现在我们正忙着做最后的装饰，让家更有个性。
+    _Yeah, overall, everything went pretty smoothly_. | _Luckily, we found a great contractor_, | _and the big work is done_. | _Now we're just focusing_ _on decorating and adding_ _some personal touches_.
 
-5.  _Absolutely! We have many toppings to choose from_. | _What would you like on your pizza_?
-    当然可以！我们有很多配料可以选择。您想要什么配料？
+5.  _Totally!_ | _Decorating the entire house_ | _must be exhausting_, | _especially with so many decisions to make_. | _It can be overwhelming_!
+    完全同意！给整个房子做装饰肯定是件大工程，特别是要选那么多东西，会很有压力。
 
-6.  我要意大利香肠、蘑菇和青椒。| 你们有奶酪披萨吗？
-    _I want pepperoni, mushrooms_, _and green peppers_. | _Do you have cheese pizza_?
+6.  我们每次只装饰一个房间，这样不会太赶。反正也不赶时间，这样还能慢慢挑喜欢的东西，不会买了又后悔。
+    _We're taking it one room at a time_, | _so it doesn't feel too overwhelming_. | _There's no rush anyway_, | _and this way, we can carefully pick_ | _things we really love_ | _instead of making impulsive choices_.
 
-7.  _Yes, we have several cheese options_: | _mozzarella, cheddar, and parmesan_. | _Which would you prefer_?
-    是的，我们有几种奶酪选择：马苏里拉、切达和帕尔马干酪。您更喜欢哪种？
+7.  _That's a great approach!_ | _Taking your time means_ | _you can really make sure_ | _everything turns out_ | _just the way you want_. | _What room are you working on_ _at the moment_?
+    这种方式很棒！慢慢来才能装出自己真正喜欢的感觉。你现在在弄哪个房间？
 
-8.  我要马苏里拉奶酪。| 披萨底是什么类型的？
-    _I'll have mozzarella cheese_. | _What type of pizza base do you have_?
+8.  我现在在装饰我女儿的房间。她马上要从婴儿床换成大的平台床了。她成长得实在是太快了！感觉昨天她还在学走路呢！
+    _I'm decorating my daughter's room right now_. | _She's about to move_ | _from her crib to a bigger platform bed_—| _it's crazy how fast she's growing!_ | _Feels like just yesterday_ | _she was learning to walk_!
 
-9.  _We have thin crust_, _thick crust_, _and stuffed crust_. | _The thin crust is our most popular_.
-    我们有薄底、厚底和夹心底。薄底是我们最受欢迎的。
+9.  _Switching to a platform bed_ | _is an important milestone!_ | _There are so many great bed options_, | _and some even come_ _with built-in storage_.
+    换平台床可是个重要的里程碑呀。现在很多床都不错，有些还带储物功能。
 
-10. 我要薄底。| 大概需要多长时间？
-    _I'll have thin crust_. | _How long will it take_?
+10. 对啊，这太方便了！儿童房的储物真的很重要，所以我想买一个能用很多年的床，最好是她能一直睡到青少年时期的。
+    _Yeah, that would be so convenient!_ | _Storage is a huge deal_ _in a kid's room_, | _so I want to get her a bed_ | _that'll last for years_, | _hopefully even into her teenage years_.
 
-11. _Delivery usually takes 30-45 minutes_. | _What's your delivery address_? | _I'll calculate the delivery fee_.
-    外卖通常需要30-45分钟。您的地址是什么？我来计算外卖费。
+11. _That's a smart choice_. | _You don't want to redecorate too soon_, | _so getting something that lasts_ | _makes a lot of sense_.
+    这个想法很明智，没人想这么快又重新装修，买个耐用的确实更划算。
 
-12. 我的地址是123号主街，| 在市中心附近。| 外卖费是多少？
-    _My address is 123 Main Street_, | _near the city center_. | _What's the delivery fee_?
+12. 我们也这么想。所以，我们喜欢简单素净的设计，然后用小地毯这种容易换的小东西来增加一些鲜艳的色彩。
+    _We feel the same way_. | _That's why we go for_ _simple and neutral designs_ | _and add some bright colors_ | _with easy-to-swap items like rugs_.
 
-13. _For your location, the delivery fee is $3.50_. | _Your total will be $18.50_. | _Does that sound correct_?
-    对于您的位置，外卖费是3.50美元。您的总额将是18.50美元。听起来对吗？
+13. _That sounds perfect!_ | _I can't wait to see_ | _how your place turns out_ | _when everything's done_. | _I bet it's going to look fantastic_!
+    听起来很棒！我特别期待看看你家装好的样子。我觉得肯定会超级好看！
 
-14. 是的，价格正确。| 你们接受什么付款方式？
-    _Yes, the price is correct_. | _What payment methods do you accept_?
-
-15. _We accept cash, credit cards, and online payments_. | _You can pay when the pizza arrives_.
-    我们接受现金、信用卡和在线支付。您可以在披萨到达时付款。
-
-16. 好的，我付现金。| 还有什么其他需要注意的吗？
-    _Okay, I'll pay in cash_. | _Is there anything else I should know_?
-
-17. _Your order is confirmed_. | _Your order number is 5678_. | _We'll call you when the driver_ _is on the way_.
-    您的订单已确认。您的订单号是5678。司机上路时我们会打电话给您。
-
-18. 太好了！| 谢谢你的帮助。| 我期待披萨的到来！
-    _That's great! Thank you for your help_. | _I'm looking forward to_ _the pizza arriving_!
-
-19. _You're welcome! Enjoy your pizza_! | _Thank you for choosing Pizza Palace_.
-    不客气！享受您的披萨！感谢您选择披萨宫殿。
+14. 我也很期待让你过来看看！不过估计还得花点时间。慢慢装饰才能让家更有感觉，我不想匆匆忙忙地搞定它。
+    _I'm looking forward_ _to having you over too!_ | _But it'll probably take_ _a little more time_. | _Taking it slow_ | _makes a home feel more inviting_—| _I don't want to rush it_.
 
 ---
 
-#70189. Discussing Movies and Entertainment - Social
+#70189. Helping Hands for a Neighbourhood Park - Social
 
-Briefing: This dialogue is a conversation between two friends where one is an English-speaking person and the other is a Mandarin-speaking person. They are discussing movies, TV shows, and entertainment preferences. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking volunteer and an English-speaking community coordinator. The conversation takes place at the community center. The dialogue starts now.
 
-1.  _Hey there! | Have you seen_ _any good movies lately_? | _I'm looking for something to watch_.
-    嘿！你最近看过什么好电影吗？我在找一些东西看。
+1.  _Good afternoon! Come in and take a seat, please_. | _My co-worker mentioned_ _that you were interested_ _in our volunteer program_.
+    下午好！请进，坐吧。我同事说你对我们的志愿者项目感兴趣。
 
-2.  我上周看了一部很棒的电影！| 叫《星际穿越》，| 是关于太空旅行的科幻片。
-    _I watched a great movie last week_! | _Called "Interstellar"_, | _it's a sci-fi film about space travel_.
+2.  下午好！是的，我刚搬到这个社区一个月，想了解怎么更好地融入这里，多认识一些朋友。
+    _Good afternoon! Yes, I just moved_ _to this neighbourhood a month ago_, | _and I'd love to find ways_ _to get more involved_ | _and make new friends_.
 
-3.  _Oh, I love that movie_! | _It's one of my favorites_. | _What did you think of the ending_?
-    哦，我喜欢那部电影！它是我最喜欢的之一。你觉得结局怎么样？
+3.  _We're always in need_ _of more volunteers_. | _None of our community projects_ _would be possible_ | _without the volunteers_ _who dedicate their time_.
+    我们这边总是需要更多志愿者。如果没有这些热心奉献的志愿者，我们的社区项目根本无法实现。
 
-4.  结局很感人，| 但有点复杂。| 我看了两遍才完全理解。
-    _The ending was touching_, | _but a bit complicated_. | _I watched it twice to fully understand_.
+4.  我在家工作，所以时间比较灵活。每周我能抽出几个小时做志愿者，而且也希望能认识更多人。
+    _I work from home_, | _so my schedule is pretty flexible_. | _I can spare a few hours_ _each week for volunteering_, | _and I'd love to meet more people_.
 
-5.  _I agree, the ending is quite complex_. | _Have you seen any other Christopher Nolan movies_?
-    我同意，结局很复杂。你看过其他克里斯托弗·诺兰的电影吗？
+5.  _Many of our volunteers_ _end up becoming good friends_. | _Do you have any specific interests_? | _We can try to match you_ _with a project that suits you_.
+    我们很多志愿者最后都成了好朋友。你对什么特别感兴趣吗？我们可以帮你找到一个适合你的项目。
 
-6.  没有，这是我第一次看他的电影。| 你推荐看哪一部？
-    _No, this is my first time watching his films_. | _Which one do you recommend_?
+6.  我其实什么都愿意做，但我特别喜欢园艺和种植。我家里正在弄个小菜园。
+    _I'm open to anything_, | _but I really enjoy gardening and planting_. | _I'm actually working on_ _a small vegetable garden at home_.
 
-7.  _I'd recommend "Inception"_. | _It's also very complex_, | _but really interesting_. | _It's about dreams and reality_.
-    我推荐《盗梦空间》。它也很复杂，但很有趣。它是关于梦境和现实的。
+7.  _That's perfect!_ | _We have a project_ _that would be a great fit for you_. | _We're fixing up the park_ _near the shopping center_.
+    太棒了！我们正好有个非常适合你的项目——修缮购物中心附近的公园。
 
-8.  听起来很有趣！| 我还喜欢看动作片。| 你有什么推荐吗？
-    _Sounds interesting_! | _I also like action movies_. | _What do you recommend_?
+8.  其实我前几天也注意到了，公园里的灌木丛确实需要修剪，杂草也长得到处都是，整个地方看起来不太美观。
+    _I actually noticed that a few days ago_. | _The bushes definitely need trimming_, | _and the weeds are everywhere_. | _The park doesn't look great right now_.
 
-9.  _For action movies_, _I love "Mad Max: Fury Road"_. | _It's non-stop action from start to finish_.
-    对于动作片，我喜欢《疯狂的麦克斯：狂暴之路》。从头到尾都是不间断的动作。
+9.  _We need people_ _with some gardening experience_ | _who can help clean up the space_. | _Everything is overgrown_ | _and needs a lot of trimming_.
+    我们需要有园艺经验的人帮忙整理公园。现在那里杂草丛生，需要好好修剪一下。
 
-10. 我听说过这部电影！| 它获得了很多奖项，对吗？
-    _I've heard of this movie_! | _It won many awards, right_?
+10. 我会修剪树枝，也懂一点园艺。公园如果整理好了，肯定会变得很漂亮。而且，它还能给社区添上一块舒适的绿色空间。
+    _I have experience trimming branches_ | _and know a bit about gardening_. | _Once the park is cleaned up_, | _it'll definitely look beautiful_. | _Plus, it'll give the community_ _a nice green space to enjoy_.
 
-11. _Yes, it won 6 Academy Awards_! | _The action scenes are incredible_. | _What about you_? | _What genres do you enjoy_?
-    是的，它获得了6项奥斯卡奖！动作场面令人难以置信。你呢？你喜欢什么类型？
+11. _There's quite a bit of work to do_, | _but I believe the park_ _will look amazing once it's done_. | _We're also planning to install_ _new benches to make it more inviting_.
+    这项工作量不小，但等公园整理好后，肯定会焕然一新。而且，我们还计划安装新的长椅，让公园更有吸引力。
 
-12. 我喜欢喜剧和爱情片。| 最近有什么好的喜剧片吗？
-    _I like comedies and romantic films_. | _Are there any good comedies recently_?
+12. 公园对整个社区来说真的很重要。人们需要一个可以散步的地方，或者只是坐下来放松一下，享受新鲜空气。
+    _Parks are really important_ _for the whole community_. | _People need a space_ _where they can take a walk_ | _or just sit down and relax_ _in the fresh air_.
 
-13. _I recently watched "The Grand Budapest Hotel"_. | _It's a comedy by Wes Anderson_. | _Very funny and clever_.
-    我最近看了《布达佩斯大饭店》。这是韦斯·安德森的喜剧。很有趣很聪明。
+13. _Yes, and we're lucky_ _to have raised enough donations_ _to restore it_. | _Everyone is looking forward_ _to the reopening_.
+    是啊，而且我们已经筹集到了足够的捐款来修缮公园，大家都在期待它重新开放。
 
-14. 我会把它加入我的观看清单！| 关于电视剧，你有什么推荐吗？
-    _I'll add it to my watchlist_! | _What about TV shows, any recommendations_?
-
-15. _I'm currently watching "Breaking Bad"_. | _It's a drama about a chemistry teacher_ _who becomes a drug dealer_. | _Very intense_.
-    我目前在看《绝命毒师》。这是一部关于化学老师变成毒贩的剧。很紧张。
-
-16. 我听说过这部剧！| 它很受欢迎，对吗？
-    _I've heard of this show_! | _It's very popular, right_?
-
-17. _Yes, it's considered_ _one of the best TV shows ever made_. | _The acting is amazing_. | _Have you seen any Chinese TV shows_?
-    是的，它被认为是史上最好的电视剧之一。演技很棒。你看过中国电视剧吗？
-
-18. 我看过一些古装剧，| 比如《甄嬛传》。| 你喜欢看中国电影吗？
-    _I've watched some period dramas_, | _like "Empresses in the Palace"_. | _Do you like Chinese movies_?
-
-19. _I'd love to watch more Chinese films_! | _Can you recommend some good ones_? | _I'm interested in learning_ _about Chinese culture_.
-    我很想看更多中国电影！你能推荐一些好的吗？我对了解中国文化很感兴趣。
-
-20. 当然可以！| 我推荐《霸王别姬》和《活着》。| 它们都是经典作品。
-    _Of course_! | _I recommend "Farewell My Concubine"_ _and "To Live"_. | _They are both classics_.
+14. 我很高兴能参与这个项目，帮助改善公园的环境。这不仅能让公园更漂亮，还能让整个社区变得更适合居住。
+    _I'm really happy to be a part_ _of the project and help improve the park_. | _It's not just about making it look nicer_—| _it'll also make the whole neighbourhood_ _a better place to live_.
 
 ---
 
@@ -3180,132 +3025,99 @@ Briefing: This dialogue is a conversation between an English-speaking university
 
 ---
 
-#70187. Discussing Food and Cooking - Social
+#70187. Social Worker Directories - Social
 
-Briefing: This dialogue is a conversation between two friends where one is an English-speaking person and the other is a Mandarin-speaking person. They are discussing food preferences, cooking techniques, and sharing recipes. The dialogue begins now.
+Briefing: This dialogue takes place between two Mandarin-speaking friends. The conversation takes place at one friend's home. The dialogue starts now.
 
-1.  _Hey there! I love trying new foods_. | _What's your favorite type of cuisine_?
-    嘿！我喜欢尝试新食物。你最喜欢什么类型的菜系？
+1.  _Good morning, it's nice to see you_. | _How have you been recently_?
+    早上好，很高兴见到你。最近怎么样？
 
-2.  我最喜欢中国菜！| 特别是川菜，| 我喜欢辣的食物。| 你呢？
-    _I love Chinese cuisine_! | _Especially Sichuan food_, | _I like spicy food_. | _What about you_?
+2.  你好，我也很高兴能见到你。我最近因为要经常去看望我母亲，她身体不太好。所以我很累。
+    _Hello, I'm also very glad to see you_. | _Recently, I've been frequently visiting my mother_ | _because her health hasn't been good_. | _That's why I'm really tired_.
 
-3.  _I love Italian food_! | _Pizza_, _pasta_, _and risotto_ _are my favorites_. | _Do you know how to cook Chinese food_?
-    我喜欢意大利菜！披萨、意大利面和烩饭是我的最爱。你知道怎么做中国菜吗？
+3.  _I remember you once said_ _that she has not been well recently_. | _You must have spent several hours_ _going back and forth to her house, right_?
+    我记得你曾经说过她最近身体不太好。你肯定花了好几个小时来回跑她家，对吧？
 
-4.  是的，我会做一些基本的菜。| 比如炒青菜、蛋炒饭。| 你经常做饭吗？
-    _Yes, I can cook some basic dishes_. | _Like stir-fried vegetables_, _egg fried rice_. | _Do you cook often_?
+4.  是的，要花很多时间。我每周都要去看她，还得工作，几乎没时间做其他事情。
+    _Yes, it takes a lot of time_. | _I have to visit her every week_ | _and also work_, | _so I hardly have time_ _to do anything else_.
 
-5.  _I try to cook_ _at least 3 times a week_. | _It's healthier than eating out_. | _What's your favorite dish to cook_?
-    我尽量每周至少做3次饭。比在外面吃更健康。你最喜欢做什么菜？
+5.  _That sounds very difficult_. | _I heard that you might talk_ _to a social worker_. | _They could help you find services_ _suitable for your mother_ | _so that visiting her won't be so tiring_.
+    听起来真不容易。我听说你可以找社工聊聊。他们可能会帮你看看有没有适合你母亲的服务，这样探望她就不会那么辛苦了。
 
-6.  我喜欢做麻婆豆腐！| 虽然有点复杂，| 但味道很棒。| 你会做意大利菜吗？
-    _I love making Mapo Tofu_! | _Although it's a bit complicated_, | _but it tastes great_. | _Can you cook Italian food_?
+6.  好主意，我之前不知道还能找到这样的帮助。我该去哪儿找社工的联系方式呢？
+    _Good idea, I didn't know_ _I could find such help_. | _Where can I get_ _the contact information of a social worker_?
 
-7.  _Yes, I can make basic pasta dishes_. | _My specialty is spaghetti carbonara_. | _Have you ever tried Italian food_?
-    是的，我会做基本的意大利面。我的拿手菜是奶油培根意大利面。你试过意大利菜吗？
+7.  _There are social worker associations_. | _You can find their services_ _online and on social media_. | _You can also locate social workers_ _near your mom's home_. | _There are online directories available_.
+    有一些社工协会。你可以在网上和社交媒体上找到他们的服务。你也可以找到离你母亲住处近的社工，还有在线名录可供查找。
 
-8.  试过一些，| 我喜欢披萨和意大利面。| 但我从来没试过烩饭。| 它是什么味道？
-    _I've tried some_, | _I like pizza and pasta_. | _But I've never tried risotto_. | _What does it taste like_?
+8.  谢谢你。有了社工名录的帮助，事情会容易很多。要不然，我真不知道该从哪里开始。
+    _Thank you_. | _With the help of a social worker directory_, | _things would be much easier_. | _Otherwise, I really wouldn't know_ _where to start_.
 
-9.  _Risotto is creamy and rich_, _made with rice and broth_. | _It's very comforting_. | _Would you like to try it sometime_?
-    烩饭很奶油很浓郁，用米饭和肉汤做成。很温暖。你想什么时候试试吗？
+9.  _Yes_. | _Since these are professional organizations_, | _you can find their names_ _listed in directories_. | _Elder care is a sensitive matter_, | _so it's important to find someone qualified_.
+    是的。由于这些是专业机构，你可以在名录上查到他们的名字。养老问题很敏感，所以找到有资质的人很重要。
 
-10. 我很想试试！| 也许我们可以一起做饭，| 你教我做烩饭，| 我教你做麻婆豆腐。
-    _I'd love to try it_! | _Maybe we can cook together_, | _you teach me risotto_, | _I teach you Mapo Tofu_.
+10. 感谢你的信息，真的很有帮助。我有很多问题想问他们。如果有人能帮我照顾我妈直到她好起来，我就放心了。
+    _Thank you for the information_; | _it's really helpful_. | _I have many questions to ask them_. | _If someone could take care of my mother_ | _until she gets better_, | _I would feel at ease_.
 
-11. _That's a great idea_! | _We can have a cooking exchange_. | _What ingredients do you need for Mapo Tofu_?
-    这是个好主意！我们可以进行烹饪交流。麻婆豆腐需要什么配料？
+11. _It's always hard_ _when parents get old and need help_. | _It's harder when they don't live nearby_.
+    父母年纪大了需要帮助总是很不容易的，他们不住在附近的话就更不容易了。
 
-12. 主要需要豆腐、猪肉末、豆瓣酱和花椒。| 花椒是川菜的灵魂，| 它给菜带来特殊的麻味。
-    _Mainly need tofu_, _minced pork_, _broad bean paste_, _and Sichuan peppercorns_. | _Sichuan peppercorns_ _are the soul of Sichuan cuisine_, | _they give dishes_ _a special numbing taste_.
+12. 我们一直想住得离她近点。在她生病之前，我们就开始看房和准备买房了。但她生病以后，看房计划就搁置了。
+    _We always want to live closer to her_. | _Before she got sick_, | _we were already looking at houses_ | _and planning to buy one_. | _But after she fell ill_, | _our house-hunting plans were put on hold_.
 
-13. _That sounds interesting_! | _I've never used Sichuan peppercorns_. | _Where can I buy these ingredients_?
-    听起来很有趣！我从来没用过花椒。我在哪里可以买到这些配料？
+13. _That's unfortunate_. | _I hope she recovers soon_ | _so you can resume your house hunt_. | _There are many houses in this area_.
+    真可惜。我希望她能快点康复，这样你就能继续找房子了。这一带有很多房子。
 
-14. 在亚洲超市可以买到。| 我可以带你去，| 那里有很多中国调味料。| 你需要什么做烩饭？
-    _You can buy them_ _at Asian supermarkets_. | _I can take you there_, | _they have many Chinese seasonings_. | _What do you need for risotto_?
-
-15. _For risotto, I need arborio rice_, _chicken broth_, _and parmesan cheese_. | _The rice is the key ingredient_.
-    对于烩饭，我需要意大利米、鸡汤和帕尔马干酪。米是关键配料。
-
-16. 意大利米？| 和普通米有什么不同？
-    _Italian rice_? | _What's the difference from regular rice_?
-
-17. _Arborio rice is short-grain_ _and very starchy_. | _It releases starch when cooked_, _making the dish creamy_.
-    意大利米是短粒的，淀粉含量很高。煮熟时会释放淀粉，使菜变得奶油状。
-
-18. 听起来很神奇！| 我们什么时候开始我们的烹饪课？
-    _Sounds magical_! | _When should we start our cooking lessons_?
-
-19. _How about this weekend_? | _We can start with risotto_, | _then try Mapo Tofu next time_.
-    这个周末怎么样？我们可以从烩饭开始，然后下次试试麻婆豆腐。
-
-20. 完美！| 我很期待学习新菜。| 这将是一次很棒的烹饪体验！
-    _Perfect! I'm looking forward to_ _learning new dishes_. | _This will be a great cooking experience_!
+14. 是的，我希望我们能找到个好房子。这样我去看望母亲就方便多了。
+    _Yes, I hope we can find a good place_. | _That way, it will be much more convenient_ | _for me to visit my mother_.
 
 ---
 
-#70186. Ordering Food at a Restaurant - Business
+#70186. Discussing the Upcoming Museum Visit - Education
 
-Briefing: This dialogue is a conversation between an English-speaking waiter and a Mandarin-speaking customer at a restaurant. They are discussing menu options, food preferences, and placing orders. The dialogue begins now.
+Briefing: This dialogue takes place between a Mandarin-speaking teacher and an English-speaking school administrator. The conversation takes place at the school office. The dialogue starts now.
 
-1.  _Good evening, welcome to Golden Dragon Restaurant_. | _How may I help you today_?
-    晚上好，欢迎光临金龙餐厅。今天有什么可以为您效劳的吗？
+1.  _Hi! I wanted to meet with you_ | _to go over the details_ _of the upcoming class trip_. | _I know there are a lot of things to coordinate_, | _so I thought it'd be good to check in_.
+    你好！我想和你聊聊即将到来的班级旅行的安排。我知道有很多事情要协调，所以想和你确认一下。
 
-2.  你好！我想点菜。| 你们有什么推荐的吗？
-    _Hello! I'd like to order_. | _What do you recommend_?
+2.  您好。真是不好意思，我本来想早点约时间的，但之前一直没能安排上。
+    _Hi! I'm really sorry_. | _I wanted to set up a meeting earlier_, | _but I was never able to make it_.
 
-3.  _Our signature dish_ _is the Peking Duck_. | _It's prepared fresh daily_. | _We also have excellent seafood_.
-    我们的招牌菜是北京烤鸭。每天现做。我们还有很棒的海鲜。
+3.  _That's totally fine_. | _You were busy_. | _Can you give me more details_ _about the class trip_?
+    没关系，你之前很忙。能跟我详细说说班级旅行的安排吗？
 
-4.  北京烤鸭听起来不错！| 一份够几个人吃？
-    _Peking Duck sounds good_! | _How many people does one serving feed_?
+4.  当然可以。班级旅行定在两个星期后。我已经让孩子们把同意书带回家给家长签字了。
+    _Of course!_ | _The class trip is in two weeks_. | _I've already asked the students_ | _to take the consent forms home_ | _for their parents to sign_.
 
-5.  _One serving is perfect for 2-3 people_. | _It comes with pancakes_, _scallions_, _and hoisin sauce_.
-    一份正好够2-3个人吃。配有薄饼、葱和甜面酱。
+5.  _Great_. | _I hope the parents can return_ _the consent forms on time_, | _as we can't accept any forms_ _on the day of the trip_.
+    很好。希望家长能按时交回同意书，因为我们不能在旅行当天再接收新的表格。
 
-6.  太好了！我要一份北京烤鸭。| 我还想要一些蔬菜。| 有什么推荐？
-    _Great! I'll have one serving of Peking Duck_. | _I also want some vegetables_. | _What do you recommend_?
+6.  是的，我已经通知家长了。同意书的截止日期是出发前三天，因为博物馆的工作人员需要提前确认最终人数。
+    _Yes, I've already informed the parents_. | _The deadline for submission_ _is three days before departure_, | _as the museum staff need to confirm_ _the final headcount in advance_.
 
-7.  _I recommend the stir-fried broccoli with garlic_. | _It's very fresh and healthy_. | _We also have steamed bok choy_.
-    我推荐蒜蓉西兰花。很新鲜健康。我们还有清炒小白菜。
+7.  _Will the children need_ _to bring their own lunch_? | _I'd also like to know_ | _if there's a designated area_ _where they can eat_.
+    孩子们需要自己带午餐吗？另外，那边有专门的用餐区吗？
 
-8.  我要蒜蓉西兰花。| 你们有汤吗？
-    _I'll have the garlic broccoli_. | _Do you have soup_?
+8.  是的，孩子们可以自己带午餐。博物馆有一个庭院，学生们可以在那里用餐。另外，他们也提供午餐。吃完饭后，孩子们还可以四处走走，等下午的活动开始。
+    _Yes, they can bring their own lunch_. | _The museum has a courtyard_ | _where students can eat_. | _They also offer lunch_. | _After lunch, students can walk around_ | _before the afternoon session starts_.
 
-9.  _Yes, we have hot and sour soup_, _wonton soup_, _and egg drop soup_. | _The hot and sour soup is very popular_.
-    是的，我们有酸辣汤、馄饨汤和蛋花汤。酸辣汤很受欢迎。
+9.  _That sounds like a great setup_. | _This way, they can have_ _a relaxing lunch break_ | _and be refreshed_ _for the afternoon activities_.
+    听起来安排得很好。这样他们可以放松地吃午餐，下午的活动也能更好地投入。
 
-10. 我要酸辣汤。| 你们有米饭吗？
-    _I'll have the hot and sour soup_. | _Do you have rice_?
+10. 希望是这样吧。下午他们还有作业要完成，所以需要集中注意力。
+    _I hope so_. | _They still have assignments to complete_ _in the afternoon_, | _so they'll need to stay focused_.
 
-11. _Yes, we have steamed white rice_ _and fried rice_. | _Would you like either of those_?
-    是的，我们有白米饭和炒饭。您要哪种？
+11. _I'm really looking forward to this trip_. | _It will be great to see_ | _what the students take away_ _from the experience_. | _Plus, it's always fun to see them engage_ _outside the classroom_.
+    我很期待这次旅行，看看学生们能从中学到什么。而且，能看到他们在课堂外积极参与也会很有趣。
 
-12. 我要白米饭。| 现在可以点饮料吗？
-    _I'll have white rice_. | _Can I order drinks now_?
+12. 是啊，希望他们既能学到知识，又能玩得开心。他们每次都特别期待班级旅行，总想着能走出教室看看外面的世界。
+    _Yes!_ | _Hopefully, they can learn_ _and have fun at the same time_. | _They always look forward to class trips_ | _and are eager to explore_ _beyond the classroom_.
 
-13. _Of course_! | _We have tea, soft drinks, and beer_. | _What would you like_?
-    当然可以！我们有茶、软饮料和啤酒。您想要什么？
+13. _That's true_. | _You probably need to get back_ _to your class now_. | _Let me know if you have any questions_.
+    确实是这样。你现在可能要回教室了。如果有问题随时告诉我。
 
-14. 我要一杯绿茶。| 我的菜大概需要多长时间？
-    _I'll have a cup of green tea_. | _How long will my food take_?
-
-15. _The soup will come in about 10 minutes_. | _The vegetables in 15 minutes_. | _The Peking Duck takes about 20 minutes_.
-    汤大约10分钟到。蔬菜15分钟。北京烤鸭需要大约20分钟。
-
-16. 好的，我可以等。| 总共多少钱？
-    _Okay, I can wait. How much is the total_?
-
-17. _Let me calculate_: | _Peking Duck is $28, broccoli is $12, soup is $8, rice is $3, tea is $4_. | _Total is $55_.
-    让我计算一下：北京烤鸭28美元，西兰花12美元，汤8美元，米饭3美元，茶4美元。总共55美元。
-
-18. 好的，我付现金。| 谢谢你的帮助！
-    _Okay, I'll pay in cash. Thank you for your help_!
-
-19. _You're welcome! Your food will be ready soon_. | _Enjoy your meal_!
-    不客气！您的食物很快就好。祝您用餐愉快！
+14. 谢谢！我差点忘了。组织旅行真的很有挑战。如果有问题，我会尽快找您。
+    _Thank you!_ | _I almost forgot_. | _Organizing a trip is really challenging_. | _If I run into any issues_, | _I'll reach out to you_ _as soon as possible_.
 
 ---
 
@@ -3636,7 +3448,7 @@ Briefing: This dialogue is a conversation between an English-speaking police off
 
 12. 我 _买了保险_ 是 _很好的_。| 即使 _没有找到_，| 也可以向 _保险公司_ _申请理赔_。| 我的 _保险_ _涵盖_ _盗窃损失_，| 但需要 _案件编号_，| 才能 _启动理赔_。
     _It's great that I have comprehensive insurance_; | _even if nothing is recovered_, | _I can still file a claim_ _with my insurance provider_. | _My insurance covers theft losses_, | _but I need a case number_ _to initiate the claim_.
-    
+
 13. _Yes, absolutely_. | _We still need more details about the crime_. | _Please provide any additional information_ _you can remember_. | _Then I'll fill out the official report_ | _and email it to you_ _for your insurance claim_.
     是的，| 我们还需要 _更多关于_ _案件_ 的 _细节_。| 请把你能记得的 _其他信息_ 提供给我，| 然后我会把 _正式报案记录_ _填写好_，| 并通过 _邮件发给_ 你，| 好让你 _申请理赔_。
 
