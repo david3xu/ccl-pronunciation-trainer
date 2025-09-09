@@ -745,7 +745,7 @@ available seniors
 Centrelink
 eligibility
 community programs
-socail groups
+social groups
 exercise classes
 loneliness
 mobility
@@ -1953,7 +1953,7 @@ booming
 much experience
 specific platforms
 websites
-socail media platforms
+social media platforms
 to connect with
 a broader audience
 get full transparency
@@ -2503,7 +2503,7 @@ find services
 suitable
 find such help
 contact information
-socail worker associations
+social worker associations
 on social media
 locate
 online directories
