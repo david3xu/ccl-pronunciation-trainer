@@ -3231,7 +3231,7 @@ Briefing: This dialogue is a conversation between two English-speaking friends, 
     _好吧_，_我还不知道_ _你要搬家呢_！| _希望你搬得不远_，| _我会想念见到你的_。
 
 4.  _不会的_，_我就搬到隔壁区_，| _我以为我跟你说过了_。| _我的房东_ _把房子卖了_，_我不得不搬家_。
-    _Oh no, I'm only moving_ _to the neighbouring district_ – | _I thought I mentioned it_. | _My landlord sold the house_, _so I have to move_.
+    _Oh no, I'm only moving_ _to the neighbouring distsomerict_ – | _I thought I mentioned it_. | _My landlord sold the house_, _so I have to move_.
 
 5.  _That sounds stressful_. | _It's hard to rent a place in the area now_, | _and the rent is more expensive_.
     _听着挺紧张的_。| _现在在这附近_ _租房子很难_，| _而且租金也更贵_。
@@ -3519,7 +3519,7 @@ Briefing: This dialogue is a conversation between an English-speaking photograph
     真高兴听到这个！我的很多客户都会回来，记录他们人生中的不同时刻。
 
 4.  我觉得和一个摄影师长期合作是很好的。| 我认为和别人一起工作一段时间也是很好的。| 照片很重要，没有照片的话，很难记住很多人生重要时刻。
-    _I think it's great_ _to work with a photographer long-term_. | _I believe working with someoneover time_ is really beneficial_. | _Photos are so important_ — _without them, it's hard to remember_ _many of life's important moments_.
+    _I think it's great_ _to work with a photographer long-term_. | _I believe working with someone over time_ is really beneficial_. | _Photos are so important_ — _without them, it's hard to remember_ _many of life's important moments_.
 
 5.  _That's so true_! _I enjoy giving reminders_ _of capturing special occasions_ _and meaningful moments_. | _It's also fun_ _to meet different people_.
     太对了！我喜欢帮大家记录捕捉那些特别的日子和有意义的时刻。| 而且，认识新的人也很有趣。

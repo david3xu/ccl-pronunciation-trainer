@@ -141,7 +141,7 @@ comprehensive contracts
 read through
 the whole contract
 professional
-layers
+lawyers
 compllicated language
 writing contracts
 deadline
@@ -193,7 +193,7 @@ double-check
 no changes made
 any issues
 is designed around
-a beautiful wintage bathhub
+a beautiful vintage bathhub
 a shower
 soaking
 bath
@@ -2664,5 +2664,273 @@ accouting issues
 arrangements
 
 70183
+neghbouring district
+landlord
+stressful
+rent a place
+more expensive
+unused furniture
+earn some extra cash
+post
+advertisements
+on social media
+a few sites
+save money whenever possible
+time-consuming
+sell your things piece by piece
+right price
+take some photos
+sell faster
+at a higher price
+big items
+furniture
+move your things
+moving costs
+pack
+fragile
+items
+load some boxes
+make a few trips
+
+
+70182
+assistant
+congrats
+promotion
+deserve
+dedication
+skills
+joined
+a big change
+confident
+continue
+achieve even more
+hiring
+new team members
+received notices
+resignation
+an ideal time
+departing employees
+involved in
+key projects
+new product
+replace
+under too much stress
+candidates
+choose
+interviews
+fill the positions
+promptly
+handling
+workload
+hand over
+responsibilities
+focus on
+prepared
+handover documents
+efficient
+a lot easier
+challenge
+
+70181
+schedule
+appointment
+make yourself comfortable
+quiet
+cut
+leg
+infected
+wound
+regular
+dressing changes
+clinic
+regularly
+proper wound dressing
+control infection
+heal
+uncomfortable
+painful
+visit
+exhausting
+wonder
+a home care nurse
+available
+a range of medical needs
+a much easier option
+situation
+current situation
+troublesome
+arrange
+contact
+refer
+a service provider
+process
+shortly
+originally thought
+complicated
+referral
+arrangement
+miss seeing you
+check-ups
+trust
+doctors
+staff
+
+70180
+advertisment
+selling houses
+buying and selling properties
+main business
+rental apartments
+in town
+seven-bedroom house
+city center
+a big change
+fortunately
+an opportune time
+moved out
+downsize
+various methods
+homeowners
+advantages
+the size of the house
+typical
+private treaty sales
+effective
+achieving
+a realistic price
+a fixed price
+buyers
+consider all the offers
+auctions
+set a specific date
+sellers
+get the best price possilbe
+selling method
+recommand
+visit your house first
+come then
+text
+address
+
+70179
+police assistance hotline
+dialled the right number
+report a crime
+very serious
+extremely serious
+in immediate danger
+all sorts of crime
+affect
+victim
+take the crime report
+insurance company
+filing a claim
+describe
+incident
+in detail
+a construction worker
+was broken into
+tools were stolen
+power tools
+common targets
+thieves
+sell them online
+various shops
+thief
+trace
+engraved
+investigation
+excellent precaution there
+significantly
+improves
+recovery chances
+investigate
+recover property
+comprehensive insurance
+fiile a claim
+insurance provider
+covers
+theft losses
+a case number
+initiate the claim
+additional information
+official report
+fill out
+insurance claim
+think it over carefully
+recall
+additional details
+
+70178
+a big challenge
+brave
+make new friends
+start school
+the life here
+comfortable and free
+I don't mind being your first friend
+meeting people
+sweet
+garden supplies stores
+around here
+gardening centres
+home country
+seeds
+weather
+grow very well
+neighbours
+knock on his door
+would that be too forward
+do you think he'd mind
+introduce you
+curious about
+climates
+keep me posted
+spare tools
+borrow
+grow vegetables
+passion for gardening
+
+70177
+photograph moments
+book a photoshoot
+family photographer
+capture
+moments
+in their lives
+long-term
+working with someone over time
+beneficial
+photos
+speciall occasions
+meaningful moments
+grandmother
+have her photographed
+celebrate
+fabulous
+milestone
+a wonderfull way
+include
+grandchildren
+It means a lot to her
+remeber her
+prefer
+cozy
+candid
+family shoot
+formal portraits
+lovely casual photos
+formal posed pictures
+uncomfortable
+formal photos
+necessarily
+unnatural
+a natural, relaxed look
+in their photos
+photography price list
+different session options
+special deal sessions
+at the moment
 
 
