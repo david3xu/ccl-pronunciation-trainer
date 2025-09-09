@@ -119,7 +119,7 @@ a considerable step
 get training
 
 70243
-assitant
+assistant
 luckily
 client
 cancel
