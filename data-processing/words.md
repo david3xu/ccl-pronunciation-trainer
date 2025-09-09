@@ -2138,6 +2138,531 @@ let you sleep better
 cold
 broke out
 in a heavy sweat
+unbearably hot
+throat
+hurting
+sliced with a knife
+lozenges
+throat lozenges
+ease
+sore throat
+steam inhalation
+soothe
+cough
+staying home
+missing work
+tackle
+get back to work
+being sick
+such a hassle
+feel terrible
+get back to normal
 
+70195
+taking the time
+a quick chat
+work-from-home setup
+is coming along
+so far, so good
+rush over to the office
+commuting time
+having you around
+how much it matters to you
+a huge difference
+energetic
+informed
+IT department
+encountered
+technical problems
+internet connection
+peak hours
+crashes
+get disconnected
+online meetings
+occasionally
+aware
+due to
+technical glitches
+router
+nothing worked
+technician
+a new device
+upgrading
+a faster plan
+arrange
+a new network device
+switch
+a higher-level plan
+work efficiency
+workload
+headache
+appropriate team
+have the go-ahead
+reach out
+get it resolved
+normal work
+
+70194
+reached
+police station
+emergency
+report something
+non-urgent
+a bit hesitant
+not reporting an incident
+tied up
+quiet at the moment
+electric bike
+convenient
+teenagers
+drive their kids around
+road rules
+follow
+general road rules
+push bikes
+a driver license
+ride
+motorcycle
+vehicles
+motors
+categorized
+a license
+insurance
+makes things a bit simpler
+plenty of options
+dealer
+solid advice
+meets the rules
+government
+transportation website
+road safety rules
+has fun riding
+stays safe
+resolved
+
+70193
+retirement plan
+on my mind
+retirement planning
+have enough saved up
+live comfortably
+stop working
+keep my expenses under control
+situation and needs
+retirement age
+revisit my plan
+set up once and forget about
+my savings won't cut it
+a common concern
+throw out
+figures
+all the time
+honestly
+own goals
+figure out
+retirement life
+plan accordingly
+a clear picture
+get there step by step
+retirement finances
+ignoring
+a few forms
+take into account
+book the next session
+comfortable
+looking things over first
+move forward
+
+70192
+council hall
+community event
+organizing
+new migrants
+organize an event
+showcase
+Australian culture
+from different parts of the world
+settled in this area
+a fantastic idea
+hire
+community hall
+hold
+Australian film festival
+rent
+an entire week
+schedule
+space
+approval
+took me quite a lot of effort
+putting this event together
+venue
+confirmed
+promoting
+locally
+attract
+assist with promotion
+local engagement team
+a wonderful event
+a success
+participate
+coming over
+finalize
+go over
+advertising details
+we're on a roll now
+let's keep going
+
+70191
+how's the new job treating you
+pretty hectic
+fly by
+supervisor
+picking things up
+feel more confident
+interact
+costomers
+customer service
+talking to customers
+figuring out
+a great system in place
+pop up
+frustrated
+run into
+tough situations
+charged
+full price
+supposed
+discounted
+realize
+upset
+mad
+hassle
+sort it out
+fixed the mistake
+refunded
+the price difference
+offer
+a discount voucher
+next purchase
+reacted
+a regular customer
+returning customers
+a bad review online
+aren't handled well
+a negative impact
+how to go the extra mile for customers
+
+70190
+renovating
+renovation plans
+smoothly
+luckily
+a great contrator
+the big work is done
+focusing on
+decorating
+adding
+personal touches
+decorating
+the entire house
+exhausting
+overwhelming
+no rush anyway
+making impulsive choices
+working on
+crib
+a bigger platform bed
+how fast she's growing
+learning to walk
+switching
+milestone
+built-in storage
+convenient
+storage
+a huge deal
+kid's room
+teenage years
+redecorate
+go for
+simple and neutral designs
+add some bright colors
+easy-to-swap items
+rugs
+having you over
+
+70189
+co-worker
+mentioned
+volunteer program
+this neighbourhood
+involved
+make new friends
+volunteers
+community projects
+dedicate
+schedule
+pretty flexible
+spare
+volunteering
+end up
+specific interests
+match
+suits
+project
+open to anything
+really enjoy
+gardenining
+planting
+working on
+vegetable garden
+a great fit
+fixing up
+park
+shopping center
+noticed
+bushes
+definitely
+trimming
+weeds are everwhere
+gardening experience
+clean up the space
+everything is overgrown
+trimming branches
+know a bit
+a nice green space to enjoy
+quite a bit of work
+install
+planning
+new benches
+make it more inviting
+whole community
+take a walk
+fresh air
+sit down and relax
+raised
+enough donations
+restore
+reopening
+be a part of the project
+improve
+
+
+70188
+received your email
+taking the time to see me
+leave some free time
+satisfied
+grade
+paper
+a low score
+feedback
+structure
+essay
+ideas
+lacks
+a clear logic flow
+indeed
+wrote in the final minutes
+ended up
+a bit rushed
+requirements
+topic
+explain
+arguments
+aren't set up well
+not a good idea
+keep reworking
+imagined
+so much to cover
+a complicated topic
+lose direction
+university-level
+assignments
+secondary school
+get good grades
+teacher
+offers
+tutoring sessions
+on writing papers
+first-year students
+improve
+
+70187
+frequently
+visiting
+mother
+health
+tired
+not been well recently
+going back and forth
+spent serveral hours
+hardly have time
+difficult
+a social worker
+find services
+suitable
+find such help
+contact information
+socail worker associations
+on social media
+locate
+online directories
+available
+social worker directory
+professional organizations
+listed in directories
+elder care
+a sensitive matter
+someone qualified
+take care of
+feel at ease
+live closer
+looking at houses
+planning to buy one
+fell ill
+house-hunting plans
+put on hold
+unfortunate
+recovers
+resume
+a good place
+
+70186
+upcomming
+class trip
+coordinate
+check in
+set up a meeting
+I was never able to make it
+in two weeks
+consent forms
+sign
+parents
+return
+on time
+accept
+on the day of the trip
+informed
+deadline
+submission
+departure
+museum staff
+confirm
+final headcount
+in advance
+bring lunch
+designated area
+where they can eat
+courtyard
+offer lunch
+walk around
+afternoon session
+a great setup
+this way
+a relaxing luch break
+refreshed
+afternoono activties
+assignments
+complete
+stay focused
+take away
+experience
+engage
+learn and have fun
+at the same time
+eager
+explore
+byond
+classroom
+get back to your class
+challenging
+run into any issues
+reach out to you
+as soon as possible
+
+70185
+insurance matters
+are you looking to
+adjust
+current policy
+switch
+a different type
+looking into
+reseaching
+trauma insurance
+online
+a quote
+purchase
+restrictions
+excludes
+pre-existing conditions
+covered by
+current policy
+particular condition
+covered under
+health issues
+cover all illnesses
+trauma insuranace coverage
+critical illness policies
+includes
+major categories
+heart attacks
+debts
+pay off
+get sick
+in the future
+keep up with payments
+a good option
+a few quotes
+a good plan
+details of the quotes
+a form
+fill in
+medical information
+get a quote
+fill it out
+
+70184
+run my own business
+accounting side of things
+specialize
+business accounting
+accountant
+a computer retail store
+bookkeeping
+getting overwhelming
+happens quite often
+clients
+hiring
+a professional accountant
+a great idea
+avoid
+mistakes
+to mess up
+prevent
+ensure
+accounts
+all in order
+urgent matters
+handled
+biggest concern
+filling my income tax
+the deadline is in two days
+sufficient time
+relevant documents
+in one go
+relieved
+hectic
+schedule a meeting
+go through everything
+specific services
+accounting system
+simpler and faster
+focus more time on
+stressing over
+accouting issues
+arrangements
+
+70183
 
 

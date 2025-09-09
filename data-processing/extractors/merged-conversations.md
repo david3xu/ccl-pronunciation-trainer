@@ -2642,11 +2642,11 @@ Briefing: This dialogue takes place between a Mandarin-speaking customer and an 
 
 Briefing: This dialogue takes place between a Mandarin-speaking employee and an English-speaking manager. The conversation takes place at the office. The dialogue starts now.
 
-1.  _Good morning_. | _I really appreciate you_ _taking the time_ _to come to the office_ _to meet me today_.
+1.  _Good morning. I really appreciate you_ _taking the time_ _to come to the office_ _to meet me today_.
     早上好。感谢你今天抽空来办公室和我见面。
 
 2.  早上好啊。没事的。能见到你和团队的其他人，我很开心。
-    _Good morning_. | _It's okay_. | _I'm really glad to see you_ | _and the other members of the team_.
+    _Good morning. It's okay_. | _I'm really glad to see you_ | _and the other members of the team_.
 
 3.  _That's good to know_. | _I'd like to have a quick chat_ | _about how your work-from-home setup_ _is coming along_. | _How are things going so far_?
     那挺好的。我想跟你简单聊聊你在家办公的安排情况。目前都还好吗？
@@ -2676,7 +2676,7 @@ Briefing: This dialogue takes place between a Mandarin-speaking employee and an 
     我了解了。我们会给你更换一台新的网络设备，并且帮你升级到一个更高级的套餐。
 
 12. 好的。我都开始担心这些问题会影响我的工作效率和工作量了，技术故障真是让人头疼啊！
-    _Okay_. | _I'm starting to worry_ | _that these issues will affect_ _my work efficiency and workload_; | _technical glitches are such a headache_!
+    _Okay. I'm starting to worry_ | _that these issues will affect_ _my work efficiency and workload_; | _technical glitches are such a headache_!
 
 13. _Don't worry_. | _I'll talk with the appropriate team_, | _and once we have the go-ahead_, | _I'll let you know_. | _You're also welcome to reach out_ _to them directly_ | _to get it resolved_.
     别担心。我会跟相关团队沟通，一批下来就通知你。你也可以直接联系他们解决。
@@ -2712,7 +2712,7 @@ Briefing: This dialogue takes place between a Mandarin-speaking parent and an En
     电动自行车和普通自行车一样，都适用一般的道路规则。不过它们也有一些专门的规定。
 
 8.  原来是这样。我不太清楚，我儿子骑电动自行车的话，是不是要像骑摩托车那样，需要考驾照。
-    _I see_. | _I'm not sure if my son_ _needs to get a driver license_ | _to ride an electric bike_, | _just like riding a motorcycle_.
+    _I see. I'm not sure if my son_ _needs to get a driver license_ | _to ride an electric bike_, | _just like riding a motorcycle_.
 
 9.  _No, he doesn't need one_. | _Even though both vehicles have motors_, | _they're categorized differently_. | _Electric bikes don't need_ _a license or insurance_.
     不，不需要。虽然这两种车都有电机，但是它们的类别不同。电动自行车不需要驾照或保险。
@@ -2738,23 +2738,23 @@ Briefing: This dialogue takes place between a Mandarin-speaking parent and an En
 
 Briefing: This dialogue takes place between a Mandarin-speaking client and an English-speaking retirement planning advisor. The conversation takes place over the phone. The dialogue starts now.
 
-1.  _Morning!_ | _Thanks a lot for calling in_. | _What can I help you with today_?
+1.  _Morning! Thanks a lot for calling in_. | _What can I help you with today_?
     早上好，谢谢你打电话来。我今天能帮你点什么？
 
 2.  你好呀，我想聊聊我的退休计划，可以吗？我最近一直在考虑这个问题。
-    _Hey there!_ | _I was hoping to talk_ _about my retirement plan_—| _if that's okay_? | _It's just something_ _that's been on my mind lately_.
+    _Hey there! I was hoping to talk_ _about my retirement plan_—| _if that's okay_? | _It's just something_ _that's been on my mind lately_.
 
-3.  _Of course!_ | _That's exactly what I do_. | _I help people_ _with retirement planning_. | _It's super important_ _to have enough saved up_ | _so you can live comfortably_ | _once you stop working_.
+3.  _Of course! That's exactly what I do_. | _I help people_ _with retirement planning_. | _It's super important_ _to have enough saved up_ | _so you can live comfortably_ | _once you stop working_.
     当然可以啦，我专门做这个的。我帮大家做退休规划。存够钱很重要，这样退休后才能过得舒舒服服的。
 
 4.  对，我想管理好开支，退休以后能有更多时间去做现在没空做的事。
     _Yeah, I want to keep_ _my expenses under control_ | _and have more time in retirement_ | _to do the things_ _I don't really get to do right now_.
 
-5.  _Yeah, totally_. | _The earlier you plan_, | _the better_. | _Plus, it's better_ _to keep checking in_ _on your plan_, | _because your situation and needs_ | _are always changing_.
+5.  _Yeah, totally_. | _The earlier you plan, the better_. | _Plus, it's better_ _to keep checking in_ _on your plan_, | _because your situation and needs_ | _are always changing_.
     没错，越早开始规划越好。而且，最好时不时检查一下计划，因为你的情况和需求一直会变。
 
 6.  我以前确实没太考虑这些事。不过，现在离退休不远了。我觉得要重新整理一下了。
-    _I hadn't really thought_ _about this before_. | _But as I get closer_ _to retirement age_, | _I think it's time_ _to revisit my plan_.
+    _I hadn't really thought about this before_. | _But as I get closer_ _to retirement age_, | _I think it's time_ _to revisit my plan_.
 
 7.  _Absolutely_. | _This isn't something_ _you just set up once_ | _and forget about_. | _But I'll make it easier for you_. | _So: where do you want to start_?
     当然了，这不是那种一次搞定就能不管的事。不过我会帮您把过程简化。那您想先从哪块儿说起？
@@ -2859,7 +2859,7 @@ Briefing: This dialogue takes place between a Mandarin-speaking employee and an 
     没错。就算生意的运营流程很好，还是会出现问题。一旦有问题，顾客往往会更不高兴。你遇到过难处理的情况吗？
 
 8.  是的。有人把本该打折的商品按原价卖给了顾客。那位女士回家后才发现，她非常郁闷。
-    _Yeah_. | _Someone charged a customer_ _full price for something_ | _that was supposed to be discounted_. | _The customer didn't realize it_ | _until she got home_, | _and she was really upset_.
+    _Yeah. Someone charged a customer_ _full price for something_ | _that was supposed to be discounted_. | _The customer didn't realize it_ | _until she got home_, | _and she was really upset_.
 
 9.  _Oh no!_ | _I can totally see_ _why she'd be mad_: | _it must've been such a hassle for her_. | _I hope you were able_ _to sort it out_.
     哎呀！我完全能理解她为什么生气，这对她来说肯定很麻烦。希望你已经把问题解决了。
@@ -2885,7 +2885,7 @@ Briefing: This dialogue takes place between a Mandarin-speaking employee and an 
 
 Briefing: This dialogue takes place between two Mandarin-speaking friends. The conversation takes place at one friend's home. The dialogue starts now.
 
-1.  _Hey!_ | _It's so nice to see you again_. | _It feels like forever_ | _since we last caught up_. | _How have you been_?
+1.  _Hey! It's so nice to see you again_. | _It feels like forever_ | _since we last caught up_. | _How have you been_?
     嗨！再见到你真好。感觉我们很久没聊天了，你最近怎么样？
 
 2.  是啊，好一阵子没见了。这段时间我一直忙着装修家里，现在终于搞定了。总算可以好好享受新家的感觉了！
@@ -3053,7 +3053,7 @@ Briefing: This dialogue takes place between two Mandarin-speaking friends. The c
 8.  谢谢你。有了社工名录的帮助，事情会容易很多。要不然，我真不知道该从哪里开始。
     _Thank you_. | _With the help of a social worker directory_, | _things would be much easier_. | _Otherwise, I really wouldn't know_ _where to start_.
 
-9.  _Yes_. | _Since these are professional organizations_, | _you can find their names_ _listed in directories_. | _Elder care is a sensitive matter_, | _so it's important to find someone qualified_.
+9.  _Yes. Since these are professional organizations_, | _you can find their names_ _listed in directories_. | _Elder care is a sensitive matter_, | _so it's important to find someone qualified_.
     是的。由于这些是专业机构，你可以在名录上查到他们的名字。养老问题很敏感，所以找到有资质的人很重要。
 
 10. 感谢你的信息，真的很有帮助。我有很多问题想问他们。如果有人能帮我照顾我妈直到她好起来，我就放心了。
@@ -3111,7 +3111,7 @@ Briefing: This dialogue takes place between a Mandarin-speaking teacher and an E
     我很期待这次旅行，看看学生们能从中学到什么。而且，能看到他们在课堂外积极参与也会很有趣。
 
 12. 是啊，希望他们既能学到知识，又能玩得开心。他们每次都特别期待班级旅行，总想着能走出教室看看外面的世界。
-    _Yes!_ | _Hopefully, they can learn_ _and have fun at the same time_. | _They always look forward to class trips_ | _and are eager to explore_ _beyond the classroom_.
+    _Yes! Hopefully, they can learn_ _and have fun at the same time_. | _They always look forward to class trips_ | _and are eager to explore_ _beyond the classroom_.
 
 13. _That's true_. | _You probably need to get back_ _to your class now_. | _Let me know if you have any questions_.
     确实是这样。你现在可能要回教室了。如果有问题随时告诉我。
@@ -3191,7 +3191,7 @@ Briefing: This dialogue is a conversation between an English-speaking accounting
 6.  _我完全同意_ _你说的_。| _我也不想_ _犯错误啊_。| _但是我越忙_，_就越容易犯错_。
     _I totally agree_. _I don't want to make mistakes either_. | _But the busier I get_，_the easier it is to mess up_.
 
-7.  _It's actually not hard to prevent that_. | _A professional accountant_ _can ensure_ _your accounts are all in order_. | _Do you have any urgent matters_ _that need to be handled ight now_?
+7.  _It's actually not hard to prevent that_. | _A professional accountant_ _can ensure_ _your accounts are all in order_. | _Do you have any urgent matters_ _that need to be handled right now_?
     _其实_，_这并不难避免_。| _专业会计可以帮你_ _把账目整理好_。| _你现在有什么_ _特别紧急的事_ _需要处理吗_？
 
 8.  _其实_，_还真的有_。| _对于我来说_，_目前最紧急的事情_ _就是所得税的申报_。| _还有两天_ _就要截止了_。
