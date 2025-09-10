@@ -167,23 +167,6 @@ Briefing: This dialogue takes place between a Mandarin-speaking house owner and 
 【萤火虫老师Tips】
 本70252 是2025 年9 月4 日考题，是8 月5 日考题70241 的第三次变体。第7-10 段改为了完全不同内容。其他段落不变。本题已经考3 次了，按照以往规律，不会再考了。
 
-1.  _Hey, the office mentioned_ _you'd drop by_ _to visit the site again today_. | _I bet you'll be pleased_ _with the progress_.
-    嗨，办公室那边说| 你今天要再来工地一趟。| 我相信你会对进度满意的。
-
-2.  对啊，我就在附近上班，| 顺路过来看看挺方便的。| 看着新房子一点点盖起来，我超激动的。
-    _Yeah, I work nearby_ | _so it's easy to swing by_. | _I'm thrilled watching my new house take shape_. / _I'm so excited watching_ _the new house being built little by little_!
-
-3.  _The crew has now finished_ _the walls, floors, and doors_. | _The supplier has finally_ _delivered the materials_ _early last week_.
-    施工队/工人们现在已经| 做完墙壁、地板和门了。| 上周早些时候，| 供应商总算把材料送到了。
-
-4.  速度真快！| 因为材料送过来的时间延期了，| 我本来还以为需要更长的时间呢。| 现在材料好像都很难买，| 运输也很慢。
-    _That was quick_! | _Since the material delivery was delayed_, | _I thought it would take longer_. | _Nowadays it seems really hard_ _to get materials_, | _and shipping is so slow too_.
-
-5.  _True, and material prices_ _have gone up too_. | _Since you're here_, | _I'd like to go over_ _the plans with you_.
-    没错，材料现在也涨价了。| 既然你来了，| 我想和你一起过一下图纸。
-
-6.  没问题。| 我感觉我每天晚上回家| 都会看施工图纸。| 所以每个房间具体会是什么样子的，| 我都清清楚楚。
-    _No problem_. | _I feel like I check_ _the construction plans/blueprints_ | _every night when I get home_. | _So, I know exactly_ _what each room will look like_.
 
 7.  _I know you were debating between_ _the light-colored timber flooring_ _and the tiles for the living room and kitchen_. | _Have you changed your mind_?
     我知道你之前就在客厅和厨房的浅色木地板和瓷砖之间犹豫。| 你改主意了吗？
@@ -197,17 +180,6 @@ Briefing: This dialogue takes place between a Mandarin-speaking house owner and 
 10. 用木地板也不是一个坏主意，| 但是我还是更想用瓷砖。| 我很高兴你在工人开始铺木地板之前| 就发现了这个问题。
     _Wood flooring isn't a bad idea_, | _but I still prefer tiles_. | _I'm really glad you caught this_ _before the workers start laying it down_.
 
-11. _It struck me as a bit strange this morning_. | _That's why I inspect_ _the site every day_.
-    我今早上看着| 就突然觉得有点怪/不对劲，| 这也是为什么我每天| 都要到工地检查的原因。
-
-12. 太感谢了，| 让我放心多了。| 你这么快就能发现和解决问题，| 真的太棒了。
-    _Thanks so much_. | _That really puts my mind at ease_. | _It's so great you can_ _spot and fix issues promptly_.
-
-13. _Of course. I believe in_ _looking after my customers_, | _and I know how important it is_ _to keep track of everything_.
-    当然。我是客户至上的/| 我坚信得把客户服务好，| 而且我也知道每件事| 都把控好/跟进好/盯紧了有多重要。
-
-14. 设计这个房子| 有这么多的事情要做呀！| 我不知道盖一个房子| 需要这么复杂。
-    _There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_.
 
 ---
 
@@ -269,24 +241,6 @@ Briefing: The following dialogue takes place in a café between two friends. The
 【萤火虫老师Tips】
 本70250 是2025 年9 月3 日考题，是8 月5 日考题70240 的第三次变体。第7-10 段改为了完全不同内容。其他段落不变。已经第三次变体了，如果今年下半年出题规律不变，那这个题之后就不会再考了。
 
-1.  _Hey, great to see you_! | _We've finally got a chance_ _to catch up_.
-    嘿，好高兴见到你！| 我们终于有机会聚一聚了。
-
-2.  对啊，咱们好久没坐下来| 慢慢喝咖啡聊聊天了。
-    _Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. / _Right, we haven't had a chance_ _to relax over coffee and talk in so long_.
-
-3.  _How's your day going_? | _You mentioned you were browsing_ _the mall before coming here_ _to meet me_.
-    你今天过得怎么样？| 你说你来这跟我见面之前| 还在逛商场呢。
-
-4.  对，我就是想买把新休闲椅，| 所以一直在商场里逛，| 想挑个质感好的。
-    _Yeah, I just want to buy_ _a new lounge chair_, | _so I've been looking around/browsing the mall_ | _for one that feels really nice/for a good-quality one_.
-
-5.  _That's awesome_. | _Big stores have loads of options_. | _But furniture can be expensive_, | _depending on what you want_.
-    那太好了。| 大商场的选择多得很。| 不过家具可不便宜啊，| 这要看你想要什么样的了。
-
-6.  我看上了一款奶油色皮质沙发，| 很对我胃口，可价格不算低。| 我不太确定最划算的| 付款方式是怎样的。
-    _I spotted a cream-colored_ _leather sofa that I really like_, | _but it isn't cheap_. | _I'm not sure which payment method_ _makes the most sense_.
-
 7.  _You can use a credit card_, | _which lets you keep your money_ _for a few weeks_ _before you have to pay_.
     你可以使用信用卡，| 这样在你必须付款之前，| 你的钱还能多留几周。
 
@@ -299,17 +253,6 @@ Briefing: The following dialogue takes place in a café between two friends. The
 10. 好的。如果我用信用卡付款，| 还能获得积分，| 还可以兑换其他商品。
     _Okay. If I pay by credit card_, | _I can also earn credits/points_ | _and redeem for other products_.
 
-11. _It's smart to think about_ _your best payment options_ _for big purchases_. | _You could save money_ _or make it easier to pay_.
-    考虑一下大额消费的| 最佳付款方式是明智的。| 你可能可以省钱，| 或者让付款更轻松。
-
-12. 我也这么觉得。| 我今晚好好比对一下，| 再明天去店里决定。| 我觉得这沙发放客厅| 肯定很棒。
-    _I agree. I'll carefully compare them tonight_ | _and decide at the store tomorrow_. | _I think that sofa_ _would look fantastic_ _in the living room_.
-
-13. _Creamy leather sounds_ _a perfect choice_. | _How about we grab a slice of cake_ _with our coffee to celebrate_?
-    奶油色的皮革，| 这选择听着太完美了。| 要不咱俩喝咖啡时| 再加块蛋糕，庆祝一下？
-
-14. 听起来很完美。| 我逛完这一圈，| 肚子都饿扁了。| 希望一切都顺利。
-    _Sounds perfect_. | _I'm starving after_ _all that shopping_. | _Hope it all works out_.
 
 ---
 
@@ -370,26 +313,6 @@ Briefing: This dialogue is a conversation between a new council employee and a m
 【萤火虫老师Tips】
 本70248 是8 月27 日考题，是8 月7 日考题70242 的变体。第8-11 段改为了完全不同内容。其他段落不变。
 
-1.  _Hi, welcome to the council_. | _I am glad you were able_ _to meet with me today_.
-    嗨，欢迎来到市政厅。很高兴你今天能来见我。
-
-2.  我一直很期待这次见面，| 我很乐意介绍我们社区中心的工作。
-    _I've been really looking forward_ _to this meeting_. | _I'm happy to tell you about_ _the work our community center does_.
-
-3.  _I appreciate that_, _I have only been working at the council_ | _for a few weeks_. | _So I have a lot to learn_ _about the center_.
-    谢谢。我在市政厅才工作了几个星期，| 所以这个中心还有很多需要我学习的内容。
-
-4.  我们为当地居民提供各种项目和活动。| 来社区中心的人很多样。有家庭，有老人，还有新移民。
-    _We run a variety of programs_ _and activities for the local people_. | _The people who come to_ _the community center are very diverse_. | _There are families, older people_ _and new migrants_.
-
-5.  _The local library is_ _located at the center too, I believe_. | _There are certainly a lot to manage_. | _It must be a busy place to work_.
-    我记得当地图书馆也在中心里。| 要管理的东西确实很多。这里工作肯定挺忙的。
-
-6.  是的，我真的很喜欢这份工作。| 不过，有你来帮我一起管理中心，我会非常高兴。一个人确实忙不过来。
-    _Yes, I really enjoy this job_. | _But I'd be very glad to have_ _your help managing the center_. | _It's really too much for_ _one person to handle_.
-
-7.  _I think I am going to like_ _the variety of my new job_. | _Please tell me where you might_ _need help first_.
-    我觉得我会很喜欢这份新工作带来的多样性。| 您先说说您可能最需要我帮忙的地方吧。
 
 8.  我希望把全部健身项目给你接管。| 项目太多了，我忙不过来了。
     _I hope you can take over_ _all the fitness programs_. | _There are too many programs_, _and I can't cope_ | _I'm swamped_ _I can't handle them all_.
@@ -403,14 +326,6 @@ Briefing: This dialogue is a conversation between a new council employee and a m
 11. _That's a lot. I'm sure_ _there's software that can help_ _manage or track all these_. | _I'll do some research first_.
     真不少啊。| 我相信有软件能帮助管理或追踪这些的。| 我先研究研究。
 
-12. 那真是太好了。我很高兴您能对我们的活动提出任何改进建议。| 我自己也一直在寻求新的想法。
-    _That's really great_, _I'm happy you can give any suggestions_ | _to improve our programs_. | _I myself have always been_ _looking for new ideas_.
-
-13. _That's good to know_, _once I am all familiar with everything_ _the center does_, | _I'm sure I'll be able to_ _come up with some ideas_.
-    真好。等我把中心的各项工作都熟悉了，| 我肯定能想出一些点子。
-
-14. 太棒了。我相信我们会合作的非常愉快。
-    _Great, I'm sure we'll work_ _together very well_.
 
 ---
 
@@ -421,23 +336,6 @@ Briefing: This dialogue takes place between a Mandarin-speaking house owner and 
 【萤火虫老师Tips】
 本70247 是8 月27 日考题，是8 月5 日考题70241 的变体。第7-10 段改为了完全不同内容。其他段落不变。
 
-1.  _Hey, the office mentioned_ _you'd drop by_ _to visit the site again today_. | _I bet you'll be pleased_ _with the progress_.
-    嗨，办公室那边说| 你今天要再来工地一趟。| 我相信你会对进度满意的。
-
-2.  对啊，我就在附近上班，| 顺路过来看看挺方便的。| 看着新房子一点点盖起来，我超激动的。
-    _Yeah, I work nearby_ | _so it's easy to swing by_. | _I'm thrilled watching my new house take shape_. / _I'm so excited watching_ _the new house being built little by little_!
-
-3.  _The crew has now finished_ _the walls, floors, and doors_. | _The supplier has finally_ _delivered the materials_ _early last week_.
-    施工队/工人们现在已经| 做完墙壁、地板和门了。| 上周早些时候，| 供应商总算把材料送到了。
-
-4.  速度真快！| 因为材料送过来的时间延期了，| 我本来还以为需要更长的时间呢。| 现在材料好像都很难买，| 运输也很慢。
-    _That was quick_! | _Since the material delivery was delayed_, | _I thought it would take longer_. | _Nowadays it seems really hard_ _to get materials_, | _and shipping is so slow too_.
-
-5.  _True, and material prices_ _have gone up too_. | _Since you're here_, | _I'd like to go over_ _the plans with you_.
-    没错，材料现在也涨价了。| 既然你来了，| 我想和你一起过一下图纸。
-
-6.  没问题。| 我感觉我每天晚上回家| 都会看施工图纸。| 所以每个房间具体会是什么样子的，| 我都清清楚楚。
-    _No problem at all_. | _I feel like I check_ _the construction plans_ _blueprints_ | _every night when I get home_. | _So, I know exactly_ _what each room will look like_.
 
 7.  _Well, the workers delivered_ _the kitchen cabinet and benchtop today_. | _Should they be installed_ _on the sidewall_?
     嗯，今天工人们| 把厨房橱柜和台面送来了。| 是应该装在侧墙那边吗？
@@ -451,17 +349,6 @@ Briefing: This dialogue takes place between a Mandarin-speaking house owner and 
 10. 噢，这可麻烦了。| 如果只是颜色不对还好，| 尺寸不对肯定不行。
     _Oh, that's troublesome_. | _If it's only the wrong color_, _that's fine_, | _but if the size is wrong_, | _then that definitely won't work_.
 
-11. _It struck me as a bit strange this morning_. | _That's why I inspect_ _the site every day_.
-    我今早上看着| 就突然觉得有点怪/不对劲，| 这也是为什么我每天| 都要到工地检查的原因。
-
-12. 太感谢了，| 让我放心多了。| 你这么快就能发现和解决问题，| 真的太棒了。
-    _Thanks so much_. | _That really puts my mind at ease_. | _It's so great you can_ _spot and fix issues promptly_.
-
-13. _Of course. I believe in_ _looking after my customers_, | _and I know how important it is_ _to keep track of everything_.
-    当然。我是客户至上的/| 我坚信得把客户服务好，| 而且我也知道每件事| 都把控好/跟进好/盯紧了有多重要。
-
-14. 设计这个房子| 有这么多的事情要做呀！| 我不知道盖一个房子| 需要这么复杂。
-    _There are so many things to do_ _when designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_.
 
 ---
 
@@ -472,23 +359,6 @@ Briefing: The following dialogue takes place in a café between two friends. The
 【萤火虫老师Tips】
 本70246 是8 月26 日考题，是8 月5 日考题70240 的变体。第7-10 段改为了完全不同内容。其他段落不变。
 
-1.  _Hey, great to see you_! | _We've finally got a chance_ _to catch up_.
-    嘿，好高兴见到你！| 我们终于有机会聚一聚了。
-
-2.  对啊，咱们好久没坐下来| 慢慢喝咖啡聊聊天了。
-    _Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. _Right, we haven't had a chance_ _to relax over coffee and talk in so long_.
-
-3.  _How's your day going_? | _You mentioned you were browsing_ _the mall before coming here_ _to meet me_.
-    你今天过得怎么样？| 你说你来这跟我见面之前| 还在逛商场呢。
-
-4.  对，我就是想买把新休闲椅，| 所以一直在商场里逛，| 想挑个质感好的。
-    _Yeah, I just want to buy_ _a new lounge chair_, | _so I've been looking around the mall_ | _for one that feels really nice_.
-
-5.  _That's awesome_. | _Big stores have loads of options_. | _But furniture can be expensive_, | _depending on what you want_.
-    那太好了。| 大商场的选择多得很。| 不过家具可不便宜啊，| 这要看你想要什么样的了。
-
-6.  我看上了一款奶油色皮质沙发，| 很对我胃口，可价格不算低。| 我不太确定最划算的| 付款方式是怎样的。
-    _I spotted a cream-colored_ _leather sofa that I really like_, | _but it isn't cheap_. | _I'm not sure which payment method_ _makes the most sense_.
 
 7.  _If I were you_, _I'd put it on lay-by_. | _That way, you can still get it_, | _and you'll have more time to pay_.
     如果我是你，| 我会使用"预留商品并分期付款"服务。| 这样，你还是能买到沙发，| 而且有更多时间付款。
@@ -501,18 +371,6 @@ Briefing: The following dialogue takes place in a café between two friends. The
 
 10. 不，一点也不。| 相比一次性付款，| 小额分期付款要简单得多。
     _No, not bad at all_. | _Compared with paying all at once_, | _small installment payments_ _are much simpler_.
-
-11. _It's smart to think about_ _your best payment options_ _for big purchases_. | _You could save money_ _or make it easier to pay_.
-    考虑一下大额消费的| 最佳付款方式是明智的。| 你可能可以省钱，| 或者让付款更轻松。
-
-12. 我也这么觉得。| 我今晚好好比对一下，| 再明天去店里决定。| 我觉得这沙发放客厅| 肯定很棒。
-    _I agree. I'll carefully compare them tonight_ | _and decide at the store tomorrow_. | _I think that sofa_ _would look fantastic_ _in the living room_.
-
-13. _Creamy leather sounds_ _a perfect choice_. | _How about we grab a slice of cake_ _with our coffee to celebrate_?
-    奶油色的皮革，| 这选择听着太完美了。| 要不咱俩喝咖啡时| 再加块蛋糕，庆祝一下？
-
-14. 听起来很完美。| 我逛完这一圈，| 肚子都饿扁了。| 希望一切都顺利。
-    _That sounds perfect_. | _I'm starving after_ _all that shopping_. | _Hope it all works out_.
 
 ---
 
