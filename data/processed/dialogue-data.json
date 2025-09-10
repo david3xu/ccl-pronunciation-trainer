@@ -1,5 +1,2252 @@
 [
   {
+    "id": "70253",
+    "title": "Inquiring About House Extension Approval",
+    "category": "business",
+    "briefing": "【萤火虫老师Tips】",
+    "sentences": [
+      {
+        "id": 1,
+        "english": "_Good morning. Welcome to the council planning office_. | _How can I help you today_?",
+        "chinese": "早上好，欢迎来到市政规划办公室。我今天能帮您什么吗？",
+        "vocabulary": [
+          {
+            "term": "Good morning Welcome to the council planning office",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈgood ˈmorning ˈwelcome ˈto ˈthe ˈcouncil ˈplanning ˈoffice/",
+            "context": "_Good morning. Welcome to the council planning office_. | _How can I help you today_?"
+          },
+          {
+            "term": "How can I help you today",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhow ˈcan ˈi ˈhelp ˈyou ˈtoday/",
+            "context": "_Good morning. Welcome to the council planning office_. | _How can I help you today_?"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "english": "_Hello, I just moved here from overseas_. | _I want to renovate my house_, | _but I'm not sure if it needs approval_.",
+        "chinese": "你好，我刚从海外搬来这里。| 我想对我的房子进行改造，| 但是我不知道这需不需要批准。",
+        "vocabulary": [
+          {
+            "term": "Hello I just moved here from overseas",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhello ˈi ˈjust ˈmoved ˈhere ˈfrom ˈoverseas/",
+            "context": "_Hello, I just moved here from overseas_. | _I want to renovate my house_, | _but I'm not sure if it needs approval_."
+          },
+          {
+            "term": "I want to renovate my house",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈwant ˈto ˈrenovate ˈmy ˈhouse/",
+            "context": "_Hello, I just moved here from overseas_. | _I want to renovate my house_, | _but I'm not sure if it needs approval_."
+          },
+          {
+            "term": "but I'm not sure if it needs approval",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈbut ˈi'm ˈnot ˈsure ˈif ˈit ˈneeds ˈapproval/",
+            "context": "_Hello, I just moved here from overseas_. | _I want to renovate my house_, | _but I'm not sure if it needs approval_."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "english": "_It depends on your project_. | _You don't need council approval_ _if you are just updating your bathroom_. | _However, you do need approval_ _if it is a major building work_.",
+        "chinese": "这取决于您的项目。| 如果只是翻新浴室，不需要市政批准。| 但如果是重大建筑工程，就确实需要批准。",
+        "vocabulary": [
+          {
+            "term": "It depends on your project",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈit ˈdepends ˈon ˈyour ˈproject/",
+            "context": "_It depends on your project_. | _You don't need council approval_ _if you are just updating your bathroom_. | _However, you do need approval_ _if it is a major building work_."
+          },
+          {
+            "term": "You don't need council approval",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyou ˈdon't ˈneed ˈcouncil ˈapproval/",
+            "context": "_It depends on your project_. | _You don't need council approval_ _if you are just updating your bathroom_. | _However, you do need approval_ _if it is a major building work_."
+          },
+          {
+            "term": "if you are just updating your bathroom",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈif ˈyou ˈare ˈjust ˈupdating ˈyour ˈbathroom/",
+            "context": "_It depends on your project_. | _You don't need council approval_ _if you are just updating your bathroom_. | _However, you do need approval_ _if it is a major building work_."
+          },
+          {
+            "term": "However you do need approval",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhowever ˈyou ˈdo ˈneed ˈapproval/",
+            "context": "_It depends on your project_. | _You don't need council approval_ _if you are just updating your bathroom_. | _However, you do need approval_ _if it is a major building work_."
+          },
+          {
+            "term": "if it is a major building work",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈif ˈit ˈis ˈa ˈmajor ˈbuilding ˈwork/",
+            "context": "_It depends on your project_. | _You don't need council approval_ _if you are just updating your bathroom_. | _However, you do need approval_ _if it is a major building work_."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "english": "_I want to extend my house and add a few rooms_, | _so the space will be bigger_. | _It looks like these changes need approval_.",
+        "chinese": "我想要扩建自己的房子，| 增加几个房间，这样空间就会更大。| 这样看来，这些改动需要批准啊。",
+        "vocabulary": [
+          {
+            "term": "I want to extend my house and add a few rooms",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈwant ˈto ˈextend ˈmy ˈhouse ˈand ˈadd ˈa ˈfew ˈrooms/",
+            "context": "_I want to extend my house and add a few rooms_, | _so the space will be bigger_. | _It looks like these changes need approval_."
+          },
+          {
+            "term": "so the space will be bigger",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈso ˈthe ˈspace ˈwill ˈbe ˈbigger/",
+            "context": "_I want to extend my house and add a few rooms_, | _so the space will be bigger_. | _It looks like these changes need approval_."
+          },
+          {
+            "term": "It looks like these changes need approval",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈit ˈlooks ˈlike ˈthese ˈchanges ˈneed ˈapproval/",
+            "context": "_I want to extend my house and add a few rooms_, | _so the space will be bigger_. | _It looks like these changes need approval_."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "english": "_Yes, definitely. It is a big project_. | _You need to submit a development application_ _to the council_. | _It should include the architectural drawings_ _and site plans_.",
+        "chinese": "是的，肯定需要。这是个大工程。| 您需要向市政提交开发申请，| 申请里应包括建筑图纸和场地平面图/规划图。",
+        "vocabulary": [
+          {
+            "term": "Yes definitely It is a big project",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyes ˈdefinitely ˈit ˈis ˈa ˈbig ˈproject/",
+            "context": "_Yes, definitely. It is a big project_. | _You need to submit a development application_ _to the council_. | _It should include the architectural drawings_ _and site plans_."
+          },
+          {
+            "term": "You need to submit a development application",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyou ˈneed ˈto ˈsubmit ˈa ˈdevelopment ˈapplication/",
+            "context": "_Yes, definitely. It is a big project_. | _You need to submit a development application_ _to the council_. | _It should include the architectural drawings_ _and site plans_."
+          },
+          {
+            "term": "to the council",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈto ˈthe ˈcouncil/",
+            "context": "_Yes, definitely. It is a big project_. | _You need to submit a development application_ _to the council_. | _It should include the architectural drawings_ _and site plans_."
+          },
+          {
+            "term": "It should include the architectural drawings",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈit ˈshould ˈinclude ˈthe ˈarchitectural ˈdrawings/",
+            "context": "_Yes, definitely. It is a big project_. | _You need to submit a development application_ _to the council_. | _It should include the architectural drawings_ _and site plans_."
+          },
+          {
+            "term": "and site plans",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈand ˈsite ˈplans/",
+            "context": "_Yes, definitely. It is a big project_. | _You need to submit a development application_ _to the council_. | _It should include the architectural drawings_ _and site plans_."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "english": "_Okay, I will do that_. | _How long does the approval process usually take_? | _I want to start the extension as soon as possible_.",
+        "chinese": "好的，我会这么做的。| 批准程序一般需要多长时间？| 我希望能尽快开始扩建。",
+        "vocabulary": [
+          {
+            "term": "Okay I will do that",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈokay ˈi ˈwill ˈdo ˈthat/",
+            "context": "_Okay, I will do that_. | _How long does the approval process usually take_? | _I want to start the extension as soon as possible_."
+          },
+          {
+            "term": "How long does the approval process usually take",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhow ˈlong ˈdoes ˈthe ˈapproval ˈprocess ˈusually ˈtake/",
+            "context": "_Okay, I will do that_. | _How long does the approval process usually take_? | _I want to start the extension as soon as possible_."
+          },
+          {
+            "term": "I want to start the extension as soon as possible",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈwant ˈto ˈstart ˈthe ˈextension ˈas ˈsoon ˈas ˈpossible/",
+            "context": "_Okay, I will do that_. | _How long does the approval process usually take_? | _I want to start the extension as soon as possible_."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "english": "_Council approval can take several months_, | _depending on the complexity of your project_. | _It also depends on whether there are objections_ _from your neighbors_.",
+        "chinese": "市政批准可能需要几个月时间，| 取决于您的项目复杂程度，| 也取决于您的邻居是否会反对。",
+        "vocabulary": [
+          {
+            "term": "Council approval can take several months",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈcouncil ˈapproval ˈcan ˈtake ˈseveral ˈmonths/",
+            "context": "_Council approval can take several months_, | _depending on the complexity of your project_. | _It also depends on whether there are objections_ _from your neighbors_."
+          },
+          {
+            "term": "depending on the complexity of your project",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈdepending ˈon ˈthe ˈcomplexity ˈof ˈyour ˈproject/",
+            "context": "_Council approval can take several months_, | _depending on the complexity of your project_. | _It also depends on whether there are objections_ _from your neighbors_."
+          },
+          {
+            "term": "It also depends on whether there are objections",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈit ˈalso ˈdepends ˈon ˈwhether ˈthere ˈare ˈobjections/",
+            "context": "_Council approval can take several months_, | _depending on the complexity of your project_. | _It also depends on whether there are objections_ _from your neighbors_."
+          },
+          {
+            "term": "from your neighbors",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈfrom ˈyour ˈneighbors/",
+            "context": "_Council approval can take several months_, | _depending on the complexity of your project_. | _It also depends on whether there are objections_ _from your neighbors_."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "english": "_It seems this process is quite complicated_. | _I didn't expect the council's review_ _to take this long_, | _and I didn't expect the neighbors might complain_.",
+        "chinese": "这样看来，这个程序很复杂啊。| 我没想过市政厅的审核要这么久，| 我也没想过邻居会投诉。",
+        "vocabulary": [
+          {
+            "term": "It seems this process is quite complicated",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈit ˈseems ˈthis ˈprocess ˈis ˈquite ˈcomplicated/",
+            "context": "_It seems this process is quite complicated_. | _I didn't expect the council's review_ _to take this long_, | _and I didn't expect the neighbors might complain_."
+          },
+          {
+            "term": "I didn't expect the council's review",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈdidn't ˈexpect ˈthe ˈcouncil's ˈreview/",
+            "context": "_It seems this process is quite complicated_. | _I didn't expect the council's review_ _to take this long_, | _and I didn't expect the neighbors might complain_."
+          },
+          {
+            "term": "to take this long",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈto ˈtake ˈthis ˈlong/",
+            "context": "_It seems this process is quite complicated_. | _I didn't expect the council's review_ _to take this long_, | _and I didn't expect the neighbors might complain_."
+          },
+          {
+            "term": "and I didn't expect the neighbors might complain",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈi ˈdidn't ˈexpect ˈthe ˈneighbors ˈmight ˈcomplain/",
+            "context": "_It seems this process is quite complicated_. | _I didn't expect the council's review_ _to take this long_, | _and I didn't expect the neighbors might complain_."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "english": "_The neighbors usually only complain_ _if what you build affects their privacy_ | _or how they use the backyard_. | _Not all complaints will be upheld though_.",
+        "chinese": "邻居通常只有在您的建筑影响到他们的隐私| 或影响他们使用后院时才会投诉。| 不过，并不是所有投诉都会被采纳/都会成立。",
+        "vocabulary": [
+          {
+            "term": "The neighbors usually only complain",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈneighbors ˈusually ˈonly ˈcomplain/",
+            "context": "_The neighbors usually only complain_ _if what you build affects their privacy_ | _or how they use the backyard_. | _Not all complaints will be upheld though_."
+          },
+          {
+            "term": "if what you build affects their privacy",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈif ˈwhat ˈyou ˈbuild ˈaffects ˈtheir ˈprivacy/",
+            "context": "_The neighbors usually only complain_ _if what you build affects their privacy_ | _or how they use the backyard_. | _Not all complaints will be upheld though_."
+          },
+          {
+            "term": "or how they use the backyard",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈor ˈhow ˈthey ˈuse ˈthe ˈbackyard/",
+            "context": "_The neighbors usually only complain_ _if what you build affects their privacy_ | _or how they use the backyard_. | _Not all complaints will be upheld though_."
+          },
+          {
+            "term": "Not all complaints will be upheld though",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈnot ˈall ˈcomplaints ˈwill ˈbe ˈupheld ˈthough/",
+            "context": "_The neighbors usually only complain_ _if what you build affects their privacy_ | _or how they use the backyard_. | _Not all complaints will be upheld though_."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "english": "_Okay, I don't think the neighbors will complain_. | _There's a park behind my house_, | _so the extension won't affect anyone's privacy_.",
+        "chinese": "好的，我觉得邻居应该不会抱怨，| 我的房子后面是一个公园，| 所以扩建不会影响到任何人的隐私。",
+        "vocabulary": [
+          {
+            "term": "Okay I don't think the neighbors will complain",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈokay ˈi ˈdon't ˈthink ˈthe ˈneighbors ˈwill ˈcomplain/",
+            "context": "_Okay, I don't think the neighbors will complain_. | _There's a park behind my house_, | _so the extension won't affect anyone's privacy_."
+          },
+          {
+            "term": "There's a park behind my house",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthere's ˈa ˈpark ˈbehind ˈmy ˈhouse/",
+            "context": "_Okay, I don't think the neighbors will complain_. | _There's a park behind my house_, | _so the extension won't affect anyone's privacy_."
+          },
+          {
+            "term": "so the extension won't affect anyone's privacy",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈso ˈthe ˈextension ˈwon't ˈaffect ˈanyone's ˈprivacy/",
+            "context": "_Okay, I don't think the neighbors will complain_. | _There's a park behind my house_, | _so the extension won't affect anyone's privacy_."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "english": "_That will help_. | _The council will either approve the application_ _or reject it_. | _If it's rejected, you can make changes_ _and submit again_.",
+        "chinese": "这会有帮助。| 市政会批准或拒绝申请。| 如果被拒，您可以修改后再次提交。",
+        "vocabulary": [
+          {
+            "term": "That will help",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈthat ˈwill ˈhelp/",
+            "context": "_That will help_. | _The council will either approve the application_ _or reject it_. | _If it's rejected, you can make changes_ _and submit again_."
+          },
+          {
+            "term": "The council will either approve the application",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈcouncil ˈwill ˈeither ˈapprove ˈthe ˈapplication/",
+            "context": "_That will help_. | _The council will either approve the application_ _or reject it_. | _If it's rejected, you can make changes_ _and submit again_."
+          },
+          {
+            "term": "or reject it",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈor ˈreject ˈit/",
+            "context": "_That will help_. | _The council will either approve the application_ _or reject it_. | _If it's rejected, you can make changes_ _and submit again_."
+          },
+          {
+            "term": "If it's rejected you can make changes",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈif ˈit's ˈrejected ˈyou ˈcan ˈmake ˈchanges/",
+            "context": "_That will help_. | _The council will either approve the application_ _or reject it_. | _If it's rejected, you can make changes_ _and submit again_."
+          },
+          {
+            "term": "and submit again",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈand ˈsubmit ˈagain/",
+            "context": "_That will help_. | _The council will either approve the application_ _or reject it_. | _If it's rejected, you can make changes_ _and submit again_."
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "english": "_It's great to know this_. | _I hope the project will be approved smoothly_, | _and hopefully without any changes_, | _so it won't cause any more delays_.",
+        "chinese": "了解这些太好了。| 我希望项目可以顺利批准，| 而且最好不需要修改，| 这样就不会再耽误时间了。",
+        "vocabulary": [
+          {
+            "term": "It's great to know this",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈit's ˈgreat ˈto ˈknow ˈthis/",
+            "context": "_It's great to know this_. | _I hope the project will be approved smoothly_, | _and hopefully without any changes_, | _so it won't cause any more delays_."
+          },
+          {
+            "term": "I hope the project will be approved smoothly",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈhope ˈthe ˈproject ˈwill ˈbe ˈapproved ˈsmoothly/",
+            "context": "_It's great to know this_. | _I hope the project will be approved smoothly_, | _and hopefully without any changes_, | _so it won't cause any more delays_."
+          },
+          {
+            "term": "and hopefully without any changes",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈhopefully ˈwithout ˈany ˈchanges/",
+            "context": "_It's great to know this_. | _I hope the project will be approved smoothly_, | _and hopefully without any changes_, | _so it won't cause any more delays_."
+          },
+          {
+            "term": "so it won't cause any more delays",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈso ˈit ˈwon't ˈcause ˈany ˈmore ˈdelays/",
+            "context": "_It's great to know this_. | _I hope the project will be approved smoothly_, | _and hopefully without any changes_, | _so it won't cause any more delays_."
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "english": "_It is also a good idea_ _to check the application carefully_ _before you submit_. | _You definitely don't want any delays_ _because of any missing information_.",
+        "chinese": "在提交之前仔细检查申请也是个很好的主意。| 您肯定不想因为缺了什么信息而延误。",
+        "vocabulary": [
+          {
+            "term": "It is also a good idea",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈit ˈis ˈalso ˈa ˈgood ˈidea/",
+            "context": "_It is also a good idea_ _to check the application carefully_ _before you submit_. | _You definitely don't want any delays_ _because of any missing information_."
+          },
+          {
+            "term": "to check the application carefully",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈto ˈcheck ˈthe ˈapplication ˈcarefully/",
+            "context": "_It is also a good idea_ _to check the application carefully_ _before you submit_. | _You definitely don't want any delays_ _because of any missing information_."
+          },
+          {
+            "term": "before you submit",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈbefore ˈyou ˈsubmit/",
+            "context": "_It is also a good idea_ _to check the application carefully_ _before you submit_. | _You definitely don't want any delays_ _because of any missing information_."
+          },
+          {
+            "term": "You definitely don't want any delays",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyou ˈdefinitely ˈdon't ˈwant ˈany ˈdelays/",
+            "context": "_It is also a good idea_ _to check the application carefully_ _before you submit_. | _You definitely don't want any delays_ _because of any missing information_."
+          },
+          {
+            "term": "because of any missing information",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈbecause ˈof ˈany ˈmissing ˈinformation/",
+            "context": "_It is also a good idea_ _to check the application carefully_ _before you submit_. | _You definitely don't want any delays_ _because of any missing information_."
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "english": "_Thank you for your help_. | _I'd better start preparing the application now_, | _or I won't be able to build anything_.",
+        "chinese": "谢谢你的帮助，| 我最好现在就开始准备申请，| 不然，我什么都建不了。",
+        "vocabulary": [
+          {
+            "term": "Thank you for your help",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthank ˈyou ˈfor ˈyour ˈhelp/",
+            "context": "_Thank you for your help_. | _I'd better start preparing the application now_, | _or I won't be able to build anything_."
+          },
+          {
+            "term": "I'd better start preparing the application now",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'd ˈbetter ˈstart ˈpreparing ˈthe ˈapplication ˈnow/",
+            "context": "_Thank you for your help_. | _I'd better start preparing the application now_, | _or I won't be able to build anything_."
+          },
+          {
+            "term": "or I won't be able to build anything",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈor ˈi ˈwon't ˈbe ˈable ˈto ˈbuild ˈanything/",
+            "context": "_Thank you for your help_. | _I'd better start preparing the application now_, | _or I won't be able to build anything_."
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "source_file": "merged-conversations.md",
+      "extraction_date": "2025-09-10T09:26:11.787Z",
+      "total_vocabulary_terms": 53
+    }
+  },
+  {
+    "id": "70252",
+    "title": "Suite Bathroom Design Clarification 3",
+    "category": "business",
+    "briefing": "【萤火虫老师Tips】",
+    "sentences": [
+      {
+        "id": 1,
+        "english": "_Hey, the office mentioned_ _you'd drop by_ _to visit the site again today_. | _I bet you'll be pleased_ _with the progress_.",
+        "chinese": "嗨，办公室那边说| 你今天要再来工地一趟。| 我相信你会对进度满意的。",
+        "vocabulary": [
+          {
+            "term": "Hey the office mentioned",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhey ˈthe ˈoffice ˈmentioned/",
+            "context": "_Hey, the office mentioned_ _you'd drop by_ _to visit the site again today_. | _I bet you'll be pleased_ _with the progress_."
+          },
+          {
+            "term": "you'd drop by",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈyou'd ˈdrop ˈby/",
+            "context": "_Hey, the office mentioned_ _you'd drop by_ _to visit the site again today_. | _I bet you'll be pleased_ _with the progress_."
+          },
+          {
+            "term": "to visit the site again today",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈto ˈvisit ˈthe ˈsite ˈagain ˈtoday/",
+            "context": "_Hey, the office mentioned_ _you'd drop by_ _to visit the site again today_. | _I bet you'll be pleased_ _with the progress_."
+          },
+          {
+            "term": "I bet you'll be pleased",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈbet ˈyou'll ˈbe ˈpleased/",
+            "context": "_Hey, the office mentioned_ _you'd drop by_ _to visit the site again today_. | _I bet you'll be pleased_ _with the progress_."
+          },
+          {
+            "term": "with the progress",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈwith ˈthe ˈprogress/",
+            "context": "_Hey, the office mentioned_ _you'd drop by_ _to visit the site again today_. | _I bet you'll be pleased_ _with the progress_."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "english": "_Yeah, I work nearby_ | _so it's easy to swing by_. | _I'm thrilled watching my new house take shape_. / _I'm so excited watching_ _the new house being built little by little_!",
+        "chinese": "对啊，我就在附近上班，| 顺路过来看看挺方便的。| 看着新房子一点点盖起来，我超激动的。",
+        "vocabulary": [
+          {
+            "term": "Yeah I work nearby",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyeah ˈi ˈwork ˈnearby/",
+            "context": "_Yeah, I work nearby_ | _so it's easy to swing by_. | _I'm thrilled watching my new house take shape_. / _I'm so excited watching_ _the new house being built little by little_!"
+          },
+          {
+            "term": "so it's easy to swing by",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈso ˈit's ˈeasy ˈto ˈswing ˈby/",
+            "context": "_Yeah, I work nearby_ | _so it's easy to swing by_. | _I'm thrilled watching my new house take shape_. / _I'm so excited watching_ _the new house being built little by little_!"
+          },
+          {
+            "term": "I'm thrilled watching my new house take shape",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'm ˈthrilled ˈwatching ˈmy ˈnew ˈhouse ˈtake ˈshape/",
+            "context": "_Yeah, I work nearby_ | _so it's easy to swing by_. | _I'm thrilled watching my new house take shape_. / _I'm so excited watching_ _the new house being built little by little_!"
+          },
+          {
+            "term": "I'm so excited watching",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'm ˈso ˈexcited ˈwatching/",
+            "context": "_Yeah, I work nearby_ | _so it's easy to swing by_. | _I'm thrilled watching my new house take shape_. / _I'm so excited watching_ _the new house being built little by little_!"
+          },
+          {
+            "term": "the new house being built little by little",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈnew ˈhouse ˈbeing ˈbuilt ˈlittle ˈby ˈlittle/",
+            "context": "_Yeah, I work nearby_ | _so it's easy to swing by_. | _I'm thrilled watching my new house take shape_. / _I'm so excited watching_ _the new house being built little by little_!"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "english": "_The crew has now finished_ _the walls, floors, and doors_. | _The supplier has finally_ _delivered the materials_ _early last week_.",
+        "chinese": "施工队/工人们现在已经| 做完墙壁、地板和门了。| 上周早些时候，| 供应商总算把材料送到了。",
+        "vocabulary": [
+          {
+            "term": "The crew has now finished",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈcrew ˈhas ˈnow ˈfinished/",
+            "context": "_The crew has now finished_ _the walls, floors, and doors_. | _The supplier has finally_ _delivered the materials_ _early last week_."
+          },
+          {
+            "term": "the walls floors and doors",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈwalls ˈfloors ˈand ˈdoors/",
+            "context": "_The crew has now finished_ _the walls, floors, and doors_. | _The supplier has finally_ _delivered the materials_ _early last week_."
+          },
+          {
+            "term": "The supplier has finally",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈsupplier ˈhas ˈfinally/",
+            "context": "_The crew has now finished_ _the walls, floors, and doors_. | _The supplier has finally_ _delivered the materials_ _early last week_."
+          },
+          {
+            "term": "delivered the materials",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈdelivered ˈthe ˈmaterials/",
+            "context": "_The crew has now finished_ _the walls, floors, and doors_. | _The supplier has finally_ _delivered the materials_ _early last week_."
+          },
+          {
+            "term": "early last week",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈearly ˈlast ˈweek/",
+            "context": "_The crew has now finished_ _the walls, floors, and doors_. | _The supplier has finally_ _delivered the materials_ _early last week_."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "english": "_That was quick_! | _Since the material delivery was delayed_, | _I thought it would take longer_. | _Nowadays it seems really hard_ _to get materials_, | _and shipping is so slow too_.",
+        "chinese": "速度真快！| 因为材料送过来的时间延期了，| 我本来还以为需要更长的时间呢。| 现在材料好像都很难买，| 运输也很慢。",
+        "vocabulary": [
+          {
+            "term": "That was quick",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈthat ˈwas ˈquick/",
+            "context": "_That was quick_! | _Since the material delivery was delayed_, | _I thought it would take longer_. | _Nowadays it seems really hard_ _to get materials_, | _and shipping is so slow too_."
+          },
+          {
+            "term": "Since the material delivery was delayed",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈsince ˈthe ˈmaterial ˈdelivery ˈwas ˈdelayed/",
+            "context": "_That was quick_! | _Since the material delivery was delayed_, | _I thought it would take longer_. | _Nowadays it seems really hard_ _to get materials_, | _and shipping is so slow too_."
+          },
+          {
+            "term": "I thought it would take longer",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈthought ˈit ˈwould ˈtake ˈlonger/",
+            "context": "_That was quick_! | _Since the material delivery was delayed_, | _I thought it would take longer_. | _Nowadays it seems really hard_ _to get materials_, | _and shipping is so slow too_."
+          },
+          {
+            "term": "Nowadays it seems really hard",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈnowadays ˈit ˈseems ˈreally ˈhard/",
+            "context": "_That was quick_! | _Since the material delivery was delayed_, | _I thought it would take longer_. | _Nowadays it seems really hard_ _to get materials_, | _and shipping is so slow too_."
+          },
+          {
+            "term": "to get materials",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈto ˈget ˈmaterials/",
+            "context": "_That was quick_! | _Since the material delivery was delayed_, | _I thought it would take longer_. | _Nowadays it seems really hard_ _to get materials_, | _and shipping is so slow too_."
+          },
+          {
+            "term": "and shipping is so slow too",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈshipping ˈis ˈso ˈslow ˈtoo/",
+            "context": "_That was quick_! | _Since the material delivery was delayed_, | _I thought it would take longer_. | _Nowadays it seems really hard_ _to get materials_, | _and shipping is so slow too_."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "english": "_True, and material prices_ _have gone up too_. | _Since you're here_, | _I'd like to go over_ _the plans with you_.",
+        "chinese": "没错，材料现在也涨价了。| 既然你来了，| 我想和你一起过一下图纸。",
+        "vocabulary": [
+          {
+            "term": "True and material prices",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈtrue ˈand ˈmaterial ˈprices/",
+            "context": "_True, and material prices_ _have gone up too_. | _Since you're here_, | _I'd like to go over_ _the plans with you_."
+          },
+          {
+            "term": "have gone up too",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhave ˈgone ˈup ˈtoo/",
+            "context": "_True, and material prices_ _have gone up too_. | _Since you're here_, | _I'd like to go over_ _the plans with you_."
+          },
+          {
+            "term": "Since you're here",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈsince ˈyou're ˈhere/",
+            "context": "_True, and material prices_ _have gone up too_. | _Since you're here_, | _I'd like to go over_ _the plans with you_."
+          },
+          {
+            "term": "I'd like to go over",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'd ˈlike ˈto ˈgo ˈover/",
+            "context": "_True, and material prices_ _have gone up too_. | _Since you're here_, | _I'd like to go over_ _the plans with you_."
+          },
+          {
+            "term": "the plans with you",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈplans ˈwith ˈyou/",
+            "context": "_True, and material prices_ _have gone up too_. | _Since you're here_, | _I'd like to go over_ _the plans with you_."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "english": "_No problem_. | _I feel like I check_ _the construction plans/blueprints_ | _every night when I get home_. | _So, I know exactly_ _what each room will look like_.",
+        "chinese": "没问题。| 我感觉我每天晚上回家| 都会看施工图纸。| 所以每个房间具体会是什么样子的，| 我都清清楚楚。",
+        "vocabulary": [
+          {
+            "term": "No problem",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈno ˈproblem/",
+            "context": "_No problem_. | _I feel like I check_ _the construction plans/blueprints_ | _every night when I get home_. | _So, I know exactly_ _what each room will look like_."
+          },
+          {
+            "term": "I feel like I check",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈfeel ˈlike ˈi ˈcheck/",
+            "context": "_No problem_. | _I feel like I check_ _the construction plans/blueprints_ | _every night when I get home_. | _So, I know exactly_ _what each room will look like_."
+          },
+          {
+            "term": "the construction plans/blueprints",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈthe ˈconstruction ˈplans/blueprints/",
+            "context": "_No problem_. | _I feel like I check_ _the construction plans/blueprints_ | _every night when I get home_. | _So, I know exactly_ _what each room will look like_."
+          },
+          {
+            "term": "every night when I get home",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈevery ˈnight ˈwhen ˈi ˈget ˈhome/",
+            "context": "_No problem_. | _I feel like I check_ _the construction plans/blueprints_ | _every night when I get home_. | _So, I know exactly_ _what each room will look like_."
+          },
+          {
+            "term": "So I know exactly",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈso ˈi ˈknow ˈexactly/",
+            "context": "_No problem_. | _I feel like I check_ _the construction plans/blueprints_ | _every night when I get home_. | _So, I know exactly_ _what each room will look like_."
+          },
+          {
+            "term": "what each room will look like",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwhat ˈeach ˈroom ˈwill ˈlook ˈlike/",
+            "context": "_No problem_. | _I feel like I check_ _the construction plans/blueprints_ | _every night when I get home_. | _So, I know exactly_ _what each room will look like_."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "english": "_I know you were debating between_ _the light-colored timber flooring_ _and the tiles for the living room and kitchen_. | _Have you changed your mind_?",
+        "chinese": "我知道你之前就在客厅和厨房的浅色木地板和瓷砖之间犹豫。| 你改主意了吗？",
+        "vocabulary": [
+          {
+            "term": "I know you were debating between",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈknow ˈyou ˈwere ˈdebating ˈbetween/",
+            "context": "_I know you were debating between_ _the light-colored timber flooring_ _and the tiles for the living room and kitchen_. | _Have you changed your mind_?"
+          },
+          {
+            "term": "the light-colored timber flooring",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈlight-colored ˈtimber ˈflooring/",
+            "context": "_I know you were debating between_ _the light-colored timber flooring_ _and the tiles for the living room and kitchen_. | _Have you changed your mind_?"
+          },
+          {
+            "term": "and the tiles for the living room and kitchen",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈthe ˈtiles ˈfor ˈthe ˈliving ˈroom ˈand ˈkitchen/",
+            "context": "_I know you were debating between_ _the light-colored timber flooring_ _and the tiles for the living room and kitchen_. | _Have you changed your mind_?"
+          },
+          {
+            "term": "Have you changed your mind",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhave ˈyou ˈchanged ˈyour ˈmind/",
+            "context": "_I know you were debating between_ _the light-colored timber flooring_ _and the tiles for the living room and kitchen_. | _Have you changed your mind_?"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "english": "_No, I'm sure I want tiles_. | _I haven't changed my mind_ _since I made the decision_. | _After all, it took me a long time_ _to make it_.",
+        "chinese": "不，我确信我要用瓷砖。| 在我做出决定之后，| 我就没改变过主意，| 毕竟，做这个决定花了我很长时间。",
+        "vocabulary": [
+          {
+            "term": "No I'm sure I want tiles",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈno ˈi'm ˈsure ˈi ˈwant ˈtiles/",
+            "context": "_No, I'm sure I want tiles_. | _I haven't changed my mind_ _since I made the decision_. | _After all, it took me a long time_ _to make it_."
+          },
+          {
+            "term": "I haven't changed my mind",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈhaven't ˈchanged ˈmy ˈmind/",
+            "context": "_No, I'm sure I want tiles_. | _I haven't changed my mind_ _since I made the decision_. | _After all, it took me a long time_ _to make it_."
+          },
+          {
+            "term": "since I made the decision",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈsince ˈi ˈmade ˈthe ˈdecision/",
+            "context": "_No, I'm sure I want tiles_. | _I haven't changed my mind_ _since I made the decision_. | _After all, it took me a long time_ _to make it_."
+          },
+          {
+            "term": "After all it took me a long time",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈafter ˈall ˈit ˈtook ˈme ˈa ˈlong ˈtime/",
+            "context": "_No, I'm sure I want tiles_. | _I haven't changed my mind_ _since I made the decision_. | _After all, it took me a long time_ _to make it_."
+          },
+          {
+            "term": "to make it",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈto ˈmake ˈit/",
+            "context": "_No, I'm sure I want tiles_. | _I haven't changed my mind_ _since I made the decision_. | _After all, it took me a long time_ _to make it_."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "english": "_Oh dear! I was afraid of that_. | _We must have mixed up the order_. | _The supplier has delivered_ _the timber flooring_.",
+        "chinese": "哎呀！我就怕是这样。| 我们肯定是把订单搞混了。| 供应商已经把木地板送来了。",
+        "vocabulary": [
+          {
+            "term": "Oh dear I was afraid of that",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈoh ˈdear ˈi ˈwas ˈafraid ˈof ˈthat/",
+            "context": "_Oh dear! I was afraid of that_. | _We must have mixed up the order_. | _The supplier has delivered_ _the timber flooring_."
+          },
+          {
+            "term": "We must have mixed up the order",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwe ˈmust ˈhave ˈmixed ˈup ˈthe ˈorder/",
+            "context": "_Oh dear! I was afraid of that_. | _We must have mixed up the order_. | _The supplier has delivered_ _the timber flooring_."
+          },
+          {
+            "term": "The supplier has delivered",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈsupplier ˈhas ˈdelivered/",
+            "context": "_Oh dear! I was afraid of that_. | _We must have mixed up the order_. | _The supplier has delivered_ _the timber flooring_."
+          },
+          {
+            "term": "the timber flooring",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈthe ˈtimber ˈflooring/",
+            "context": "_Oh dear! I was afraid of that_. | _We must have mixed up the order_. | _The supplier has delivered_ _the timber flooring_."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "english": "_Wood flooring isn't a bad idea_, | _but I still prefer tiles_. | _I'm really glad you caught this_ _before the workers start laying it down_.",
+        "chinese": "用木地板也不是一个坏主意，| 但是我还是更想用瓷砖。| 我很高兴你在工人开始铺木地板之前| 就发现了这个问题。",
+        "vocabulary": [
+          {
+            "term": "Wood flooring isn't a bad idea",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwood ˈflooring ˈisn't ˈa ˈbad ˈidea/",
+            "context": "_Wood flooring isn't a bad idea_, | _but I still prefer tiles_. | _I'm really glad you caught this_ _before the workers start laying it down_."
+          },
+          {
+            "term": "but I still prefer tiles",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈbut ˈi ˈstill ˈprefer ˈtiles/",
+            "context": "_Wood flooring isn't a bad idea_, | _but I still prefer tiles_. | _I'm really glad you caught this_ _before the workers start laying it down_."
+          },
+          {
+            "term": "I'm really glad you caught this",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'm ˈreally ˈglad ˈyou ˈcaught ˈthis/",
+            "context": "_Wood flooring isn't a bad idea_, | _but I still prefer tiles_. | _I'm really glad you caught this_ _before the workers start laying it down_."
+          },
+          {
+            "term": "before the workers start laying it down",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈbefore ˈthe ˈworkers ˈstart ˈlaying ˈit ˈdown/",
+            "context": "_Wood flooring isn't a bad idea_, | _but I still prefer tiles_. | _I'm really glad you caught this_ _before the workers start laying it down_."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "english": "_It struck me as a bit strange this morning_. | _That's why I inspect_ _the site every day_.",
+        "chinese": "我今早上看着| 就突然觉得有点怪/不对劲，| 这也是为什么我每天| 都要到工地检查的原因。",
+        "vocabulary": [
+          {
+            "term": "It struck me as a bit strange this morning",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈit ˈstruck ˈme ˈas ˈa ˈbit ˈstrange ˈthis ˈmorning/",
+            "context": "_It struck me as a bit strange this morning_. | _That's why I inspect_ _the site every day_."
+          },
+          {
+            "term": "That's why I inspect",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthat's ˈwhy ˈi ˈinspect/",
+            "context": "_It struck me as a bit strange this morning_. | _That's why I inspect_ _the site every day_."
+          },
+          {
+            "term": "the site every day",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈsite ˈevery ˈday/",
+            "context": "_It struck me as a bit strange this morning_. | _That's why I inspect_ _the site every day_."
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "english": "_Thanks so much_. | _That really puts my mind at ease_. | _It's so great you can_ _spot and fix issues promptly_.",
+        "chinese": "太感谢了，| 让我放心多了。| 你这么快就能发现和解决问题，| 真的太棒了。",
+        "vocabulary": [
+          {
+            "term": "Thanks so much",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈthanks ˈso ˈmuch/",
+            "context": "_Thanks so much_. | _That really puts my mind at ease_. | _It's so great you can_ _spot and fix issues promptly_."
+          },
+          {
+            "term": "That really puts my mind at ease",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthat ˈreally ˈputs ˈmy ˈmind ˈat ˈease/",
+            "context": "_Thanks so much_. | _That really puts my mind at ease_. | _It's so great you can_ _spot and fix issues promptly_."
+          },
+          {
+            "term": "It's so great you can",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈit's ˈso ˈgreat ˈyou ˈcan/",
+            "context": "_Thanks so much_. | _That really puts my mind at ease_. | _It's so great you can_ _spot and fix issues promptly_."
+          },
+          {
+            "term": "spot and fix issues promptly",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈspot ˈand ˈfix ˈissues ˈpromptly/",
+            "context": "_Thanks so much_. | _That really puts my mind at ease_. | _It's so great you can_ _spot and fix issues promptly_."
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "english": "_Of course. I believe in_ _looking after my customers_, | _and I know how important it is_ _to keep track of everything_.",
+        "chinese": "当然。我是客户至上的/| 我坚信得把客户服务好，| 而且我也知道每件事| 都把控好/跟进好/盯紧了有多重要。",
+        "vocabulary": [
+          {
+            "term": "Of course I believe in",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈof ˈcourse ˈi ˈbelieve ˈin/",
+            "context": "_Of course. I believe in_ _looking after my customers_, | _and I know how important it is_ _to keep track of everything_."
+          },
+          {
+            "term": "looking after my customers",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈlooking ˈafter ˈmy ˈcustomers/",
+            "context": "_Of course. I believe in_ _looking after my customers_, | _and I know how important it is_ _to keep track of everything_."
+          },
+          {
+            "term": "and I know how important it is",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈi ˈknow ˈhow ˈimportant ˈit ˈis/",
+            "context": "_Of course. I believe in_ _looking after my customers_, | _and I know how important it is_ _to keep track of everything_."
+          },
+          {
+            "term": "to keep track of everything",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈto ˈkeep ˈtrack ˈof ˈeverything/",
+            "context": "_Of course. I believe in_ _looking after my customers_, | _and I know how important it is_ _to keep track of everything_."
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "english": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_.",
+        "chinese": "设计这个房子| 有这么多的事情要做呀！| 我不知道盖一个房子| 需要这么复杂。",
+        "vocabulary": [
+          {
+            "term": "There are so many things to do",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthere ˈare ˈso ˈmany ˈthings ˈto ˈdo/",
+            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+          },
+          {
+            "term": "when/in designing this house",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwhen/in ˈdesigning ˈthis ˈhouse/",
+            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+          },
+          {
+            "term": "Designing a house involves",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈdesigning ˈa ˈhouse ˈinvolves/",
+            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+          },
+          {
+            "term": "so many things to do",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈso ˈmany ˈthings ˈto ˈdo/",
+            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+          },
+          {
+            "term": "I had no idea",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈhad ˈno ˈidea/",
+            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+          },
+          {
+            "term": "building a house",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈbuilding ˈa ˈhouse/",
+            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+          },
+          {
+            "term": "could be this complicated",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈcould ˈbe ˈthis ˈcomplicated/",
+            "context": "_There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_."
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "source_file": "merged-conversations.md",
+      "extraction_date": "2025-09-10T09:26:11.788Z",
+      "total_vocabulary_terms": 67
+    }
+  },
+  {
+    "id": "70251",
+    "title": "In-home support program for the elderly",
+    "category": "social",
+    "briefing": "【萤火虫老师Tips】",
+    "sentences": [
+      {
+        "id": 1,
+        "english": "_Good afternoon, welcome to the Health Department_. | _How can I assist you today_?",
+        "chinese": "下午好，欢迎来到卫生部。我今天能帮您什么忙？",
+        "vocabulary": [
+          {
+            "term": "Good afternoon welcome to the Health Department",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈgood ˈafternoon ˈwelcome ˈto ˈthe ˈhealth ˈdepartment/",
+            "context": "_Good afternoon, welcome to the Health Department_. | _How can I assist you today_?"
+          },
+          {
+            "term": "How can I assist you today",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhow ˈcan ˈi ˈassist ˈyou ˈtoday/",
+            "context": "_Good afternoon, welcome to the Health Department_. | _How can I assist you today_?"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "english": "_Good afternoon. I'd like to find out more about_ _your in-home support program for the elderly_.",
+        "chinese": "下午好，我想进一步了解一下| 你们为老年人提供的居家支持项目。",
+        "vocabulary": [
+          {
+            "term": "Good afternoon I'd like to find out more about",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈgood ˈafternoon ˈi'd ˈlike ˈto ˈfind ˈout ˈmore ˈabout/",
+            "context": "_Good afternoon. I'd like to find out more about_ _your in-home support program for the elderly_."
+          },
+          {
+            "term": "your in-home support program for the elderly",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyour ˈin-home ˈsupport ˈprogram ˈfor ˈthe ˈelderly/",
+            "context": "_Good afternoon. I'd like to find out more about_ _your in-home support program for the elderly_."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "english": "_Yes, of course. I'm happy to provide that information_. | _I hope it might be a good fit for you_.",
+        "chinese": "好的，当然可以。我很乐意给你介绍。| 希望这个项目能适合你。",
+        "vocabulary": [
+          {
+            "term": "Yes of course I'm happy to provide that information",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyes ˈof ˈcourse ˈi'm ˈhappy ˈto ˈprovide ˈthat ˈinformation/",
+            "context": "_Yes, of course. I'm happy to provide that information_. | _I hope it might be a good fit for you_."
+          },
+          {
+            "term": "I hope it might be a good fit for you",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈhope ˈit ˈmight ˈbe ˈa ˈgood ˈfit ˈfor ˈyou/",
+            "context": "_Yes, of course. I'm happy to provide that information_. | _I hope it might be a good fit for you_."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "english": "_I'm asking on behalf of my mother, not myself_. | _She's quite old and lives alone_. | _I think she needs some extra help_ _with her daily life_.",
+        "chinese": "我是给我母亲问的，不是给我自己。| 她年纪很大了，一个人住。| 我觉得她需要一些额外的日常生活的帮助。",
+        "vocabulary": [
+          {
+            "term": "I'm asking on behalf of my mother not myself",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'm ˈasking ˈon ˈbehalf ˈof ˈmy ˈmother ˈnot ˈmyself/",
+            "context": "_I'm asking on behalf of my mother, not myself_. | _She's quite old and lives alone_. | _I think she needs some extra help_ _with her daily life_."
+          },
+          {
+            "term": "She's quite old and lives alone",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈshe's ˈquite ˈold ˈand ˈlives ˈalone/",
+            "context": "_I'm asking on behalf of my mother, not myself_. | _She's quite old and lives alone_. | _I think she needs some extra help_ _with her daily life_."
+          },
+          {
+            "term": "I think she needs some extra help",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈthink ˈshe ˈneeds ˈsome ˈextra ˈhelp/",
+            "context": "_I'm asking on behalf of my mother, not myself_. | _She's quite old and lives alone_. | _I think she needs some extra help_ _with her daily life_."
+          },
+          {
+            "term": "with her daily life",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwith ˈher ˈdaily ˈlife/",
+            "context": "_I'm asking on behalf of my mother, not myself_. | _She's quite old and lives alone_. | _I think she needs some extra help_ _with her daily life_."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "english": "_I understand. Our service provides_ _a range of support_ | _to make sure elderly people in Australia_ _can live independently and safely_.",
+        "chinese": "我明白了。我们的服务提供一系列支持，| 确保澳大利亚的老年人能够独立安全地生活。",
+        "vocabulary": [
+          {
+            "term": "I understand Our service provides",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈunderstand ˈour ˈservice ˈprovides/",
+            "context": "_I understand. Our service provides_ _a range of support_ | _to make sure elderly people in Australia_ _can live independently and safely_."
+          },
+          {
+            "term": "a range of support",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈa ˈrange ˈof ˈsupport/",
+            "context": "_I understand. Our service provides_ _a range of support_ | _to make sure elderly people in Australia_ _can live independently and safely_."
+          },
+          {
+            "term": "to make sure elderly people in Australia",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈto ˈmake ˈsure ˈelderly ˈpeople ˈin ˈaustralia/",
+            "context": "_I understand. Our service provides_ _a range of support_ | _to make sure elderly people in Australia_ _can live independently and safely_."
+          },
+          {
+            "term": "can live independently and safely",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈcan ˈlive ˈindependently ˈand ˈsafely/",
+            "context": "_I understand. Our service provides_ _a range of support_ | _to make sure elderly people in Australia_ _can live independently and safely_."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "english": "_That sounds very promising_. | _May I ask what specific services_ _the program provides_? | _She doesn't need advanced nursing care_ _at this stage_.",
+        "chinese": "这听起来很有希望啊。| 请问这个项目提供哪些具体的服务呢？| 她目前还不需要高级的医疗护理。",
+        "vocabulary": [
+          {
+            "term": "That sounds very promising",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthat ˈsounds ˈvery ˈpromising/",
+            "context": "_That sounds very promising_. | _May I ask what specific services_ _the program provides_? | _She doesn't need advanced nursing care_ _at this stage_."
+          },
+          {
+            "term": "May I ask what specific services",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈmay ˈi ˈask ˈwhat ˈspecific ˈservices/",
+            "context": "_That sounds very promising_. | _May I ask what specific services_ _the program provides_? | _She doesn't need advanced nursing care_ _at this stage_."
+          },
+          {
+            "term": "the program provides",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈthe ˈprogram ˈprovides/",
+            "context": "_That sounds very promising_. | _May I ask what specific services_ _the program provides_? | _She doesn't need advanced nursing care_ _at this stage_."
+          },
+          {
+            "term": "She doesn't need advanced nursing care",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈshe ˈdoesn't ˈneed ˈadvanced ˈnursing ˈcare/",
+            "context": "_That sounds very promising_. | _May I ask what specific services_ _the program provides_? | _She doesn't need advanced nursing care_ _at this stage_."
+          },
+          {
+            "term": "at this stage",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈat ˈthis ˈstage/",
+            "context": "_That sounds very promising_. | _May I ask what specific services_ _the program provides_? | _She doesn't need advanced nursing care_ _at this stage_."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "english": "_Our program provides assistance like meals_, _food preparation, bathing_, | _personal hygiene, nursing care_, | _support for people with mobility issues_, | _home modification, and cleaning_.",
+        "chinese": "我们的项目提供的帮助涵盖了像是餐食、食物准备、洗澡、| 个人卫生、护理、| 行动不便人士辅助、| 家居改造和清洁这些。",
+        "vocabulary": [
+          {
+            "term": "Our program provides assistance like meals",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈour ˈprogram ˈprovides ˈassistance ˈlike ˈmeals/",
+            "context": "_Our program provides assistance like meals_, _food preparation, bathing_, | _personal hygiene, nursing care_, | _support for people with mobility issues_, | _home modification, and cleaning_."
+          },
+          {
+            "term": "food preparation bathing",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈfood ˈpreparation ˈbathing/",
+            "context": "_Our program provides assistance like meals_, _food preparation, bathing_, | _personal hygiene, nursing care_, | _support for people with mobility issues_, | _home modification, and cleaning_."
+          },
+          {
+            "term": "personal hygiene nursing care",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈpersonal ˈhygiene ˈnursing ˈcare/",
+            "context": "_Our program provides assistance like meals_, _food preparation, bathing_, | _personal hygiene, nursing care_, | _support for people with mobility issues_, | _home modification, and cleaning_."
+          },
+          {
+            "term": "support for people with mobility issues",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈsupport ˈfor ˈpeople ˈwith ˈmobility ˈissues/",
+            "context": "_Our program provides assistance like meals_, _food preparation, bathing_, | _personal hygiene, nursing care_, | _support for people with mobility issues_, | _home modification, and cleaning_."
+          },
+          {
+            "term": "home modification and cleaning",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhome ˈmodification ˈand ˈcleaning/",
+            "context": "_Our program provides assistance like meals_, _food preparation, bathing_, | _personal hygiene, nursing care_, | _support for people with mobility issues_, | _home modification, and cleaning_."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "english": "_My mother would definitely benefit_ _from some of these services_. | _The program would greatly improve_ _her quality of life_ | _and also put my mind at ease_.",
+        "chinese": "我的母亲一定能从一些服务中受益的。| 这项目能大大提高她的生活质量，| 也能让我放心。",
+        "vocabulary": [
+          {
+            "term": "My mother would definitely benefit",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈmy ˈmother ˈwould ˈdefinitely ˈbenefit/",
+            "context": "_My mother would definitely benefit_ _from some of these services_. | _The program would greatly improve_ _her quality of life_ | _and also put my mind at ease_."
+          },
+          {
+            "term": "from some of these services",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈfrom ˈsome ˈof ˈthese ˈservices/",
+            "context": "_My mother would definitely benefit_ _from some of these services_. | _The program would greatly improve_ _her quality of life_ | _and also put my mind at ease_."
+          },
+          {
+            "term": "The program would greatly improve",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈprogram ˈwould ˈgreatly ˈimprove/",
+            "context": "_My mother would definitely benefit_ _from some of these services_. | _The program would greatly improve_ _her quality of life_ | _and also put my mind at ease_."
+          },
+          {
+            "term": "her quality of life",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈher ˈquality ˈof ˈlife/",
+            "context": "_My mother would definitely benefit_ _from some of these services_. | _The program would greatly improve_ _her quality of life_ | _and also put my mind at ease_."
+          },
+          {
+            "term": "and also put my mind at ease",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈalso ˈput ˈmy ˈmind ˈat ˈease/",
+            "context": "_My mother would definitely benefit_ _from some of these services_. | _The program would greatly improve_ _her quality of life_ | _and also put my mind at ease_."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "english": "_Many people are in a similar situation_. | _We've received a lot of positive feedback_ _about how the program helps them_.",
+        "chinese": "很多人都有类似的情况。| 我们收到了许多积极的反馈，| 说这个项目对他们有很大的帮助。",
+        "vocabulary": [
+          {
+            "term": "Many people are in a similar situation",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈmany ˈpeople ˈare ˈin ˈa ˈsimilar ˈsituation/",
+            "context": "_Many people are in a similar situation_. | _We've received a lot of positive feedback_ _about how the program helps them_."
+          },
+          {
+            "term": "We've received a lot of positive feedback",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwe've ˈreceived ˈa ˈlot ˈof ˈpositive ˈfeedback/",
+            "context": "_Many people are in a similar situation_. | _We've received a lot of positive feedback_ _about how the program helps them_."
+          },
+          {
+            "term": "about how the program helps them",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈabout ˈhow ˈthe ˈprogram ˈhelps ˈthem/",
+            "context": "_Many people are in a similar situation_. | _We've received a lot of positive feedback_ _about how the program helps them_."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "english": "_I'd like to apply for this program_ _for my mother_. | _Could you please tell me how to do it_? | _I'd really appreciate your help_.",
+        "chinese": "我想为我的妈妈申请加入这个项目，| 请您告诉我应该怎么做呢?| 我会很感激你的帮助。",
+        "vocabulary": [
+          {
+            "term": "I'd like to apply for this program",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'd ˈlike ˈto ˈapply ˈfor ˈthis ˈprogram/",
+            "context": "_I'd like to apply for this program_ _for my mother_. | _Could you please tell me how to do it_? | _I'd really appreciate your help_."
+          },
+          {
+            "term": "for my mother",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈfor ˈmy ˈmother/",
+            "context": "_I'd like to apply for this program_ _for my mother_. | _Could you please tell me how to do it_? | _I'd really appreciate your help_."
+          },
+          {
+            "term": "Could you please tell me how to do it",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈcould ˈyou ˈplease ˈtell ˈme ˈhow ˈto ˈdo ˈit/",
+            "context": "_I'd like to apply for this program_ _for my mother_. | _Could you please tell me how to do it_? | _I'd really appreciate your help_."
+          },
+          {
+            "term": "I'd really appreciate your help",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'd ˈreally ˈappreciate ˈyour ˈhelp/",
+            "context": "_I'd like to apply for this program_ _for my mother_. | _Could you please tell me how to do it_? | _I'd really appreciate your help_."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "english": "_You need to check if your mother is eligible_ | _and arrange an in-person assessment_. | _That's the first step in the process_.",
+        "chinese": "您需要确认您的母亲是否符合资格，| 并安排一次面对面/现场评估。| 这是流程的第一步。",
+        "vocabulary": [
+          {
+            "term": "You need to check if your mother is eligible",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyou ˈneed ˈto ˈcheck ˈif ˈyour ˈmother ˈis ˈeligible/",
+            "context": "_You need to check if your mother is eligible_ | _and arrange an in-person assessment_. | _That's the first step in the process_."
+          },
+          {
+            "term": "and arrange an in-person assessment",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈarrange ˈan ˈin-person ˈassessment/",
+            "context": "_You need to check if your mother is eligible_ | _and arrange an in-person assessment_. | _That's the first step in the process_."
+          },
+          {
+            "term": "That's the first step in the process",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthat's ˈthe ˈfirst ˈstep ˈin ˈthe ˈprocess/",
+            "context": "_You need to check if your mother is eligible_ | _and arrange an in-person assessment_. | _That's the first step in the process_."
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "english": "_That sounds good_. | _I'm not sure how to confirm_ _if my mother is eligible_. | _What conditions does she need to meet_?",
+        "chinese": "听起来不错。| 我不太清楚怎么样确认我母亲是否资格啊。| 她需要满足什么条件呢？",
+        "vocabulary": [
+          {
+            "term": "That sounds good",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈthat ˈsounds ˈgood/",
+            "context": "_That sounds good_. | _I'm not sure how to confirm_ _if my mother is eligible_. | _What conditions does she need to meet_?"
+          },
+          {
+            "term": "I'm not sure how to confirm",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'm ˈnot ˈsure ˈhow ˈto ˈconfirm/",
+            "context": "_That sounds good_. | _I'm not sure how to confirm_ _if my mother is eligible_. | _What conditions does she need to meet_?"
+          },
+          {
+            "term": "if my mother is eligible",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈif ˈmy ˈmother ˈis ˈeligible/",
+            "context": "_That sounds good_. | _I'm not sure how to confirm_ _if my mother is eligible_. | _What conditions does she need to meet_?"
+          },
+          {
+            "term": "What conditions does she need to meet",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwhat ˈconditions ˈdoes ˈshe ˈneed ˈto ˈmeet/",
+            "context": "_That sounds good_. | _I'm not sure how to confirm_ _if my mother is eligible_. | _What conditions does she need to meet_?"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "english": "_You can find the eligibility criteria_ _on our website_. | _If she meets the criteria_, | _you can make an appointment_ _for an in-person assessment_.",
+        "chinese": "您可以在我们的网站上查看都有哪些资格要求。| 如果她符合条件，| 您可以预约一次面对面/现场评估。",
+        "vocabulary": [
+          {
+            "term": "You can find the eligibility criteria",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyou ˈcan ˈfind ˈthe ˈeligibility ˈcriteria/",
+            "context": "_You can find the eligibility criteria_ _on our website_. | _If she meets the criteria_, | _you can make an appointment_ _for an in-person assessment_."
+          },
+          {
+            "term": "on our website",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈon ˈour ˈwebsite/",
+            "context": "_You can find the eligibility criteria_ _on our website_. | _If she meets the criteria_, | _you can make an appointment_ _for an in-person assessment_."
+          },
+          {
+            "term": "If she meets the criteria",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈif ˈshe ˈmeets ˈthe ˈcriteria/",
+            "context": "_You can find the eligibility criteria_ _on our website_. | _If she meets the criteria_, | _you can make an appointment_ _for an in-person assessment_."
+          },
+          {
+            "term": "you can make an appointment",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyou ˈcan ˈmake ˈan ˈappointment/",
+            "context": "_You can find the eligibility criteria_ _on our website_. | _If she meets the criteria_, | _you can make an appointment_ _for an in-person assessment_."
+          },
+          {
+            "term": "for an in-person assessment",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈfor ˈan ˈin-person ˈassessment/",
+            "context": "_You can find the eligibility criteria_ _on our website_. | _If she meets the criteria_, | _you can make an appointment_ _for an in-person assessment_."
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "english": "_Thank you for the information_. | _I'll check the website now_ _to confirm if she meets the requirements_. | _Just knowing someone can help_ _is already a huge relief_.",
+        "chinese": "谢谢你提供的信息。| 我现在就去网站上看看，| 确认她是否符合要求。| 知道有人能帮忙，已经让我放心多了。",
+        "vocabulary": [
+          {
+            "term": "Thank you for the information",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthank ˈyou ˈfor ˈthe ˈinformation/",
+            "context": "_Thank you for the information_. | _I'll check the website now_ _to confirm if she meets the requirements_. | _Just knowing someone can help_ _is already a huge relief_."
+          },
+          {
+            "term": "I'll check the website now",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'll ˈcheck ˈthe ˈwebsite ˈnow/",
+            "context": "_Thank you for the information_. | _I'll check the website now_ _to confirm if she meets the requirements_. | _Just knowing someone can help_ _is already a huge relief_."
+          },
+          {
+            "term": "to confirm if she meets the requirements",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈto ˈconfirm ˈif ˈshe ˈmeets ˈthe ˈrequirements/",
+            "context": "_Thank you for the information_. | _I'll check the website now_ _to confirm if she meets the requirements_. | _Just knowing someone can help_ _is already a huge relief_."
+          },
+          {
+            "term": "Just knowing someone can help",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈjust ˈknowing ˈsomeone ˈcan ˈhelp/",
+            "context": "_Thank you for the information_. | _I'll check the website now_ _to confirm if she meets the requirements_. | _Just knowing someone can help_ _is already a huge relief_."
+          },
+          {
+            "term": "is already a huge relief",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈis ˈalready ˈa ˈhuge ˈrelief/",
+            "context": "_Thank you for the information_. | _I'll check the website now_ _to confirm if she meets the requirements_. | _Just knowing someone can help_ _is already a huge relief_."
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "source_file": "merged-conversations.md",
+      "extraction_date": "2025-09-10T09:26:11.789Z",
+      "total_vocabulary_terms": 53
+    }
+  },
+  {
+    "id": "70250",
+    "title": "A New Creamy Leather Lounge Chair 3",
+    "category": "social",
+    "briefing": "【萤火虫老师Tips】",
+    "sentences": [
+      {
+        "id": 1,
+        "english": "_Hey, great to see you_! | _We've finally got a chance_ _to catch up_.",
+        "chinese": "嘿，好高兴见到你！| 我们终于有机会聚一聚了。",
+        "vocabulary": [
+          {
+            "term": "Hey great to see you",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhey ˈgreat ˈto ˈsee ˈyou/",
+            "context": "_Hey, great to see you_! | _We've finally got a chance_ _to catch up_."
+          },
+          {
+            "term": "We've finally got a chance",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwe've ˈfinally ˈgot ˈa ˈchance/",
+            "context": "_Hey, great to see you_! | _We've finally got a chance_ _to catch up_."
+          },
+          {
+            "term": "to catch up",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈto ˈcatch ˈup/",
+            "context": "_Hey, great to see you_! | _We've finally got a chance_ _to catch up_."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "english": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. / _Right, we haven't had a chance_ _to relax over coffee and talk in so long_.",
+        "chinese": "对啊，咱们好久没坐下来| 慢慢喝咖啡聊聊天了。",
+        "vocabulary": [
+          {
+            "term": "Yeah it's been ages",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyeah ˈit's ˈbeen ˈages/",
+            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. / _Right, we haven't had a chance_ _to relax over coffee and talk in so long_."
+          },
+          {
+            "term": "since we last sat down",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈsince ˈwe ˈlast ˈsat ˈdown/",
+            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. / _Right, we haven't had a chance_ _to relax over coffee and talk in so long_."
+          },
+          {
+            "term": "to enjoy coffee and chat",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈto ˈenjoy ˈcoffee ˈand ˈchat/",
+            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. / _Right, we haven't had a chance_ _to relax over coffee and talk in so long_."
+          },
+          {
+            "term": "Right we haven't had a chance",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈright ˈwe ˈhaven't ˈhad ˈa ˈchance/",
+            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. / _Right, we haven't had a chance_ _to relax over coffee and talk in so long_."
+          },
+          {
+            "term": "to relax over coffee and talk in so long",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈto ˈrelax ˈover ˈcoffee ˈand ˈtalk ˈin ˈso ˈlong/",
+            "context": "_Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. / _Right, we haven't had a chance_ _to relax over coffee and talk in so long_."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "english": "_How's your day going_? | _You mentioned you were browsing_ _the mall before coming here_ _to meet me_.",
+        "chinese": "你今天过得怎么样？| 你说你来这跟我见面之前| 还在逛商场呢。",
+        "vocabulary": [
+          {
+            "term": "How's your day going",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhow's ˈyour ˈday ˈgoing/",
+            "context": "_How's your day going_? | _You mentioned you were browsing_ _the mall before coming here_ _to meet me_."
+          },
+          {
+            "term": "You mentioned you were browsing",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyou ˈmentioned ˈyou ˈwere ˈbrowsing/",
+            "context": "_How's your day going_? | _You mentioned you were browsing_ _the mall before coming here_ _to meet me_."
+          },
+          {
+            "term": "the mall before coming here",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈmall ˈbefore ˈcoming ˈhere/",
+            "context": "_How's your day going_? | _You mentioned you were browsing_ _the mall before coming here_ _to meet me_."
+          },
+          {
+            "term": "to meet me",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈto ˈmeet ˈme/",
+            "context": "_How's your day going_? | _You mentioned you were browsing_ _the mall before coming here_ _to meet me_."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "english": "_Yeah, I just want to buy_ _a new lounge chair_, | _so I've been looking around/browsing the mall_ | _for one that feels really nice/for a good-quality one_.",
+        "chinese": "对，我就是想买把新休闲椅，| 所以一直在商场里逛，| 想挑个质感好的。",
+        "vocabulary": [
+          {
+            "term": "Yeah I just want to buy",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyeah ˈi ˈjust ˈwant ˈto ˈbuy/",
+            "context": "_Yeah, I just want to buy_ _a new lounge chair_, | _so I've been looking around/browsing the mall_ | _for one that feels really nice/for a good-quality one_."
+          },
+          {
+            "term": "a new lounge chair",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈa ˈnew ˈlounge ˈchair/",
+            "context": "_Yeah, I just want to buy_ _a new lounge chair_, | _so I've been looking around/browsing the mall_ | _for one that feels really nice/for a good-quality one_."
+          },
+          {
+            "term": "so I've been looking around/browsing the mall",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈso ˈi've ˈbeen ˈlooking ˈaround/browsing ˈthe ˈmall/",
+            "context": "_Yeah, I just want to buy_ _a new lounge chair_, | _so I've been looking around/browsing the mall_ | _for one that feels really nice/for a good-quality one_."
+          },
+          {
+            "term": "for one that feels really nice/for a good-quality one",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈfor ˈone ˈthat ˈfeels ˈreally ˈnice/for ˈa ˈgood-quality ˈone/",
+            "context": "_Yeah, I just want to buy_ _a new lounge chair_, | _so I've been looking around/browsing the mall_ | _for one that feels really nice/for a good-quality one_."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "english": "_That's awesome_. | _Big stores have loads of options_. | _But furniture can be expensive_, | _depending on what you want_.",
+        "chinese": "那太好了。| 大商场的选择多得很。| 不过家具可不便宜啊，| 这要看你想要什么样的了。",
+        "vocabulary": [
+          {
+            "term": "That's awesome",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈthat's ˈawesome/",
+            "context": "_That's awesome_. | _Big stores have loads of options_. | _But furniture can be expensive_, | _depending on what you want_."
+          },
+          {
+            "term": "Big stores have loads of options",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈbig ˈstores ˈhave ˈloads ˈof ˈoptions/",
+            "context": "_That's awesome_. | _Big stores have loads of options_. | _But furniture can be expensive_, | _depending on what you want_."
+          },
+          {
+            "term": "But furniture can be expensive",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈbut ˈfurniture ˈcan ˈbe ˈexpensive/",
+            "context": "_That's awesome_. | _Big stores have loads of options_. | _But furniture can be expensive_, | _depending on what you want_."
+          },
+          {
+            "term": "depending on what you want",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈdepending ˈon ˈwhat ˈyou ˈwant/",
+            "context": "_That's awesome_. | _Big stores have loads of options_. | _But furniture can be expensive_, | _depending on what you want_."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "english": "_I spotted a cream-colored_ _leather sofa that I really like_, | _but it isn't cheap_. | _I'm not sure which payment method_ _makes the most sense_.",
+        "chinese": "我看上了一款奶油色皮质沙发，| 很对我胃口，可价格不算低。| 我不太确定最划算的| 付款方式是怎样的。",
+        "vocabulary": [
+          {
+            "term": "I spotted a cream-colored",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈspotted ˈa ˈcream-colored/",
+            "context": "_I spotted a cream-colored_ _leather sofa that I really like_, | _but it isn't cheap_. | _I'm not sure which payment method_ _makes the most sense_."
+          },
+          {
+            "term": "leather sofa that I really like",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈleather ˈsofa ˈthat ˈi ˈreally ˈlike/",
+            "context": "_I spotted a cream-colored_ _leather sofa that I really like_, | _but it isn't cheap_. | _I'm not sure which payment method_ _makes the most sense_."
+          },
+          {
+            "term": "but it isn't cheap",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈbut ˈit ˈisn't ˈcheap/",
+            "context": "_I spotted a cream-colored_ _leather sofa that I really like_, | _but it isn't cheap_. | _I'm not sure which payment method_ _makes the most sense_."
+          },
+          {
+            "term": "I'm not sure which payment method",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'm ˈnot ˈsure ˈwhich ˈpayment ˈmethod/",
+            "context": "_I spotted a cream-colored_ _leather sofa that I really like_, | _but it isn't cheap_. | _I'm not sure which payment method_ _makes the most sense_."
+          },
+          {
+            "term": "makes the most sense",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈmakes ˈthe ˈmost ˈsense/",
+            "context": "_I spotted a cream-colored_ _leather sofa that I really like_, | _but it isn't cheap_. | _I'm not sure which payment method_ _makes the most sense_."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "english": "_You can use a credit card_, | _which lets you keep your money_ _for a few weeks_ _before you have to pay_.",
+        "chinese": "你可以使用信用卡，| 这样在你必须付款之前，| 你的钱还能多留几周。",
+        "vocabulary": [
+          {
+            "term": "You can use a credit card",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyou ˈcan ˈuse ˈa ˈcredit ˈcard/",
+            "context": "_You can use a credit card_, | _which lets you keep your money_ _for a few weeks_ _before you have to pay_."
+          },
+          {
+            "term": "which lets you keep your money",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwhich ˈlets ˈyou ˈkeep ˈyour ˈmoney/",
+            "context": "_You can use a credit card_, | _which lets you keep your money_ _for a few weeks_ _before you have to pay_."
+          },
+          {
+            "term": "for a few weeks",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈfor ˈa ˈfew ˈweeks/",
+            "context": "_You can use a credit card_, | _which lets you keep your money_ _for a few weeks_ _before you have to pay_."
+          },
+          {
+            "term": "before you have to pay",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈbefore ˈyou ˈhave ˈto ˈpay/",
+            "context": "_You can use a credit card_, | _which lets you keep your money_ _for a few weeks_ _before you have to pay_."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "english": "_I try not to use a credit card_. | _But I think it should be fine_, | _as long as I pay off the balance_ _in full by the due date_.",
+        "chinese": "我尽量不用信用卡。| 不过，我觉得，| 在截止日期前还清欠款，| 应该就没问题了。",
+        "vocabulary": [
+          {
+            "term": "I try not to use a credit card",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈtry ˈnot ˈto ˈuse ˈa ˈcredit ˈcard/",
+            "context": "_I try not to use a credit card_. | _But I think it should be fine_, | _as long as I pay off the balance_ _in full by the due date_."
+          },
+          {
+            "term": "But I think it should be fine",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈbut ˈi ˈthink ˈit ˈshould ˈbe ˈfine/",
+            "context": "_I try not to use a credit card_. | _But I think it should be fine_, | _as long as I pay off the balance_ _in full by the due date_."
+          },
+          {
+            "term": "as long as I pay off the balance",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈas ˈlong ˈas ˈi ˈpay ˈoff ˈthe ˈbalance/",
+            "context": "_I try not to use a credit card_. | _But I think it should be fine_, | _as long as I pay off the balance_ _in full by the due date_."
+          },
+          {
+            "term": "in full by the due date",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈin ˈfull ˈby ˈthe ˈdue ˈdate/",
+            "context": "_I try not to use a credit card_. | _But I think it should be fine_, | _as long as I pay off the balance_ _in full by the due date_."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "english": "_Credit cards charge interest_, | _so be sure to pay on time_ _to avoid extra fees_.",
+        "chinese": "信用卡会收利息的，| 所以务必要按时还款，| 以避免产生额外费用。",
+        "vocabulary": [
+          {
+            "term": "Credit cards charge interest",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈcredit ˈcards ˈcharge ˈinterest/",
+            "context": "_Credit cards charge interest_, | _so be sure to pay on time_ _to avoid extra fees_."
+          },
+          {
+            "term": "so be sure to pay on time",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈso ˈbe ˈsure ˈto ˈpay ˈon ˈtime/",
+            "context": "_Credit cards charge interest_, | _so be sure to pay on time_ _to avoid extra fees_."
+          },
+          {
+            "term": "to avoid extra fees",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈto ˈavoid ˈextra ˈfees/",
+            "context": "_Credit cards charge interest_, | _so be sure to pay on time_ _to avoid extra fees_."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "english": "_Okay. If I pay by credit card_, | _I can also earn credits/points_ | _and redeem for other products_.",
+        "chinese": "好的。如果我用信用卡付款，| 还能获得积分，| 还可以兑换其他商品。",
+        "vocabulary": [
+          {
+            "term": "Okay If I pay by credit card",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈokay ˈif ˈi ˈpay ˈby ˈcredit ˈcard/",
+            "context": "_Okay. If I pay by credit card_, | _I can also earn credits/points_ | _and redeem for other products_."
+          },
+          {
+            "term": "I can also earn credits/points",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈcan ˈalso ˈearn ˈcredits/points/",
+            "context": "_Okay. If I pay by credit card_, | _I can also earn credits/points_ | _and redeem for other products_."
+          },
+          {
+            "term": "and redeem for other products",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈredeem ˈfor ˈother ˈproducts/",
+            "context": "_Okay. If I pay by credit card_, | _I can also earn credits/points_ | _and redeem for other products_."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "english": "_It's smart to think about_ _your best payment options_ _for big purchases_. | _You could save money_ _or make it easier to pay_.",
+        "chinese": "考虑一下大额消费的| 最佳付款方式是明智的。| 你可能可以省钱，| 或者让付款更轻松。",
+        "vocabulary": [
+          {
+            "term": "It's smart to think about",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈit's ˈsmart ˈto ˈthink ˈabout/",
+            "context": "_It's smart to think about_ _your best payment options_ _for big purchases_. | _You could save money_ _or make it easier to pay_."
+          },
+          {
+            "term": "your best payment options",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyour ˈbest ˈpayment ˈoptions/",
+            "context": "_It's smart to think about_ _your best payment options_ _for big purchases_. | _You could save money_ _or make it easier to pay_."
+          },
+          {
+            "term": "for big purchases",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈfor ˈbig ˈpurchases/",
+            "context": "_It's smart to think about_ _your best payment options_ _for big purchases_. | _You could save money_ _or make it easier to pay_."
+          },
+          {
+            "term": "You could save money",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyou ˈcould ˈsave ˈmoney/",
+            "context": "_It's smart to think about_ _your best payment options_ _for big purchases_. | _You could save money_ _or make it easier to pay_."
+          },
+          {
+            "term": "or make it easier to pay",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈor ˈmake ˈit ˈeasier ˈto ˈpay/",
+            "context": "_It's smart to think about_ _your best payment options_ _for big purchases_. | _You could save money_ _or make it easier to pay_."
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "english": "_I agree. I'll carefully compare them tonight_ | _and decide at the store tomorrow_. | _I think that sofa_ _would look fantastic_ _in the living room_.",
+        "chinese": "我也这么觉得。| 我今晚好好比对一下，| 再明天去店里决定。| 我觉得这沙发放客厅| 肯定很棒。",
+        "vocabulary": [
+          {
+            "term": "I agree I'll carefully compare them tonight",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈagree ˈi'll ˈcarefully ˈcompare ˈthem ˈtonight/",
+            "context": "_I agree. I'll carefully compare them tonight_ | _and decide at the store tomorrow_. | _I think that sofa_ _would look fantastic_ _in the living room_."
+          },
+          {
+            "term": "and decide at the store tomorrow",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈdecide ˈat ˈthe ˈstore ˈtomorrow/",
+            "context": "_I agree. I'll carefully compare them tonight_ | _and decide at the store tomorrow_. | _I think that sofa_ _would look fantastic_ _in the living room_."
+          },
+          {
+            "term": "I think that sofa",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈthink ˈthat ˈsofa/",
+            "context": "_I agree. I'll carefully compare them tonight_ | _and decide at the store tomorrow_. | _I think that sofa_ _would look fantastic_ _in the living room_."
+          },
+          {
+            "term": "would look fantastic",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈwould ˈlook ˈfantastic/",
+            "context": "_I agree. I'll carefully compare them tonight_ | _and decide at the store tomorrow_. | _I think that sofa_ _would look fantastic_ _in the living room_."
+          },
+          {
+            "term": "in the living room",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈin ˈthe ˈliving ˈroom/",
+            "context": "_I agree. I'll carefully compare them tonight_ | _and decide at the store tomorrow_. | _I think that sofa_ _would look fantastic_ _in the living room_."
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "english": "_Creamy leather sounds_ _a perfect choice_. | _How about we grab a slice of cake_ _with our coffee to celebrate_?",
+        "chinese": "奶油色的皮革，| 这选择听着太完美了。| 要不咱俩喝咖啡时| 再加块蛋糕，庆祝一下？",
+        "vocabulary": [
+          {
+            "term": "Creamy leather sounds",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈcreamy ˈleather ˈsounds/",
+            "context": "_Creamy leather sounds_ _a perfect choice_. | _How about we grab a slice of cake_ _with our coffee to celebrate_?"
+          },
+          {
+            "term": "a perfect choice",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈa ˈperfect ˈchoice/",
+            "context": "_Creamy leather sounds_ _a perfect choice_. | _How about we grab a slice of cake_ _with our coffee to celebrate_?"
+          },
+          {
+            "term": "How about we grab a slice of cake",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhow ˈabout ˈwe ˈgrab ˈa ˈslice ˈof ˈcake/",
+            "context": "_Creamy leather sounds_ _a perfect choice_. | _How about we grab a slice of cake_ _with our coffee to celebrate_?"
+          },
+          {
+            "term": "with our coffee to celebrate",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwith ˈour ˈcoffee ˈto ˈcelebrate/",
+            "context": "_Creamy leather sounds_ _a perfect choice_. | _How about we grab a slice of cake_ _with our coffee to celebrate_?"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "english": "_Sounds perfect_. | _I'm starving after_ _all that shopping_. | _Hope it all works out_.",
+        "chinese": "听起来很完美。| 我逛完这一圈，| 肚子都饿扁了。| 希望一切都顺利。",
+        "vocabulary": [
+          {
+            "term": "Sounds perfect",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈsounds ˈperfect/",
+            "context": "_Sounds perfect_. | _I'm starving after_ _all that shopping_. | _Hope it all works out_."
+          },
+          {
+            "term": "I'm starving after",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈi'm ˈstarving ˈafter/",
+            "context": "_Sounds perfect_. | _I'm starving after_ _all that shopping_. | _Hope it all works out_."
+          },
+          {
+            "term": "all that shopping",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈall ˈthat ˈshopping/",
+            "context": "_Sounds perfect_. | _I'm starving after_ _all that shopping_. | _Hope it all works out_."
+          },
+          {
+            "term": "Hope it all works out",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhope ˈit ˈall ˈworks ˈout/",
+            "context": "_Sounds perfect_. | _I'm starving after_ _all that shopping_. | _Hope it all works out_."
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "source_file": "merged-conversations.md",
+      "extraction_date": "2025-09-10T09:26:11.789Z",
+      "total_vocabulary_terms": 57
+    }
+  },
+  {
+    "id": "70249",
+    "title": "Wire Transfer and Foreign Currency Account",
+    "category": "business",
+    "briefing": "【萤火虫老师Tips】",
+    "sentences": [
+      {
+        "id": 1,
+        "english": "_Hello! Welcome to our Bank_. | _How can I help you today_?",
+        "chinese": "你好！欢迎来我们银行。今天有什么可以帮您的？",
+        "vocabulary": [
+          {
+            "term": "Hello Welcome to our Bank",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhello ˈwelcome ˈto ˈour ˈbank/",
+            "context": "_Hello! Welcome to our Bank_. | _How can I help you today_?"
+          },
+          {
+            "term": "How can I help you today",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhow ˈcan ˈi ˈhelp ˈyou ˈtoday/",
+            "context": "_Hello! Welcome to our Bank_. | _How can I help you today_?"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "english": "_Hello, I'd like to ask about_ _how to send and receive international transfers/ payments_. / _I need some information on_ _how to make and receive international payments_.",
+        "chinese": "你好，我想咨询一下| 国际汇款和收款要怎么操作。",
+        "vocabulary": [
+          {
+            "term": "Hello I'd like to ask about",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhello ˈi'd ˈlike ˈto ˈask ˈabout/",
+            "context": "_Hello, I'd like to ask about_ _how to send and receive international transfers/ payments_. / _I need some information on_ _how to make and receive international payments_."
+          },
+          {
+            "term": "how to send and receive international transfers/ payments",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhow ˈto ˈsend ˈand ˈreceive ˈinternational ˈtransfers/ ˈpayments/",
+            "context": "_Hello, I'd like to ask about_ _how to send and receive international transfers/ payments_. / _I need some information on_ _how to make and receive international payments_."
+          },
+          {
+            "term": "I need some information on",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈneed ˈsome ˈinformation ˈon/",
+            "context": "_Hello, I'd like to ask about_ _how to send and receive international transfers/ payments_. / _I need some information on_ _how to make and receive international payments_."
+          },
+          {
+            "term": "how to make and receive international payments",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈhow ˈto ˈmake ˈand ˈreceive ˈinternational ˈpayments/",
+            "context": "_Hello, I'd like to ask about_ _how to send and receive international transfers/ payments_. / _I need some information on_ _how to make and receive international payments_."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "english": "_Sure. We have different options_. | _Of course. We have a few ways to do that_. | _Will this be a one-time thing_, | _or would it be on a regular basis_?",
+        "chinese": "当然。我们有不同的选择。| 您是想办理一次性的交易，| 还是说这会是一项定期业务呢？",
+        "vocabulary": [
+          {
+            "term": "Sure We have different options",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈsure ˈwe ˈhave ˈdifferent ˈoptions/",
+            "context": "_Sure. We have different options_. | _Of course. We have a few ways to do that_. | _Will this be a one-time thing_, | _or would it be on a regular basis_?"
+          },
+          {
+            "term": "Of course We have a few ways to do that",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈof ˈcourse ˈwe ˈhave ˈa ˈfew ˈways ˈto ˈdo ˈthat/",
+            "context": "_Sure. We have different options_. | _Of course. We have a few ways to do that_. | _Will this be a one-time thing_, | _or would it be on a regular basis_?"
+          },
+          {
+            "term": "Will this be a one-time thing",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwill ˈthis ˈbe ˈa ˈone-time ˈthing/",
+            "context": "_Sure. We have different options_. | _Of course. We have a few ways to do that_. | _Will this be a one-time thing_, | _or would it be on a regular basis_?"
+          },
+          {
+            "term": "or would it be on a regular basis",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈor ˈwould ˈit ˈbe ˈon ˈa ˈregular ˈbasis/",
+            "context": "_Sure. We have different options_. | _Of course. We have a few ways to do that_. | _Will this be a one-time thing_, | _or would it be on a regular basis_?"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "english": "_I need to make regular transfers_. | _My family has business overseas_ / _My family is involved in business overseas_, | _so I often need to make international transfers_ _send money overseas_.",
+        "chinese": "我需要定期汇款。| 我有家族生意在海外，| 所以我经常需要往海外转账。",
+        "vocabulary": [
+          {
+            "term": "I need to make regular transfers",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈneed ˈto ˈmake ˈregular ˈtransfers/",
+            "context": "_I need to make regular transfers_. | _My family has business overseas_ / _My family is involved in business overseas_, | _so I often need to make international transfers_ _send money overseas_."
+          },
+          {
+            "term": "My family has business overseas",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈmy ˈfamily ˈhas ˈbusiness ˈoverseas/",
+            "context": "_I need to make regular transfers_. | _My family has business overseas_ / _My family is involved in business overseas_, | _so I often need to make international transfers_ _send money overseas_."
+          },
+          {
+            "term": "My family is involved in business overseas",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈmy ˈfamily ˈis ˈinvolved ˈin ˈbusiness ˈoverseas/",
+            "context": "_I need to make regular transfers_. | _My family has business overseas_ / _My family is involved in business overseas_, | _so I often need to make international transfers_ _send money overseas_."
+          },
+          {
+            "term": "so I often need to make international transfers",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈso ˈi ˈoften ˈneed ˈto ˈmake ˈinternational ˈtransfers/",
+            "context": "_I need to make regular transfers_. | _My family has business overseas_ / _My family is involved in business overseas_, | _so I often need to make international transfers_ _send money overseas_."
+          },
+          {
+            "term": "send money overseas",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈsend ˈmoney ˈoverseas/",
+            "context": "_I need to make regular transfers_. | _My family has business overseas_ / _My family is involved in business overseas_, | _so I often need to make international transfers_ _send money overseas_."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "english": "_I see. There are two options_ _for you to choose from_: | _international wire transfer_ | _or setting up a foreign currency account_.",
+        "chinese": "我明白了。您有两个选择：| 国际电汇| 或者开一个外币账户。",
+        "vocabulary": [
+          {
+            "term": "I see There are two options",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈsee ˈthere ˈare ˈtwo ˈoptions/",
+            "context": "_I see. There are two options_ _for you to choose from_: | _international wire transfer_ | _or setting up a foreign currency account_."
+          },
+          {
+            "term": "for you to choose from",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈfor ˈyou ˈto ˈchoose ˈfrom/",
+            "context": "_I see. There are two options_ _for you to choose from_: | _international wire transfer_ | _or setting up a foreign currency account_."
+          },
+          {
+            "term": "international wire transfer",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈinternational ˈwire ˈtransfer/",
+            "context": "_I see. There are two options_ _for you to choose from_: | _international wire transfer_ | _or setting up a foreign currency account_."
+          },
+          {
+            "term": "or setting up a foreign currency account",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈor ˈsetting ˈup ˈa ˈforeign ˈcurrency ˈaccount/",
+            "context": "_I see. There are two options_ _for you to choose from_: | _international wire transfer_ | _or setting up a foreign currency account_."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "english": "_I think a foreign currency account might be better_, | _because it can receive payments automatically_. | _Wire transfers might require_ _more manual steps_.",
+        "chinese": "我觉得外币账户可能更好,| 因为可以自动收款。| 电汇可能需要更多人工的步骤。",
+        "vocabulary": [
+          {
+            "term": "I think a foreign currency account might be better",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈthink ˈa ˈforeign ˈcurrency ˈaccount ˈmight ˈbe ˈbetter/",
+            "context": "_I think a foreign currency account might be better_, | _because it can receive payments automatically_. | _Wire transfers might require_ _more manual steps_."
+          },
+          {
+            "term": "because it can receive payments automatically",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈbecause ˈit ˈcan ˈreceive ˈpayments ˈautomatically/",
+            "context": "_I think a foreign currency account might be better_, | _because it can receive payments automatically_. | _Wire transfers might require_ _more manual steps_."
+          },
+          {
+            "term": "Wire transfers might require",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwire ˈtransfers ˈmight ˈrequire/",
+            "context": "_I think a foreign currency account might be better_, | _because it can receive payments automatically_. | _Wire transfers might require_ _more manual steps_."
+          },
+          {
+            "term": "more manual steps",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈmore ˈmanual ˈsteps/",
+            "context": "_I think a foreign currency account might be better_, | _because it can receive payments automatically_. | _Wire transfers might require_ _more manual steps_."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "english": "_That makes sense_. | _Many clients prefer a foreign currency account_, | _as they can receive funds directly into it_.",
+        "chinese": "有道理。| 很多客户更喜欢外币账户，| 因为能直接收款到账户里。",
+        "vocabulary": [
+          {
+            "term": "That makes sense",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈthat ˈmakes ˈsense/",
+            "context": "_That makes sense_. | _Many clients prefer a foreign currency account_, | _as they can receive funds directly into it_."
+          },
+          {
+            "term": "Many clients prefer a foreign currency account",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈmany ˈclients ˈprefer ˈa ˈforeign ˈcurrency ˈaccount/",
+            "context": "_That makes sense_. | _Many clients prefer a foreign currency account_, | _as they can receive funds directly into it_."
+          },
+          {
+            "term": "as they can receive funds directly into it",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈas ˈthey ˈcan ˈreceive ˈfunds ˈdirectly ˈinto ˈit/",
+            "context": "_That makes sense_. | _Many clients prefer a foreign currency account_, | _as they can receive funds directly into it_."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "english": "_I'd like to know how the transfer fees_ _conversion fees are charged_. | _I want to make my decision based on that_.",
+        "chinese": "我想了解一下，| 手续费都是怎么收的？| 我想根据这个来做决定。",
+        "vocabulary": [
+          {
+            "term": "I'd like to know how the transfer fees",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'd ˈlike ˈto ˈknow ˈhow ˈthe ˈtransfer ˈfees/",
+            "context": "_I'd like to know how the transfer fees_ _conversion fees are charged_. | _I want to make my decision based on that_."
+          },
+          {
+            "term": "conversion fees are charged",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈconversion ˈfees ˈare ˈcharged/",
+            "context": "_I'd like to know how the transfer fees_ _conversion fees are charged_. | _I want to make my decision based on that_."
+          },
+          {
+            "term": "I want to make my decision based on that",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈwant ˈto ˈmake ˈmy ˈdecision ˈbased ˈon ˈthat/",
+            "context": "_I'd like to know how the transfer fees_ _conversion fees are charged_. | _I want to make my decision based on that_."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "english": "_International wire transfers incur flat fees_, | _while a foreign currency account charges_ | _conversion fees depending on the amounts_.",
+        "chinese": "国际电汇收一笔固定的手续费，| 而外币账户收的兑换费/手续费| 是根据交易金额来定的。",
+        "vocabulary": [
+          {
+            "term": "International wire transfers incur flat fees",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈinternational ˈwire ˈtransfers ˈincur ˈflat ˈfees/",
+            "context": "_International wire transfers incur flat fees_, | _while a foreign currency account charges_ | _conversion fees depending on the amounts_."
+          },
+          {
+            "term": "while a foreign currency account charges",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈwhile ˈa ˈforeign ˈcurrency ˈaccount ˈcharges/",
+            "context": "_International wire transfers incur flat fees_, | _while a foreign currency account charges_ | _conversion fees depending on the amounts_."
+          },
+          {
+            "term": "conversion fees depending on the amounts",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈconversion ˈfees ˈdepending ˈon ˈthe ˈamounts/",
+            "context": "_International wire transfers incur flat fees_, | _while a foreign currency account charges_ | _conversion fees depending on the amounts_."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "english": "_I'll see which option suits me better_. | _Is there any other information_ _I need to know_?",
+        "chinese": "我看看哪个选择更适合我吧。| 还有其他我需要了解的信息吗？",
+        "vocabulary": [
+          {
+            "term": "I'll see which option suits me better",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'll ˈsee ˈwhich ˈoption ˈsuits ˈme ˈbetter/",
+            "context": "_I'll see which option suits me better_. | _Is there any other information_ _I need to know_?"
+          },
+          {
+            "term": "Is there any other information",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈis ˈthere ˈany ˈother ˈinformation/",
+            "context": "_I'll see which option suits me better_. | _Is there any other information_ _I need to know_?"
+          },
+          {
+            "term": "I need to know",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈneed ˈto ˈknow/",
+            "context": "_I'll see which option suits me better_. | _Is there any other information_ _I need to know_?"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "english": "_Of course. We have brochures here_, | _and you can also check our website_ _for the latest fees_.",
+        "chinese": "当然。我们这里有小册子，| 您也可以在我们的网站上查看最新的费用信息。",
+        "vocabulary": [
+          {
+            "term": "Of course We have brochures here",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈof ˈcourse ˈwe ˈhave ˈbrochures ˈhere/",
+            "context": "_Of course. We have brochures here_, | _and you can also check our website_ _for the latest fees_."
+          },
+          {
+            "term": "and you can also check our website",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈyou ˈcan ˈalso ˈcheck ˈour ˈwebsite/",
+            "context": "_Of course. We have brochures here_, | _and you can also check our website_ _for the latest fees_."
+          },
+          {
+            "term": "for the latest fees",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈfor ˈthe ˈlatest ˈfees/",
+            "context": "_Of course. We have brochures here_, | _and you can also check our website_ _for the latest fees_."
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "english": "_Thanks, I'll look into it_. | _I'll get the information clear first_ _I'll figure all the information out first_ | _and then decide which way I need_.",
+        "chinese": "谢谢，我会去了解一下的。| 我先把这些信息弄明白，| 然后再决定我需要哪种方式。",
+        "vocabulary": [
+          {
+            "term": "Thanks I'll look into it",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthanks ˈi'll ˈlook ˈinto ˈit/",
+            "context": "_Thanks, I'll look into it_. | _I'll get the information clear first_ _I'll figure all the information out first_ | _and then decide which way I need_."
+          },
+          {
+            "term": "I'll get the information clear first",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'll ˈget ˈthe ˈinformation ˈclear ˈfirst/",
+            "context": "_Thanks, I'll look into it_. | _I'll get the information clear first_ _I'll figure all the information out first_ | _and then decide which way I need_."
+          },
+          {
+            "term": "I'll figure all the information out first",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi'll ˈfigure ˈall ˈthe ˈinformation ˈout ˈfirst/",
+            "context": "_Thanks, I'll look into it_. | _I'll get the information clear first_ _I'll figure all the information out first_ | _and then decide which way I need_."
+          },
+          {
+            "term": "and then decide which way I need",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈthen ˈdecide ˈwhich ˈway ˈi ˈneed/",
+            "context": "_Thanks, I'll look into it_. | _I'll get the information clear first_ _I'll figure all the information out first_ | _and then decide which way I need_."
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "english": "_You can apply online_. | _As you are an existing customer_, | _the process will be fairly streamlined_, | _and the approval to set up the account_ _will be quick_.",
+        "chinese": "您可以在网上申请。| 因为您是现有客户，| 流程会很高效/简化/简单，| 开户审批也会很快。",
+        "vocabulary": [
+          {
+            "term": "You can apply online",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyou ˈcan ˈapply ˈonline/",
+            "context": "_You can apply online_. | _As you are an existing customer_, | _the process will be fairly streamlined_, | _and the approval to set up the account_ _will be quick_."
+          },
+          {
+            "term": "As you are an existing customer",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈas ˈyou ˈare ˈan ˈexisting ˈcustomer/",
+            "context": "_You can apply online_. | _As you are an existing customer_, | _the process will be fairly streamlined_, | _and the approval to set up the account_ _will be quick_."
+          },
+          {
+            "term": "the process will be fairly streamlined",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthe ˈprocess ˈwill ˈbe ˈfairly ˈstreamlined/",
+            "context": "_You can apply online_. | _As you are an existing customer_, | _the process will be fairly streamlined_, | _and the approval to set up the account_ _will be quick_."
+          },
+          {
+            "term": "and the approval to set up the account",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈand ˈthe ˈapproval ˈto ˈset ˈup ˈthe ˈaccount/",
+            "context": "_You can apply online_. | _As you are an existing customer_, | _the process will be fairly streamlined_, | _and the approval to set up the account_ _will be quick_."
+          },
+          {
+            "term": "will be quick",
+            "difficulty": "normal",
+            "phonetic": "UK /ˈwill ˈbe ˈquick/",
+            "context": "_You can apply online_. | _As you are an existing customer_, | _the process will be fairly streamlined_, | _and the approval to set up the account_ _will be quick_."
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "english": "_Thank you, that's great_. | _I need to get this done_ _as soon as possible_. | _You've helped me a lot_ / _You've been a great help_.",
+        "chinese": "谢谢，太好了。| 我需要尽快办理，| 你真是帮了我大忙。",
+        "vocabulary": [
+          {
+            "term": "Thank you that's great",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈthank ˈyou ˈthat's ˈgreat/",
+            "context": "_Thank you, that's great_. | _I need to get this done_ _as soon as possible_. | _You've helped me a lot_ / _You've been a great help_."
+          },
+          {
+            "term": "I need to get this done",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈi ˈneed ˈto ˈget ˈthis ˈdone/",
+            "context": "_Thank you, that's great_. | _I need to get this done_ _as soon as possible_. | _You've helped me a lot_ / _You've been a great help_."
+          },
+          {
+            "term": "as soon as possible",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈas ˈsoon ˈas ˈpossible/",
+            "context": "_Thank you, that's great_. | _I need to get this done_ _as soon as possible_. | _You've helped me a lot_ / _You've been a great help_."
+          },
+          {
+            "term": "You've helped me a lot",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyou've ˈhelped ˈme ˈa ˈlot/",
+            "context": "_Thank you, that's great_. | _I need to get this done_ _as soon as possible_. | _You've helped me a lot_ / _You've been a great help_."
+          },
+          {
+            "term": "You've been a great help",
+            "difficulty": "hard",
+            "phonetic": "UK /ˈyou've ˈbeen ˈa ˈgreat ˈhelp/",
+            "context": "_Thank you, that's great_. | _I need to get this done_ _as soon as possible_. | _You've helped me a lot_ / _You've been a great help_."
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "source_file": "merged-conversations.md",
+      "extraction_date": "2025-09-10T09:26:11.790Z",
+      "total_vocabulary_terms": 52
+    }
+  },
+  {
     "id": "70248",
     "title": "New Council Employee Helps Community Centre 2",
     "category": "social",
@@ -484,7 +2731,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.165Z",
+      "extraction_date": "2025-09-10T09:26:11.790Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -1015,7 +3262,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.166Z",
+      "extraction_date": "2025-09-10T09:26:11.790Z",
       "total_vocabulary_terms": 70
     }
   },
@@ -1474,7 +3721,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.166Z",
+      "extraction_date": "2025-09-10T09:26:11.790Z",
       "total_vocabulary_terms": 58
     }
   },
@@ -1933,7 +4180,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.166Z",
+      "extraction_date": "2025-09-10T09:26:11.791Z",
       "total_vocabulary_terms": 58
     }
   },
@@ -2368,7 +4615,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.166Z",
+      "extraction_date": "2025-09-10T09:26:11.792Z",
       "total_vocabulary_terms": 54
     }
   },
@@ -2839,7 +5086,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.167Z",
+      "extraction_date": "2025-09-10T09:26:11.792Z",
       "total_vocabulary_terms": 60
     }
   },
@@ -3316,7 +5563,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.167Z",
+      "extraction_date": "2025-09-10T09:26:11.792Z",
       "total_vocabulary_terms": 61
     }
   },
@@ -3811,7 +6058,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.167Z",
+      "extraction_date": "2025-09-10T09:26:11.792Z",
       "total_vocabulary_terms": 64
     }
   },
@@ -4264,7 +6511,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.168Z",
+      "extraction_date": "2025-09-10T09:26:11.792Z",
       "total_vocabulary_terms": 57
     }
   },
@@ -4753,7 +7000,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.168Z",
+      "extraction_date": "2025-09-10T09:26:11.793Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -5278,7 +7525,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.168Z",
+      "extraction_date": "2025-09-10T09:26:11.793Z",
       "total_vocabulary_terms": 69
     }
   },
@@ -5875,7 +8122,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.168Z",
+      "extraction_date": "2025-09-10T09:26:11.793Z",
       "total_vocabulary_terms": 81
     }
   },
@@ -6436,7 +8683,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.169Z",
+      "extraction_date": "2025-09-10T09:26:11.793Z",
       "total_vocabulary_terms": 75
     }
   },
@@ -6979,7 +9226,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.169Z",
+      "extraction_date": "2025-09-10T09:26:11.793Z",
       "total_vocabulary_terms": 72
     }
   },
@@ -7630,7 +9877,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.169Z",
+      "extraction_date": "2025-09-10T09:26:11.794Z",
       "total_vocabulary_terms": 90
     }
   },
@@ -8155,7 +10402,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.169Z",
+      "extraction_date": "2025-09-10T09:26:11.794Z",
       "total_vocabulary_terms": 69
     }
   },
@@ -8656,7 +10903,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.170Z",
+      "extraction_date": "2025-09-10T09:26:11.794Z",
       "total_vocabulary_terms": 65
     }
   },
@@ -9229,7 +11476,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.170Z",
+      "extraction_date": "2025-09-10T09:26:11.794Z",
       "total_vocabulary_terms": 77
     }
   },
@@ -9760,7 +12007,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.170Z",
+      "extraction_date": "2025-09-10T09:26:11.794Z",
       "total_vocabulary_terms": 70
     }
   },
@@ -10291,7 +12538,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.170Z",
+      "extraction_date": "2025-09-10T09:26:11.795Z",
       "total_vocabulary_terms": 70
     }
   },
@@ -10804,7 +13051,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.171Z",
+      "extraction_date": "2025-09-10T09:26:11.795Z",
       "total_vocabulary_terms": 67
     }
   },
@@ -11293,7 +13540,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.171Z",
+      "extraction_date": "2025-09-10T09:26:11.795Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -11800,7 +14047,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.171Z",
+      "extraction_date": "2025-09-10T09:26:11.795Z",
       "total_vocabulary_terms": 66
     }
   },
@@ -12253,7 +14500,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.171Z",
+      "extraction_date": "2025-09-10T09:26:11.795Z",
       "total_vocabulary_terms": 57
     }
   },
@@ -12712,7 +14959,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.171Z",
+      "extraction_date": "2025-09-10T09:26:11.796Z",
       "total_vocabulary_terms": 58
     }
   },
@@ -13153,7 +15400,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.172Z",
+      "extraction_date": "2025-09-10T09:26:11.796Z",
       "total_vocabulary_terms": 55
     }
   },
@@ -13558,7 +15805,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.172Z",
+      "extraction_date": "2025-09-10T09:26:11.796Z",
       "total_vocabulary_terms": 49
     }
   },
@@ -14077,7 +16324,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.172Z",
+      "extraction_date": "2025-09-10T09:26:11.796Z",
       "total_vocabulary_terms": 68
     }
   },
@@ -14542,7 +16789,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.172Z",
+      "extraction_date": "2025-09-10T09:26:11.796Z",
       "total_vocabulary_terms": 59
     }
   },
@@ -15001,7 +17248,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.172Z",
+      "extraction_date": "2025-09-10T09:26:11.796Z",
       "total_vocabulary_terms": 58
     }
   },
@@ -15502,7 +17749,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.173Z",
+      "extraction_date": "2025-09-10T09:26:11.797Z",
       "total_vocabulary_terms": 65
     }
   },
@@ -16081,7 +18328,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.173Z",
+      "extraction_date": "2025-09-10T09:26:11.797Z",
       "total_vocabulary_terms": 78
     }
   },
@@ -16612,7 +18859,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.173Z",
+      "extraction_date": "2025-09-10T09:26:11.797Z",
       "total_vocabulary_terms": 70
     }
   },
@@ -17131,7 +19378,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.173Z",
+      "extraction_date": "2025-09-10T09:26:11.798Z",
       "total_vocabulary_terms": 68
     }
   },
@@ -17662,7 +19909,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.173Z",
+      "extraction_date": "2025-09-10T09:26:11.798Z",
       "total_vocabulary_terms": 70
     }
   },
@@ -18247,7 +20494,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.174Z",
+      "extraction_date": "2025-09-10T09:26:11.798Z",
       "total_vocabulary_terms": 79
     }
   },
@@ -18760,7 +21007,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.174Z",
+      "extraction_date": "2025-09-10T09:26:11.798Z",
       "total_vocabulary_terms": 67
     }
   },
@@ -19303,7 +21550,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.174Z",
+      "extraction_date": "2025-09-10T09:26:11.798Z",
       "total_vocabulary_terms": 72
     }
   },
@@ -19828,7 +22075,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.174Z",
+      "extraction_date": "2025-09-10T09:26:11.798Z",
       "total_vocabulary_terms": 69
     }
   },
@@ -20353,7 +22600,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.175Z",
+      "extraction_date": "2025-09-10T09:26:11.798Z",
       "total_vocabulary_terms": 69
     }
   },
@@ -20842,7 +23089,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.175Z",
+      "extraction_date": "2025-09-10T09:26:11.799Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -21313,7 +23560,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.175Z",
+      "extraction_date": "2025-09-10T09:26:11.799Z",
       "total_vocabulary_terms": 60
     }
   },
@@ -21820,7 +24067,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.175Z",
+      "extraction_date": "2025-09-10T09:26:11.799Z",
       "total_vocabulary_terms": 66
     }
   },
@@ -22303,7 +24550,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.175Z",
+      "extraction_date": "2025-09-10T09:26:11.799Z",
       "total_vocabulary_terms": 62
     }
   },
@@ -22792,7 +25039,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.175Z",
+      "extraction_date": "2025-09-10T09:26:11.799Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -23281,7 +25528,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.175Z",
+      "extraction_date": "2025-09-10T09:26:11.799Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -23770,7 +26017,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.175Z",
+      "extraction_date": "2025-09-10T09:26:11.800Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -24265,7 +26512,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.184Z",
+      "extraction_date": "2025-09-10T09:26:11.800Z",
       "total_vocabulary_terms": 64
     }
   },
@@ -24802,7 +27049,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.184Z",
+      "extraction_date": "2025-09-10T09:26:11.800Z",
       "total_vocabulary_terms": 71
     }
   },
@@ -25375,7 +27622,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.185Z",
+      "extraction_date": "2025-09-10T09:26:11.800Z",
       "total_vocabulary_terms": 77
     }
   },
@@ -25882,7 +28129,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.185Z",
+      "extraction_date": "2025-09-10T09:26:11.800Z",
       "total_vocabulary_terms": 66
     }
   },
@@ -26431,7 +28678,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.185Z",
+      "extraction_date": "2025-09-10T09:26:11.800Z",
       "total_vocabulary_terms": 73
     }
   },
@@ -26974,7 +29221,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.185Z",
+      "extraction_date": "2025-09-10T09:26:11.800Z",
       "total_vocabulary_terms": 72
     }
   },
@@ -27499,7 +29746,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.185Z",
+      "extraction_date": "2025-09-10T09:26:11.801Z",
       "total_vocabulary_terms": 69
     }
   },
@@ -28084,7 +30331,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.186Z",
+      "extraction_date": "2025-09-10T09:26:11.801Z",
       "total_vocabulary_terms": 79
     }
   },
@@ -28675,7 +30922,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.186Z",
+      "extraction_date": "2025-09-10T09:26:11.801Z",
       "total_vocabulary_terms": 80
     }
   },
@@ -29213,7 +31460,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.186Z",
+      "extraction_date": "2025-09-10T09:26:11.801Z",
       "total_vocabulary_terms": 70
     }
   },
@@ -29768,7 +32015,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.187Z",
+      "extraction_date": "2025-09-10T09:26:11.802Z",
       "total_vocabulary_terms": 74
     }
   },
@@ -30335,7 +32582,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.187Z",
+      "extraction_date": "2025-09-10T09:26:11.802Z",
       "total_vocabulary_terms": 76
     }
   },
@@ -30866,7 +33113,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.187Z",
+      "extraction_date": "2025-09-10T09:26:11.802Z",
       "total_vocabulary_terms": 70
     }
   },
@@ -31343,7 +33590,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.187Z",
+      "extraction_date": "2025-09-10T09:26:11.802Z",
       "total_vocabulary_terms": 61
     }
   },
@@ -31832,7 +34079,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.187Z",
+      "extraction_date": "2025-09-10T09:26:11.802Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -32351,7 +34598,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.187Z",
+      "extraction_date": "2025-09-10T09:26:11.802Z",
       "total_vocabulary_terms": 68
     }
   },
@@ -32846,7 +35093,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.188Z",
+      "extraction_date": "2025-09-10T09:26:11.803Z",
       "total_vocabulary_terms": 64
     }
   },
@@ -33347,7 +35594,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.188Z",
+      "extraction_date": "2025-09-10T09:26:11.803Z",
       "total_vocabulary_terms": 65
     }
   },
@@ -33818,7 +36065,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.188Z",
+      "extraction_date": "2025-09-10T09:26:11.803Z",
       "total_vocabulary_terms": 60
     }
   },
@@ -34283,7 +36530,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.188Z",
+      "extraction_date": "2025-09-10T09:26:11.803Z",
       "total_vocabulary_terms": 59
     }
   },
@@ -34754,7 +37001,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.188Z",
+      "extraction_date": "2025-09-10T09:26:11.803Z",
       "total_vocabulary_terms": 60
     }
   },
@@ -35207,7 +37454,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.189Z",
+      "extraction_date": "2025-09-10T09:26:11.804Z",
       "total_vocabulary_terms": 57
     }
   },
@@ -35672,7 +37919,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.189Z",
+      "extraction_date": "2025-09-10T09:26:11.804Z",
       "total_vocabulary_terms": 59
     }
   },
@@ -36089,7 +38336,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.189Z",
+      "extraction_date": "2025-09-10T09:26:11.804Z",
       "total_vocabulary_terms": 51
     }
   },
@@ -36578,7 +38825,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.189Z",
+      "extraction_date": "2025-09-10T09:26:11.804Z",
       "total_vocabulary_terms": 63
     }
   },
@@ -36977,7 +39224,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.189Z",
+      "extraction_date": "2025-09-10T09:26:11.804Z",
       "total_vocabulary_terms": 48
     }
   },
@@ -37340,7 +39587,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.189Z",
+      "extraction_date": "2025-09-10T09:26:11.804Z",
       "total_vocabulary_terms": 42
     }
   },
@@ -37727,7 +39974,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.189Z",
+      "extraction_date": "2025-09-10T09:26:11.804Z",
       "total_vocabulary_terms": 46
     }
   },
@@ -38114,7 +40361,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.190Z",
+      "extraction_date": "2025-09-10T09:26:11.804Z",
       "total_vocabulary_terms": 46
     }
   },
@@ -38531,7 +40778,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.190Z",
+      "extraction_date": "2025-09-10T09:26:11.805Z",
       "total_vocabulary_terms": 51
     }
   },
@@ -38868,7 +41115,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.190Z",
+      "extraction_date": "2025-09-10T09:26:11.805Z",
       "total_vocabulary_terms": 40
     }
   },
@@ -39243,7 +41490,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.190Z",
+      "extraction_date": "2025-09-10T09:26:11.805Z",
       "total_vocabulary_terms": 44
     }
   },
@@ -39574,7 +41821,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.190Z",
+      "extraction_date": "2025-09-10T09:26:11.805Z",
       "total_vocabulary_terms": 39
     }
   },
@@ -39931,7 +42178,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.190Z",
+      "extraction_date": "2025-09-10T09:26:11.805Z",
       "total_vocabulary_terms": 41
     }
   },
@@ -40384,7 +42631,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.190Z",
+      "extraction_date": "2025-09-10T09:26:11.805Z",
       "total_vocabulary_terms": 57
     }
   },
@@ -40891,7 +43138,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.190Z",
+      "extraction_date": "2025-09-10T09:26:11.805Z",
       "total_vocabulary_terms": 66
     }
   },
@@ -41326,7 +43573,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.191Z",
+      "extraction_date": "2025-09-10T09:26:11.806Z",
       "total_vocabulary_terms": 54
     }
   },
@@ -41833,7 +44080,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.191Z",
+      "extraction_date": "2025-09-10T09:26:11.806Z",
       "total_vocabulary_terms": 66
     }
   },
@@ -42280,7 +44527,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.191Z",
+      "extraction_date": "2025-09-10T09:26:11.806Z",
       "total_vocabulary_terms": 56
     }
   },
@@ -42691,7 +44938,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.191Z",
+      "extraction_date": "2025-09-10T09:26:11.806Z",
       "total_vocabulary_terms": 50
     }
   },
@@ -43066,7 +45313,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.191Z",
+      "extraction_date": "2025-09-10T09:26:11.806Z",
       "total_vocabulary_terms": 44
     }
   },
@@ -43471,7 +45718,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.191Z",
+      "extraction_date": "2025-09-10T09:26:11.806Z",
       "total_vocabulary_terms": 49
     }
   },
@@ -43864,7 +46111,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.192Z",
+      "extraction_date": "2025-09-10T09:26:11.807Z",
       "total_vocabulary_terms": 47
     }
   },
@@ -44245,7 +46492,7 @@
     ],
     "metadata": {
       "source_file": "merged-conversations.md",
-      "extraction_date": "2025-09-09T04:53:01.192Z",
+      "extraction_date": "2025-09-10T09:26:11.807Z",
       "total_vocabulary_terms": 45
     }
   }

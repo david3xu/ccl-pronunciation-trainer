@@ -1,6 +1,6 @@
 # CCL Conversations Collection
 
-**Dialogue Range:** 70248 → 70158 (91 conversations total)
+**Dialogue Range:** 70253 → 70158 (96 conversations total)
 **Last Updated:** 29 August 2025
 **Processing Order:** Descending (newest first)
 **Categories:** Social, Business, Medical, Legal
@@ -10,6 +10,11 @@ _This file contains all CCL conversation dialogues with highlighted vocabulary t
 
 ## Table of Contents
 
+- [#70253. Inquiring About House Extension Approval](#70253-inquiring-about-house-extension-approval---business)
+- [#70252. Suite Bathroom Design Clarification 3](#70252-suite-bathroom-design-clarification-3---business)
+- [#70251. In-home support program for the elderly](#70251-in-home-support-program-for-the-elderly---social)
+- [#70250. A New Creamy Leather Lounge Chair 3](#70250-a-new-creamy-leather-lounge-chair-3---business)
+- [#70249. Wire Transfer and Foreign Currency Account](#70249-wire-transfer-and-foreign-currency-account---business)
 - [#70248. New Council Employee Helps Community Centre 2](#70248-new-council-employee-helps-community-centre-2--social)
 - [#70247. Suite Bathroom Design Clarification 2](#70247-suite-bathroom-design-clarification-2--business)
 - [#70246. A New Creamy Leather Lounge Chair 2](#70246-a-new-creamy-leather-lounge-chair-2--business)
@@ -102,6 +107,260 @@ _This file contains all CCL conversation dialogues with highlighted vocabulary t
 - [#70159. A Lonely Transfer Student](#70159-a-lonely-transfer-student---education)
 - [#70158. Catering Business Ideas](#70158-catering-business-ideas---business)
 
+---
+
+#70253. Inquiring About House Extension Approval – Business
+
+Briefing: This dialogue takes place between a Mandarin-speaking homeowner and an English-speaking officer at a local council planning office. They are discussing the requirements and process for obtaining council approval for a home extension project. The dialogue starts now.
+
+【萤火虫老师Tips】
+本70253 是2025 年9 月4 日考题，是全新题。之后预计还会考2 次变体。
+
+1.  _Good morning. Welcome to the council planning office_. | _How can I help you today_?
+    早上好，欢迎来到市政规划办公室。我今天能帮您什么吗？
+
+2.  你好，我刚从海外搬来这里。| 我想对我的房子进行改造，| 但是我不知道这需不需要批准。
+    _Hello, I just moved here from overseas_. | _I want to renovate my house_, | _but I'm not sure if it needs approval_.
+
+3.  _It depends on your project_. | _You don't need council approval_ _if you are just updating your bathroom_. | _However, you do need approval_ _if it is a major building work_.
+    这取决于您的项目。| 如果只是翻新浴室，不需要市政批准。| 但如果是重大建筑工程，就确实需要批准。
+
+4.  我想要扩建自己的房子，| 增加几个房间，这样空间就会更大。| 这样看来，这些改动需要批准啊。
+    _I want to extend my house and add a few rooms_, | _so the space will be bigger_. | _It looks like these changes need approval_.
+
+5.  _Yes, definitely. It is a big project_. | _You need to submit a development application_ _to the council_. | _It should include the architectural drawings_ _and site plans_.
+    是的，肯定需要。这是个大工程。| 您需要向市政提交开发申请，| 申请里应包括建筑图纸和场地平面图/规划图。
+
+6.  好的，我会这么做的。| 批准程序一般需要多长时间？| 我希望能尽快开始扩建。
+    _Okay, I will do that_. | _How long does the approval process usually take_? | _I want to start the extension as soon as possible_.
+
+7.  _Council approval can take several months_, | _depending on the complexity of your project_. | _It also depends on whether there are objections_ _from your neighbors_.
+    市政批准可能需要几个月时间，| 取决于您的项目复杂程度，| 也取决于您的邻居是否会反对。
+
+8.  这样看来，这个程序很复杂啊。| 我没想过市政厅的审核要这么久，| 我也没想过邻居会投诉。
+    _It seems this process is quite complicated_. | _I didn't expect the council's review_ _to take this long_, | _and I didn't expect the neighbors might complain_.
+
+9.  _The neighbors usually only complain_ _if what you build affects their privacy_ | _or how they use the backyard_. | _Not all complaints will be upheld though_.
+    邻居通常只有在您的建筑影响到他们的隐私| 或影响他们使用后院时才会投诉。| 不过，并不是所有投诉都会被采纳/都会成立。
+
+10. 好的，我觉得邻居应该不会抱怨，| 我的房子后面是一个公园，| 所以扩建不会影响到任何人的隐私。
+    _Okay, I don't think the neighbors will complain_. | _There's a park behind my house_, | _so the extension won't affect anyone's privacy_.
+
+11. _That will help_. | _The council will either approve the application_ _or reject it_. | _If it's rejected, you can make changes_ _and submit again_.
+    这会有帮助。| 市政会批准或拒绝申请。| 如果被拒，您可以修改后再次提交。
+
+12. 了解这些太好了。| 我希望项目可以顺利批准，| 而且最好不需要修改，| 这样就不会再耽误时间了。
+    _It's great to know this_. | _I hope the project will be approved smoothly_, | _and hopefully without any changes_, | _so it won't cause any more delays_.
+
+13. _It is also a good idea_ _to check the application carefully_ _before you submit_. | _You definitely don't want any delays_ _because of any missing information_.
+    在提交之前仔细检查申请也是个很好的主意。| 您肯定不想因为缺了什么信息而延误。
+
+14. 谢谢你的帮助，| 我最好现在就开始准备申请，| 不然，我什么都建不了。
+    _Thank you for your help_. | _I'd better start preparing the application now_, | _or I won't be able to build anything_.
+
+---
+
+#70252. Suite Bathroom Design Clarification 3 – Business
+
+Briefing: This dialogue takes place between a Mandarin-speaking house owner and an English-speaking builder. The conversation takes place at the construction site. The dialogue starts now.
+
+【萤火虫老师Tips】
+本70252 是2025 年9 月4 日考题，是8 月5 日考题70241 的第三次变体。第7-10 段改为了完全不同内容。其他段落不变。本题已经考3 次了，按照以往规律，不会再考了。
+
+1.  _Hey, the office mentioned_ _you'd drop by_ _to visit the site again today_. | _I bet you'll be pleased_ _with the progress_.
+    嗨，办公室那边说| 你今天要再来工地一趟。| 我相信你会对进度满意的。
+
+2.  对啊，我就在附近上班，| 顺路过来看看挺方便的。| 看着新房子一点点盖起来，我超激动的。
+    _Yeah, I work nearby_ | _so it's easy to swing by_. | _I'm thrilled watching my new house take shape_. / _I'm so excited watching_ _the new house being built little by little_!
+
+3.  _The crew has now finished_ _the walls, floors, and doors_. | _The supplier has finally_ _delivered the materials_ _early last week_.
+    施工队/工人们现在已经| 做完墙壁、地板和门了。| 上周早些时候，| 供应商总算把材料送到了。
+
+4.  速度真快！| 因为材料送过来的时间延期了，| 我本来还以为需要更长的时间呢。| 现在材料好像都很难买，| 运输也很慢。
+    _That was quick_! | _Since the material delivery was delayed_, | _I thought it would take longer_. | _Nowadays it seems really hard_ _to get materials_, | _and shipping is so slow too_.
+
+5.  _True, and material prices_ _have gone up too_. | _Since you're here_, | _I'd like to go over_ _the plans with you_.
+    没错，材料现在也涨价了。| 既然你来了，| 我想和你一起过一下图纸。
+
+6.  没问题。| 我感觉我每天晚上回家| 都会看施工图纸。| 所以每个房间具体会是什么样子的，| 我都清清楚楚。
+    _No problem_. | _I feel like I check_ _the construction plans/blueprints_ | _every night when I get home_. | _So, I know exactly_ _what each room will look like_.
+
+7.  _I know you were debating between_ _the light-colored timber flooring_ _and the tiles for the living room and kitchen_. | _Have you changed your mind_?
+    我知道你之前就在客厅和厨房的浅色木地板和瓷砖之间犹豫。| 你改主意了吗？
+
+8.  不，我确信我要用瓷砖。| 在我做出决定之后，| 我就没改变过主意，| 毕竟，做这个决定花了我很长时间。
+    _No, I'm sure I want tiles_. | _I haven't changed my mind_ _since I made the decision_. | _After all, it took me a long time_ _to make it_.
+
+9.  _Oh dear! I was afraid of that_. | _We must have mixed up the order_. | _The supplier has delivered_ _the timber flooring_.
+    哎呀！我就怕是这样。| 我们肯定是把订单搞混了。| 供应商已经把木地板送来了。
+
+10. 用木地板也不是一个坏主意，| 但是我还是更想用瓷砖。| 我很高兴你在工人开始铺木地板之前| 就发现了这个问题。
+    _Wood flooring isn't a bad idea_, | _but I still prefer tiles_. | _I'm really glad you caught this_ _before the workers start laying it down_.
+
+11. _It struck me as a bit strange this morning_. | _That's why I inspect_ _the site every day_.
+    我今早上看着| 就突然觉得有点怪/不对劲，| 这也是为什么我每天| 都要到工地检查的原因。
+
+12. 太感谢了，| 让我放心多了。| 你这么快就能发现和解决问题，| 真的太棒了。
+    _Thanks so much_. | _That really puts my mind at ease_. | _It's so great you can_ _spot and fix issues promptly_.
+
+13. _Of course. I believe in_ _looking after my customers_, | _and I know how important it is_ _to keep track of everything_.
+    当然。我是客户至上的/| 我坚信得把客户服务好，| 而且我也知道每件事| 都把控好/跟进好/盯紧了有多重要。
+
+14. 设计这个房子| 有这么多的事情要做呀！| 我不知道盖一个房子| 需要这么复杂。
+    _There are so many things to do_ _when/in designing this house_! / _Designing a house involves_ _so many things to do_! | _I had no idea_ _building a house_ _could be this complicated_.
+
+---
+
+#70251. In-home support program for the elderly – Social
+
+Briefing: This dialogue takes place between a Mandarin-speaking client and an English-speaking officer. They are discussing an in-home support program for the elderly. The dialogue starts now.
+
+【萤火虫老师Tips】
+本70251 是2025 年9 月3 日考题，是全新题。之后预计还会考2 次变体。
+
+1.  _Good afternoon, welcome to the Health Department_. | _How can I assist you today_?
+    下午好，欢迎来到卫生部。我今天能帮您什么忙？
+
+2.  下午好，我想进一步了解一下| 你们为老年人提供的居家支持项目。
+    _Good afternoon. I'd like to find out more about_ _your in-home support program for the elderly_.
+
+3.  _Yes, of course. I'm happy to provide that information_. | _I hope it might be a good fit for you_.
+    好的，当然可以。我很乐意给你介绍。| 希望这个项目能适合你。
+
+4.  我是给我母亲问的，不是给我自己。| 她年纪很大了，一个人住。| 我觉得她需要一些额外的日常生活的帮助。
+    _I'm asking on behalf of my mother, not myself_. | _She's quite old and lives alone_. | _I think she needs some extra help_ _with her daily life_.
+
+5.  _I understand. Our service provides_ _a range of support_ | _to make sure elderly people in Australia_ _can live independently and safely_.
+    我明白了。我们的服务提供一系列支持，| 确保澳大利亚的老年人能够独立安全地生活。
+
+6.  这听起来很有希望啊。| 请问这个项目提供哪些具体的服务呢？| 她目前还不需要高级的医疗护理。
+    _That sounds very promising_. | _May I ask what specific services_ _the program provides_? | _She doesn't need advanced nursing care_ _at this stage_.
+
+7.  _Our program provides assistance like meals_, _food preparation, bathing_, | _personal hygiene, nursing care_, | _support for people with mobility issues_, | _home modification, and cleaning_.
+    我们的项目提供的帮助涵盖了像是餐食、食物准备、洗澡、| 个人卫生、护理、| 行动不便人士辅助、| 家居改造和清洁这些。
+
+8.  我的母亲一定能从一些服务中受益的。| 这项目能大大提高她的生活质量，| 也能让我放心。
+    _My mother would definitely benefit_ _from some of these services_. | _The program would greatly improve_ _her quality of life_ | _and also put my mind at ease_.
+
+9.  _Many people are in a similar situation_. | _We've received a lot of positive feedback_ _about how the program helps them_.
+    很多人都有类似的情况。| 我们收到了许多积极的反馈，| 说这个项目对他们有很大的帮助。
+
+10. 我想为我的妈妈申请加入这个项目，| 请您告诉我应该怎么做呢?| 我会很感激你的帮助。
+    _I'd like to apply for this program_ _for my mother_. | _Could you please tell me how to do it_? | _I'd really appreciate your help_.
+
+11. _You need to check if your mother is eligible_ | _and arrange an in-person assessment_. | _That's the first step in the process_.
+    您需要确认您的母亲是否符合资格，| 并安排一次面对面/现场评估。| 这是流程的第一步。
+
+12. 听起来不错。| 我不太清楚怎么样确认我母亲是否资格啊。| 她需要满足什么条件呢？
+    _That sounds good_. | _I'm not sure how to confirm_ _if my mother is eligible_. | _What conditions does she need to meet_?
+
+13. _You can find the eligibility criteria_ _on our website_. | _If she meets the criteria_, | _you can make an appointment_ _for an in-person assessment_.
+    您可以在我们的网站上查看都有哪些资格要求。| 如果她符合条件，| 您可以预约一次面对面/现场评估。
+
+14. 谢谢你提供的信息。| 我现在就去网站上看看，| 确认她是否符合要求。| 知道有人能帮忙，已经让我放心多了。
+    _Thank you for the information_. | _I'll check the website now_ _to confirm if she meets the requirements_. | _Just knowing someone can help_ _is already a huge relief_.
+
+---
+
+#70250. A New Creamy Leather Lounge Chair 3 – Business
+
+Briefing: The following dialogue takes place in a café between two friends. They are discussing buying a new lounge chair and how to pay for it. The dialogue starts now.
+
+【萤火虫老师Tips】
+本70250 是2025 年9 月3 日考题，是8 月5 日考题70240 的第三次变体。第7-10 段改为了完全不同内容。其他段落不变。已经第三次变体了，如果今年下半年出题规律不变，那这个题之后就不会再考了。
+
+1.  _Hey, great to see you_! | _We've finally got a chance_ _to catch up_.
+    嘿，好高兴见到你！| 我们终于有机会聚一聚了。
+
+2.  对啊，咱们好久没坐下来| 慢慢喝咖啡聊聊天了。
+    _Yeah, it's been ages_ _since we last sat down_ | _to enjoy coffee and chat_. / _Right, we haven't had a chance_ _to relax over coffee and talk in so long_.
+
+3.  _How's your day going_? | _You mentioned you were browsing_ _the mall before coming here_ _to meet me_.
+    你今天过得怎么样？| 你说你来这跟我见面之前| 还在逛商场呢。
+
+4.  对，我就是想买把新休闲椅，| 所以一直在商场里逛，| 想挑个质感好的。
+    _Yeah, I just want to buy_ _a new lounge chair_, | _so I've been looking around/browsing the mall_ | _for one that feels really nice/for a good-quality one_.
+
+5.  _That's awesome_. | _Big stores have loads of options_. | _But furniture can be expensive_, | _depending on what you want_.
+    那太好了。| 大商场的选择多得很。| 不过家具可不便宜啊，| 这要看你想要什么样的了。
+
+6.  我看上了一款奶油色皮质沙发，| 很对我胃口，可价格不算低。| 我不太确定最划算的| 付款方式是怎样的。
+    _I spotted a cream-colored_ _leather sofa that I really like_, | _but it isn't cheap_. | _I'm not sure which payment method_ _makes the most sense_.
+
+7.  _You can use a credit card_, | _which lets you keep your money_ _for a few weeks_ _before you have to pay_.
+    你可以使用信用卡，| 这样在你必须付款之前，| 你的钱还能多留几周。
+
+8.  我尽量不用信用卡。| 不过，我觉得，| 在截止日期前还清欠款，| 应该就没问题了。
+    _I try not to use a credit card_. | _But I think it should be fine_, | _as long as I pay off the balance_ _in full by the due date_.
+
+9.  _Credit cards charge interest_, | _so be sure to pay on time_ _to avoid extra fees_.
+    信用卡会收利息的，| 所以务必要按时还款，| 以避免产生额外费用。
+
+10. 好的。如果我用信用卡付款，| 还能获得积分，| 还可以兑换其他商品。
+    _Okay. If I pay by credit card_, | _I can also earn credits/points_ | _and redeem for other products_.
+
+11. _It's smart to think about_ _your best payment options_ _for big purchases_. | _You could save money_ _or make it easier to pay_.
+    考虑一下大额消费的| 最佳付款方式是明智的。| 你可能可以省钱，| 或者让付款更轻松。
+
+12. 我也这么觉得。| 我今晚好好比对一下，| 再明天去店里决定。| 我觉得这沙发放客厅| 肯定很棒。
+    _I agree. I'll carefully compare them tonight_ | _and decide at the store tomorrow_. | _I think that sofa_ _would look fantastic_ _in the living room_.
+
+13. _Creamy leather sounds_ _a perfect choice_. | _How about we grab a slice of cake_ _with our coffee to celebrate_?
+    奶油色的皮革，| 这选择听着太完美了。| 要不咱俩喝咖啡时| 再加块蛋糕，庆祝一下？
+
+14. 听起来很完美。| 我逛完这一圈，| 肚子都饿扁了。| 希望一切都顺利。
+    _Sounds perfect_. | _I'm starving after_ _all that shopping_. | _Hope it all works out_.
+
+---
+
+#70249. Wire Transfer and Foreign Currency Account – Business
+
+Briefing: This dialogue is a conversation between a Mandarin-speaking bank client and an English-speaking bank clerk. They are discussing options for transferring money overseas. The dialogue begins now.
+
+【萤火虫老师Tips】
+本70249 是9 月2 日考题。回忆不完整。是全新题。第一次出现。之后还会再考2 次变体。
+
+1.  _Hello! Welcome to our Bank_. | _How can I help you today_?
+    你好！欢迎来我们银行。今天有什么可以帮您的？
+
+2.  你好，我想咨询一下| 国际汇款和收款要怎么操作。
+    _Hello, I'd like to ask about_ _how to send and receive international transfers/ payments_. / _I need some information on_ _how to make and receive international payments_.
+
+3.  _Sure. We have different options_. | _Of course. We have a few ways to do that_. | _Will this be a one-time thing_, | _or would it be on a regular basis_?
+    当然。我们有不同的选择。| 您是想办理一次性的交易，| 还是说这会是一项定期业务呢？
+
+4.  我需要定期汇款。| 我有家族生意在海外，| 所以我经常需要往海外转账。
+    _I need to make regular transfers_. | _My family has business overseas_ / _My family is involved in business overseas_, | _so I often need to make international transfers_ _send money overseas_.
+
+5.  _I see. There are two options_ _for you to choose from_: | _international wire transfer_ | _or setting up a foreign currency account_.
+    我明白了。您有两个选择：| 国际电汇| 或者开一个外币账户。
+
+6.  我觉得外币账户可能更好,| 因为可以自动收款。| 电汇可能需要更多人工的步骤。
+    _I think a foreign currency account might be better_, | _because it can receive payments automatically_. | _Wire transfers might require_ _more manual steps_.
+
+7.  _That makes sense_. | _Many clients prefer a foreign currency account_, | _as they can receive funds directly into it_.
+    有道理。| 很多客户更喜欢外币账户，| 因为能直接收款到账户里。
+
+8.  我想了解一下，| 手续费都是怎么收的？| 我想根据这个来做决定。
+    _I'd like to know how the transfer fees_ _conversion fees are charged_. | _I want to make my decision based on that_.
+
+9.  _International wire transfers incur flat fees_, | _while a foreign currency account charges_ | _conversion fees depending on the amounts_.
+    国际电汇收一笔固定的手续费，| 而外币账户收的兑换费/手续费| 是根据交易金额来定的。
+
+10. 我看看哪个选择更适合我吧。| 还有其他我需要了解的信息吗？
+    _I'll see which option suits me better_. | _Is there any other information_ _I need to know_?
+
+11. _Of course. We have brochures here_, | _and you can also check our website_ _for the latest fees_.
+    当然。我们这里有小册子，| 您也可以在我们的网站上查看最新的费用信息。
+
+12. 谢谢，我会去了解一下的。| 我先把这些信息弄明白，| 然后再决定我需要哪种方式。
+    _Thanks, I'll look into it_. | _I'll get the information clear first_ _I'll figure all the information out first_ | _and then decide which way I need_.
+
+13. _You can apply online_. | _As you are an existing customer_, | _the process will be fairly streamlined_, | _and the approval to set up the account_ _will be quick_.
+    您可以在网上申请。| 因为您是现有客户，| 流程会很高效/简化/简单，| 开户审批也会很快。
+
+14. 谢谢，太好了。| 我需要尽快办理，| 你真是帮了我大忙。
+    _Thank you, that's great_. | _I need to get this done_ _as soon as possible_. | _You've helped me a lot_ / _You've been a great help_.
 ---
 
 #70248. New Council Employee Helps Community Centre 2 – Social

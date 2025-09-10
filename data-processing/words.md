@@ -1,3 +1,191 @@
+70253
+council planning office
+overseas
+renovate
+approval
+council approval
+updating
+bathroom
+a major building work
+extend
+add
+definitely
+a big project
+submit
+a development application
+council
+architectural drawings
+site plans
+approval process
+as soon as possible
+complexity
+objections
+neighbors
+process
+complicated
+the council's review
+take this long
+complain
+affects
+privacy
+backyard
+complaints
+be upheld
+though
+extension
+reject
+make changes
+smoothly
+cause
+delays
+any missing information
+
+70252
+debating
+light-colored
+timber flooring
+tiles
+living room
+kitchen
+mixed up
+order
+delivered
+wood flooring
+prefer
+caught
+workers
+laying it down
+struck
+
+70251
+health department
+in-home support program
+elderly
+a good fit
+on behalf of
+quite old
+lives alone
+some extra help
+daily life
+service
+provides
+a range of support
+make sure
+elderly people
+Australia
+live
+independently
+safely
+promising
+specific services
+advanced nursing care
+at this stage
+assistance
+meals
+food preparation
+bathing
+personal hygiene
+nursing care
+support
+mobility issues
+home modification
+cleaning
+definitely
+benefit
+improve
+quality of life
+put my mind at ease
+in a similar situation
+received
+positive feedback
+eligible
+arrange
+in-person assessment
+first step
+in the process
+confirm
+conditions
+meet
+eligibility criteria
+on our website
+criteria
+make an appointment
+requirements
+a huge relief
+
+70250
+a credit card
+keep your money
+pay off
+the balance
+in full
+due date
+credit cards
+charge
+interest
+be sure
+pay on time
+avoid
+extra fees
+earn credits
+earn points
+redeem for
+other products
+
+70249
+send
+receive
+make
+international transfers
+international payments
+options
+a few ways
+a one-time thing
+on a regular basis
+make
+regular transfers
+business
+overseas
+involved in
+international wire transfer
+setting up
+a foreign corrency account
+payments
+automatically
+wire transfers
+require
+manual steps
+clients
+prefer
+funds
+directly
+transfer fees
+conversion fees
+charged
+make my decision
+incur
+flat fees
+charges
+conversion fees
+amounts
+suits
+brochures
+latest fees
+look into it
+figure all the information out first
+apply online
+an existing customer
+process
+fairly
+streamlined
+approval
+set up the account
+get this done
+
+
+
+
+
 70248
 council
 migrants
@@ -33,11 +221,11 @@ delay
 nowadays
 gone up
 go over
-the plans
+plans
 construction plans
 blueprints
 get home
-the workers
+workers
 kitchen
 cabinet
 benchtop
@@ -50,7 +238,7 @@ toublesome
 definitely
 struck
 inspect
-the site
+site
 puts my mind at ease
 spot
 promptly
@@ -81,10 +269,12 @@ starving
 
 70245
 government business cooperation centre
-start new business
+start
+new business
 congradulations
-applying for an ABN
-a registration number
+applying
+ABN
+registration number
 online system
 process
 follow
@@ -94,9 +284,9 @@ business structure
 business activities
 future company projects
 operate
-as a company
-a sole trader
-a partnership
+company
+sole trader
+partnership
 make up
 business's name
 registered business name
@@ -123,7 +313,7 @@ assistant
 luckily
 client
 cancel
-the appointment
+appointment
 recieved an offer
 a multinational company
 a big step forward
@@ -172,15 +362,16 @@ come up
 drop by
 site
 bet
-the progress
+progress
 swing by
 thrilled
+watching
 take shape
 crew
 finished
 supplier
 delivered
-the materials
+materials
 delayed
 nowadays
 get materials
@@ -188,12 +379,12 @@ review the plans
 construction plan
 get home
 plumber
-the suite bathroom
+suite bathroom
 double-check
 no changes made
 any issues
 is designed around
-a beautiful vintage bathhub
+a beautiful vintage bathtub
 a shower
 soaking
 bath
@@ -262,7 +453,7 @@ think things through
 smart
 ensures
 turns out just right
-taclking
+tackling
 renovation
 added
 a spacious loft
@@ -361,18 +552,18 @@ authorize
 direct debit
 bills get paid
 on time
-lifting a finger
+without lifting a finger
 sounds good
-on my mobile banking app
+mobile banking app
 activate
-actually
 payment details
 the company billing you
 payment collection
 set that up
 from our end
-make banking way easier online payments
-getting more comfortable with
+make banking way easier
+online payments
+getting more comfortable
 mobile payments
 mobile app
 multiple
@@ -382,11 +573,11 @@ handle
 on your own
 mobile banking
 occasionally
-chatting face-to-face with
+chatting face-to-face
 a bank teller
 in a branch
 felt unfamiliar
-that feeling
+feeling
 especially
 totally get that
 hotline
@@ -395,7 +586,6 @@ give us a ring right way
 got staff ready
 twenty-four seven
 banking questions
-thanks a ton for your help
 comes up
 contact
 seriously
