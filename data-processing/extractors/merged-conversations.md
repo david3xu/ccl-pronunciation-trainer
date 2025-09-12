@@ -640,7 +640,7 @@ Briefing：This dialogue takes place between a construction supervisor and a hom
 8.  要是可以分次付款，就太棒了。| 这样的话，我就能立刻把皮沙发搬回家了。
     _It'd be great to split the payment_, | _then I could_ _take the leather sofa home_ _right away_.
 
-9. _True, but watch out for extra fees_, | and _skipping an installment payment_ _could affect your credit score_.
+9. _True, but watch out for extra fees_, _and skipping an installment payment_ _could affect your credit score_.
     没错，不过要留意额外费用，| 漏交一笔分期付款还可能影响你的信用记录。
 
 10. 我知道对于这种'先买后付'要谨慎点，| 可是感觉挺适合我的。| 毕竟，我只买这一件东西。
