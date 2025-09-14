@@ -19,16 +19,16 @@ bathroom | 浴室
 a major building work | 重大建筑工程
 extend | 扩建
 add | 增加
-definitely | 肯定需要
+definitely | 肯定
 a big project | 大工程
 submit | 提交
 a development application | 开发申请
 council | 市政
 architectural drawings | 建筑图纸
-site plans | 场地平面图/规划图
+site plans | 场地平面图
 approval process | 批准程序
 as soon as possible | 尽快
-complexity | 复杂程度
+complexity | 复杂度
 objections | 反对
 neighbors | 邻居
 process | 程序
@@ -40,7 +40,7 @@ affects | 影响
 privacy | 隐私
 backyard | 后院
 complaints | 投诉
-be upheld | 被采纳/都会成立
+be upheld | 被采纳
 though | 不过
 extension | 扩建
 reject | 拒绝
@@ -61,8 +61,8 @@ mixed up | 搞混了
 order | 订单
 delivered | 送来了
 wood flooring | 木地板
-prefer | 更想用
-caught | 发现了
+prefer | 更喜欢
+caught | 发现
 workers | 工人
 laying it down | 铺木地板
 struck | 发现
@@ -72,10 +72,10 @@ health department | 卫生部
 in-home support program | 居家支持项目
 elderly | 老年人
 a good fit | 适合
-on behalf of | 给...问的
+on behalf of | 代表
 quite old | 年纪很大了
 lives alone | 一个人住
-some extra help | 额外的帮助
+some extra help | 一些额外的帮助
 daily life | 日常生活
 service | 服务
 provides | 提供
@@ -125,7 +125,7 @@ a huge relief | 放心多了
 
 70250
 a credit card | 信用卡
-keep your money | 你的钱还能多留
+keep your money | 你的钱还能多留几周
 pay off | 还清
 the balance | 欠款
 in full | 全部
@@ -156,7 +156,7 @@ make | 办理
 regular transfers | 定期汇款
 business | 生意
 overseas | 海外
-involved in | 在...中
+involved in | 参与
 international wire transfer | 国际电汇
 setting up | 开
 a foreign currency account | 外币账户
@@ -186,7 +186,7 @@ figure all the information out first | 先把这些信息弄明白
 apply online | 网上申请
 an existing customer | 现有客户
 process | 流程
-fairly | 相当
+fairly | 很
 streamlined | 简化
 approval | 批准
 set up the account | 开账户
@@ -207,8 +207,8 @@ strength training | 力量训练
 boxing | 拳击
 seniors | 老人
 run | 举办
-track | 跑道
-come up | 举办
+track | 追踪
+come up | 出现
 
 70247
 drop by | 顺路过来
@@ -237,7 +237,7 @@ cabinet | 橱柜
 benchtop | 台面
 install | 安装
 sidewall | 边墙
-view | 看风景
+view | 风景
 side window | 边上的窗户
 natural light | 采光
 troublesome | 麻烦了
@@ -263,8 +263,8 @@ spotted | 看上了
 cream-colored | 奶油色
 leather sofa | 皮质沙发
 payment method | 付款方式
-put it on lay-by | 预留商品
-regular payments | 分期付款
+put it on lay-by | 预留商品并分期付款
+regular payments | 固定每两周付一次款
 paying all at once | 一次性付款
 installment payments | 小额分期付款
 fantastic | 很棒
@@ -277,11 +277,11 @@ starving | 饿扁了
 government business cooperation centre | 政府商业合作中心
 start | 开展
 new business | 新事业
-congradulations | 恭喜
+congratulations | 恭喜
 applying | 申请
 ABN | 澳大利亚商业号
 registration number | 注册号
-online system | 在线系统
+online system | 线上系统
 process | 流程
 follow | 遵循
 personal details | 个人信息
@@ -291,7 +291,7 @@ business activities | 商业活动
 future company projects | 未来公司项目
 operate | 经营
 company | 公司
-sole trader | 个体营业
+sole trader | 个体经营者
 partnership | 合伙
 make up | 组成
 business's name | 生意名字
@@ -310,8 +310,8 @@ replace | 替代
 looking for | 寻找
 in the same industry | 同一行业
 doubt | 怀疑
-a career change | 改变职业
-a considerable step | 重要步骤
+a career change | 职业改变
+a considerable step | 件大事儿
 get training | 接受培训
 
 70243
@@ -320,9 +320,9 @@ luckily | 幸运的是
 client | 客户
 cancel | 取消
 appointment | 预约
-recieved an offer | 收到录用通知
+received an offer | 收到录用通知
 a multinational company | 跨国公司
-a big step forward | 一大进展
+a big step forward | 职业上的一大进展
 job offer | 录用通知
 an employment contract | 雇佣合同
 a long document | 长文件
@@ -338,7 +338,7 @@ read through | 读完
 the whole contract | 整个合同
 professional | 专业人士
 lawyers | 律师
-complicated language | 难懂
+complicated language | 复杂的措辞
 writing contracts | 写合同
 deadline | 截止日期
 the signed contract | 签的合同
@@ -346,12 +346,12 @@ pushed back a little | 延后一点
 review | 审查
 schedule | 安排
 a quick call | 快速通话
-reveiw my notes | 审查我的笔记
+review my notes | 审查我的笔记
 I'm done | 我完成了
 
 70242
 community center | 社区中心
-appreciate | 感激
+appreciate | 谢谢
 local library | 当地图书馆
 handle | 处理
 variety | 多样性
@@ -362,16 +362,16 @@ response | 反响
 bookings | 预约
 holding | 举办
 local play group | 当地游戏组
-come up | 举办
+come up | 出现
 
 70241
 drop by | 顺路过来
 site | 现场
-bet | 肯定
+bet | 相信
 swing by | 顺路过来
 thrilled | 超激动的
 watching | 看着
-take shape | 盖起来
+take shape | 一点点盖起来
 crew | 施工队
 finished | 完成了
 supplier | 供应商
@@ -395,19 +395,19 @@ soaking | 泡澡
 in the bath | 泡澡
 master bathroom | 主浴室
 a shower stall | 淋浴间
-struck | 发现
+struck | 突然觉得
 as a bit strange | 有点奇怪
 inspect | 检查
 puts my mind at ease | 让我放心
 catch and fix issues | 发现和解决问题
 promptly | 快速
-keep track of everything | 跟踪一切
+keep track of everything | 每件事都把控好
 
 70240
 browsing | 逛
 the mall | 商场
 a new lounge chair | 新休闲椅
-looing around the mall | 在商场里逛
+looking around the mall | 在商场里逛
 awesome | 太棒了
 big stores | 大商店
 loads of options | 很多选择
@@ -422,7 +422,7 @@ services | 服务
 offer | 提供
 split | 分次
 right away | 立刻
-watch out for | 要谨慎
+watch out for | 留意
 extra fees | 额外费用
 skipping | 跳过
 an installment payment | 分期付款
@@ -448,7 +448,7 @@ went smoothly | 很顺利
 satisfying | 满意
 reliable builder | 靠谱的建筑商
 decorating part | 装饰部分
-overwhelming | 更有趣
+overwhelming | 头疼
 decisions | 决定
 picking finishes | 选择饰面
 patience | 耐心
@@ -457,7 +457,7 @@ no rush | 不着急
 think things through | 仔细考虑
 smart | 聪明
 ensures | 确保
-turns out just right | 结果正确
+turns out just right | 装出理想效果
 tackling | 处理
 renovation | 装修
 added | 添加
@@ -486,7 +486,7 @@ settled in | 安顿下来
 living | 生活
 a big change | 大变化
 gotten used to | 习惯了
-quieter pace | 安静节奏
+quieter pace | 更悠闲的节奏
 quite a distance | 相当距离
 neighbours | 邻居
 welcoming | 欢迎
@@ -497,7 +497,7 @@ make up for it | 弥补
 friendly | 友好
 through work | 通过工作
 warmth | 温暖
-replacement showed up | 替代出现
+replacement showed up | 换医生又等了好一阵子
 move back to the city | 搬回城市
 do miss | 想念
 city amenities | 城市设施
@@ -536,7 +536,7 @@ do vary | 确实不同
 normal | 正常
 unfamiliar | 不熟悉
 trying to adapt | 努力适应
-keep worring | 担心
+keep worrying | 担心
 sound silly | 听起来傻
 embarrassing | 尴尬
 no stress at all | 没有压力
@@ -587,7 +587,7 @@ especially | 特别是
 totally get that | 完全理解
 hotline | 热线
 banking confusion | 银行困惑
-give us a ring right way | 立即给我们打电话
+give us a ring right away | 立即给我们打电话
 got staff ready | 有员工准备
 twenty-four seven | 24/7
 banking questions | 银行问题
@@ -629,7 +629,7 @@ look after | 照顾
 seedlings | 幼苗
 in our shed | 在我们的棚子里
 it's a big project for sure | 这确实是个大项目
-it'll worth it | 值得
+it'll be worth it | 值得
 installing | 安装
 benches | 长椅
 relax | 放松
@@ -651,7 +651,7 @@ a sense of accomplishment | 成就感
 
 70235
 customer support | 客户支持
-be aware | 知道
+be aware | 请注意
 recorded | 录音
 quality | 质量
 training | 培训
@@ -661,7 +661,7 @@ owe | 欠
 late payment fee | 滞纳金
 frustrating | 令人沮丧
 account history | 账户历史
-biller | 收费方
+biller | 收款方
 made the payment | 付款
 clerk | 职员
 face-to-face | 面对面
@@ -700,7 +700,7 @@ explaining | 解释
 late fees | 滞纳金
 
 70234
-a relief | 解脱
+a relief | 松了口气
 have the opportunity | 有机会
 take over | 接管
 clinic | 诊所
@@ -717,8 +717,8 @@ establish | 建立
 hospitals | 医院
 medical side | 医疗方面
 overall | 整体
-peacefullness | 安静
-frindliness | 友善
+peacefulness | 安静
+friendliness | 友善
 daily habits | 日常习惯
 a few jars | 几罐
 jasmine tea | 茉莉花茶
@@ -739,7 +739,7 @@ consider it done | 包在我身上
 deserves | 值得
 brew | 泡
 put in an order | 下订单
-you're so thoughtfull | 你太贴心了
+you're so thoughtful | 你太贴心了
 wonderful | 太棒了
 came over | 过来
 touch | 感动
@@ -805,7 +805,7 @@ model | 型号
 serial number | 序列号
 the exact location | 确切位置
 project manager | 项目经理
-the second i get the number | 一拿到号码
+the second I get the number | 一拿到号码
 
 70232
 property manager | 物业经理
@@ -852,7 +852,7 @@ a lifesaver | 救命恩人
 tear down | 拆除
 decorating | 装饰
 apologies | 道歉
-detected inspection | 检测检查
+detected inspection | 查房时没发现
 empty | 清空
 walk-in closet | 衣帽间
 sorted | 整理
@@ -873,12 +873,12 @@ turned out | 结果
 the way you wanted | 你想要的样子
 smoothly | 顺利
 gardening team | 园艺团队
-professsional | 专业
+professional | 专业
 thorough | 用心
 picking out | 挑选
 outdoor furniture | 户外家具
 ornaments | 装饰品
-get overwhelming | 更有趣
+get overwhelming | 很累
 styles | 风格
 started with | 从...开始
 no rush | 不着急
@@ -917,7 +917,7 @@ decorations | 装饰
 couple of weeks | 几周
 
 70230
-on the go | 忙碌
+on the go | 从早到晚都很忙
 from morning till night | 从早到晚
 suburbs | 郊区
 joint problems | 关节问题
@@ -925,7 +925,7 @@ housework | 家务
 challenging | 挑战
 taking care of | 照顾
 aging parents | 年迈父母
-overwhelming | 压倒性
+overwhelming | 辛苦
 looked into | 调查
 support services | 支持服务
 heard of some | 听说一些
@@ -957,8 +957,8 @@ suggest improvements | 建议改进
 have direction | 有方向
 
 70229
-quite a few big life changes | 几个重大生活变化
-all at once | 同时
+quite a few big life changes | 这一下子人生变化可真不少
+all at once | 一下子
 a big shift | 大变化
 live on my own | 独立生活
 live with my parents | 和父母住
@@ -992,8 +992,8 @@ call you back for a quote | 回电报价
 70228
 guiding you through | 指导你
 orientation | 入职培训
-integrate | 融入
-enthusiasm | 热情
+integrate | 融入团队
+enthusiasm | 激动
 look for | 寻找
 start with | 从...开始
 a tour of the office | 办公室参观
@@ -1068,7 +1068,7 @@ dropping by | 路过
 some samples | 一些样品
 business partner | 商业伙伴
 taste | 品尝
-in serveral flavours | 多种口味
+in several flavours | 多种口味
 sweet | 甜
 savory | 咸
 wholesale price list | 批发价目表
@@ -1095,7 +1095,7 @@ lots of openings | 很多职位
 stick with | 坚持
 industries | 行业
 fields | 领域
-smooth | 顺利
+smooth | 溜
 communication | 沟通
 tough | 困难
 hire new migrants | 雇佣新移民
@@ -1108,7 +1108,7 @@ suitable jobs | 合适工作
 job listings | 职位列表
 entry-level roles | 入门级职位
 support myself | 养活自己
-put food on the table | 养家糊口
+put food on the table | 让自己能吃饱饭
 entry-level job | 入门级工作
 build local work experience | 建立本地工作经验
 sharpen your English | 提高英语
@@ -1132,7 +1132,7 @@ medicine | 药
 relieve | 缓解
 symptoms | 症状
 for instance | 例如
-burnin g | 烧灼感
+burning | 烧灼感
 nausea | 恶心
 bloated | 胀气
 nauseous | 恶心
@@ -1159,7 +1159,7 @@ see a doctor | 看医生
 70224
 received | 收到
 appointment info | 预约信息
-technician | 技术员
+technician | 技工
 checking | 检查
 cabinets | 橱柜
 what's going on with them | 怎么回事
@@ -1187,7 +1187,7 @@ with peace of mind | 放心
 70223
 a moving van | 搬家车
 parked around here | 停在这附近
-I'd come and say hi | 我会来打招呼
+I'd come and say hi | 就想过来打个招呼
 a mess | 一团糟
 boxes | 箱子
 unpacked | 没拆完
@@ -1198,7 +1198,7 @@ settle in quickly | 快速安顿
 livable | 宜居
 surroundings | 环境
 explore around | 四处探索
-you're all set | 都准备好了
+you're all set | 都安顿好了
 grab some coffee | 喝咖啡
 business center | 商业中心
 a post office | 邮局
@@ -1219,13 +1219,13 @@ lunch rush | 午餐高峰
 coffee's on me | 咖啡我请
 
 70222
-paramedics | 医护人员
+paramedics | 急救人员
 made the call | 打电话
 walk me through | 带我了解
 collapsed | 昏倒
-faint | 昏倒
+faint | 晕倒
 on the ground | 在地上
-unconscious | 失去意识
+unconscious | 昏迷
 any warning signs | 任何警告信号
 went down | 倒下
 a bit unsteady | 有点不稳
@@ -1268,7 +1268,7 @@ run out of them | 用完了
 receptionist | 接待员
 coffee machine | 咖啡机
 favourite brand | 最喜欢的品牌
-dialy coffee intake | 每日咖啡摄入量
+daily coffee intake | 每日咖啡摄入量
 gone beyond | 超过
 the healthy limits | 健康限制
 roast coffee | 烘焙咖啡
@@ -1295,7 +1295,7 @@ a work meeting | 工作会议
 kitchen | 厨房
 make breakfast | 做早餐
 sunrise | 日出
-dark outside | 外面很黑
+dark outside | 天还没亮
 mouse | 老鼠
 running around | 跑来跑去
 in the corner | 在角落里
@@ -1316,11 +1316,11 @@ when they're on their way | 他们来的时候
 be resolved | 解决
 
 70219
-thanks for reaching our bank | 感谢联系我们的银行
+thanks for reaching our bank | 感谢致电我们银行
 customer service team | 客户服务团队
 opened an account | 开户
 with your bank | 在你们银行
-a bit lost | 有点困惑
+a bit lost | 摸不着头脑
 loads of things | 很多事情
 probably | 可能
 home country | 祖国
@@ -1358,8 +1358,8 @@ further assistance | 进一步帮助
 
 70218
 non-urgent | 非紧急
-police assistance line | 警察协助热线
-constable | 警官
+police assistance line | 警务服务热线
+constable | 警员
 officer | 警官
 report | 报告
 a case | 案件
@@ -1377,7 +1377,7 @@ serious | 严重
 go over | 讨论
 work vehicle | 工作车辆
 a real headache | 真正头疼
-a policy report | 政策报告
+a policy report | 报案单
 file a claim | 申请索赔
 crucial | 关键
 a theft report | 盗窃报告
@@ -1397,7 +1397,7 @@ a white Toyota Hiace van | 白色丰田海狮面包车
 license plate | 车牌
 
 70217
-the city council | 市议会
+the city council | 市政厅
 dog-walking | 遛狗
 regulations | 法规
 neighbours | 邻居
@@ -1414,11 +1414,11 @@ roam | 漫游
 section | 区域
 leash-free | 无绳
 splashing around | 戏水
-rolling chasing | 打滚追逐
+rolling chasing | 打滚
 seagulls | 海鸥
 spots | 地方
 allowed | 允许
-kids' palygrounds | 儿童游乐场
+kids' playgrounds | 儿童游乐场
 sports ovals | 运动场
 signs | 标志
 accidentally | 意外
@@ -1436,7 +1436,7 @@ jumps on | 扑向
 pay extra attention | 特别注意
 dog-walking | 遛狗
 look out for | 注意
-pick up after yoru dog | 清理狗粪
+pick up after your dog | 清理狗粪
 leaving | 留下
 dog waste | 狗粪
 placed | 放置
@@ -1449,13 +1449,13 @@ swing by | 路过
 
 70216
 police station | 警察局
-constable | 警官
+constable | 警员
 report a driver | 举报司机
 apartment complex | 公寓小区
 speeding | 超速
 dangerous | 危险
 engine | 发动机
-powerfull | 强劲
+powerful | 强劲
 super loud | 超级吵
 kids' play areas | 儿童游乐区
 sidewalks | 人行道
@@ -1471,7 +1471,7 @@ on his face | 在他脸上
 involved in | 涉及
 incidents | 事件
 scared | 害怕
-stiff | 僵硬
+stiff | 闻风丧胆
 insanely | 疯狂
 safety | 安全
 dispatch | 派遣
@@ -1506,13 +1506,13 @@ staying put | 不动
 ideal | 理想
 switch schools | 转学
 adjust | 适应
-flooded with listings | 房源泛滥
+flooded with listings | 房源很多
 take a bit | 需要一点时间
 any luck so far | 有什么进展
 quite a few properties | 不少房产
 one we really like | 我们真的很喜欢的一个
 over our budget | 超出预算
-stretch | 紧张
+stretch | 让手头太紧
 finances | 财务
 that's a shame | 太遗憾了
 stick to your budget | 坚持预算
@@ -1534,7 +1534,7 @@ checking out | 查看
 older homes | 老房子
 major renovations | 大翻新
 tweak | 调整
-officialy listed | 正式挂牌
+officially listed | 正式挂牌
 owner | 业主
 personally | 亲自
 set up | 安排
@@ -1561,7 +1561,7 @@ misuse | 误用
 pay out of pocket | 自费
 I'm relieved | 我放心了
 original machine | 原机
-techinican | 技术员
+technician | 技工
 gets out to you soon | 很快到你那里
 come by | 来
 part-time | 兼职
@@ -1625,7 +1625,7 @@ free promotion | 免费宣传
 make some cakes | 做蛋糕
 desserts | 甜点
 fundraising | 筹款
-gunius | 天才
+genius | 妙啊
 vibe | 氛围
 finalize | 敲定
 sponsorship | 赞助
@@ -1636,7 +1636,7 @@ divide things up | 分工
 to-do list | 待办清单
 
 70212
-a proper chat | 正式聊天
+a proper chat | 好好聊过
 good spots | 好地方
 figured out | 弄清楚
 the supermarket | 超市
@@ -1655,9 +1655,9 @@ special drop-off | 特殊投放
 most supermarkets take them | 大多数超市接受
 dispose | 处理
 old electronic devices | 旧电子设备
-city council | 市议会
+city council | 市政厅
 holds | 举办
-e-wate collection day | 电子垃圾收集日
+e-waste collection day | 电子垃圾收集日
 quarterly | 季度
 community centre | 社区中心
 vegetables | 蔬菜
@@ -1677,11 +1677,11 @@ soil | 土壤
 sit up front | 坐前面
 
 70211
-lead trainer | 首席训练师
-dog training center | 狗训练中心
+lead trainer | 首席训犬师
+dog training center | 狗狗训练中心
 coworker | 同事
 mentioned | 提到
-adpoted | 领养
+adopted | 领养
 adorable | 可爱
 male puppy | 公小狗
 puppy training course | 小狗训练课程
@@ -1722,7 +1722,7 @@ well-behaved | 表现良好
 non-mischievous | 不淘气
 
 70210
-shaping up | 成型
+shaping up | 做得怎么样
 new business | 新生意
 tough | 困难
 getting busy | 忙碌
@@ -1731,7 +1731,7 @@ way busier | 更忙
 previous owner | 前业主
 a ton of junk | 一堆垃圾
 such a headache | 头疼
-wrapped up | 完成
+wrapped up | 全心投入
 in the business | 在生意中
 deal with it | 处理
 lend a hand | 帮忙
@@ -1747,7 +1747,7 @@ sit empty | 空着
 hire | 雇佣
 chip in | 帮忙
 as a thank you | 作为感谢
-saved me a tone of hassle | 省了很多麻烦
+saved me a ton of hassle | 省了很多麻烦
 hassle | 麻烦
 generous offer | 慷慨提议
 due for a service | 需要服务
@@ -1760,7 +1760,7 @@ picked up | 买了
 actor's biography | 演员传记
 birthday gift | 生日礼物
 a huge fan | 超级粉丝
-unfortunate | 不幸
+unfortunate | 不巧
 made an ideal present | 理想的礼物
 sold out fast | 很快售罄
 managed to get a copy | 设法买到一本
@@ -1769,32 +1769,32 @@ I'm certain | 我确定
 the effort and thought | 努力和想法
 despite how things turned out | 尽管结果如何
 nice presents | 好礼物
-so, it's no big deal | 所以，没什么大不了的
+so, it's no big deal | 所以也不是很有关系
 unsure | 不确定
 keep this book myself | 自己留着这本书
 swap | 交换
-honestly | 诚实
+honestly | 老实说
 racking my brains | 绞尽脑汁
 failing | 失败
 take her out | 带她出去
 dim sum | 点心
-process | 处理
+process | 办理
 refund | 退款
 the best solution | 最佳解决方案
 alternatively | 或者
 grabs your interest | 吸引你的兴趣
-go back to work | 回去工作
+go back to work | 回去上班
 browse slowly | 慢慢浏览
 envy | 羡慕
 a great store | 好商店
 I adore my job | 我热爱我的工作
-passionate | 热情
-passion | 热情
+passionate | 充满激情
+passion | 激情
 staff member | 员工
 service | 服务
 
 70208
-ringing in | 打电话
+ringing in | 来电
 came across | 遇到
 property | 房产
 specialize | 专门
@@ -1834,45 +1834,45 @@ review the contract | 审查合同
 go over your options | 讨论你的选择
 
 70207
-welcome inside | 欢迎进来
+welcome inside! | 请进！
 before the morning rush hits | 早高峰之前
-pitch | 推销
-hold you up | 耽误你
+pitch your products | 推介你的产品
+hold you up for too long | 耽误你太久
 trade | 贸易
 happens | 发生
 pretty quiet | 相当安静
-folks | 人们
+folks around here | 这附近的人
 clock in and out early | 早上下班
 customers | 客户
 construction workers | 建筑工人
 tradespeople | 技工
-you name the quantity, and i can supply it | 你说数量，我能供应
+you name the quantity, and I can supply it | 你说数量，我能供应
 on the lookout for new offerings | 寻找新产品
 sandwiches | 三明治
 salads | 沙拉
 source from suppliers | 从供应商采购
-deliver | 配送
+deliver fresh products daily | 每天配送新鲜产品
 fresh products | 新鲜产品
-adjust | 调整
+adjust my supply | 调整我的供应
 will be the hit | 会很受欢迎
-hear more | 了解更多
-specialize | 专门
+hear more about what you offer | 了解更多你的产品
+specialize in baking | 擅长烘焙
 baking | 烘焙
 cakes | 蛋糕
 cookies | 饼干
 recipes | 食谱
 come straight from | 直接来自
 grandmother | 祖母
-bake | 烘焙
+bake old-fashioned treats | 做传统点心
 old-fashioned treats | 老式点心
-spark | 激发
+spark childhood nostalgia | 唤起童年记忆
 childhood | 童年
 nostalgia | 怀旧
-expanded | 扩大
+expanded my business | 拓展了业务
 business | 生意
 keeps growing | 持续增长
-fit my cafe | 适合我的咖啡厅
-come by | 来
+fit my café perfectly | 非常适合我的咖啡馆
+come by with some samples | 带些样品过来
 samples | 样品
 sure thing | 当然
 product catalogue | 产品目录
@@ -1893,331 +1893,331 @@ pick up my kid | 接我的孩子
 walked there and back | 走路来回
 a great adventure | 大冒险
 I've never tried walking there before | 我以前从未尝试过走路去那里
-route | 路线
-cut throught the park | 穿过公园
+route wasn't difficult | 路并不难走
+cut through the park | 穿过公园
 taking the main road | 走主路
-I've been swamped | 我一直很忙
+I've been swamped lately | 最近我太忙了
 driving to pick them up | 开车接他们
 is tough | 很困难
 regularly | 定期
-I'm off work | 我下班
-make a speical trip to the school | 专门去学校
+I'm off work in the afternoons | 下午我不上班
+make a special trip to the school | 专门去学校
 a huge help | 很大帮助
 enjoy walking | 喜欢走路
 good exercise | 好运动
-I hoep it's not a bother | 希望不麻烦
-formed | 形成
+I hope it's not a bother | 希望不麻烦
+formed a carpool group | 组了个小组
 carpool group | 拼车组
 taking turns | 轮流
 pick up the kids | 接孩子
-organize this | 组织这个
+organize this so everyone knows the schedule | 组织一下，这样每个人都能清楚安排
 schedule | 时间表
 set up a group chat | 建立群聊
-on social meida | 在社交媒体上
-setting up a group | 建立群组
+on social media | 在社交媒体上
+setting up a group is easy | 建群很简单
 the exact plan | 确切计划
 
 70205
-stopping by | 路过
+stopping by our computer shop | 光临我们的电脑店
 computer shop | 电脑店
 laptop | 笔记本电脑
 diagnostics | 诊断
 repair services | 维修服务
 definitely | 肯定
-it's really frustrating | 真的很令人沮丧
-brought it in | 带来了
+it's really frustrating | 搞得我很头大
+brought it in | 带过来了
 did you happen to bring | 你碰巧带了
-receipt | 收据
+receipt | 发票
 warranty card | 保修卡
 under warranty | 保修期内
-should't be having problems this early | 不应该这么早就有问题
-a solid model | 可靠的型号
-getting too hot | 过热
-turn it off | 关闭
-shutting down | 关闭
+shouldn't be having problems this early | 按理说不该这么快出问题
+a solid model | 这款型号的电脑不错的
+getting too hot | 开始发烫了
+turn it off | 不得不关机
+shutting down by itself randomly | 开始随意自动关机
 randomly | 随机
-get warm | 变热
+get warm | 会发热
 temperature | 温度
-overheating | 过热
-business documents | 商业文件
-work on files with it | 用它处理文件
-they get lost | 丢失
-driving me crazy | 让我发疯
+overheating | 这么烫
+business documents | 商务文件
+work on files with it | 处理资料
+they get lost | 会丢失
+driving me crazy | 搞得我很烦
 figure out | 弄清楚
-busted fan | 坏风扇
+busted fan | 风扇坏了
 battery issue | 电池问题
-on the software side | 软件方面
-take a look | 看看
-leave the laptop here | 把笔记本电脑留在这里
-backed up | 备份
-get lost during the repair | 维修时丢失
-figure out what's wrong | 找出问题
-nothing serious | 没什么严重的
-don't want to go through this hassle | 不想经历这种麻烦
+on the software side | 软件方面的故障
+take a look | 检查一下
+leave the laptop here | 把电脑留到我这
+backed up everything already | 已经把文件都备份好了
+get lost during the repair | 修电脑的时候资料会丢
+figure out what's wrong | 找到问题
+nothing serious | 只是小毛病
+don't want to go through this hassle again | 可不想再折腾一次啦
 
 70204
-go over | 讨论
+go over our latest numbers | 过一下我们最新的数据情况
 latest numbers | 最新数字
 start early | 早开始
-dig into it | 深入研究
-serving over twice | 服务超过两倍
+dig into this | 深入聊聊这个事
+serving over twice the number of people | 帮助的人数是两年前的两倍多
 the number of people | 人数
-worried about keeping up | 担心跟不上
+worried about keeping up | 担心我们能不能应付得来
 traditionally | 传统上
 served | 服务
 seniors and families | 老年人和家庭
-struggling | 挣扎
+struggling to cover basic groceries | 难以负担基本食材
 cover | 覆盖
-basic gorceries | 基本杂货
+basic groceries | 基本杂货
 these days | 这些天
-sclimbed | 攀升
+climbed | 涨得厉害
 demand | 需求
-keeps surging like this | 持续激增
-requests | 请求
-burn through | 消耗
+keeps surging like this | 需求这么高下去
+requests | 求助的人
+burn through our inventory | 库存马上就耗光了
 inventory | 库存
-handle | 处理
-brainstorm ways | 头脑风暴方法
-boost | 提升
+handle this | 该怎么做
+brainstorm ways | 想办法
+boost food donations from the public | 多提高公众的食物捐赠
 food donations | 食物捐赠
-solid ideas | 好主意
+solid ideas | 好点子
 social media | 社交媒体
 donation campaign | 捐赠活动
-get news coverage | 获得新闻报道
+get news coverage to spread the word | 用新闻报道来宣传
 spread the word | 传播消息
-donate | 捐赠
-stock up | 储备
+donate more money and food | 多捐款和食物
+stock up our food bank | 充实我们的食品库
 food bank | 食物银行
-local TV station | 当地电视台
-cover this | 报道这个
+local TV station | 本地电视台
+cover this | 报道一下
 make the news | 上新闻
-expand | 扩大
+expand influence | 扩大影响力
 influence | 影响
-cover a wider crowd | 覆盖更广泛的人群
+cover a wider crowd than we could reach directly | 能覆盖到比我们直接接触还更广泛的人群
 reach directly | 直接接触
-add a page | 添加页面
-explaining | 解释
+add a page to our website | 在官网上加个页面
+explaining that volunteers run the pantry | 说明食品库是志愿者运营的
 volunteers | 志愿者
-run the pantry | 经营食品储藏室
+run the pantry | 运营的
 more funds | 更多资金
-go direclty to food | 直接用于食物
-post some photos | 发布一些照片
+go directly to food | 直接买食物了
+post some photos on our website | 在网站放上一些我们的照片
 on our website | 在我们的网站上
-like volunteers in action | 比如志愿者在行动
-passionate | 热情
+like volunteers in action | 比如志愿者工作照
+passionate | 热心做事
 keep helping out | 继续帮助
-none of this happens without your effort | 没有你的努力，这一切都不会发生
-rewarding | 有回报
+none of this happens without your effort | 要不是你，咱们这儿根本做不起来
+rewarding to be appreciated | 收到感谢真的很有成就感
 appreciated | 感激
-keep coming | 继续来
-support more people in need | 支持更多需要帮助的人
+keep coming | 源源不断
+support more people in need | 帮到更多有需要的人啦
 
 70203
 law information helpline | 法律信息热线
 legal issue | 法律问题
-how to get started | 如何开始
-refer | 推荐
+how to get started | 该怎么开口说起
+refer you to a lawyer | 帮您推荐一位律师
 lawyer | 律师
 take your case | 接手你的案件
 a referral | 推荐
-a government service | 政府服务
-legal information | 法律信息
+a government service | 政府部门
+legal information and referrals are free | 提供免费法律信息和推荐服务
 referrals | 推荐
-won't owe us a cent | 不会欠我们一分钱
-engage a lawyer | 聘请律师
-avoid | 避免
+won't owe us a cent | 不会产生费用
+engage a lawyer | 真的聘请律师
+avoid this | 免去这步
 go to court | 上法庭
-details of your problem | 你问题的细节
-start from there | 从那里开始
-dispute | 争议
+details of your problem | 您的具体问题
+start from there | 从那儿开始
+dispute with my neighbour | 和邻居在围栏问题上有分歧
 neighbour | 邻居
 fence | 围栏
-insists | 坚持
-half the cost | 一半费用
+insists I pay half | 坚持让我出
+half the cost of a new fence | 新围栏一半的费用
 refuse | 拒绝
-solid grounds | 充分理由
+solid grounds for not wanting to split that cost | 充足的理由不想分摊这笔费用
 split the cost | 分摊费用
-kicking a ball against | 踢球撞到
-leaving it badly damaged | 严重损坏
-ignore | 忽视
-a standard process | 标准程序
-shared fense | 共享围栏
-on the hook | 承担责任
+kicking a ball against the fence for hours | 整整几个小时对着围栏踢球
+leaving it badly damaged | 把围栏踢到严重损坏
+ignore me | 根本不理
+a standard process for these disputes | 通常解决这类纠纷有固定流程
+shared fence | 共有围栏
+on the hook for the full cost | 承担新栅栏的全部费用
 full cost | 全部费用
-promising | 有希望
-refuse | 拒绝
+promising | 很有希望
+refuse to cooperate | 不配合
 cooperate | 合作
-simplest route | 最简单的方法
+simplest route is to have a friendly chat | 最简单的做法是先跟邻居好好沟通
 a friendly chat | 友好聊天
-reach an agreement | 达成协议
-goes smoothly | 顺利进行
+reach an agreement | 达成一致
+goes smoothly | 顺利解决
 
 70202
-new business | 新生意
-inital ideas | 初步想法
-before going ahead | 在进行之前
+start your new business | 开始你的新生意
+initial ideas | 初步想法
+before going ahead | 在继续之前
 business ideas | 商业想法
 a soap business | 肥皂生意
-making soaps | 制作肥皂
-intend | 打算
-business aspects | 商业方面
-professional help | 专业帮助
-on the market | 在市场上
-made for dogs | 为狗制作
-dog shampoos | 狗洗发水
-top market | 顶级市场
-dog owners | 狗主人
-natural materials | 天然材料
-no chemicals | 无化学物质
+making soaps for many years | 做肥皂好多年了
+intend to sell soaps | 打算出售肥皂
+organize the business aspects properly | 把商业方面的事安排好
+find the best way to sell soap | 找到最好的方法来卖肥皂
+on the market | 市面上的
+specially made for dogs | 专门针对狗狗的
+dog shampoos on the market | 市场上有很多狗狗香波
+top market | 主要市场
+dog owners would choose your products | 狗主人会选你的产品
+made with natural materials | 用天然材质制作的
+no chemicals or additives | 没有化学物质、没有添加剂
 additives | 添加剂
-contains | 含有
+contains essential oils | 加入了精油成分
 essential oils | 精油
-smell fresher | 闻起来更清新
-a marketing plan | 营销计划
-add a few points | 添加几点
-a selling plan | 销售计划
-timeline | 时间表
-works for me | 适合我
+to make dogs smell fresher | 让狗狗闻起来更清新
+create a marketing plan | 制定一个营销计划
+add a few points based on what we discussed | 根据我们之前讨论的内容补充几点
+I'll need this plan in the next week or two | 我接下来一两周需要这个计划
+that timeline works for me | 这个时间表对我来说没问题
+works for me | 没问题
 
 70201
 interview | 面试
 reputation | 声誉
-a top comapny | 顶级公司
+a top company | 行业顶尖的公司
 in the industry | 在行业中
-clients | 客户
+making sure our clients and employees are happy | 确保我们的客户和员工都满意
 employees | 员工
-legal requirements | 法律要求
+legal requirements for this position | 对这份工作有一些法律要求
 position | 职位
-license requirements | 执照要求
-correct license | 正确的执照
-offering | 提供
-driving record | 驾驶记录
-a clean record | 清洁记录
-no tickets | 没有罚单
+license requirements | 对驾照有要求
+correct license | 合适的驾照
+before offering you this job | 在聘用您之前
+check my license and driving record | 检查驾照和驾驶记录
+with a clean record | 记录很好
+no tickets or accidents | 从来没有任何罚单和事故
 accidents | 事故
 drivers | 司机
-drving experience | 驾驶经验
-not clear on | 不清楚
+driving experience | 驾驶经验
+not clear on what type of vehicle | 不清楚你们想让我开什么类型的车
 vehicle | 车辆
-a regular car license | 普通汽车执照
-a truck license | 卡车执照
+a regular car license | 普通汽车的驾照
+a truck license | 卡车驾照
 drive a truck | 开卡车
-signed a contract | 签署合同
-urgently | 紧急
+we just signed a contract | 我们刚与另一家公司签了合同
+urgently need to find the right driver | 急需合适的司机
 find the right driver | 找到合适的司机
-truck-driving experience | 卡车驾驶经验
-candidate | 候选人
-a great chance for this job | 这个工作的好机会
-get a new license | 获得新执照
-take the test | 参加考试
-let you know the result | 告诉你结果
+truck-driving experience | 开卡车的经验
+another candidate | 另一位候选人
+a great chance for this job | 很有机会得到这份工作
+get a new license to improve my chances | 考新驾照来增加获得这份工作的机会
+take the test | 考驾照的
+let you know the result in a few days | 在几天后告知您结果
 
 70200
-business support open day | 商业支持开放日
+business support open day | 生意支持开放日
 artist | 艺术家
-looking for advice | 寻求建议
-broaden | 扩大
+looking for advice on how to broaden | 获得一些怎么拓宽的建议
+broaden my sales channels | 拓宽销售渠道
 sales channels | 销售渠道
-have any of your pieces | 有你的作品
+have any of your pieces on the market | 已经在市面上出售作品了吗
 on the market | 在市场上
-set up a stall | 摆摊
+set up a stall at the local market | 在本地集市摆摊
 at the local market | 在当地市场
-sell my work | 卖我的作品
-quite inconsistent | 相当不一致
-galleries | 画廊
-an approach | 方法
-thought about that before | 之前想过
-reached out | 联系
-commission rates | 佣金率
-barely any profit | 几乎没有利润
-gallery commissions are no joke | 画廊佣金不是开玩笑
-really steep | 真的很高
-online sales | 在线销售
-booming | 蓬勃发展
-much experience | 很多经验
-specific platforms | 特定平台
+sell my work | 卖画
+my sales are quite inconsistent | 销售情况时好时坏
+selling your work through galleries | 在画廊销售
+an approach many artists take | 许多艺术家都会这样做
+I've actually thought about that before | 这一点我其实也想到过
+reached out to a few galleries | 联系过几家画廊的
+commission rates are so high | 抽的佣金实在太高了
+leaves me with barely any profit | 就会导致我的利润很少
+gallery commissions are no joke | 画廊抽成可不是闹着玩的
+can be really steep | 能贵到离谱
+selling your work online | 把销售转到网上
+online sales are booming right now | 现在网上销售也很火
+don't have much experience with that | 没什么这方面的经验
+specific platforms or websites | 专门的平台或者网站
 websites | 网站
-social media platforms | 社交媒体平台
+using social media platforms to connect with | 从社交媒体平台入手，来接触
 to connect with | 连接
 a broader audience | 更广泛的受众
-get full transparency | 获得完全透明
-full perspectives | 全面视角
-more appealing | 更有吸引力
-oil paintings | 油画
+get full transparency on what they're purchasing | 非常透明地看到他们买的是什么
+get the full perspective of my work online | 全方位看到我的作品
+that would be more appealing | 肯定更吸引人
+my oil paintings and sketches | 我家里的油画和素描
 sketches | 素描
-piling up | 堆积
-nowhere to go | 无处可去
-engage directly with | 直接接触
+are just piling up at home now | 现在都堆成山了
+with nowhere to go | 根本没地方放了
+engage directly with potential buyers | 直接跟潜在买家互动
 potential buyers | 潜在买家
-post updates | 发布更新
-showcase new work | 展示新作品
+post updates whenever you want | 随时发布更新
+showcase new work on a regular basis | 经常展示新作品
 on a regular basis | 定期
-posting on social media | 在社交媒体上发布
-build a following | 建立粉丝群
+posting on social media isn't actually that complicated | 在社交媒体上发帖，对我来说其实并不是那么复杂
+build a following and get engagement | 积累粉丝和互动
 get engagement | 获得参与
-I believe you'll nail it | 我相信你会成功
-plan an exhibition | 计划展览
+I believe you'll nail it | 我相信你能做到的
+plan an exhibition or special event down the line | 办个展览或特别活动
 special event | 特殊活动
 down the line | 将来
-promote | 推广
+promote it via social channels | 用社媒渠道来宣传
 via social channels | 通过社交渠道
-practical ideas | 实用想法
+practical ideas and confidence | 很多可行的思路和信心
 confidence | 信心
 
 70199
-the disability support program | 残疾支持项目
+the disability support program hotline | 残疾人支持项目热线
 hotline | 热线
-heard about | 听说
+heard about your holiday program | 听说了你们的一个假期项目
 holiday program | 假期项目
-designed for | 为...设计
+designed for children with disabilities | 为残疾儿童设计的
 children with disabilities | 残疾儿童
-learn more details | 了解更多详情
-coordinators | 协调员
-how you found out about it | 你怎么知道的
-taking part in | 参加
+learn more details | 了解更多详细情况
+one of the coordinators for this program | 这个项目的协调员之一
+how you found out about it | 您是怎么得知这个项目的呢
+taking part in sports training at a hospital | 在一家医院参加体育训练
 sports training | 体育训练
 at a hospital | 在医院
-noticed a poster | 注意到海报
+noticed a poster on the hospital notice board | 在医院的公告板上注意到了一张海报
 hospital notice board | 医院公告板
-promote | 推广
+don't promote it broadly | 不大范围宣传
 broadly | 广泛
-support is limited | 支持有限
-operates | 运营
-free of charge | 免费
-indeed no change | 确实没有变化
-a spacious house | 宽敞的房子
-by the beech | 在海滩边
+our support is limited to a few families annually | 每年我们只能帮助少数几个家庭
+how this holiday program for children with disabilities operates | 这个残疾儿童假期计划是怎么运作的
+this holiday is completely free of charge | 这个假期完全免费的
+there's indeed no charge | 确实不需要支付任何费用
+we provide a spacious house by the beach free of cost | 我们会免费提供一栋很大的靠近海滩的房子
+by the beach | 靠近海滩
 free of cost | 免费
-accommodate | 容纳
+it can accommodate two families simultaneously | 可以同时容纳两个家庭
 simultaneously | 同时
-in the family | 在家庭中
-assigned | 分配
-along with | 连同
+there are four of us in the family | 我们家有四口人
+every family is assigned two bedrooms | 每个家庭都会配备两间卧室
+along with its own private bathroom | 和独立的浴室
 its own private bathroom | 自己的私人浴室
-supply food | 供应食物
-shared cooking and dning | 共享烹饪和用餐
-connect with new people | 与新朋友联系
-opportunity | 机会
-make friends | 交朋友
-share similar experiences | 分享类似经历
-get support from fellow parents | 从其他父母那里获得支持
-proceed with the application | 继续申请
-take a family vacation | 家庭度假
-application process | 申请流程
-enjoy the holiday | 享受假期
-a single form | 单一表格
+we also supply food for shared cooking and dining | 我们还会提供食材，让大家可以一起做饭和就餐
+shared cooking and dining | 一起做饭和就餐
+gives you the chance to connect with new people | 这样你们有机会认识新朋友
+we will have the opportunity to connect with other families | 我们就有机会认识其他的家庭了
+my son can make friends with those who understand his situation | 我儿子也能认识一些能理解他的情况的朋友
+and share similar experiences | 和一起分享相似经历
+you'll also get support from fellow parents | 您也能从其他家长那里获得支持
+would you like to proceed with the application now | 您现在要办理申请吗
+I haven't taken a family vacation for a long time | 我已经好久没有和家人一起度假了
+I hope this application process won't be too complicated | 希望这个申请过程不要太繁琐
+so that we can easily enjoy the holiday | 让我们可以轻松享受这次假期
+it's very simple, with just a single form to fill out | 非常简单。只需要填写一张表格
 to fill out | 填写
-holiday date | 假期日期
-a wonderfull program | 精彩的项目
+we'll contact you to schedule your holiday date | 我们就联系您确定度假日期
+such a wonderful program | 这么棒的项目
 
 70198
-airline customer service | 航空公司客户服务
-make an enquiry | 咨询
+airline customer service | 航司客服部
+make an enquiry about my flight next month | 咨询一下我下个月航班的事情
 flight | 航班
-flying with us | 乘坐我们的航班
-reservation | 预订
-ticket | 机票
-proceed | 进行
+thank you for flying with us | 感谢您乘坐我们的航班
+any questions you have about your reservation | 有关预订的任何问题
+I booked and paid for my ticket on your website | 我在你们官网订了票，并且已经付款了
+I'd like to change my reservation now, but I'm not sure how to proceed | 现在我想更改预定，但是我不太清楚流程
 flight details | 航班详情
 go on vacation | 度假
 started a new job | 开始新工作
