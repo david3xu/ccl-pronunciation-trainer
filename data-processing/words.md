@@ -149,7 +149,7 @@ overseas
 involved in
 international wire transfer
 setting up
-a foreign corrency account
+a foreign currency account
 payments
 automatically
 wire transfers
@@ -181,10 +181,6 @@ streamlined
 approval
 set up the account
 get this done
-
-
-
-
 
 70248
 council
@@ -234,7 +230,7 @@ sidewall
 view
 side window
 natural light
-toublesome
+troublesome
 definitely
 struck
 inspect
@@ -271,7 +267,7 @@ starving
 government business cooperation centre
 start
 new business
-congradulations
+congratulations
 applying
 ABN
 registration number
@@ -314,7 +310,7 @@ luckily
 client
 cancel
 appointment
-recieved an offer
+received an offer
 a multinational company
 a big step forward
 job offer
@@ -332,7 +328,7 @@ read through
 the whole contract
 professional
 lawyers
-compllicated language
+complicated language
 writing contracts
 deadline
 the signed contract
@@ -340,7 +336,7 @@ pushed back a little
 review
 schedule
 a quick call
-reveiw my notes
+review my notes
 I'm done
 
 70242
@@ -387,7 +383,7 @@ is designed around
 a beautiful vintage bathtub
 a shower
 soaking
-bath
+in the bath
 master bathroom
 a shower stall
 struck
@@ -402,7 +398,7 @@ keep track of everything
 browsing
 the mall
 a new lounge chair
-looing around the mall
+looking around the mall
 awesome
 big stores
 loads of options
@@ -531,7 +527,7 @@ do vary
 normal
 unfamiliar
 trying to adapt
-keep worring
+keep worrying
 sound silly
 embarrassing
 no stress at all
@@ -712,8 +708,8 @@ establish
 hospitals
 medical side
 overall
-peacefullness
-frindliness
+peacefulness
+friendliness
 daily habits
 a few jars
 jasmine tea
@@ -734,7 +730,7 @@ consider it done
 deserves
 brew
 put in an order
-you're so thoughtfull
+you're so thoughtful
 wonderful
 came over
 touch
@@ -868,7 +864,7 @@ turned out
 the way you wanted
 smoothly
 gardening team
-professsional
+professional
 thorough
 picking out
 outdoor furniture
@@ -1065,7 +1061,7 @@ dropping by
 some samples
 business partner
 taste
-in serveral flavours
+in several flavours
 sweet
 savory
 wholesale price list
@@ -1130,7 +1126,7 @@ medicine
 relieve
 symptoms
 for instance
-burnin g
+burning
 nausea
 bloated
 nauseous
@@ -1266,7 +1262,7 @@ run out of them
 receptionist
 coffee machine
 favourite brand
-dialy coffee intake
+daily coffee intake
 gone beyond
 the healthy limits
 roast coffee
@@ -1417,7 +1413,7 @@ rolling chasing
 seagulls
 spots
 allowed
-kids' palygrounds
+kids' playgrounds
 sports ovals
 signs
 accidentally
@@ -1435,7 +1431,7 @@ jumps on
 pay extra attention
 dog-walking
 look out for
-pick up after yoru dog
+pick up after your dog
 leaving
 dog waste
 placed
@@ -1455,7 +1451,7 @@ apartment complex
 speeding
 dangerous
 engine
-powerfull
+powerful
 super loud
 kids' play areas
 sidewalks
@@ -1534,7 +1530,7 @@ checking out
 older homes
 major renovations
 tweak
-officialy listed
+officially listed
 owner
 personally
 set up
@@ -1563,7 +1559,7 @@ misuse
 pay out of pocket
 I'm relieved
 original machine
-techinican
+technician
 gets out to you soon
 come by
 part-time
@@ -1627,7 +1623,7 @@ free promotion
 make some cakes
 desserts
 fundraising
-gunius
+genius
 vibe
 finalize
 sponsorship
@@ -1659,7 +1655,7 @@ dispose
 old electronic devices
 city council
 holds
-e-wate collection day
+e-waste collection day
 quarterly
 community centre
 vegetables
@@ -1683,7 +1679,7 @@ lead trainer
 dog training center
 coworker
 mentioned
-adpoted
+adopted
 adorable
 male puppy
 puppy training course
@@ -1749,7 +1745,7 @@ sit empty
 hire
 chip in
 as a thank you
-saved me a tone of hassle
+saved me a ton of hassle
 hassle
 generous offer
 due for a service
@@ -1897,18 +1893,18 @@ walked there and back
 a great adventure
 I've never tried walking there before
 route
-cut throught the park
+cut through the park
 taking the main road
 I've been swamped
 driving to pick them up
 is tough
 regularly
 I'm off work
-make a speical trip to the school
+make a special trip to the school
 a huge help
 enjoy walking
 good exercise
-I hoep it's not a bother
+I hope it's not a bother
 formed
 carpool group
 taking turns
@@ -1916,7 +1912,7 @@ pick up the kids
 organize this
 schedule
 set up a group chat
-on social meida
+on social media
 setting up a group
 the exact plan
 
@@ -1934,7 +1930,7 @@ did you happen to bring
 receipt
 warranty card
 under warranty
-should't be having problems this early
+shouldn't be having problems this early
 a solid model
 getting too hot
 turn it off
@@ -1972,9 +1968,9 @@ served
 seniors and families
 struggling
 cover
-basic gorceries
+basic groceries
 these days
-sclimbed
+climbed
 demand
 keeps surging like this
 requests
@@ -2004,7 +2000,7 @@ explaining
 volunteers
 run the pantry
 more funds
-go direclty to food
+go directly to food
 post some photos
 on our website
 like volunteers in action
@@ -2045,7 +2041,7 @@ kicking a ball against
 leaving it badly damaged
 ignore
 a standard process
-shared fense
+shared fence
 on the hook
 full cost
 promising
@@ -2059,7 +2055,7 @@ goes smoothly
 
 70202
 new business
-inital ideas
+initial ideas
 before going ahead
 business ideas
 a soap business
@@ -2088,7 +2084,7 @@ works for me
 70201
 interview
 reputation
-a top comapny
+a top company
 in the industry
 clients
 employees
@@ -2102,7 +2098,7 @@ a clean record
 no tickets
 accidents
 drivers
-drving experience
+driving experience
 not clear on
 vehicle
 a regular car license
@@ -2192,7 +2188,7 @@ operates
 free of charge
 indeed no change
 a spacious house
-by the beech
+by the beach
 free of cost
 accommodate
 simultaneously
@@ -2201,7 +2197,7 @@ assigned
 along with
 its own private bathroom
 supply food
-shared cooking and dning
+shared cooking and dining
 connect with new people
 opportunity
 make friends
@@ -2214,7 +2210,7 @@ enjoy the holiday
 a single form
 to fill out
 holiday date
-a wonderfull program
+a wonderful program
 
 70198
 airline customer service
@@ -2247,7 +2243,7 @@ cancellation
 act soon
 read the terms of your ticket
 discounted tickets
-changable
+changeable
 fare type
 all terms and fees
 on our site
@@ -2277,7 +2273,7 @@ chaotic
 stolen
 stereo
 refrain
-tyding up
+tidying up
 touching
 at the scene
 dispatch
@@ -2290,7 +2286,7 @@ insured
 cover the cost of replacing
 wait inside your car
 the police show up
-nothings gets disturbed
+nothing gets disturbed
 a lifesaver
 
 70196
@@ -2301,12 +2297,12 @@ caught the same virus
 a potent virus
 circulating
 hit by it
-madication
+medication
 stay home
 going to school
 recovered
 much sicker
-auful
+awful
 bounce back
 viral infections
 adults
@@ -2510,7 +2506,7 @@ supervisor
 picking things up
 feel more confident
 interact
-costomers
+customers
 customer service
 talking to customers
 figuring out
@@ -2547,7 +2543,7 @@ renovating
 renovation plans
 smoothly
 luckily
-a great contrator
+a great contractor
 the big work is done
 focusing on
 decorating
@@ -2601,7 +2597,7 @@ suits
 project
 open to anything
 really enjoy
-gardenining
+gardening
 planting
 working on
 vegetable garden
@@ -2613,7 +2609,7 @@ noticed
 bushes
 definitely
 trimming
-weeds are everwhere
+weeds are everywhere
 gardening experience
 clean up the space
 everything is overgrown
@@ -2685,7 +2681,7 @@ health
 tired
 not been well recently
 going back and forth
-spent serveral hours
+spent several hours
 hardly have time
 difficult
 a social worker
@@ -2718,7 +2714,7 @@ resume
 a good place
 
 70186
-upcomming
+upcoming
 class trip
 coordinate
 check in
@@ -2749,9 +2745,9 @@ walk around
 afternoon session
 a great setup
 this way
-a relaxing luch break
+a relaxing lunch break
 refreshed
-afternoono activties
+afternoon activities
 assignments
 complete
 stay focused
@@ -2762,7 +2758,7 @@ learn and have fun
 at the same time
 eager
 explore
-byond
+beyond
 classroom
 get back to your class
 challenging
@@ -2778,7 +2774,7 @@ current policy
 switch
 a different type
 looking into
-reseaching
+researching
 trauma insurance
 online
 a quote
@@ -2792,7 +2788,7 @@ particular condition
 covered under
 health issues
 cover all illnesses
-trauma insuranace coverage
+trauma insurance coverage
 critical illness policies
 includes
 major categories
@@ -2850,11 +2846,11 @@ accounting system
 simpler and faster
 focus more time on
 stressing over
-accouting issues
+accounting issues
 arrangements
 
 70183
-neghbouring district
+neighbouring district
 landlord
 stressful
 rent a place
@@ -2995,9 +2991,9 @@ consider all the offers
 auctions
 set a specific date
 sellers
-get the best price possilbe
+get the best price possible
 selling method
-recommand
+recommend
 visit your house first
 come then
 text
@@ -3038,7 +3034,7 @@ recovery chances
 investigate
 recover property
 comprehensive insurance
-fiile a claim
+file a claim
 insurance provider
 covers
 theft losses
@@ -3093,18 +3089,18 @@ long-term
 working with someone over time
 beneficial
 photos
-speciall occasions
+special occasions
 meaningful moments
 grandmother
 have her photographed
 celebrate
 fabulous
 milestone
-a wonderfull way
+a wonderful way
 include
 grandchildren
 It means a lot to her
-remeber her
+remember her
 prefer
 cozy
 candid
