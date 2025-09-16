@@ -1419,7 +1419,8 @@ roam | 漫游 | /rəʊm/ — sounds like **ROHM** | /roʊm/ — sounds like **RO
 section | 区域 | /ˈsek.ʃən/ — sounds like **SEK-shun** | /ˈsek.ʃən/ — sounds like **SEK-shun**
 leash-free | 无绳 | /liːʃ friː/ — sounds like **LEESH FREE** | /liːʃ friː/ — sounds like **LEESH FREE**
 splashing around | 戏水 | /ˈsplæʃ.ɪŋ əˈraʊnd/ — sounds like **SPLASH-ing uh-ROWND** | /ˈsplæʃ.ɪŋ əˈraʊnd/ — sounds like **SPLASH-ing uh-ROWND**
-rolling chasing | 打滚 | /ˈrəʊ.lɪŋ ˈtʃeɪ.sɪŋ/ — sounds like **ROH-ling CHAY-sing** | /ˈroʊ.lɪŋ ˈtʃeɪ.sɪŋ/ — sounds like **ROH-ling CHAY-sing**
+rolling | 打滚 | /ˈrəʊ.lɪŋ/ — sounds like **ROH-ling** | /ˈroʊ.lɪŋ/ — sounds like **ROH-ling**
+chasing | 追逐 | /ˈtʃeɪ.sɪŋ/ — sounds like **CHAY-sing** | /ˈtʃeɪ.sɪŋ/ — sounds like **CHAY-sing**
 seagulls | 海鸥 | /ˈsiː.ɡʌlz/ — sounds like **SEE-gulz** | /ˈsiː.ɡʌlz/ — sounds like **SEE-gulz**
 spots | 地方 | /spɒts/ — sounds like **SPOTS** | /spɑːts/ — sounds like **SPAHTS**
 allowed | 允许 | /əˈlaʊd/ — sounds like **uh-LOWD** | /əˈlaʊd/ — sounds like **uh-LOWD**
