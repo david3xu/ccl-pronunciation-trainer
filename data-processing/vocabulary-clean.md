@@ -11,7 +11,10 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 
 ---
 
-1. Behave/act | 表现 | /bɪˈheɪv/ /ækt/ — sounds like **bi-HAYV** **AKT** | /bɪˈheɪv/ /ækt/ — sounds like **bi-HAYV** **AKT**
+## Education Vocabulary
+
+1. Behave | 表现 | /bɪˈheɪv/ — sounds like **bi-HAYV** | /bɪˈheɪv/ — sounds like **bi-HAYV**
+1. Act | 表现 | /ækt/ — sounds like **AKT** | /ækt/ — sounds like **AKT**
 2. Settle into school | 适应学校 | /ˈset.əl ˈɪn.tuː skuːl/ — sounds like **SET-uhl IN-too SKOOL** | /ˈset.əl ˈɪn.tuː skuːl/ — sounds like **SET-uhl IN-too SKOOL**
 3. Fit in | 融入 | /fɪt ɪn/ — sounds like **FIT IN** | /fɪt ɪn/ — sounds like **FIT IN**
 4. Settle down | 平静下来，专心于，定居 | /ˈset.əl daʊn/ — sounds like **SET-uhl DOWN** | /ˈset.əl daʊn/ — sounds like **SET-uhl DOWN**
@@ -89,7 +92,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 70. Detention | 课后留堂，拘留 | /dɪˈten.ʃən/ — sounds like **di-TEN-shuhn** | /dɪˈten.ʃən/ — sounds like **di-TEN-shuhn**
 71. Suspend from school | （学校暂令）停学 | /səˈspend frəm skuːl/ — sounds like **suh-SPEND frum SKOOL** | /səˈspend frəm skuːl/ — sounds like **suh-SPEND frum SKOOL**
 71. Suspension from school | 被学校勒令停学 | /səˈspen.ʃən frəm skuːl/ — sounds like **suh-SPEN-shuhn frum SKOOL** | /səˈspen.ʃən frəm skuːl/ — sounds like **suh-SPEN-shuhn frum SKOOL**
-72. Expel/expulsion | 开除 | /ɪkˈspel/ /ɪkˈspʌl.ʃən/ — sounds like **ik-SPEL** **ik-SPUL-shuhn** | /ɪkˈspel/ /ɪkˈspʌl.ʃən/ — sounds like **ik-SPEL** **ik-SPUL-shuhn**
+72. Expel | 开除 | /ɪkˈspel/ — sounds like **ik-SPEL** | /ɪkˈspel/ — sounds like **ik-SPEL**
+72. Expulsion | 开除 | /ɪkˈspʌl.ʃən/ — sounds like **ik-SPUL-shuhn** | /ɪkˈspʌl.ʃən/ — sounds like **ik-SPUL-shuhn**
 73. Implementation | 执行，履行，落实 | /ˌɪm.plɪ.menˈteɪ.ʃən/ — sounds like **im-pli-men-TAY-shuhn** | /ˌɪm.plɪ.menˈteɪ.ʃən/ — sounds like **im-pli-men-TAY-shuhn**
 74. Consistency | 前后一致，始终一贯 | /kənˈsɪs.tən.si/ — sounds like **kuhn-SIS-tuhn-see** | /kənˈsɪs.tən.si/ — sounds like **kuhn-SIS-tuhn-see**
 75. A book levy | 书费 | /ə bʊk ˈlev.i/ — sounds like **uh BOOK LEV-ee** | /ə bʊk ˈlev.i/ — sounds like **uh BOOK LEV-ee**
@@ -121,7 +125,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 101. Parental involvement | 家长参与 | /pəˈren.təl ɪnˈvɒlv.mənt/ — sounds like **puh-REN-tuhl in-VOLV-muhnt** | /pəˈren.təl ɪnˈvɑːlv.mənt/ — sounds like **puh-REN-tuhl in-VAHLV-muhnt**
 102. A parent-teacher night | 家长会 （学期开始前） | /ə ˈpeə.rənt ˈtiː.tʃər naɪt/ — sounds like **uh PAIR-uhnt TEE-chuhr NYTE** | /ə ˈper.ənt ˈtiː.tʃɚ naɪt/ — sounds like **uh PAIR-uhnt TEE-cher NYTE**
 103. A parent-teacher interview | 老师家长面谈会（学期结束时） | /ə ˈpeə.rənt ˈtiː.tʃər ˈɪn.tə.vjuː/ — sounds like **uh PAIR-uhnt TEE-chuhr IN-tuh-vyoo** | /ə ˈper.ənt ˈtiː.tʃɚ ˈɪn.tɚ.vjuː/ — sounds like **uh PAIR-uhnt TEE-cher IN-ter-vyoo**
-104. Academic result/achievement | 学习成绩 | /ˌæk.əˈdem.ɪk rɪˈzʌlt/ /əˈtʃiːv.mənt/ — sounds like **ak-uh-DEM-ik ri-ZULT** **uh-CHEEV-muhnt** | /ˌæk.əˈdem.ɪk rɪˈzʌlt/ /əˈtʃiːv.mənt/ — sounds like **ak-uh-DEM-ik ri-ZULT** **uh-CHEEV-muhnt**
+104. Academic result | 学习成绩 | /ˌæk.əˈdem.ɪk rɪˈzʌlt/ — sounds like **ak-uh-DEM-ik ri-ZULT** | /ˌæk.əˈdem.ɪk rɪˈzʌlt/ — sounds like **ak-uh-DEM-ik ri-ZULT**
+104. Academic achievement | 学习成绩 | /ˌæk.əˈdem.ɪk əˈtʃiːv.mənt/ — sounds like **ak-uh-DEM-ik uh-CHEEV-muhnt** | /ˌæk.əˈdem.ɪk əˈtʃiːv.mənt/ — sounds like **ak-uh-DEM-ik uh-CHEEV-muhnt**
 105. A school report | 学校(成绩)报告 | /ə skuːl rɪˈpɔːt/ — sounds like **uh SKOOL ri-PORT** | /ə skuːl rɪˈpɔːrt/ — sounds like **uh SKOOL ri-PORT**
 106. An interim report | 期中报告，临时报告 | /ən ˈɪn.tər.ɪm rɪˈpɔːt/ — sounds like **uhn IN-tuhr-im ri-PORT** | /ən ˈɪn.tɚ.ɪm rɪˈpɔːrt/ — sounds like **uhn IN-ter-im ri-PORT**
 107. Questionnaire | 问卷 | /ˌkwes.tʃəˈneər/ — sounds like **kwes-chuh-NAIR** | /ˌkwes.tʃəˈner/ — sounds like **kwes-chuh-NAIR**
@@ -170,7 +175,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 150. Correspondence course | 函授课程 | /ˌkɒr.əˈspɒn.dəns kɔːs/ — sounds like **kor-uh-SPON-duhns KORS** | /ˌkɔːr.əˈspɑːn.dəns kɔːrs/ — sounds like **kor-uh-SPAHN-duhns KORS**
 150. Distance learning | 函授课程 | /ˈdɪs.təns ˈlɜː.nɪŋ/ — sounds like **DIS-tuhns LUR-ning** | /ˈdɪs.təns ˈlɜːr.nɪŋ/ — sounds like **DIS-tuhns LUR-ning**
 151. Home schooling | 家中教育，居家教育 | /həʊm ˈskuː.lɪŋ/ — sounds like **HOHM SKOO-ling** | /hoʊm ˈskuː.lɪŋ/ — sounds like **HOHM SKOO-ling**
-152. Home tutor/tutoring | 家教 | /həʊm ˈtjuː.tər/ /ˈtjuː.tər.ɪŋ/ — sounds like **HOHM TYOO-tuhr** **TYOO-tuhr-ing** | /hoʊm ˈtuː.tɚ/ /ˈtuː.tɚ.ɪŋ/ — sounds like **HOHM TOO-ter** **TOO-ter-ing**
+152. Home tutor | 家教 | /həʊm ˈtjuː.tər/ — sounds like **HOHM TYOO-tuhr** | /hoʊm ˈtuː.tɚ/ — sounds like **HOHM TOO-ter**
+152. Tutoring | 家教 | /ˈtjuː.tər.ɪŋ/ — sounds like **TYOO-tuhr-ing** | /ˈtuː.tɚ.ɪŋ/ — sounds like **TOO-ter-ing**
 153. After-class coaching school | 课外补习班 | /ˈɑːf.tər klɑːs ˈkəʊ.tʃɪŋ skuːl/ — sounds like **AHF-tuhr KLAHS KOH-ching SKOOL** | /ˈæf.tɚ klæs ˈkoʊ.tʃɪŋ skuːl/ — sounds like **AF-ter KLASS KOH-ching SKOOL**
 154. Cross-age tutoring | 不同年龄学生的辅导 | /krɒs eɪdʒ ˈtjuː.tər.ɪŋ/ — sounds like **KROSS AYGE TYOO-tuhr-ing** | /krɔːs eɪdʒ ˈtuː.tɚ.ɪŋ/ — sounds like **KRAWSS AYGE TOO-ter-ing**
 155. Tutor sb. in sth. | 给某人补习某科 | /ˈtjuː.tər ˈsʌm.bə.di ɪn ˈsʌm.θɪŋ/ — sounds like **TYOO-tuhr SUM-buh-dee in SUM-thing** | /ˈtuː.tɚ ˈsʌm.bə.di ɪn ˈsʌm.θɪŋ/ — sounds like **TOO-ter SUM-buh-dee in SUM-thing**
@@ -221,7 +227,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 199. A student welfare coordinator | 学生福利协调员 | /ə ˈstjuː.dənt ˈwel.feər kəʊˈɔː.dɪ.neɪ.tər/ — sounds like **uh STYOO-duhnt WEL-fair koh-OR-di-nay-tuhr** | /ə ˈstuː.dənt ˈwel.fer koʊˈɔːr.dɪ.neɪ.tɚ/ — sounds like **uh STOO-duhnt WEL-fair koh-OR-di-nay-ter**
 200. The career teacher | 职业指导老师 | /ðə kəˈrɪər ˈtiː.tʃər/ — sounds like **thuh kuh-REER TEE-chuhr** | /ðə kəˈrɪr ˈtiː.tʃɚ/ — sounds like **thuh kuh-REER TEE-cher**
 201. The director of education | 教育主任 | /ðə dəˈrek.tər əv ˌed.jʊˈkeɪ.ʃən/ — sounds like **thuh duh-REK-tuhr uhv ed-joo-KAY-shuhn** | /ðə dəˈrek.tɚ əv ˌed.jʊˈkeɪ.ʃən/ — sounds like **thuh duh-REK-ter uhv ed-joo-KAY-shuhn**
-202. The deputy/vice principal | 副校长 | /ðə ˈdep.jʊ.ti/ /vaɪs ˈprɪn.sɪ.pəl/ — sounds like **thuh DEP-yoo-tee** **VYSE PRIN-si-puhl** | /ðə ˈdep.jʊ.ti/ /vaɪs ˈprɪn.sɪ.pəl/ — sounds like **thuh DEP-yoo-tee** **VYSE PRIN-si-puhl**
+202. The deputy principal | 副校长 | /ðə ˈdep.jʊ.ti ˈprɪn.sɪ.pəl/ — sounds like **thuh DEP-yoo-tee PRIN-si-puhl** | /ðə ˈdep.jʊ.ti ˈprɪn.sɪ.pəl/ — sounds like **thuh DEP-yoo-tee PRIN-si-puhl**
+202. The vice principal | 副校长 | /ðə vaɪs ˈprɪn.sɪ.pəl/ — sounds like **thuh VYSE PRIN-si-puhl** | /ðə vaɪs ˈprɪn.sɪ.pəl/ — sounds like **thuh VYSE PRIN-si-puhl**
 203. Chancellor | 大学校长 | /ˈtʃɑːn.səl.ər/ — sounds like **CHAHN-suhl-uhr** | /ˈtʃæn.səl.ɚ/ — sounds like **CHAN-suhl-er**
 204. Classroom teacher | 班主任，班导师 | /ˈklɑːs.ruːm ˈtiː.tʃər/ — sounds like **KLAHS-room TEE-chuhr** | /ˈklæs.ruːm ˈtiː.tʃɚ/ — sounds like **KLAS-room TEE-cher**
 205. A teacher aide | 辅导老师 | /ə ˈtiː.tʃər eɪd/ — sounds like **uh TEE-chuhr AYD** | /ə ˈtiː.tʃɚ eɪd/ — sounds like **uh TEE-cher AYD**
@@ -331,3 +338,9 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 306. A presentation | 演讲，报告 | /ə ˌprez.ənˈteɪ.ʃən/ — sounds like **uh prez-uhn-TAY-shuhn** | /ə ˌprez.ənˈteɪ.ʃən/ — sounds like **uh prez-uhn-TAY-shuhn**
 307. A thesis | 论文 | /ə ˈθiː.sɪs/ — sounds like **uh THEE-sis** | /ə ˈθiː.sɪs/ — sounds like **uh THEE-sis**
 308. A dissertation | 学位论文 | /ə ˌdɪs.əˈteɪ.ʃən/ — sounds like **uh dis-uh-TAY-shuhn** | /ə ˌdɪs.ɚˈteɪ.ʃən/ — sounds like **uh dis-er-TAY-shuhn**
+
+---
+
+## Social Welfare Vocabulary
+
+309. Aged | 老 | /eɪdʒd/ — sounds like **AYJD** | /eɪdʒd/ — sounds like **AYJD**
