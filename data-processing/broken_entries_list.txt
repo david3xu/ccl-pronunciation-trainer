@@ -1,0 +1,12 @@
+BROKEN PRONUNCIATION ENTRIES
+==================================================
+
+Line 1556: 1427. Concierge service | 礼宾服务
+Current: /c/ɒ/nc/ɪ//e/rge service/ — sounds like **CONCIERGE SERVICE**
+--------------------------------------------------
+Line 1570: 1440. Adventure tourism | 探险旅行
+Current: //æ/dv/e/nt/ʌ/re t/ɒ/ur/ɪ/sm/ — sounds like **ADVENTURE TOURISM**
+--------------------------------------------------
+Line 1573: 1443. Art gallery | 美术馆，艺术馆
+Current: //æ/rt gall/e/ry/ — sounds like **ART GALLERY**
+--------------------------------------------------
