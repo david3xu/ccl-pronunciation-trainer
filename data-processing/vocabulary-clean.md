@@ -141,8 +141,10 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 113. Class roll | 点名册 | /klɑːs rəʊl/ — sounds like **KLAHS ROHL** | /klæs roʊl/ — sounds like **KLASS ROHL**
 114. Registrar | 注册人 | /ˌredʒ.ɪˈstrɑːr/ — sounds like **rej-i-STRAR** | /ˌredʒ.ɪˈstrɑːr/ — sounds like **rej-i-STRAR**
 115. Austudy | 学费补助 | /ˈɔːs.stʌd.i/ — sounds like **AWS-stud-ee** | /ˈɔːs.stʌd.i/ — sounds like **AWS-stud-ee**
-116. AQF(Australian Qualification Framework) | 澳大利亚学历框架 | /eɪ.kjuː.ˈef (ɔːˈstreɪ.li.ən ˌkwɒl.ɪ.fɪˈkeɪ.ʃən ˈfreɪm.wɜːk)/ — sounds like **AY-kyoo-EF (aw-STRAY-lee-uhn kwol-i-fi-KAY-shuhn FRAYM-wurk)** | /eɪ.kjuː.ˈef (ɔːˈstreɪ.li.ən ˌkwɑː.lə.fəˈkeɪ.ʃən ˈfreɪm.wɜːrk)/ — sounds like **AY-kyoo-EF (aw-STRAY-lee-uhn kwah-luh-fuh-KAY-shuhn FRAYM-wurk)**
-117. ATAR（Australian Tertiary Admission Rank） | 澳大利亚高等教育入学排名 | /eɪ.tiː.eɪ.ˈɑːr (ɔːˈstreɪ.li.ən ˈtɜː.ʃə.ri ədˈmɪʃ.ən ræŋk)/ — sounds like **AY-tee-ay-AHR (aw-STRAY-lee-uhn TUR-shuh-ree uhd-MISH-uhn RANG)** | /eɪ.tiː.eɪ.ˈɑːr (ɔːˈstreɪ.li.ən ˈtɜːr.ʃi.er.i ədˈmɪʃ.ən ræŋk)/ — sounds like **AY-tee-ay-AHR (aw-STRAY-lee-uhn TUR-shee-er-ee uhd-MISH-uhn RANG)**
+<!-- 116. AQF | 澳大利亚学历框架 | /eɪ.kjuː.ˈef/ — sounds like **AY-kyoo-EF** | /eɪ.kjuː.ˈef/ — sounds like **AY-kyoo-EF** -->
+116. Australian Qualification Framework | 澳大利亚学历框架 | /ɔːˈstreɪ.li.ən ˌkwɒl.ɪ.fɪˈkeɪ.ʃən ˈfreɪm.wɜːk/ — sounds like **aw-STRAY-lee-uhn kwol-i-fi-KAY-shuhn FRAYM-wurk** | /ɔːˈstreɪ.li.ən ˌkwɑː.lə.fəˈkeɪ.ʃən ˈfreɪm.wɜːrk/ — sounds like **aw-STRAY-lee-uhn kwah-luh-fuh-KAY-shuhn FRAYM-wurk**
+<!-- 117. ATAR | 澳大利亚高等教育入学排名 | /eɪ.tiː.eɪ.ˈɑːr/ — sounds like **AY-tee-ay-AHR** | /eɪ.tiː.eɪ.ˈɑːr/ — sounds like **AY-tee-ay-AHR** -->
+117. Australian Tertiary Admission Rank | 澳大利亚高等教育入学排名 | /ɔːˈstreɪ.li.ən ˈtɜː.ʃə.ri ədˈmɪʃ.ən ræŋk/ — sounds like **aw-STRAY-lee-uhn TUR-shuh-ree uhd-MISH-uhn RANG** | /ɔːˈstreɪ.li.ən ˈtɜːr.ʃi.er.i ədˈmɪʃ.ən ræŋk/ — sounds like **aw-STRAY-lee-uhn TUR-shee-er-ee uhd-MISH-uhn RANG**
 118. Compulsory education | 义务教育 | /kəmˈpʌl.sər.i ˌedʒ.uˈkeɪ.ʃən/ — sounds like **kuhm-PUL-suh-ree ej-oo-KAY-shuhn** | /kəmˈpʌl.sər.i ˌedʒ.uˈkeɪ.ʃən/ — sounds like **kuhm-PUL-suh-ree ej-oo-KAY-shuhn**
 119. Mainstream school | "普通"学校；主流学校 | /ˈmeɪn.striːm skuːl/ — sounds like **MAYN-streem SKOOL** | /ˈmeɪn.striːm skuːl/ — sounds like **MAYN-streem SKOOL**
 120. A special school | "特殊"学校 | /ə ˈspeʃ.əl skuːl/ — sounds like **uh SPESH-uhl SKOOL** | /ə ˈspeʃ.əl skuːl/ — sounds like **uh SPESH-uhl SKOOL**
@@ -174,8 +176,10 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 141. A private school | 私立学校 | /ə ˈpraɪ.vət skuːl/ — sounds like **uh PRY-vuht SKOOL** | /ə ˈpraɪ.vət skuːl/ — sounds like **uh PRY-vuht SKOOL**
 142. A public school | 公立学校 | /ə ˈpʌb.lɪk skuːl/ — sounds like **uh PUB-lik SKOOL** | /ə ˈpʌb.lɪk skuːl/ — sounds like **uh PUB-lik SKOOL**
 143. A state school | 公立学校 | /ə steɪt skuːl/ — sounds like **uh STAYT SKOOL** | /ə steɪt skuːl/ — sounds like **uh STAYT SKOOL**
-144. VET(Vocational education and training) | 职业教育培训 | /viː.iː.ˈtiː (vəʊˈkeɪ.ʃən.əl ˌedʒ.uˈkeɪ.ʃən ænd ˈtreɪ.nɪŋ)/ — sounds like **VEE-ee-TEE (voh-KAY-shuhn-uhl ej-oo-KAY-shuhn and TRAY-ning)** | /viː.iː.ˈtiː (voʊˈkeɪ.ʃən.əl ˌedʒ.uˈkeɪ.ʃən ænd ˈtreɪ.nɪŋ)/ — sounds like **VEE-ee-TEE (voh-KAY-shuhn-uhl ej-oo-KAY-shuhn and TRAY-ning)**
-145. TAFE(Technical and further education) | 技术和继续教育学院 | /tiː.eɪ.ef.ˈiː (ˈtek.nɪ.kəl ænd ˈfɜː.ðər ˌedʒ.uˈkeɪ.ʃən)/ — sounds like **TEE-ay-ef-EE (TEK-ni-kuhl and FUR-thuhr ej-oo-KAY-shuhn)** | /tiː.eɪ.ef.ˈiː (ˈtek.nɪ.kəl ænd ˈfɜːr.ðər ˌedʒ.uˈkeɪ.ʃən)/ — sounds like **TEE-ay-ef-EE (TEK-ni-kuhl and FUR-thuhr ej-oo-KAY-shuhn)**
+<!-- 144. VET | 职业教育培训 | /viː.iː.ˈtiː/ — sounds like **VEE-ee-TEE** | /viː.iː.ˈtiː/ — sounds like **VEE-ee-TEE** -->
+144. Vocational education and training | 职业教育培训 | /vəʊˈkeɪ.ʃən.əl ˌedʒ.uˈkeɪ.ʃən ænd ˈtreɪ.nɪŋ/ — sounds like **voh-KAY-shuhn-uhl ej-oo-KAY-shuhn and TRAY-ning** | /voʊˈkeɪ.ʃən.əl ˌedʒ.uˈkeɪ.ʃən ænd ˈtreɪ.nɪŋ/ — sounds like **voh-KAY-shuhn-uhl ej-oo-KAY-shuhn and TRAY-ning**
+<!-- 145. TAFE | 技术和继续教育学院 | /tiː.eɪ.ef.ˈiː/ — sounds like **TEE-ay-ef-EE** | /tiː.eɪ.ef.ˈiː/ — sounds like **TEE-ay-ef-EE** -->
+145. Technical and further education | 技术和继续教育学院 | /ˈtek.nɪ.kəl ænd ˈfɜː.ðər ˌedʒ.uˈkeɪ.ʃən/ — sounds like **TEK-ni-kuhl and FUR-thuhr ej-oo-KAY-shuhn** | /ˈtek.nɪ.kəl ænd ˈfɜːr.ðər ˌedʒ.uˈkeɪ.ʃən/ — sounds like **TEK-ni-kuhl and FUR-thuhr ej-oo-KAY-shuhn**
 146. Distance education | 远程教育 | /ˈdɪs.təns ˌedʒ.uˈkeɪ.ʃən/ — sounds like **DIS-tuhnz ej-oo-KAY-shuhn** | /ˈdɪs.təns ˌedʒ.uˈkeɪ.ʃən/ — sounds like **DIS-tuhnz ej-oo-KAY-shuhn**
 147. Correspondence course | 函授课程 | /ˌkɒr.ɪˈspɒn.dəns kɔːs/ˈdɪs.təns ˈlɜː.nɪŋ/ — sounds like **kor-i-SPON-duhnz KAWS/DIS-tuhnz LUR-ning** | /ˌkɔːr.əˈspɑːn.dəns kɔːrs/ˈdɪs.təns ˈlɜːr.nɪŋ/ — sounds like **kawr-uh-SPAHN-duhnz KAWRS/DIS-tuhnz LUR-ning**
 147. Distance learning | 函授课程 | /ˌkɒr.ɪˈspɒn.dəns kɔːs/ˈdɪs.təns ˈlɜː.nɪŋ/ — sounds like **kor-i-SPON-duhnz KAWS/DIS-tuhnz LUR-ning** | /ˌkɔːr.əˈspɑːn.dəns kɔːrs/ˈdɪs.təns ˈlɜːr.nɪŋ/ — sounds like **kawr-uh-SPAHN-duhnz KAWRS/DIS-tuhnz LUR-ning**
@@ -188,7 +192,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 153. Coaching | （教练）指导 | /ˈkəʊ.tʃɪŋ/ — sounds like **KOH-ching** | /ˈkoʊ.tʃɪŋ/ — sounds like **KOH-ching**
 154. Tertiary education | 高等教育，大学教育 | /ˈtɜː.ʃər.i ˌedʒ.uˈkeɪ.ʃən/ — sounds like **TUR-shuh-ree ej-oo-KAY-shuhn** | /ˈtɜːr.ʃi.er.i ˌedʒ.uˈkeɪ.ʃən/ — sounds like **TUR-shee-er-ee ej-oo-KAY-shuhn**
 155. Higher education institution | 高等教育机构 | /ˈhaɪ.ər ˌedʒ.uˈkeɪ.ʃən ˌɪn.stɪˈtjuː.ʃən/ — sounds like **HY-uhr ej-oo-KAY-shuhn in-sti-TYOO-shuhn** | /ˈhaɪ.ər ˌedʒ.uˈkeɪ.ʃən ˌɪn.stɪˈtuː.ʃən/ — sounds like **HY-uhr ej-oo-KAY-shuhn in-sti-TOO-shuhn**
-156. RTO(Registered training organisation) | 注册的培训机构 | /ɑːr.tiː.ˈəʊ (ˈredʒ.ɪ.stəd ˈtreɪ.nɪŋ ˌɔː.ɡən.aɪˈzeɪ.ʃən)/ — sounds like **AHR-tee-OH (REJ-i-stuhd TRAY-ning awr-guhn-y-ZAY-shuhn)** | /ɑːr.tiː.ˈoʊ (ˈredʒ.ɪ.stərd ˈtreɪ.nɪŋ ˌɔːr.ɡən.əˈzeɪ.ʃən)/ — sounds like **AHR-tee-OH (REJ-i-stuhrd TRAY-ning awr-guhn-uh-ZAY-shuhn)**
+<!-- 156. RTO | 注册的培训机构 | /ɑːr.tiː.ˈəʊ/ — sounds like **AHR-tee-OH** | /ɑːr.tiː.ˈoʊ/ — sounds like **AHR-tee-OH** -->
+156. Registered training organisation | 注册的培训机构 | /ˈredʒ.ɪ.stəd ˈtreɪ.nɪŋ ˌɔː.ɡən.aɪˈzeɪ.ʃən/ — sounds like **REJ-i-stuhd TRAY-ning awr-guhn-y-ZAY-shuhn** | /ˈredʒ.ɪ.stərd ˈtreɪ.nɪŋ ˌɔːr.ɡən.əˈzeɪ.ʃən/ — sounds like **REJ-i-stuhrd TRAY-ning awr-guhn-uh-ZAY-shuhn**
 157. Outdoor education | 户外教育 | /ˈaʊt.dɔːr ˌedʒ.uˈkeɪ.ʃən/ — sounds like **OWT-dawr ej-oo-KAY-shuhn** | /ˈaʊt.dɔːr ˌedʒ.uˈkeɪ.ʃən/ — sounds like **OWT-dawr ej-oo-KAY-shuhn**
 158. Extra-curricular | 课外的 | /ˌek.strəkəˈrɪk.jʊ.lər/ — sounds like **ek-struh-kuh-RIK-yoo-luhr** | /ˌek.strəkəˈrɪk.jə.lər/ — sounds like **ek-struh-kuh-RIK-yuh-luhr**
 159. An extra-curricular activity | 课外活动，课程以外的活动 | /ən ˌek.strəkəˈrɪk.jʊ.lər ækˈtɪv.ə.ti/ — sounds like **uhn ek-struh-kuh-RIK-yoo-luhr ak-TIV-uh-tee** | /ən ˌek.strəkəˈrɪk.jə.lər ækˈtɪv.ə.ti/ — sounds like **uhn ek-struh-kuh-RIK-yuh-luhr ak-TIV-uh-tee**
@@ -207,8 +212,10 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 170. A diploma | 文凭，学位证书 | /ə dɪˈpləʊ.mə/ — sounds like **uh di-PLOH-muh** | /ə dɪˈploʊ.mə/ — sounds like **uh di-PLOH-muh**
 171. A degree in .... | ......的学位 | /ə dɪˈɡriː ɪn/ — sounds like **uh di-GREE in** | /ə dɪˈɡriː ɪn/ — sounds like **uh di-GREE in**
 172. Higher school certificate | 高中毕业文凭 | /ˈhaɪ.ər skuːl səˈtɪf.ɪ.kət/ — sounds like **HY-uhr SKOOL suh-TIF-i-kuht** | /ˈhaɪ.ər skuːl sərˈtɪf.ɪ.kət/ — sounds like **HY-uhr SKOOL suhr-TIF-i-kuht**
-173. VCE(Victorian certificate of education) | 维多利亚州教育证书 | /viː.siː.ˈiː (vɪkˈtɔː.ri.ən səˈtɪf.ɪ.kət əv ˌedʒ.uˈkeɪ.ʃən)/ — sounds like **VEE-see-EE (vik-TAWR-ee-uhn suh-TIF-i-kuht uhv ej-oo-KAY-shuhn)** | /viː.siː.ˈiː (vɪkˈtɔːr.i.ən sərˈtɪf.ɪ.kət əv ˌedʒ.uˈkeɪ.ʃən)/ — sounds like **VEE-see-EE (vik-TAWR-ee-uhn suhr-TIF-i-kuht uhv ej-oo-KAY-shuhn)**
-174. VCAL(Victorian certificate of applied learning) | 维多利亚州应用学习证书 | /viː.siː.eɪ.ˈel (vɪkˈtɔː.ri.ən səˈtɪf.ɪ.kət əv əˈplaɪd ˈlɜː.nɪŋ)/ — sounds like **VEE-see-ay-EL (vik-TAWR-ee-uhn suh-TIF-i-kuht uhv uh-PLYD LUR-ning)** | /viː.siː.eɪ.ˈel (vɪkˈtɔːr.i.ən sərˈtɪf.ɪ.kət əv əˈplaɪd ˈlɜːr.nɪŋ)/ — sounds like **VEE-see-ay-EL (vik-TAWR-ee-uhn suhr-TIF-i-kuht uhv uh-PLYD LUR-ning)**
+<!-- 173. VCE | 维多利亚州教育证书 | /viː.siː.ˈiː/ — sounds like **VEE-see-EE** | /viː.siː.ˈiː/ — sounds like **VEE-see-EE** -->
+173. Victorian certificate of education | 维多利亚州教育证书 | /vɪkˈtɔː.ri.ən səˈtɪf.ɪ.kət əv ˌedʒ.uˈkeɪ.ʃən/ — sounds like **vik-TAWR-ee-uhn suh-TIF-i-kuht uhv ej-oo-KAY-shuhn** | /vɪkˈtɔːr.i.ən sərˈtɪf.ɪ.kət əv ˌedʒ.uˈkeɪ.ʃən/ — sounds like **vik-TAWR-ee-uhn suhr-TIF-i-kuht uhv ej-oo-KAY-shuhn**
+<!-- 174. VCAL | 维多利亚州应用学习证书 | /viː.siː.eɪ.ˈel/ — sounds like **VEE-see-ay-EL** | /viː.siː.eɪ.ˈel/ — sounds like **VEE-see-ay-EL** -->
+174. Victorian certificate of applied learning | 维多利亚州应用学习证书 | /vɪkˈtɔː.ri.ən səˈtɪf.ɪ.kət əv əˈplaɪd ˈlɜː.nɪŋ/ — sounds like **vik-TAWR-ee-uhn suh-TIF-i-kuht uhv uh-PLYD LUR-ning** | /vɪkˈtɔːr.i.ən sərˈtɪf.ɪ.kət əv əˈplaɪd ˈlɜːr.nɪŋ/ — sounds like **vik-TAWR-ee-uhn suhr-TIF-i-kuht uhv uh-PLYD LUR-ning**
 175. Vocational graduate certificate | 职业教育证书 | /vəʊˈkeɪ.ʃən.əl ˈɡræd.ju.ət səˈtɪf.ɪ.kət/ — sounds like **voh-KAY-shuhn-uhl GRAD-yoo-uht suh-TIF-i-kuht** | /voʊˈkeɪ.ʃən.əl ˈɡræd.ju.ət sərˈtɪf.ɪ.kət/ — sounds like **voh-KAY-shuhn-uhl GRAD-yoo-uht suhr-TIF-i-kuht**
 176. Vocational graduate diploma | 职业教育文凭 | /vəʊˈkeɪ.ʃən.əl ˈɡræd.ju.ət dɪˈpləʊ.mə/ — sounds like **voh-KAY-shuhn-uhl GRAD-yoo-uht di-PLOH-muh** | /voʊˈkeɪ.ʃən.əl ˈɡræd.ju.ət dɪˈploʊ.mə/ — sounds like **voh-KAY-shuhn-uhl GRAD-yoo-uht di-PLOH-muh**
 177. Advanced diploma | 高级文凭 | /ədˈvɑːnst dɪˈpləʊ.mə/ — sounds like **uhd-VAHNST di-PLOH-muh** | /ədˈvænst dɪˈploʊ.mə/ — sounds like **uhd-VANST di-PLOH-muh**
@@ -247,7 +254,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 207. A speech therapist | 语言矫正师 | /ə spiːtʃ ˈθer.ə.pɪst/ — sounds like **uh SPEECH THER-uh-pist** | /ə spiːtʃ ˈθer.ə.pɪst/ — sounds like **uh SPEECH THER-uh-pist**
 208. A mentor | 导师，良师 | /ə ˈmen.tɔːr/ — sounds like **uh MEN-tawr** | /ə ˈmen.tɔːr/ — sounds like **uh MEN-tawr**
 209. A lecturer | 讲师 | /ə ˈlek.tʃər.ər/ — sounds like **uh LEK-chuh-ruhr** | /ə ˈlek.tʃər.ər/ — sounds like **uh LEK-chuh-ruhr**
-210. NOOSR(National office of overseas skill recognition) | 海外技能评估办公室 | /en.əʊ.əʊ.es.ˈɑːr (ˈnæʃ.ən.əl ˈɒf.ɪs əv ˌəʊ.vəˈsiːz skɪl ˌrek.əɡˈnɪʃ.ən)/ — sounds like **EN-oh-oh-es-AHR (NASH-uhn-uhl OFF-is uhv oh-vuh-SEEZ SKIL rek-uhg-NISH-uhn)** | /en.oʊ.oʊ.es.ˈɑːr (ˈnæʃ.ən.əl ˈɔː.fɪs əv ˌoʊ.vərˈsiːz skɪl ˌrek.əɡˈnɪʃ.ən)/ — sounds like **EN-oh-oh-es-AHR (NASH-uhn-uhl AW-fis uhv oh-vuhr-SEEZ SKIL rek-uhg-NISH-uhn)**
+<!-- 210. NOOSR | 海外技能评估办公室 | /en.əʊ.əʊ.es.ˈɑːr/ — sounds like **EN-oh-oh-es-AHR** | /en.oʊ.oʊ.es.ˈɑːr/ — sounds like **EN-oh-oh-es-AHR** -->
+210. National office of overseas skill recognition | 海外技能评估办公室 | /ˈnæʃ.ən.əl ˈɒf.ɪs əv ˌəʊ.vəˈsiːz skɪl ˌrek.əɡˈnɪʃ.ən/ — sounds like **NASH-uhn-uhl OFF-is uhv oh-vuh-SEEZ SKIL rek-uhg-NISH-uhn** | /ˈnæʃ.ən.əl ˈɔː.fɪs əv ˌoʊ.vərˈsiːz skɪl ˌrek.əɡˈnɪʃ.ən/ — sounds like **NASH-uhn-uhl AW-fis uhv oh-vuhr-SEEZ SKIL rek-uhg-NISH-uhn**
 211. Facility | 设施，设备，机构 | /fəˈsɪl.ə.ti/ — sounds like **fuh-SIL-uh-tee** | /fəˈsɪl.ə.ti/ — sounds like **fuh-SIL-uh-tee**
 212. Campus | 校园 | /ˈkæm.pəs/ — sounds like **KAM-puhs** | /ˈkæm.pəs/ — sounds like **KAM-puhs**
 213. Outskirts | 外围，边缘 | /ˈaʊt.skɜːts/ — sounds like **OWT-skurts** | /ˈaʊt.skɜːrts/ — sounds like **OWT-skurts**
@@ -313,8 +321,10 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 268. Home economics | 家政学 | /həʊm ˌiː.kəˈnɒm.ɪks/ — sounds like **HOHM ee-kuh-NOM-iks** | /hoʊm ˌiː.kəˈnɑː.mɪks/ — sounds like **HOHM ee-kuh-NAH-miks**
 269. Drafting | 制图 | /ˈdrɑːf.tɪŋ/ — sounds like **DRAHF-ting** | /ˈdræf.tɪŋ/ — sounds like **DRAF-ting**
 270. Literature | 文学 | /ˈlɪt.rə.tʃər/ — sounds like **LIT-ruh-chuhr** | /ˈlɪt.ər.ə.tʃər/ — sounds like **LIT-uhr-uh-chuhr**
-271. LOTE(Language other than English) | 非英语语言 | /el.əʊ.tiː.ˈiː (ˈlæŋ.ɡwɪdʒ ˈʌð.ər ðæn ˈɪŋ.ɡlɪʃ)/ — sounds like **EL-oh-tee-EE (LANG-gwij UH-thuhr than ING-glish)** | /el.oʊ.tiː.ˈiː (ˈlæŋ.ɡwɪdʒ ˈʌð.ər ðæn ˈɪŋ.ɡlɪʃ)/ — sounds like **EL-oh-tee-EE (LANG-gwij UH-thuhr than ING-glish)**
-272. EAL(English as a Additional Language) | 英语作为额外语言 | /iː.eɪ.ˈel (ˈɪŋ.ɡlɪʃ æz ə əˈdɪʃ.ən.əl ˈlæŋ.ɡwɪdʒ)/ — sounds like **EE-ay-EL (ING-glish AZ uh uh-DISH-uhn-uhl LANG-gwij)** | /iː.eɪ.ˈel (ˈɪŋ.ɡlɪʃ æz ə əˈdɪʃ.ən.əl ˈlæŋ.ɡwɪdʒ)/ — sounds like **EE-ay-EL (ING-glish AZ uh uh-DISH-uhn-uhl LANG-gwij)**
+<!-- 271. LOTE | 非英语语言 | /el.əʊ.tiː.ˈiː/ — sounds like **EL-oh-tee-EE** | /el.oʊ.tiː.ˈiː/ — sounds like **EL-oh-tee-EE** -->
+271. Language other than English | 非英语语言 | /ˈlæŋ.ɡwɪdʒ ˈʌð.ər ðæn ˈɪŋ.ɡlɪʃ/ — sounds like **LANG-gwij UH-thuhr than ING-glish** | /ˈlæŋ.ɡwɪdʒ ˈʌð.ər ðæn ˈɪŋ.ɡlɪʃ/ — sounds like **LANG-gwij UH-thuhr than ING-glish**
+<!-- 272. EAL | 英语作为额外语言 | /iː.eɪ.ˈel/ — sounds like **EE-ay-EL** | /iː.eɪ.ˈel/ — sounds like **EE-ay-EL** -->
+272. English as a Additional Language | 英语作为额外语言 | /ˈɪŋ.ɡlɪʃ æz ə əˈdɪʃ.ən.əl ˈlæŋ.ɡwɪdʒ/ — sounds like **ING-glish AZ uh uh-DISH-uhn-uhl LANG-gwij** | /ˈɪŋ.ɡlɪʃ æz ə əˈdɪʃ.ən.əl ˈlæŋ.ɡwɪdʒ/ — sounds like **ING-glish AZ uh uh-DISH-uhn-uhl LANG-gwij**
 273. Bilingual | 双语的 | /baɪˈlɪŋ.ɡwəl/ — sounds like **by-LING-gwuhl** | /baɪˈlɪŋ.ɡwəl/ — sounds like **by-LING-gwuhl**
 274. Pre-med exam | 医学预科考试 | /priː med ɪɡˈzæm/ — sounds like **PREE MED ig-ZAM** | /priː med ɪɡˈzæm/ — sounds like **PREE MED ig-ZAM**
 275. A prerequisite subject | 预修课程 | /ə ˌpriː.ˈrek.wɪ.zɪt ˈsʌb.dʒekt/ — sounds like **uh pree-REK-wi-zit SUB-jekt** | /ə ˌpriː.ˈrek.wə.zət ˈsʌb.dʒekt/ — sounds like **uh pree-REK-wuh-zuht SUB-jekt**
@@ -375,7 +385,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 326. Department of human services | 民政服务部 | /dɪˈpɑːrt.mənt ʌv ˈhjuː.mən ˈsɜːr.vɪ.sɪz/ — sounds like **di-PAHRT-muhnt UHV HYOO-muhn SUR-vi-siz** | /dɪˈpɑːrt.mənt ʌv ˈhjuː.mən ˈsɜːr.vɪ.sɪz/ — sounds like **di-PAHRT-muhnt UHV HYOO-muhn SUR-vi-siz**
 327. Health care card | 医保卡 | /helθ ker kɑːrd/ — sounds like **HELTH KER KAHRD** | /helθ ker kɑːrd/ — sounds like **HELTH KER KAHRD**
 328. Social security appeals tribunal | 社会保障上诉仲裁庭 | /ˈsoʊ.ʃəl sɪˈkjʊr.ɪ.ti əˈpiːlz traɪˈbjuː.nəl/ — sounds like **SOH-shuhl si-KYOOR-i-ti uh-PEELZ try-BYOO-nuhl** | /ˈsoʊ.ʃəl sɪˈkjʊr.ɪ.ti əˈpiːlz traɪˈbjuː.nəl/ — sounds like **SOH-shuhl si-KYOOR-i-ti uh-PEELZ try-BYOO-nuhl**
-329. A means test=an assets and income test | 收入资产评估 | /ə miːnz test æn ˈæ.sets ænd ˈɪn.kʌm test/ — sounds like **uh MEENZ TEST AN AS-sets AND IN-kuhm TEST** | /ə miːnz test æn ˈæ.sets ænd ˈɪn.kʌm test/ — sounds like **uh MEENZ TEST AN AS-sets AND IN-kuhm TEST**
+<!-- 329. A means test | 收入资产评估 | /ə miːnz test/ — sounds like **uh MEENZ TEST** | /ə miːnz test/ — sounds like **uh MEENZ TEST** -->
+329. An assets and income test | 收入资产评估 | /æn ˈæ.sets ænd ˈɪn.kʌm test/ — sounds like **AN AS-sets AND IN-kuhm TEST** | /æn ˈæ.sets ænd ˈɪn.kʌm test/ — sounds like **AN AS-sets AND IN-kuhm TEST**
 330. Basic rate | 基本金额 | /ˈbeɪ.sɪk reɪt/ — sounds like **BAY-sik RAYT** | /ˈbeɪ.sɪk reɪt/ — sounds like **BAY-sik RAYT**
 331. Minimum rate | 最低金额，最少金额 | /ˈmɪn.ɪ.məm reɪt/ — sounds like **MIN-i-muhm RAYT** | /ˈmɪn.ɪ.məm reɪt/ — sounds like **MIN-i-muhm RAYT**
 332. A certifies copy | 公证件 | /ə ˈsɜːr.tɪ.faɪz ˈkɒ.pi/ — sounds like **uh SUR-ti-fyz KOP-i** | /ə ˈsɜːr.tɪ.faɪz ˈkɑː.pi/ — sounds like **uh SUR-ti-fyz KAH-pi**
@@ -401,7 +412,7 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 352. A nursing home | 养老院 | /ə ˈnɜːr.sɪŋ hoʊm/ — sounds like **uh NUR-sing HOHM** | /ə ˈnɜːr.sɪŋ hoʊm/ — sounds like **uh NUR-sing HOHM**
 353. Main carer | 主要照顾者 | /meɪn ˈker.ər/ — sounds like **MAYN KER-er** | /meɪn ˈker.ər/ — sounds like **MAYN KER-er**
 354. Carer payment | 照顾者补贴 | /ˈker.ər ˈpeɪ.mənt/ — sounds like **KER-er PAY-muhnt** | /ˈker.ər ˈpeɪ.mənt/ — sounds like **KER-er PAY-muhnt**
-355. Respite care centre; | 暂息照顾中心; | /ˈres.paɪt ker ˈsen.tər/ — sounds like **RES-pyt KER SEN-ter** | /ˈres.paɪt ker ˈsen.tər/ — sounds like **RES-pyt KER SEN-ter**
+355. Respite care centre | 暂息照顾中心 | /ˈres.paɪt ker ˈsen.tər/ — sounds like **RES-pyt KER SEN-ter** | /ˈres.paɪt ker ˈsen.tər/ — sounds like **RES-pyt KER SEN-ter**
 356. Residential care | 院所养老服务 | /ˌrez.ɪˈden.ʃəl ker/ — sounds like **rez-i-DEN-shuhl KER** | /ˌrez.ɪˈden.ʃəl ker/ — sounds like **rez-i-DEN-shuhl KER**
 357. Mobility allowance | 行动不便者津贴 | /moʊˈbɪl.ɪ.ti əˈlaʊ.əns/ — sounds like **moh-BIL-i-ti uh-LOW-uhns** | /moʊˈbɪl.ɪ.ti əˈlaʊ.əns/ — sounds like **moh-BIL-i-ti uh-LOW-uhns**
 358. Disability support pension | 残疾人补助金 | /ˌdɪs.əˈbɪl.ɪ.ti səˈpɔːrt ˈpen.ʃən/ — sounds like **dis-uh-BIL-i-ti suh-PAWRT PEN-shuhn** | /ˌdɪs.əˈbɪl.ɪ.ti səˈpɔːrt ˈpen.ʃən/ — sounds like **dis-uh-BIL-i-ti suh-PAWRT PEN-shuhn**
@@ -481,8 +492,10 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 430. See people with bias | 带有色眼镜看人 | /siː ˈpiː.pəl wɪθ ˈbaɪ.əs/ — sounds like **SEE PEE-puhl WITH BY-uhs** | /siː ˈpiː.pəl wɪθ ˈbaɪ.əs/ — sounds like **SEE PEE-puhl WITH BY-uhs**
 431. An interim order | 临时指令，暂时指令 | /ən ˈɪn.tər.ɪm ˈɔːr.dər/ — sounds like **uhn IN-tuh-rim AWR-der** | /ən ˈɪn.tər.ɪm ˈɔːr.dər/ — sounds like **uhn IN-tuh-rim AWR-der**
 432. Residential status | 居民身份 | /ˌrez.ɪˈden.ʃəl ˈsteɪ.təs/ — sounds like **rez-i-DEN-shuhl STAY-tuhs** | /ˌrez.ɪˈden.ʃəl ˈsteɪ.təs/ — sounds like **rez-i-DEN-shuhl STAY-tuhs**
-433. AMEP(Adult Migrant English Program) | 成人移民英语计划 | /ˈeɪ.mep(əˈdʌlt ˈmaɪ.ɡrənt ˈɪŋ.ɡlɪʃ ˈproʊ.ɡræm)/ — sounds like **AY-mep(uh-DUHLT MY-gruhnt ING-glish PROH-gram)** | /ˈeɪ.mep(əˈdʌlt ˈmaɪ.ɡrənt ˈɪŋ.ɡlɪʃ ˈproʊ.ɡræm)/ — sounds like **AY-mep(uh-DUHLT MY-gruhnt ING-glish PROH-gram)**
-434. NOOSR(the National Office of Overseas Skills Recognition) | 全国海外技能认可处 | /ˈnuː.sər(ðə ˈnæʃ.ə.nəl ˈɒf.ɪs ʌv ˌoʊ.vərˈsiːz skɪlz ˌrek.əɡˈnɪ.ʃən)/ — sounds like **NOO-ser(thuh NASH-uh-nuhl OF-is UHV OH-ver-SEEZ SKILZ rek-uhg-NISH-uhn)** | /ˈnuː.sər(ðə ˈnæʃ.ə.nəl ˈɑː.fɪs ʌv ˌoʊ.vərˈsiːz skɪlz ˌrek.əɡˈnɪ.ʃən)/ — sounds like **NOO-ser(thuh NASH-uh-nuhl AH-fis UHV OH-ver-SEEZ SKILZ rek-uhg-NISH-uhn)**
+<!-- 433. AMEP | 成人移民英语计划 | /ˈeɪ.mep/ — sounds like **AY-mep** | /ˈeɪ.mep/ — sounds like **AY-mep** -->
+433. Adult Migrant English Program | 成人移民英语计划 | /əˈdʌlt ˈmaɪ.ɡrənt ˈɪŋ.ɡlɪʃ ˈproʊ.ɡræm/ — sounds like **uh-DUHLT MY-gruhnt ING-glish PROH-gram** | /əˈdʌlt ˈmaɪ.ɡrənt ˈɪŋ.ɡlɪʃ ˈproʊ.ɡræm/ — sounds like **uh-DUHLT MY-gruhnt ING-glish PROH-gram**
+<!-- 434. NOOSR | 全国海外技能认可处 | /ˈnuː.sər/ — sounds like **NOO-ser** | /ˈnuː.sər/ — sounds like **NOO-ser** -->
+434. The National Office of Overseas Skills Recognition | 全国海外技能认可处 | /ðə ˈnæʃ.ə.nəl ˈɒf.ɪs ʌv ˌoʊ.vərˈsiːz skɪlz ˌrek.əɡˈnɪ.ʃən/ — sounds like **thuh NASH-uh-nuhl OF-is UHV OH-ver-SEEZ SKILZ rek-uhg-NISH-uhn** | /ðə ˈnæʃ.ə.nəl ˈɑː.fɪs ʌv ˌoʊ.vərˈsiːz skɪlz ˌrek.əɡˈnɪ.ʃən/ — sounds like **thuh NASH-uh-nuhl AH-fis UHV OH-ver-SEEZ SKILZ rek-uhg-NISH-uhn**
 435. Workplace relationship | 劳资关系 | /ˈwɜːrk.pleɪs/ɪmˈplɔɪ.mənt rɪˈleɪ.ʃən.ʃɪp/ — sounds like **WURK-plays/im-PLOY-muhnt ri-LAY-shuhn-ship** | /ˈwɜːrk.pleɪs/ɪmˈplɔɪ.mənt rɪˈleɪ.ʃən.ʃɪp/ — sounds like **WURK-plays/im-PLOY-muhnt ri-LAY-shuhn-ship**
 435. Employment relationship | 劳资关系 | /ˈwɜːrk.pleɪs/ɪmˈplɔɪ.mənt rɪˈleɪ.ʃən.ʃɪp/ — sounds like **WURK-plays/im-PLOY-muhnt ri-LAY-shuhn-ship** | /ˈwɜːrk.pleɪs/ɪmˈplɔɪ.mənt rɪˈleɪ.ʃən.ʃɪp/ — sounds like **WURK-plays/im-PLOY-muhnt ri-LAY-shuhn-ship**
 436. Maternity leave | 产假 | /məˈtɜːr.nɪ.ti liːv/ — sounds like **muh-TUR-ni-ti LEEV** | /məˈtɜːr.nɪ.ti liːv/ — sounds like **muh-TUR-ni-ti LEEV**
@@ -532,7 +545,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 474. Bridging training | 过渡培训，衔接培训 | /ˈbrɪdʒ.ɪŋ ˈtreɪ.nɪŋ/ — sounds like **BRIJ-ing TRAY-ning** | /ˈbrɪdʒ.ɪŋ ˈtreɪ.nɪŋ/ — sounds like **BRIJ-ing TRAY-ning**
 475. Off-the-job training | 脱产培训 | /ɒf ðə dʒɒb ˈtreɪ.nɪŋ/ — sounds like **OF thuh JOB TRAY-ning** | /ɑːf ðə dʒɑːb ˈtreɪ.nɪŋ/ — sounds like **AHF thuh JAHB TRAY-ning**
 476. On-the-job training | 在职培训 | /ɒn ðə dʒɒb ˈtreɪ.nɪŋ/ — sounds like **ON thuh JOB TRAY-ning** | /ɑːn ðə dʒɑːb ˈtreɪ.nɪŋ/ — sounds like **AHN thuh JAHB TRAY-ning**
-477. ATO(Australian Taxation Office) | 澳大利亚税务局 | /ˈeɪ.ti.oʊ(ɒˈstreɪ.li.ən tækˈseɪ.ʃən ˈɒf.ɪs)/ — sounds like **AY-ti-oh(os-TRAY-li-uhn tak-SAY-shuhn OF-is)** | /ˈeɪ.ti.oʊ(ɑːˈstreɪ.li.ən tækˈseɪ.ʃən ˈɑː.fɪs)/ — sounds like **AY-ti-oh(ah-STRAY-li-uhn tak-SAY-shuhn AH-fis)**
+<!-- 477. ATO | 澳大利亚税务局 | /ˈeɪ.ti.oʊ/ — sounds like **AY-ti-oh** | /ˈeɪ.ti.oʊ/ — sounds like **AY-ti-oh** -->
+477. Australian Taxation Office | 澳大利亚税务局 | /ɒˈstreɪ.li.ən tækˈseɪ.ʃən ˈɒf.ɪs/ — sounds like **os-TRAY-li-uhn tak-SAY-shuhn OF-is** | /ɑːˈstreɪ.li.ən tækˈseɪ.ʃən ˈɑː.fɪs/ — sounds like **ah-STRAY-li-uhn tak-SAY-shuhn AH-fis**
 478. A statutory declaration | 法定声明 | /ə ˈstætʃ.u.tɔːr.i ˌdek.ləˈreɪ.ʃən/ — sounds like **uh STACH-oo-tawr-i dek-luh-RAY-shuhn** | /ə ˈstætʃ.u.tɔːr.i ˌdek.ləˈreɪ.ʃən/ — sounds like **uh STACH-oo-tawr-i dek-luh-RAY-shuhn**
 479. A tax assessment notice | 税额评估通知 | /ə tæks əˈses.mənt ˈnoʊ.tɪs/ — sounds like **uh TAKS uh-SES-muhnt NOH-tis** | /ə tæks əˈses.mənt ˈnoʊ.tɪs/ — sounds like **uh TAKS uh-SES-muhnt NOH-tis**
 480. Income statement | 收入证明 | /ˈɪn.kʌm ˈsteɪt.mənt/ — sounds like **IN-kuhm STAYT-muhnt** | /ˈɪn.kʌm ˈsteɪt.mənt/ — sounds like **IN-kuhm STAYT-muhnt**
@@ -621,7 +635,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 546. Coalition | 联盟党 | /ˌkoʊ.əˈlɪ.ʃən/ — sounds like **koh-uh-LISH-uhn** | /ˌkoʊ.əˈlɪ.ʃən/ — sounds like **koh-uh-LISH-uhn**
 547. Palmer United Party | 帕尔默联合党 | /ˈpɑːl.mər juˈnaɪ.tɪd ˈpɑːr.ti/ — sounds like **PAHL-mer yoo-NY-tid PAHR-ti** | /ˈpɑːl.mər juˈnaɪ.tɪd ˈpɑːr.ti/ — sounds like **PAHL-mer yoo-NY-tid PAHR-ti**
 548. Absent voting | 缺席投票 | /ˈæb.sənt ˈvoʊ.tɪŋ/ — sounds like **AB-suhnt VOH-ting** | /ˈæb.sənt ˈvoʊ.tɪŋ/ — sounds like **AB-suhnt VOH-ting**
-549. AEC(Australian Electoral Commission) | 澳大利亚选举委员会 | /eɪ.iː.siː(ɒˈstreɪ.li.ən ɪˈlek.tər.əl kəˈmɪ.ʃən)/ — sounds like **AY-EE-SEE(os-TRAY-li-uhn i-LEK-tuh-ruhl kuh-MISH-uhn)** | /eɪ.iː.siː(ɑːˈstreɪ.li.ən ɪˈlek.tər.əl kəˈmɪ.ʃən)/ — sounds like **AY-EE-SEE(ah-STRAY-li-uhn i-LEK-tuh-ruhl kuh-MISH-uhn)**
+<!-- 549. AEC | 澳大利亚选举委员会 | /eɪ.iː.siː/ — sounds like **AY-EE-SEE** | /eɪ.iː.siː/ — sounds like **AY-EE-SEE** -->
+549. Australian Electoral Commission | 澳大利亚选举委员会 | /ɒˈstreɪ.li.ən ɪˈlek.tər.əl kəˈmɪ.ʃən/ — sounds like **os-TRAY-li-uhn i-LEK-tuh-ruhl kuh-MISH-uhn** | /ɑːˈstreɪ.li.ən ɪˈlek.tər.əl kəˈmɪ.ʃən/ — sounds like **ah-STRAY-li-uhn i-LEK-tuh-ruhl kuh-MISH-uhn**
 550. Ballot box | 投票箱 | /ˈbæl.ət bɒks/ — sounds like **BAL-uht BOKS** | /ˈbæl.ət bɑːks/ — sounds like **BAL-uht BAHKS**
 551. Ballot paper | 选票 | /ˈbæl.ət ˈpeɪ.pər/ — sounds like **BAL-uht PAY-per** | /ˈbæl.ət ˈpeɪ.pər/ — sounds like **BAL-uht PAY-per**
 552. By-election | 补缺选举 | /baɪ ɪˈlek.ʃən/ — sounds like **BY i-LEK-shuhn** | /baɪ ɪˈlek.ʃən/ — sounds like **BY i-LEK-shuhn**
@@ -767,7 +782,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 683. Unrepresented | 无法律代理的 | /ˌʌnˌrep.rɪˈzen.tɪd/ — sounds like **un-rep-ri-ZEN-tid** | /ˌʌnˌrep.rɪˈzen.tɪd/ — sounds like **un-rep-ri-ZEN-tid**
 684. Verdict | 裁决 | /ˈvɜːr.dɪkt/ — sounds like **VUR-dikt** | /ˈvɜːr.dɪkt/ — sounds like **VUR-dikt**
 685. Tribunal | 仲裁庭 | /traɪˈbjuː.nəl/ — sounds like **try-BYOO-nuhl** | /traɪˈbjuː.nəl/ — sounds like **try-BYOO-nuhl**
-686. VCAT(Victorian Civil and Administrative Tribunal) | 维多利亚民事与行政仲裁庭 | /ˈviː.kæt(ˌvɪkˈtɔːr.i.ən ˈsɪv.əl ænd ədˌmɪn.ɪsˈtreɪ.tɪv traɪˈbjuː.nəl)/ — sounds like **VEE-cat (vik-TOR-ee-uhn SIV-uhl and uhd-MIN-is-TRAY-tiv try-BYOO-nuhl)** | /ˈviː.kæt(ˌvɪkˈtɔːr.i.ən ˈsɪv.əl ænd ədˌmɪn.ɪsˈtreɪ.tɪv traɪˈbjuː.nəl)/ — sounds like **VEE-cat (vik-TOR-ee-uhn SIV-uhl and uhd-MIN-is-TRAY-tiv try-BYOO-nuhl)**
+<!-- 686. VCAT | 维多利亚民事与行政仲裁庭 | /ˈviː.kæt/ — sounds like **VEE-cat** | /ˈviː.kæt/ — sounds like **VEE-cat** -->
+686. Victorian Civil and Administrative Tribunal | 维多利亚民事与行政仲裁庭 | /ˌvɪkˈtɔːr.i.ən ˈsɪv.əl ænd ədˌmɪn.ɪsˈtreɪ.tɪv traɪˈbjuː.nəl/ — sounds like **vik-TOR-ee-uhn SIV-uhl and uhd-MIN-is-TRAY-tiv try-BYOO-nuhl** | /ˌvɪkˈtɔːr.i.ən ˈsɪv.əl ænd ədˌmɪn.ɪsˈtreɪ.tɪv traɪˈbjuː.nəl/ — sounds like **vik-TOR-ee-uhn SIV-uhl and uhd-MIN-is-TRAY-tiv try-BYOO-nuhl**
 <!-- 687. MRT | 移民复议仲裁庭 | /ˌem.ɑːrˈtiː/ — sounds like **em-ar-TEE** | /ˌem.ɑːrˈtiː/ — sounds like **em-ar-TEE** -->
 687. Migration Review Tribunal | 移民复议仲裁庭 | /ˈmaɪ.ɡreɪ.ʃən rɪˈvjuː traɪˈbjuː.nəl/ — sounds like **my-GRAY-shun ri-VYOO try-BYOO-nuhl** | /ˈmaɪ.ɡreɪ.ʃən rɪˈvjuː traɪˈbjuː.nəl/ — sounds like **my-GRAY-shun ri-VYOO try-BYOO-nuhl**
 688. Mediation | 调解 | /ˌmiː.diˈeɪ.ʃən/ — sounds like **MEE-dee-AY-shuhn** | /ˌmiː.diˈeɪ.ʃən/ — sounds like **MEE-dee-AY-shuhn**
@@ -1011,7 +1027,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 905. Commission | 佣金 | /kəˈmɪʃ.ən/ — sounds like **kuh-MISH-uhn** | /kəˈmɪʃ.ən/ — sounds like **kuh-MISH-uhn**
 906. Payslip | 工资单 | /ˈpeɪ.slɪp/ — sounds like **PAY-slip** | /ˈpeɪ.slɪp/ — sounds like **PAY-slip**
 907. Remuneration | 报酬 | /rɪˌmjuː.nəˈreɪ.ʃən/ — sounds like **ri-myoo-nuh-RAY-shuhn** | /rɪˌmjuː.nəˈreɪ.ʃən/ — sounds like **ri-myoo-nuh-RAY-shuhn**
-908. PAYG(Pay as you go) | 所得税预扣，随赚随付预扣税款 | /peɪ eɪ waɪ dʒiː (peɪ æz juː ɡəʊ)/ — sounds like **PAY AY WY JEE (PAY AZ YOO GOH)** | /peɪ eɪ waɪ dʒiː (peɪ æz juː ɡoʊ)/ — sounds like **PAY AY WY JEE (PAY AZ YOO GOH)**
+<!-- 908. PAYG | 所得税预扣，随赚随付预扣税款 | /peɪ eɪ waɪ dʒiː/ — sounds like **PAY AY WY JEE** | /peɪ eɪ waɪ dʒiː/ — sounds like **PAY AY WY JEE** -->
+908. Pay as you go | 所得税预扣，随赚随付预扣税款 | /peɪ æz juː ɡəʊ/ — sounds like **PAY AZ YOO GOH** | /peɪ æz juː ɡoʊ/ — sounds like **PAY AZ YOO GOH**
 909. Payment summary | （雇主发的）付款总结 | /ˈpeɪ.mənt ˈsʌm.ər.i/ — sounds like **PAY-muhnt SUM-ur-i** | /ˈpeɪ.mənt ˈsʌm.ər.i/ — sounds like **PAY-muhnt SUM-ur-i**
 910. Compassionate leave | 事假 | /kəmˈpæʃ.ən.ət liːv/ — sounds like **kuhm-PASH-uhn-uht LEEV** | /kəmˈpæʃ.ən.ət liːv/ — sounds like **kuhm-PASH-uhn-uht LEEV**
 911. Sick leave | 病假 | /sɪk liːv/ — sounds like **SIK LEEV** | /sɪk liːv/ — sounds like **SIK LEEV**
@@ -1129,8 +1146,10 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 1016. Chiropractor | 脊椎按摩师 | /ˈkaɪ.rə.præk.tər/ — sounds like **KY-ruh-prak-tur** | /ˈkaɪ.rə.præk.tɚ/ — sounds like **KY-ruh-prak-tur**
 1017. Dietician | 饮食专家，营养专家 | /ˌdaɪ.əˈtɪʃ.ən/ — sounds like **dy-uh-TISH-uhn** | /ˌdaɪ.əˈtɪʃ.ən/ — sounds like **dy-uh-TISH-uhn**
 1018. Dermatologist | 皮肤病医生 | /ˌdɜː.məˈtɒl.ə.dʒɪst/ — sounds like **dur-muh-TOL-uh-jist** | /ˌdɝː.məˈtɑː.lə.dʒɪst/ — sounds like **dur-muh-TAH-luh-jist**
-1019. ENT(ear, nose and throat) specialist | 耳鼻喉科医生 | /iː en tiː (ɪər nəʊz ænd θrəʊt) ˈspeʃ.ə.lɪst/ — sounds like **EE EN TEE EAR NOHZ and THROHT SPESH-uh-list** | /i en ti (ɪr noʊz ænd θroʊt) ˈspeʃ.ə.lɪst/ — sounds like **EE EN TEE EAR NOHZ and THROHT SPESH-uh-list**
-1019. ENT(ear, nose and throat) surgeon | 耳鼻喉科医生 | /iː en tiː (ɪər nəʊz ænd θrəʊt) ˈsɜː.dʒən/ — sounds like **EE EN TEE EAR NOHZ and THROHT SUR-juhn** | /i en ti (ɪr noʊz ænd θroʊt) ˈsɜːr.dʒən/ — sounds like **EE EN TEE EAR NOHZ and THROHT SUR-juhn**
+<!-- 1019. ENT | 耳鼻喉科医生 | /iː en tiː/ — sounds like **EE EN TEE** | /i en ti/ — sounds like **EE EN TEE** -->
+1019. Ear, nose and throat specialist | 耳鼻喉科医生 | /ɪər nəʊz ænd θrəʊt ˈspeʃ.ə.lɪst/ — sounds like **EAR NOHZ and THROHT SPESH-uh-list** | /ɪr noʊz ænd θroʊt ˈspeʃ.ə.lɪst/ — sounds like **EAR NOHZ and THROHT SPESH-uh-list**
+<!-- 1019. ENT | 耳鼻喉科医生 | /iː en tiː/ — sounds like **EE EN TEE** | /i en ti/ — sounds like **EE EN TEE** -->
+1019. Ear, nose and throat surgeon | 耳鼻喉科医生 | /ɪər nəʊz ænd θrəʊt ˈsɜː.dʒən/ — sounds like **EAR NOHZ and THROHT SUR-juhn** | /ɪr noʊz ænd θroʊt ˈsɜːr.dʒən/ — sounds like **EAR NOHZ and THROHT SUR-juhn**
 1020. Gerontologist | 老年学专家 | /ˌdʒer.ənˈtɒl.ə.dʒɪst/ — sounds like **jer-uhn-TOL-uh-jist** | /ˌdʒer.ənˈtɑː.lə.dʒɪst/ — sounds like **jer-uhn-TAH-luh-jist**
 1021. Gynaecologist | 妇科医生 | /ˌɡaɪ.nɪˈkɒl.ə.dʒɪst/ — sounds like **gy-ni-KOL-uh-jist** | /ˌɡaɪ.nəˈkɑːl.ə.dʒɪst/ — sounds like **gy-nuh-KAHL-uh-jist**
 1022. GP(general practitioner) | 全科医生，家庭医生 | /dʒiː piː (ˈdʒen.ər.əl prækˈtɪʃ.ən.ər)/ — sounds like **JEE PEE JEN-ur-uhl prak-TISH-uhn-ur** | /dʒi pi (ˈdʒen.ər.əl prækˈtɪʃ.ən.ər)/ — sounds like **JEE PEE JEN-ur-uhl prak-TISH-uhn-ur**
@@ -1162,9 +1181,11 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 1044. Speech therapist | 语言矫正师，语言治疗师 | /spiːtʃ ˈθer.ə.pɪst/ — sounds like **SPEECH THER-uh-pist** | /spiːtʃ ˈθer.ə.pɪst/ — sounds like **SPEECH THER-uh-pist**
 1045. Medicare | 全民医疗保险 | /ˈmed.ɪ.keər/ — sounds like **MED-i-kair** | /ˈmed.ɪ.ker/ — sounds like **MED-i-kair**
 1046. CT(computer tomography) scan | 计算机扫描 | /siː tiː (kəmˈpjuː.tər təˈmɒɡ.rə.fi) skæn/ — sounds like **SEE TEE (kuhm-PYOO-tur tuh-MOG-ruh-fi) SKAN** | /siː tiː (kəmˈpjuː.tər təˈmɑː.ɡrə.fi) skæn/ — sounds like **SEE TEE (kuhm-PYOO-tur tuh-MAH-gruh-fi) SKAN**
-1047. MRI(magnetic resonance imaging) | 核磁共振 | /ˈem ɑːr ˈaɪ (mæɡˈnet.ɪk ˈrez.ən.əns ˈɪm.ɪ.dʒɪŋ)/ — sounds like **EM ahr EYE mag-NET-ik REZ-uhn-uhns IM-ih-jing** | /ˈem ɑːr ˈaɪ (mæɡˈnet.ɪk ˈrez.ən.əns ˈɪm.ɪ.dʒɪŋ)/ — sounds like **EM ahr EYE mag-NET-ik REZ-uhn-uhns IM-ih-jing**
+<!-- 1047. MRI | 核磁共振 | /ˈem ɑːr ˈaɪ/ — sounds like **EM ahr EYE** | /ˈem ɑːr ˈaɪ/ — sounds like **EM ahr EYE** -->
+1047. Magnetic resonance imaging | 核磁共振 | /mæɡˈnet.ɪk ˈrez.ən.əns ˈɪm.ɪ.dʒɪŋ/ — sounds like **mag-NET-ik REZ-uhn-uhns IM-ih-jing** | /mæɡˈnet.ɪk ˈrez.ən.əns ˈɪm.ɪ.dʒɪŋ/ — sounds like **mag-NET-ik REZ-uhn-uhns IM-ih-jing**
 1048. Radiography | X射线拍片 | /ˌreɪ.di.ˈɒɡ.rə.fi/ — sounds like **ray-dee-OG-ruh-fee** | /ˌreɪ.di.ˈɑːɡ.rə.fi/ — sounds like **ray-dee-AHG-ruh-fee**
-1049. ECG(electrocardiogram) | 心电图 | /ˌiː.siːˈdʒiː (ɪˌlek.troʊˈkɑːr.di.ə.ɡræm)/ — sounds like **EE-see-JEE (ih-lek-troh-KAHR-dee-uh-gram)** | /ˌiː.siːˈdʒiː (ɪˌlek.troʊˈkɑːr.di.ə.ɡræm)/ — sounds like **EE-see-JEE (ih-lek-troh-KAHR-dee-uh-gram)**
+<!-- 1049. ECG | 心电图 | /ˌiː.siːˈdʒiː/ — sounds like **EE-see-JEE** | /ˌiː.siːˈdʒiː/ — sounds like **EE-see-JEE** -->
+1049. Electrocardiogram | 心电图 | /ɪˌlek.troʊˈkɑːr.di.ə.ɡræm/ — sounds like **ih-lek-troh-KAHR-dee-uh-gram** | /ɪˌlek.troʊˈkɑːr.di.ə.ɡræm/ — sounds like **ih-lek-troh-KAHR-dee-uh-gram**
 1050. Ultrasound scanning | 超声波扫描 | /ˈʌl.trə.saʊnd ˈskæn.ɪŋ/ — sounds like **UHL-truh-sownd SKAN-ing** | /ˈʌl.trə.saʊnd ˈskæn.ɪŋ/ — sounds like **UHL-truh-sownd SKAN-ing**
 1051. Genetic testing | 基因测定 | /dʒəˈnet.ɪk ˈtest.ɪŋ/ — sounds like **juh-NET-ik TEST-ing** | /dʒəˈnet.ɪk ˈtest.ɪŋ/ — sounds like **juh-NET-ik TEST-ing**
 1052. Get a referral | 转诊 | /ɡet ə rɪˈfɜː.rəl/ — sounds like **GET uh ri-FUR-uhl** | /ɡet ə rɪˈfɝː.əl/ — sounds like **GET uh ri-FUR-uhl**
@@ -1177,7 +1198,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 1059. A good prognosis | 预后良好 | //æ/ g/ɒ/od prognos/ɪ/s/ — sounds like **A GOOD PROGNOSIS** | //æ/ g/ɒ/od prognos/ɪ/s/ — sounds like **A GOOD PROGNOSIS**
 1060. Chapel | 殡仪馆，殡仪室 | /ˈtʃæp.əl/ — sounds like **CHAP-uhl** | /ˈtʃæp.əl/ — sounds like **CHAP-uhl**
 1061. Emergency department | 急诊室，急诊部 | /ɪˈmɜː.dʒən.si dɪˈpɑːt.mənt/ — sounds like **ih-MUR-juhn-see di-PAHRT-muhnt** | /ɪˈmɜːr.dʒən.si dɪˈpɑːrt.mənt/ — sounds like **ih-MUR-juhn-see di-PAHRT-muhnt**
-1062. ICU(intensive care unit) | 特别护理病房，重症监护室，加护病房 | /ˈaɪ siː juː (ɪnˈten.sɪv keər ˈjuː.nɪt)/ — sounds like **EYE see YOO in-TEN-siv kair YOO-nit** | /ˈaɪ si yu (ɪnˈten.sɪv ker ˈyu.nɪt)/ — sounds like **EYE see YOO in-TEN-siv kair YOO-nit**
+<!-- 1062. ICU | 特别护理病房，重症监护室，加护病房 | /ˈaɪ siː juː/ — sounds like **EYE see YOO** | /ˈaɪ si yu/ — sounds like **EYE see YOO** -->
+1062. Intensive care unit | 特别护理病房，重症监护室，加护病房 | /ɪnˈten.sɪv keər ˈjuː.nɪt/ — sounds like **in-TEN-siv kair YOO-nit** | /ɪnˈten.sɪv ker ˈyu.nɪt/ — sounds like **in-TEN-siv kair YOO-nit**
 1063. Nursing home | 养老院 | /ˈnɜː.sɪŋ həʊm/ — sounds like **NUR-sing HOHM** | /ˈnɜːr.sɪŋ hoʊm/ — sounds like **NUR-sing HOHM**
 1064. Operating room | 手术室 | /ˈɒp.ər.ət.ɪŋ ruːm/ — sounds like **OP-ur-ayt-ing ROOM** | /ˈɑː.pər.ət.ɪŋ ruːm/ — sounds like **AH-pur-ayt-ing ROOM**
 1064. Operating theatre | 手术室 | /ˈɒp.ər.ət.ɪŋ ˈθɪ.ə.tər/ — sounds like **OP-ur-ayt-ing THEE-uh-tur** | /ˈɑː.pər.ət.ɪŋ ˈθiː.ə.tər/ — sounds like **AH-pur-ayt-ing THEE-uh-tur**
@@ -1231,7 +1253,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 1106. Piss | 尿，小便 | /pɪs/ — sounds like **PIS** | /pɪs/ — sounds like **PIS**
 1107. Insulin | 胰岛素 | /ˈɪn.sjʊ.lɪn/ — sounds like **IN-soo-lin** | /ˈɪn.sə.lɪn/ — sounds like **IN-suh-lin**
 1108. Organ | 器官 | /ˈɔː.ɡən/ — sounds like **AWR-guhn** | /ˈɔːr.ɡən/ — sounds like **AWR-guhn**
-1109. BMI(body mass index) | 身高体重指数 | /biː.em.ˈaɪ (ˈbɒd.i mæs ˈɪn.deks)/ — sounds like **BEE-em-AY (BOD-i MAS IN-deks)** | /biː.em.ˈaɪ (ˈbɑː.di mæs ˈɪn.deks)/ — sounds like **BEE-em-AY (BAH-di MAS IN-deks)**
+<!-- 1109. BMI | 身高体重指数 | /biː.em.ˈaɪ/ — sounds like **BEE-em-AY** | /biː.em.ˈaɪ/ — sounds like **BEE-em-AY** -->
+1109. Body mass index | 身高体重指数 | /ˈbɒd.i mæs ˈɪn.deks/ — sounds like **BOD-i MAS IN-deks** | /ˈbɑː.di mæs ˈɪn.deks/ — sounds like **BAH-di MAS IN-deks**
 1110. Pulse | 脉搏 | /pʌls/ — sounds like **PUHLS** | /pʌls/ — sounds like **PUHLS**
 1111. Heart rate | 心跳 | /hɑːt reɪt/ — sounds like **HAHRT RAYT** | /hɑːrt reɪt/ — sounds like **HAHRT RAYT**
 1112. Metabolism | 新陈代谢 | /məˈtæb.ə.lɪ.zəm/ — sounds like **muh-TAB-uh-li-zuhm** | /məˈtæb.ə.lɪ.zəm/ — sounds like **muh-TAB-uh-li-zuhm**
@@ -1247,7 +1270,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 1122. Obesity | 肥胖症 | /əʊˈbiː.sə.ti/ — sounds like **oh-BEE-suh-ti** | /oʊˈbiː.sə.ti/ — sounds like **oh-BEE-suh-ti**
 1123. Overweight | 体重过重 | /ˌəʊ.vəˈweɪt/ — sounds like **OH-vuh-WAYT** | /ˌoʊ.vərˈweɪt/ — sounds like **OH-vur-WAYT**
 1124. Personal hygiene | 个人卫生 | /ˈpɜː.sən.əl ˈhaɪ.dʒiːn/ — sounds like **PUR-suhn-uhl HY-jeen** | /ˈpɜːr.sən.əl ˈhaɪ.dʒiːn/ — sounds like **PUR-suhn-uhl HY-jeen**
-1125. RSI(repetitive strain injury) | 重复性劳损 | /ɑːr.es.ˈaɪ (rɪˈpet.ɪ.tɪv streɪn ˈɪn.dʒər.i)/ — sounds like **AHR-es-AY (ri-PET-i-tiv STRAYN IN-juh-ree)** | /ɑːr.es.ˈaɪ (rɪˈpet.ɪ.tɪv streɪn ˈɪn.dʒər.i)/ — sounds like **AHR-es-AY (ri-PET-i-tiv STRAYN IN-juh-ree)**
+<!-- 1125. RSI | 重复性劳损 | /ɑːr.es.ˈaɪ/ — sounds like **AHR-es-AY** | /ɑːr.es.ˈaɪ/ — sounds like **AHR-es-AY** -->
+1125. Repetitive strain injury | 重复性劳损 | /rɪˈpet.ɪ.tɪv streɪn ˈɪn.dʒər.i/ — sounds like **ri-PET-i-tiv STRAYN IN-juh-ree** | /rɪˈpet.ɪ.tɪv streɪn ˈɪn.dʒər.i/ — sounds like **ri-PET-i-tiv STRAYN IN-juh-ree**
 1126. Resistance | 抵抗力，抗病能力 | /rɪˈzɪs.təns/ — sounds like **ri-ZIS-tuhns** | /rɪˈzɪs.təns/ — sounds like **ri-ZIS-tuhns**
 1127. Sedentary work | 久坐工作，案头工作 | /ˈsed.ən.tər.i wɜːk/ — sounds like **SED-uhn-tur-i WURK** | /ˈsed.ən.ter.i wɜːrk/ — sounds like **SED-uhn-ter-i WURK**
 1128. Diet regime | 饮食计划 | /ˈdaɪ.ət rɛˈʒiːm/ — sounds like **DY-uht reh-ZHEEM** | /ˈdaɪ.ət rɛˈʒiːm/ — sounds like **DY-uht reh-ZHEEM**
@@ -1365,7 +1389,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 1236. A defect | 缺陷 | /ə ˈdiː.fekt/ — sounds like **uh DEE-fekt** | /ə dɪˈfekt/ — sounds like **uh di-FEKT**
 1237. A hereditary condition | 遗传病 | /ə həˈred.ɪ.tər.i kənˈdɪʃ.ən/ — sounds like **uh huh-RED-ih-ter-ee kuhn-DISH-uhn** | /ə həˈred.ɪ.ter.i kənˈdɪʃ.ən/ — sounds like **uh huh-RED-ih-ter-ee kuhn-DISH-uhn**
 1238. Family history | 家族病史 | /f/æ/m/ɪ/ly hist/ɒ/ry/ — sounds like **FAMILY HISTORY** | /f/æ/m/ɪ/ly hist/ɒ/ry/ — sounds like **FAMILY HISTORY**
-1239. ADHD(Attention Deficit Hyperactivity Disorder) | 多动症 | /ˈeɪ dɪː eɪtʃ ˈdiː (əˈten.ʃən ˈdef.ɪ.sɪt ˌhaɪ.pərækˈtɪv.ɪ.ti dɪsˈɔːr.dər)/ — sounds like **AY-dee-aych-DEE uh-TEN-shuhn DEF-ih-sit hy-pur-ak-TIV-ih-tee dis-AWR-dur** | /ˈeɪ di eɪtʃ di (əˈten.ʃən ˈdef.ɪ.sɪt ˌhaɪ.pərækˈtɪv.ɪ.ti dɪsˈɔːr.dər)/ — sounds like **AY-dee-aych-DEE uh-TEN-shuhn DEF-ih-sit hy-pur-ak-TIV-ih-tee dis-AWR-dur**
+<!-- 1239. ADHD | 多动症 | /ˈeɪ dɪː eɪtʃ ˈdiː/ — sounds like **AY-dee-aych-DEE** | /ˈeɪ di eɪtʃ di/ — sounds like **AY-dee-aych-DEE** -->
+1239. Attention Deficit Hyperactivity Disorder | 多动症 | /əˈten.ʃən ˈdef.ɪ.sɪt ˌhaɪ.pərækˈtɪv.ɪ.ti dɪsˈɔːr.dər/ — sounds like **uh-TEN-shuhn DEF-ih-sit hy-pur-ak-TIV-ih-tee dis-AWR-dur** | /əˈten.ʃən ˈdef.ɪ.sɪt ˌhaɪ.pərækˈtɪv.ɪ.ti dɪsˈɔːr.dər/ — sounds like **uh-TEN-shuhn DEF-ih-sit hy-pur-ak-TIV-ih-tee dis-AWR-dur**
 1240. Alzheimer's disease | 阿尔茨海默症 | /ˈælts.haɪ.mərz dɪˈziːz/ — sounds like **ALTS-hy-murz di-ZEEZ** | /ˈælts.haɪ.mɚz dɪˈziːz/ — sounds like **ALTS-hy-murz di-ZEEZ**
 1241. Dementia | 痴呆症 | /dɪˈmen.ʃə/ — sounds like **di-MEN-shuh** | /dɪˈmen.ʃə/ — sounds like **di-MEN-shuh**
 1242. Anorexia nervosa | 神经性厌食症 | /ˌæn.əˈrek.si.ə nɜːˈvəʊ.sə/ — sounds like **an-uh-REK-see-uh nur-VOH-suh** | /ˌæn.əˈrek.si.ə nɜːrˈvoʊ.sə/ — sounds like **an-uh-REK-see-uh nur-VOH-suh**
@@ -1413,7 +1438,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 1284. Meningitis | 脑膜炎 | /ˌmen.ɪŋˈdʒaɪ.tɪs/ — sounds like **men-in-JY-tis** | /ˌmen.ɪŋˈdʒaɪ.tɪs/ — sounds like **men-in-JY-tis**
 1285. Measles | 麻疹 | /ˈmiː.zəlz/ — sounds like **MEE-zuhlz** | /ˈmiː.zəlz/ — sounds like **MEE-zuhlz**
 1286. Mumps | 流行性腮腺炎 | /m/ʌ/mps/ — sounds like **MUMPS** | /m/ʌ/mps/ — sounds like **MUMPS**
-1287. OCD(obsessive-compulsive disorder) | 强迫症 | /ˌəʊ.siːˈdiː (əbˌses.ɪv kəmˈpʌl.sɪv dɪsˈɔː.dər)/ — sounds like **OH-see-DEE uhb-SES-iv kuhm-PUL-siv dis-OR-dur** | /ˌoʊ.siːˈdiː (əbˌses.ɪv kəmˈpʌl.sɪv dɪsˈɔːr.dər)/ — sounds like **OH-see-DEE uhb-SES-iv kuhm-PUL-siv dis-OR-dur**
+<!-- 1287. OCD | 强迫症 | /ˌəʊ.siːˈdiː/ — sounds like **OH-see-DEE** | /ˌoʊ.siːˈdiː/ — sounds like **OH-see-DEE** -->
+1287. Obsessive-compulsive disorder | 强迫症 | /əbˌses.ɪv kəmˈpʌl.sɪv dɪsˈɔː.dər/ — sounds like **uhb-SES-iv kuhm-PUL-siv dis-OR-dur** | /əbˌses.ɪv kəmˈpʌl.sɪv dɪsˈɔːr.dər/ — sounds like **uhb-SES-iv kuhm-PUL-siv dis-OR-dur**
 1288. Osteoporosis | 骨质疏松症 | /ˌɒs.ti.əʊ.pəˈrəʊ.sɪs/ — sounds like **os-tee-oh-puh-ROH-sis** | /ˌɑːs.ti.oʊ.pəˈroʊ.sɪs/ — sounds like **ahs-tee-oh-puh-ROH-sis**
 1289. Overdose | 药物过量 | /ˈəʊ.və.dəʊs/ — sounds like **OH-vur-dohs** | /ˈoʊ.vər.doʊs/ — sounds like **OH-vur-dohs**
 1290. Pneumonia | 肺炎 | /njuːˈməʊ.ni.ə/ — sounds like **nyoo-MOHN-ee-uh** | /nuːˈmoʊ.ni.ə/ — sounds like **noo-MOHN-ee-uh**
@@ -1462,7 +1488,8 @@ This file contains English-Chinese word/phrase pairs for education terminology, 
 1331. Capsule | 胶囊 | /ˈkæp.sjuːl/ — sounds like **KAP-syool** | /ˈkæp.səl/ — sounds like **KAP-suhl**
 1332. Ointment | 药膏 | /ˈɔɪnt.mənt/ — sounds like **OYNT-muhnt** | /ˈɔɪnt.mənt/ — sounds like **OYNT-muhnt**
 1333. A plaster | 石膏 | /ə ˈplɑː.stər/ — sounds like **uh PLAH-stur** | /ə ˈplæs.tər/ — sounds like **uh PLAS-tur**
-1334. OTC(over-the-counter) drugs | 非处方药 | /ˌəʊ tiː ˈsiː (ˈəʊ.vər ðə ˈkaʊn.tər) drʌɡz/ — sounds like **OH tee SEE OH-vur thuh KOWN-tur druhgz** | /ˌoʊ ti ˈsi (ˈoʊ.vər ðə ˈkaʊn.tər) drʌɡz/ — sounds like **OH tee SEE OH-vur thuh KOWN-tur druhgz**
+<!-- 1334. OTC | 非处方药 | /ˌəʊ tiː ˈsiː/ — sounds like **OH tee SEE** | /ˌoʊ ti ˈsi/ — sounds like **OH tee SEE** -->
+1334. Over-the-counter drugs | 非处方药 | /ˈəʊ.vər ðə ˈkaʊn.tər drʌɡz/ — sounds like **OH-vur thuh KOWN-tur druhgz** | /ˈoʊ.vər ðə ˈkaʊn.tər drʌɡz/ — sounds like **OH-vur thuh KOWN-tur druhgz**
 1335. A pain killer | 止痛药 | /ə peɪn ˈkɪl.ər/ — sounds like **uh PAYN KIL-ur** | /ə peɪn ˈkɪl.ər/ — sounds like **uh PAYN KIL-ur**
 1336. A band aid | 创口贴 | /ə bænd eɪd/ — sounds like **uh BAND AYD** | /ə bænd eɪd/ — sounds like **uh BAND AYD**
 1337. Bandage | 绷带 | /ˈbæn.dɪdʒ/ — sounds like **BAN-dij** | /ˈbæn.dɪdʒ/ — sounds like **BAN-dij**
