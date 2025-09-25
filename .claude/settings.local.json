@@ -28,7 +28,8 @@
       "Bash(seq:*)",
       "Bash(npm run extract-vocab:*)",
       "Bash(npm run:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": []
   }
