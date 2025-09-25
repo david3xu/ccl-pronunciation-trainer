@@ -989,7 +989,7 @@ go for | 选择 | /ɡəʊ fɔː/ — sounds like **GOH for** | /ɡoʊ fɔːr/ �
 the lowest coverage | 最低保险 | /ðə ˈləʊ.ɪst ˈkʌv.ər.ɪdʒ/ — sounds like **thuh LOH-ist KUV-ur-ij** | /ðə ˈloʊ.ɪst ˈkʌv.ɚ.ɪdʒ/ — sounds like **thuh LOH-ist KUV-ur-ij**
 end up | 最终 | /end ʌp/ — sounds like **END UP** | /end ʌp/ — sounds like **END UP**
 enough coverage | 足够保险 | /ɪˈnʌf ˈkʌv.ər.ɪdʒ/ — sounds like **i-NUF KUV-ur-ij** | /ɪˈnʌf ˈkʌv.ɚ.ɪdʒ/ — sounds like **i-NUF KUV-ur-ij**
-underinsurance | 保险不足 | /ˌʌn.dər.ɪnˈʃʊə.rəns/ — sounds like **un-dur-in-SHOOR-uns** | /ˌʌn.dɚ.ɪnˈʃʊr.əns/ — sounds like **un-dur-in-SHOOR-uns**
+under-insurance | 保险不足 | /ˌʌn.dər.ɪnˈʃʊə.rəns/ — sounds like **un-dur-in-SHOOR-uns** | /ˌʌn.dɚ.ɪnˈʃʊr.əns/ — sounds like **un-dur-in-SHOOR-uns**
 product information sheet | 产品信息表 | /ˈprɒd.ʌkt ˌɪn.fəˈmeɪ.ʃən ʃiːt/ — sounds like **PROD-ukt in-fur-MAY-shun SHEET** | /ˈprɑː.dʌkt ˌɪn.fɚˈmeɪ.ʃən ʃiːt/ — sounds like **PRAH-dukt in-fur-MAY-shun SHEET**
 go over the info | 查看信息 | /ɡəʊ ˈəʊ.və ði ˈɪn.fəʊ/ — sounds like **GOH OH-vur thuh IN-foh** | /ɡoʊ ˈoʊ.vɚ ði ˈɪn.foʊ/ — sounds like **GOH OH-vur thuh IN-foh**
 call you back for a quote | 回电报价 | /kɔːl juː bæk fɔː ə kwəʊt/ — sounds like **KAWL YOO BAK for uh KWOHT** | /kɔːl juː bæk fɔːr ə kwoʊt/ — sounds like **KAWL YOO BAK for uh KWOHT**
@@ -2247,7 +2247,7 @@ cancellation | 取消 | /ˌkæn.səˈleɪ.ʃən/ — sounds like **KAN-sul-AY-sh
 act soon | 尽快行动 | /ækt suːn/ — sounds like **AKT SOON** | /ækt sun/ — sounds like **AKT SOON**
 read the terms of your ticket | 阅读机票条款 | /riːd ðə tɜːmz ɒv jɔːr ˈtɪk.ɪt/ — sounds like **REED thuh TURMZ UV YOR TIK-it** | /rid ðə tɝmz ʌv jʊr ˈtɪk.ɪt/ — sounds like **REED thuh TURMZ UV YUR TIK-it**
 discounted tickets | 折扣票 | /dɪsˈkaʊn.tɪd ˈtɪk.ɪts/ — sounds like **dis-KOWN-tid TIK-its** | /dɪsˈkaʊn.tɪd ˈtɪk.ɪts/ — sounds like **dis-KOWN-tid TIK-its**
-changable | 可更改 | /ˈtʃeɪn.dʒə.bəl/ — sounds like **CHAYN-juh-bul** | /ˈtʃeɪn.dʒə.bəl/ — sounds like **CHAYN-juh-bul**
+changeable | 可更改 | /ˈtʃeɪn.dʒə.bəl/ — sounds like **CHAYN-juh-bul** | /ˈtʃeɪn.dʒə.bəl/ — sounds like **CHAYN-juh-bul**
 fare type | 票价类型 | /feər taɪp/ — sounds like **FAIR TYP** | /fer taɪp/ — sounds like **FAIR TYP**
 all terms and fees | 所有条款和费用 | /ɔːl tɜːmz ænd fiːz/ — sounds like **OL TURMZ AND FEEZ** | /ɔl tɝmz ænd fiz/ — sounds like **OL TURMZ AND FEEZ**
 on our site | 在我们的网站上 | /ɒn aʊər saɪt/ — sounds like **ON OW-ur SYT** | /ɑn aʊr saɪt/ — sounds like **AHN OWR SYT**
@@ -2301,12 +2301,12 @@ caught the same virus | 感染了同样的病毒 | /kɔːt ðə seɪm ˈvaɪ.rə
 a potent virus | 强病毒 | /ə ˈpəʊ.tənt ˈvaɪ.rəs/ — sounds like **uh POH-tunt VY-rus** | /ə ˈpoʊ.tənt ˈvaɪ.rəs/ — sounds like **uh POH-tunt VY-rus**
 circulating | 传播 | /ˈsɜː.kjʊ.leɪ.tɪŋ/ — sounds like **SUR-kyu-lay-ting** | /ˈsɝ.kjə.leɪ.tɪŋ/ — sounds like **SUR-kyu-lay-ting**
 hit by it | 被感染 | /hɪt baɪ ɪt/ — sounds like **HIT BY it** | /hɪt baɪ ɪt/ — sounds like **HIT BY it**
-madication | 药物 | /ˌmed.ɪˈkeɪ.ʃən/ — sounds like **MED-i-KAY-shun** | /ˌmed.əˈkeɪ.ʃən/ — sounds like **MED-uh-KAY-shun**
+medication | 药物 | /ˌmed.ɪˈkeɪ.ʃən/ — sounds like **MED-i-KAY-shun** | /ˌmed.əˈkeɪ.ʃən/ — sounds like **MED-uh-KAY-shun**
 stay home | 呆在家里 | /steɪ həʊm/ — sounds like **STAY HOHM** | /steɪ hoʊm/ — sounds like **STAY HOHM**
 going to school | 上学 | /ˈɡəʊ.ɪŋ tuː skuːl/ — sounds like **GOH-ing TOO SKOOL** | /ˈɡoʊ.ɪŋ tu skul/ — sounds like **GOH-ing TOO SKOOL**
 recovered | 康复 | /rɪˈkʌv.əd/ — sounds like **ri-KUV-urd** | /rɪˈkʌv.ɚd/ — sounds like **ri-KUV-urd**
 much sicker | 更严重 | /mʌtʃ ˈsɪk.ə/ — sounds like **MUCH SIK-ur** | /mʌtʃ ˈsɪk.ɚ/ — sounds like **MUCH SIK-ur**
-auful | 糟糕 | /ˈɔː.fəl/ — sounds like **OR-ful** | /ˈɔ.fəl/ — sounds like **OR-ful**
+awful | 糟糕 | /ˈɔː.fəl/ — sounds like **OR-ful** | /ˈɔ.fəl/ — sounds like **OR-ful**
 bounce back | 恢复 | /baʊns bæk/ — sounds like **BOWNS BAK** | /baʊns bæk/ — sounds like **BOWNS BAK**
 viral infections | 病毒感染 | /ˈvaɪ.rəl ɪnˈfek.ʃənz/ — sounds like **VY-rul in-FEK-shunz** | /ˈvaɪ.rəl ɪnˈfek.ʃənz/ — sounds like **VY-rul in-FEK-shunz**
 adults | 成人 | /əˈdʌlts/ — sounds like **uh-DULTS** | /əˈdʌlts/ — sounds like **uh-DULTS**
@@ -2510,7 +2510,7 @@ supervisor | 主管 | /ˈsuː.pə.vaɪ.zə/ — sounds like **SOO-pur-vy-zur** |
 picking things up | 学习 | /ˈpɪk.ɪŋ θɪŋz ʌp/ — sounds like **PIK-ing THINGZ UP** | /ˈpɪk.ɪŋ θɪŋz ʌp/ — sounds like **PIK-ing THINGZ UP**
 feel more confident | 感觉更自信 | /fiːl mɔː ˈkɒn.fɪ.dənt/ — sounds like **FEEL MOR KON-fi-dunt** | /fil mɔr ˈkɑn.fə.dənt/ — sounds like **FEEL MOR KAHN-fuh-dunt**
 interact | 互动 | /ˌɪn.tərˈækt/ — sounds like **IN-tur-AKT** | /ˌɪn.tɚˈækt/ — sounds like **IN-tur-AKT**
-costomers | 客户 | /ˈkʌs.tə.məz/ — sounds like **KUS-tuh-murz** | /ˈkʌs.tɚ.mɚz/ — sounds like **KUS-tur-murz**
+customers | 客户 | /ˈkʌs.tə.məz/ — sounds like **KUS-tuh-murz** | /ˈkʌs.tɚ.mɚz/ — sounds like **KUS-tur-murz**
 customer service | 客户服务 | /ˈkʌs.tə.mər ˈsɜː.vɪs/ — sounds like **KUS-tuh-mur SUR-vis** | /ˈkʌs.tɚ.mɚ ˈsɝ.vɪs/ — sounds like **KUS-tur-mur SUR-vis**
 talking to customers | 与客户交谈 | /ˈtɔː.kɪŋ tuː ˈkʌs.tə.məz/ — sounds like **TOR-king TOO KUS-tuh-murz** | /ˈtɔ.kɪŋ tu ˈkʌs.tɚ.mɚz/ — sounds like **TAH-king TOO KUS-tur-murz**
 figuring out | 弄清楚 | /ˈfɪɡ.ər.ɪŋ aʊt/ — sounds like **FIG-ur-ing OWT** | /ˈfɪɡ.jər.ɪŋ aʊt/ — sounds like **FIG-yur-ing OWT**
@@ -2547,7 +2547,7 @@ renovating | 翻新 | /ˈren.ə.veɪ.tɪŋ/ — sounds like **REN-uh-vay-ting** 
 renovation plans | 翻新计划 | /ˌren.əˈveɪ.ʃən plænz/ — sounds like **REN-uh-VAY-shun PLANZ** | /ˌren.əˈveɪ.ʃən plænz/ — sounds like **REN-uh-VAY-shun PLANZ**
 smoothly | 顺利 | /ˈsmuːð.li/ — sounds like **SMOOTH-lee** | /ˈsmuð.li/ — sounds like **SMUTH-lee**
 luckily | 幸运 | /ˈlʌk.ɪ.li/ — sounds like **LUK-i-lee** | /ˈlʌk.ə.li/ — sounds like **LUK-uh-lee**
-a great contrator | 很好的承包商 | /ə ɡreɪt kənˈtræk.tər/ — sounds like **uh GRAYT kun-TRAK-tur** | /ə ɡreɪt kənˈtræk.tɚ/ — sounds like **uh GRAYT kun-TRAK-tur**
+a great contractor | 很好的承包商 | /ə ɡreɪt kənˈtræk.tər/ — sounds like **uh GRAYT kun-TRAK-tur** | /ə ɡreɪt kənˈtræk.tɚ/ — sounds like **uh GRAYT kun-TRAK-tur**
 the big work is done | 大工程完成了 | /ðə bɪɡ wɜːk ɪz dʌn/ — sounds like **thuh BIG WURK iz DUN** | /ðə bɪɡ wɝk ɪz dʌn/ — sounds like **thuh BIG WURK iz DUN**
 focusing on | 专注于 | /ˈfəʊ.kəs.ɪŋ ɒn/ — sounds like **FOH-kus-ing ON** | /ˈfoʊ.kəs.ɪŋ ɑn/ — sounds like **FOH-kus-ing AHN**
 decorating | 装饰 | /ˈdek.ə.reɪ.tɪŋ/ — sounds like **DEK-uh-ray-ting** | /ˈdek.ə.reɪ.tɪŋ/ — sounds like **DEK-uh-ray-ting**
@@ -2601,7 +2601,7 @@ suits | 适合 | /suːts/ — sounds like **SOOTS** | /suts/ — sounds like **S
 project | 项目 | /ˈprɒdʒ.ekt/ — sounds like **PROJ-ekt** | /ˈprɑ.dʒekt/ — sounds like **PRAH-jekt**
 open to anything | 对任何事情开放 | /ˈəʊ.pən tuː ˈen.i.θɪŋ/ — sounds like **OH-pun TOO EN-ee-thing** | /ˈoʊ.pən tu ˈen.i.θɪŋ/ — sounds like **OH-pun TOO EN-ee-thing**
 really enjoy | 真的很喜欢 | /ˈrɪə.li ɪnˈdʒɔɪ/ — sounds like **REE-uh-lee in-JOY** | /ˈri.ə.li ɪnˈdʒɔɪ/ — sounds like **REE-uh-lee in-JOY**
-gardenining | 园艺 | /ˈɡɑː.dən.ɪŋ/ — sounds like **GAR-dun-ing** | /ˈɡɑr.dən.ɪŋ/ — sounds like **GAR-dun-ing**
+gardening | 园艺 | /ˈɡɑː.dən.ɪŋ/ — sounds like **GAR-dun-ing** | /ˈɡɑr.dən.ɪŋ/ — sounds like **GAR-dun-ing**
 planting | 种植 | /ˈplɑːn.tɪŋ/ — sounds like **PLAHN-ting** | /ˈplæn.tɪŋ/ — sounds like **PLAN-ting**
 working on | 工作 | /ˈwɜː.kɪŋ ɒn/ — sounds like **WUR-king ON** | /ˈwɝ.kɪŋ ɑn/ — sounds like **WUR-king AHN**
 vegetable garden | 菜园 | /ˈvedʒ.tə.bəl ˈɡɑː.dən/ — sounds like **VEJ-tuh-bul GAR-dun** | /ˈvedʒ.tə.bəl ˈɡɑr.dən/ — sounds like **VEJ-tuh-bul GAR-dun**
@@ -2613,7 +2613,7 @@ noticed | 注意到 | /ˈnəʊ.tɪst/ — sounds like **NOH-tist** | /ˈnoʊ.tɪ
 bushes | 灌木 | /ˈbʊʃ.ɪz/ — sounds like **BUSH-iz** | /ˈbʊʃ.əz/ — sounds like **BUSH-uz**
 definitely | 肯定 | /ˈdef.ɪ.nət.li/ — sounds like **DEF-i-nut-lee** | /ˈdef.ə.nət.li/ — sounds like **DEF-uh-nut-lee**
 trimming | 修剪 | /ˈtrɪm.ɪŋ/ — sounds like **TRIM-ing** | /ˈtrɪm.ɪŋ/ — sounds like **TRIM-ing**
-weeds are everwhere | 杂草到处都是 | /wiːdz ɑːr ˈev.ri.weər/ — sounds like **WEEDZ AR EV-ree-wair** | /widz ɑr ˈev.ri.wer/ — sounds like **WEEDZ AR EV-ree-wair**
+weeds are everywhere | 杂草到处都是 | /wiːdz ɑːr ˈev.ri.weər/ — sounds like **WEEDZ AR EV-ree-wair** | /widz ɑr ˈev.ri.wer/ — sounds like **WEEDZ AR EV-ree-wair**
 gardening experience | 园艺经验 | /ˈɡɑː.dən.ɪŋ ɪkˈspɪə.ri.əns/ — sounds like **GAR-dun-ing ik-SPEER-ee-uns** | /ˈɡɑr.dən.ɪŋ ɪkˈspɪr.i.əns/ — sounds like **GAR-dun-ing ik-SPEER-ee-uns**
 clean up the space | 清理空间 | /kliːn ʌp ðə speɪs/ — sounds like **KLEEN UP thuh SPAYS** | /klin ʌp ðə speɪs/ — sounds like **KLEEN UP thuh SPAYS**
 everything is overgrown | 一切都过度生长 | /ˈev.ri.θɪŋ ɪz ˌəʊ.vəˈɡrəʊn/ — sounds like **EV-ree-thing iz OH-vur-GROHN** | /ˈev.ri.θɪŋ ɪz ˌoʊ.vɚˈɡroʊn/ — sounds like **EV-ree-thing iz OH-vur-GROHN**
@@ -2684,7 +2684,7 @@ health | 健康 | /helθ/ — sounds like **HELTH** | /helθ/ — sounds like **
 tired | 疲惫 | /ˈtaɪəd/ — sounds like **TY-urd** | /ˈtaɪrd/ — sounds like **TYRD**
 not been well recently | 最近身体不好 | /nɒt biːn wel ˈriː.sənt.li/ — sounds like **NOT BEEN WEL REE-sunt-lee** | /nɑt bɪn wel ˈri.sənt.li/ — sounds like **NAHT BIN WEL REE-sunt-lee**
 going back and forth | 来回 | /ˈɡəʊ.ɪŋ bæk ænd fɔːθ/ — sounds like **GOH-ing BAK AND FORTH** | /ˈɡoʊ.ɪŋ bæk ænd fɔrθ/ — sounds like **GOH-ing BAK AND FORTH**
-spent serveral hours | 花了几个小时 | /spent ˈsev.ər.əl ˈaʊəz/ — sounds like **SPENT SEV-ur-ul OW-urz** | /spent ˈsev.ɚ.əl ˈaʊərz/ — sounds like **SPENT SEV-ur-ul OW-urz**
+spent several hours | 花了几个小时 | /spent ˈsev.ər.əl ˈaʊəz/ — sounds like **SPENT SEV-ur-ul OW-urz** | /spent ˈsev.ɚ.əl ˈaʊərz/ — sounds like **SPENT SEV-ur-ul OW-urz**
 hardly have time | 几乎没有时间 | /ˈhɑːd.li hæv taɪm/ — sounds like **HARD-lee HAV TYM** | /ˈhɑrd.li hæv taɪm/ — sounds like **HARD-lee HAV TYM**
 difficult | 困难 | /ˈdɪf.ɪ.kəlt/ — sounds like **DIF-i-kult** | /ˈdɪf.ə.kəlt/ — sounds like **DIF-uh-kult**
 a social worker | 社会工作者 | /ə ˈsəʊ.ʃəl ˈwɜː.kər/ — sounds like **uh SOH-shul WUR-kur** | /ə ˈsoʊ.ʃəl ˈwɝ.kɚ/ — sounds like **uh SOH-shul WUR-kur**
@@ -2717,7 +2717,7 @@ resume | 恢复 | /rɪˈzjuːm/ — sounds like **ri-ZYOOM** | /rɪˈzum/ — so
 a good place | 好地方 | /ə ɡʊd pleɪs/ — sounds like **uh GOOD PLAYS** | /ə ɡʊd pleɪs/ — sounds like **uh GOOD PLAYS**
 
 70186
-upcomming | 即将到来 | /ʌpˈkʌm.ɪŋ/ — sounds like **up-KUM-ing** | /ʌpˈkʌm.ɪŋ/ — sounds like **up-KUM-ing**
+upcoming | 即将到来 | /ʌpˈkʌm.ɪŋ/ — sounds like **up-KUM-ing** | /ʌpˈkʌm.ɪŋ/ — sounds like **up-KUM-ing**
 class trip | 班级旅行 | /klɑːs trɪp/ — sounds like **KLAHS TRIP** | /klæs trɪp/ — sounds like **KLAS TRIP**
 coordinate | 协调 | /kəʊˈɔː.dɪ.neɪt/ — sounds like **koh-OR-di-nayt** | /koʊˈɔr.də.neɪt/ — sounds like **koh-OR-duh-nayt**
 check in | 登记 | /tʃek ɪn/ — sounds like **CHEK IN** | /tʃek ɪn/ — sounds like **CHEK IN**
@@ -2750,7 +2750,7 @@ a great setup | 很好的设置 | /ə ɡreɪt ˈset.ʌp/ — sounds like **uh GR
 this way | 这样 | /ðɪs weɪ/ — sounds like **THIS WAY** | /ðɪs weɪ/ — sounds like **THIS WAY**
 a relaxing luch break | 放松的午餐休息 | /ə rɪˈlæk.sɪŋ lʌntʃ breɪk/ — sounds like **uh ri-LAK-sing LUNCH BRAYK** | /ə rɪˈlæk.sɪŋ lʌntʃ breɪk/ — sounds like **uh ri-LAK-sing LUNCH BRAYK**
 refreshed | 精神焕发 | /rɪˈfreʃt/ — sounds like **ri-FRESHT** | /rɪˈfreʃt/ — sounds like **ri-FRESHT**
-afternoono activties | 下午活动 | /ˌɑːf.təˈnuːn əkˈtɪv.ə.tiz/ — sounds like **ahf-tur-NOON ak-TIV-uh-teez** | /ˌæf.tɚˈnun ækˈtɪv.ə.tiz/ — sounds like **af-tur-NOON ak-TIV-uh-teez**
+afternoon activities | 下午活动 | /ˌɑːf.təˈnuːn əkˈtɪv.ə.tiz/ — sounds like **ahf-tur-NOON ak-TIV-uh-teez** | /ˌæf.tɚˈnun ækˈtɪv.ə.tiz/ — sounds like **af-tur-NOON ak-TIV-uh-teez**
 assignments | 作业 | /əˈsaɪn.mənts/ — sounds like **uh-SYN-munts** | /əˈsaɪn.mənts/ — sounds like **uh-SYN-munts**
 complete | 完成 | /kəmˈpliːt/ — sounds like **kum-PLEET** | /kəmˈplit/ — sounds like **kum-PLEET**
 stay focused | 保持专注 | /steɪ ˈfəʊ.kəst/ — sounds like **STAY FOH-kust** | /steɪ ˈfoʊ.kəst/ — sounds like **STAY FOH-kust**
@@ -2761,7 +2761,7 @@ learn and have fun | 学习和娱乐 | /lɜːn ænd hæv fʌn/ — sounds like *
 at the same time | 同时 | /æt ðə seɪm taɪm/ — sounds like **AT thuh SAYM TYM** | /æt ðə seɪm taɪm/ — sounds like **AT thuh SAYM TYM**
 eager | 渴望 | /ˈiː.ɡər/ — sounds like **EE-gur** | /ˈi.ɡɚ/ — sounds like **EE-gur**
 explore | 探索 | /ɪkˈsplɔːr/ — sounds like **ik-SPLOR** | /ɪkˈsplɔr/ — sounds like **ik-SPLOR**
-byond | 超越 | /baɪˈɒnd/ — sounds like **by-OND** | /baɪˈɑnd/ — sounds like **by-AHND**
+beyond | 超越 | /baɪˈɒnd/ — sounds like **by-OND** | /baɪˈɑnd/ — sounds like **by-AHND**
 classroom | 教室 | /ˈklɑːs.ruːm/ — sounds like **KLAHS-room** | /ˈklæs.ruːm/ — sounds like **KLAS-room**
 get back to your class | 回到你的班级 | /ɡet bæk tuː jɔːr klɑːs/ — sounds like **GET BAK TOO YOR KLAHS** | /ɡet bæk tu jʊr klæs/ — sounds like **GET BAK TOO YUR KLAS**
 challenging | 挑战 | /ˈtʃæl.ɪn.dʒɪŋ/ — sounds like **CHAL-in-jing** | /ˈtʃæl.ən.dʒɪŋ/ — sounds like **CHAL-un-jing**
@@ -2777,7 +2777,7 @@ current policy | 当前政策 | /ˈkʌr.ənt ˈpɒl.ə.si/ — sounds like **KUR
 switch | 转换 | /swɪtʃ/ — sounds like **SWITCH** | /swɪtʃ/ — sounds like **SWITCH**
 a different type | 不同类型 | /ə ˈdɪf.ər.ənt taɪp/ — sounds like **uh DIF-ur-unt TYP** | /ə ˈdɪf.ɚ.ənt taɪp/ — sounds like **uh DIF-ur-unt TYP**
 looking into | 调查 | /ˈlʊk.ɪŋ ˈɪn.tuː/ — sounds like **LOOK-ing IN-too** | /ˈlʊk.ɪŋ ˈɪn.tu/ — sounds like **LOOK-ing IN-too**
-reseaching | 研究 | /rɪˈsɜːtʃ.ɪŋ/ — sounds like **ri-SURCH-ing** | /rɪˈsɝtʃ.ɪŋ/ — sounds like **ri-SURCH-ing**
+researching | 研究 | /rɪˈsɜːtʃ.ɪŋ/ — sounds like **ri-SURCH-ing** | /rɪˈsɝtʃ.ɪŋ/ — sounds like **ri-SURCH-ing**
 trauma insurance | 创伤保险 | /ˈtrɔː.mə ɪnˈʃʊə.rəns/ — sounds like **TRAW-muh in-SHOOR-uns** | /ˈtrɔ.mə ɪnˈʃʊr.əns/ — sounds like **TRAW-muh in-SHOOR-uns**
 online | 在线 | /ˌɒnˈlaɪn/ — sounds like **on-LYN** | /ˌɑnˈlaɪn/ — sounds like **ahn-LYN**
 a quote | 报价 | /ə kwəʊt/ — sounds like **uh KWOHT** | /ə kwoʊt/ — sounds like **uh KWOHT**
@@ -2791,7 +2791,7 @@ particular condition | 特定条件 | /pəˈtɪk.jə.lər kənˈdɪʃ.ən/ — s
 covered under | 在...下覆盖 | /ˈkʌv.əd ˈʌn.dər/ — sounds like **KUV-ud UN-dur** | /ˈkʌv.ɚd ˈʌn.dɚ/ — sounds like **KUV-urd UN-dur**
 health issues | 健康问题 | /helθ ˈɪʃ.uːz/ — sounds like **HELTH ISH-ooz** | /helθ ˈɪʃ.uz/ — sounds like **HELTH ISH-ooz**
 cover all illnesses | 覆盖所有疾病 | /ˈkʌv.ər ɔːl ˈɪl.nəs.ɪz/ — sounds like **KUV-ur ORL IL-nus-iz** | /ˈkʌv.ɚ ɔl ˈɪl.nəs.əz/ — sounds like **KUV-ur ORL IL-nus-uz**
-trauma insuranace coverage | 创伤保险覆盖 | /ˈtrɔː.mə ɪnˈʃʊə.rəns ˈkʌv.ər.ɪdʒ/ — sounds like **TRAW-muh in-SHOOR-uns KUV-ur-ij** | /ˈtrɔ.mə ɪnˈʃʊr.əns ˈkʌv.ɚ.ɪdʒ/ — sounds like **TRAW-muh in-SHOOR-uns KUV-ur-ij**
+trauma insurance coverage | 创伤保险覆盖 | /ˈtrɔː.mə ɪnˈʃʊə.rəns ˈkʌv.ər.ɪdʒ/ — sounds like **TRAW-muh in-SHOOR-uns KUV-ur-ij** | /ˈtrɔ.mə ɪnˈʃʊr.əns ˈkʌv.ɚ.ɪdʒ/ — sounds like **TRAW-muh in-SHOOR-uns KUV-ur-ij**
 critical illness policies | 重大疾病政策 | /ˈkrɪt.ɪ.kəl ˈɪl.nəs ˈpɒl.ə.siz/ — sounds like **KRIT-i-kul IL-nus POL-uh-seez** | /ˈkrɪt.ə.kəl ˈɪl.nəs ˈpɑ.lə.siz/ — sounds like **KRIT-uh-kul IL-nus PAH-luh-seez**
 includes | 包括 | /ɪnˈkluːdz/ — sounds like **in-KLOODZ** | /ɪnˈkludz/ — sounds like **in-KLOODZ**
 major categories | 主要类别 | /ˈmeɪ.dʒər ˈkæt.ə.ɡə.riz/ — sounds like **MAY-jur KAT-uh-guh-reez** | /ˈmeɪ.dʒɚ ˈkæt.ə.ɡə.riz/ — sounds like **MAY-jur KAT-uh-guh-reez**
@@ -2849,11 +2849,11 @@ accounting system | 会计系统 | /əˈkaʊn.tɪŋ ˈsɪs.təm/ — sounds like
 simpler and faster | 更简单更快 | /ˈsɪm.plər ænd ˈfɑː.stər/ — sounds like **SIM-plur AND FAH-stur** | /ˈsɪm.plɚ ænd ˈfæs.tɚ/ — sounds like **SIM-plur AND FAS-tur**
 focus more time on | 花更多时间在 | /ˈfəʊ.kəs mɔː taɪm ɒn/ — sounds like **FOH-kus MOR TYM ON** | /ˈfoʊ.kəs mɔr taɪm ɑn/ — sounds like **FOH-kus MOR TYM AHN**
 stressing over | 担心 | /ˈstres.ɪŋ ˈəʊ.vər/ — sounds like **STRES-ing OH-vur** | /ˈstres.ɪŋ ˈoʊ.vɚ/ — sounds like **STRES-ing OH-vur**
-accouting issues | 会计问题 | /əˈkaʊn.tɪŋ ˈɪʃ.uːz/ — sounds like **uh-KOWN-ting ISH-ooz** | /əˈkaʊn.tɪŋ ˈɪʃ.uz/ — sounds like **uh-KOWN-ting ISH-ooz**
+accounting issues | 会计问题 | /əˈkaʊn.tɪŋ ˈɪʃ.uːz/ — sounds like **uh-KOWN-ting ISH-ooz** | /əˈkaʊn.tɪŋ ˈɪʃ.uz/ — sounds like **uh-KOWN-ting ISH-ooz**
 arrangements | 安排 | /əˈreɪn.dʒmənts/ — sounds like **uh-RAYNJ-munts** | /əˈreɪn.dʒmənts/ — sounds like **uh-RAYNJ-munts**
 
 70183
-neghbouring district | 邻近地区 | /ˈneɪ.bər.ɪŋ ˈdɪs.trɪkt/ — sounds like **NAY-bur-ing DIS-trikt** | /ˈneɪ.bɚ.ɪŋ ˈdɪs.trɪkt/ — sounds like **NAY-bur-ing DIS-trikt**
+neighboring district | 邻近地区 | /ˈneɪ.bər.ɪŋ ˈdɪs.trɪkt/ — sounds like **NAY-bur-ing DIS-trikt** | /ˈneɪ.bɚ.ɪŋ ˈdɪs.trɪkt/ — sounds like **NAY-bur-ing DIS-trikt**
 landlord | 房东 | /ˈlænd.lɔːd/ — sounds like **LAND-lord** | /ˈlænd.lɔrd/ — sounds like **LAND-lord**
 stressful | 压力大 | /ˈstres.fəl/ — sounds like **STRES-ful** | /ˈstres.fəl/ — sounds like **STRES-ful**
 rent a place | 租房 | /rent ə pleɪs/ — sounds like **RENT uh PLAYS** | /rent ə pleɪs/ — sounds like **RENT uh PLAYS**
@@ -2965,7 +2965,7 @@ doctors | 医生 | /ˈdɒk.təz/ — sounds like **DOK-turz** | /ˈdɑk.tɚz/ �
 staff | 员工 | /stɑːf/ — sounds like **STAHF** | /stæf/ — sounds like **STAF**
 
 70180
-advertisment | 广告 | /ədˈvɜː.tɪs.mənt/ — sounds like **ud-VUR-tis-munt** | /ˌæd.vɚˈtaɪz.mənt/ — sounds like **AD-vur-TYZ-munt**
+advertisement | 广告 | /ədˈvɜː.tɪs.mənt/ — sounds like **ud-VUR-tis-munt** | /ˌæd.vɚˈtaɪz.mənt/ — sounds like **AD-vur-TYZ-munt**
 selling houses | 卖房子 | /ˈsel.ɪŋ ˈhaʊ.zɪz/ — sounds like **SEL-ing HOW-ziz** | /ˈsel.ɪŋ ˈhaʊ.zəz/ — sounds like **SEL-ing HOW-zuz**
 buying and selling properties | 买卖房产 | /ˈbaɪ.ɪŋ ænd ˈsel.ɪŋ ˈprɒp.ə.tiz/ — sounds like **BY-ing AND SEL-ing PROP-ur-teez** | /ˈbaɪ.ɪŋ ænd ˈsel.ɪŋ ˈprɑ.pɚ.tiz/ — sounds like **BY-ing AND SEL-ing PRAH-pur-teez**
 main business | 主要业务 | /meɪn ˈbɪz.nəs/ — sounds like **MAYN BIZ-nus** | /meɪn ˈbɪz.nəs/ — sounds like **MAYN BIZ-nus**
@@ -2993,9 +2993,9 @@ consider all the offers | 考虑所有报价 | /kənˈsɪd.ər ɔːl ðə ˈɒf.
 auctions | 拍卖 | /ˈɔːk.ʃənz/ — sounds like **AUK-shunz** | /ˈɑk.ʃənz/ — sounds like **AHK-shunz**
 set a specific date | 设定特定日期 | /set ə spəˈsɪf.ɪk deɪt/ — sounds like **SET uh spuh-SIF-ik DAYT** | /set ə spəˈsɪf.ɪk deɪt/ — sounds like **SET uh spuh-SIF-ik DAYT**
 sellers | 卖家 | /ˈsel.əz/ — sounds like **SEL-urz** | /ˈsel.ɚz/ — sounds like **SEL-urz**
-get the best price possilbe | 获得最好的价格 | /ɡet ðə best praɪs ˈpɒs.ə.bəl/ — sounds like **GET thuh BEST PRYS POS-uh-bul** | /ɡet ðə best praɪs ˈpɑ.sə.bəl/ — sounds like **GET thuh BEST PRYS PAH-suh-bul**
+get the best price possible | 获得最好的价格 | /ɡet ðə best praɪs ˈpɒs.ə.bəl/ — sounds like **GET thuh BEST PRYS POS-uh-bul** | /ɡet ðə best praɪs ˈpɑ.sə.bəl/ — sounds like **GET thuh BEST PRYS PAH-suh-bul**
 selling method | 销售方法 | /ˈsel.ɪŋ ˈmeθ.əd/ — sounds like **SEL-ing METH-ud** | /ˈsel.ɪŋ ˈmeθ.əd/ — sounds like **SEL-ing METH-ud**
-recommand | 推荐 | /ˌrek.əˈmænd/ — sounds like **REK-uh-MAND** | /ˌrek.əˈmænd/ — sounds like **REK-uh-MAND**
+recommend | 推荐 | /ˌrek.əˈmænd/ — sounds like **REK-uh-MAND** | /ˌrek.əˈmænd/ — sounds like **REK-uh-MAND**
 visit your house first | 先看你的房子 | /ˈvɪz.ɪt jɔːr haʊs fɜːst/ — sounds like **VIZ-it YOR HOWS FURST** | /ˈvɪz.ət jʊr haʊs fɝst/ — sounds like **VIZ-ut YUR HOWS FURST**
 come then | 然后来 | /kʌm ðen/ — sounds like **KUM THEN** | /kʌm ðen/ — sounds like **KUM THEN**
 text | 发短信 | /tekst/ — sounds like **TEKST** | /tekst/ — sounds like **TEKST**
@@ -3036,7 +3036,7 @@ recovery chances | 恢复机会 | /rɪˈkʌv.ər.i ˈtʃɑːn.sɪz/ — sounds l
 investigate | 调查 | /ɪnˈvest.ɪ.ɡeɪt/ — sounds like **in-VEST-i-gayt** | /ɪnˈvest.ə.ɡeɪt/ — sounds like **in-VEST-uh-gayt**
 recover property | 找回财产 | /rɪˈkʌv.ər ˈprɒp.ə.ti/ — sounds like **ri-KUV-ur PROP-ur-tee** | /rɪˈkʌv.ɚ ˈprɑ.pɚ.ti/ — sounds like **ri-KUV-ur PRAH-pur-tee**
 comprehensive insurance | 综合保险 | /ˌkɒm.prɪˈhen.sɪv ɪnˈʃʊə.rəns/ — sounds like **KOM-pri-HEN-siv in-SHOOR-uns** | /ˌkɑm.prəˈhen.sɪv ɪnˈʃʊr.əns/ — sounds like **KAHM-pruh-HEN-siv in-SHOOR-uns**
-fiile a claim | 申请索赔 | /faɪl ə kleɪm/ — sounds like **FYL uh KLAYM** | /faɪl ə kleɪm/ — sounds like **FYL uh KLAYM**
+file a claim | 申请索赔 | /faɪl ə kleɪm/ — sounds like **FYL uh KLAYM** | /faɪl ə kleɪm/ — sounds like **FYL uh KLAYM**
 insurance provider | 保险公司 | /ɪnˈʃʊə.rəns prəˈvaɪ.dər/ — sounds like **in-SHOOR-uns pruh-VY-dur** | /ɪnˈʃʊr.əns prəˈvaɪ.dɚ/ — sounds like **in-SHOOR-uns pruh-VY-dur**
 covers | 覆盖 | /ˈkʌv.əz/ — sounds like **KUV-urz** | /ˈkʌv.ɚz/ — sounds like **KUV-urz**
 theft losses | 盗窃损失 | /θeft ˈlɒs.ɪz/ — sounds like **THEFT LOS-iz** | /θeft ˈlɑ.səz/ — sounds like **THEFT LAH-suz**
@@ -3098,11 +3098,11 @@ have her photographed | 给她拍照 | /hæv hɜːr ˈfəʊ.tə.ɡrɑːft/ — s
 celebrate | 庆祝 | /ˈsel.ə.breɪt/ — sounds like **SEL-uh-brayt** | /ˈsel.ə.breɪt/ — sounds like **SEL-uh-brayt**
 fabulous | 极好 | /ˈfæb.jə.ləs/ — sounds like **FAB-yuh-lus** | /ˈfæb.jə.ləs/ — sounds like **FAB-yuh-lus**
 milestone | 里程碑 | /ˈmaɪl.stəʊn/ — sounds like **MYL-stohn** | /ˈmaɪl.stoʊn/ — sounds like **MYL-stohn**
-a wonderfull way | 精彩的方式 | /ə ˈwʌn.də.fəl weɪ/ — sounds like **uh WUN-dur-ful WAY** | /ə ˈwʌn.dɚ.fəl weɪ/ — sounds like **uh WUN-dur-ful WAY**
+a wonderful way | 精彩的方式 | /ə ˈwʌn.də.fəl weɪ/ — sounds like **uh WUN-dur-ful WAY** | /ə ˈwʌn.dɚ.fəl weɪ/ — sounds like **uh WUN-dur-ful WAY**
 include | 包括 | /ɪnˈkluːd/ — sounds like **in-KLOOD** | /ɪnˈklud/ — sounds like **in-KLOOD**
 grandchildren | 孙子孙女 | /ˈɡræn.tʃɪl.drən/ — sounds like **GRAN-chil-drun** | /ˈɡræn.tʃɪl.drən/ — sounds like **GRAN-chil-drun**
 It means a lot to her | 这对她意义重大 | /ɪt miːnz ə lɒt tuː hɜːr/ — sounds like **IT MEENZ uh LOT TOO HUR** | /ɪt minz ə lɑt tu hɝr/ — sounds like **IT MINZ uh LAHT TOO HUR**
-remeber her | 记住她 | /rɪˈmem.bər hɜːr/ — sounds like **ri-MEM-bur HUR** | /rɪˈmem.bɚ hɝr/ — sounds like **ri-MEM-bur HUR**
+remember her | 记住她 | /rɪˈmem.bər hɜːr/ — sounds like **ri-MEM-bur HUR** | /rɪˈmem.bɚ hɝr/ — sounds like **ri-MEM-bur HUR**
 prefer | 更喜欢 | /prɪˈfɜːr/ — sounds like **pri-FUR** | /prɪˈfɝ/ — sounds like **pri-FUR**
 cozy | 舒适 | /ˈkəʊ.zi/ — sounds like **KOH-zee** | /ˈkoʊ.zi/ — sounds like **KOH-zee**
 candid | 自然 | /ˈkæn.dɪd/ — sounds like **KAN-did** | /ˈkæn.dəd/ — sounds like **KAN-dud**
@@ -3120,3 +3120,48 @@ photography price list | 摄影价目表 | /fəˈtɒɡ.rə.fi praɪs lɪst/ — 
 different session options | 不同的拍摄选项 | /ˈdɪf.ər.ənt ˈseʃ.ən ˈɒp.ʃənz/ — sounds like **DIF-ur-unt SESH-un OP-shunz** | /ˈdɪf.ɚ.ənt ˈseʃ.ən ˈɑp.ʃənz/ — sounds like **DIF-ur-unt SESH-un AHP-shunz**
 special deal sessions | 特价拍摄 | /ˈspeʃ.əl diːl ˈseʃ.ənz/ — sounds like **SPESH-ul DEEL SESH-unz** | /ˈspeʃ.əl dil ˈseʃ.ənz/ — sounds like **SPESH-ul DEEL SESH-unz**
 at the moment | 目前 | /æt ðə ˈməʊ.mənt/ — sounds like **AT thuh MOH-munt** | /æt ðə ˈmoʊ.mənt/ — sounds like **AT thuh MOH-munt**
+
+70176
+ridiculous
+booked a venue
+sent out
+invitations
+at your place
+original plan
+guest list
+keeps growing
+family members
+coming from overseas
+community hall
+expensive to hire
+wedding
+for a while
+beed updated recently
+commercial-grade
+offer
+suitable
+catering service
+a perfect venue
+a place to stay
+spare rooms
+I'd be happy
+to host your family
+need extra beds
+give you a call
+birthday party
+especially on the day
+take your advice
+book the venue
+finalise the guest list
+
+70175
+drainage specialists
+drainage issues
+at my place
+recommended
+call you for help
+appreciate referrals
+happy customers
+drainage problem
+experiencing
+
