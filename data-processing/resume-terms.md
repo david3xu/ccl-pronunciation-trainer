@@ -287,7 +287,7 @@ example queries | /ɪɡˈzɑːm.pəl ˈkwɪə.riz/ — sounds like **ig-ZAHM-pul
 documented | /ˈdɒk.jʊ.men.tɪd/ — sounds like **DOK-yoo-men-tid** | /ˈdɑk.jə.men.təd/ — sounds like **DAHK-yuh-men-tud**
 system development | /ˈsɪs.təm dɪˈvel.əp.mənt/ — sounds like **SIS-tum di-VEL-up-munt** | /ˈsɪs.təm dɪˈvel.əp.mənt/ — sounds like **SIS-tum di-VEL-up-munt**
 assist with | /əˈsɪst wɪð/ — sounds like **uh-SIST WITH** | /əˈsɪst wɪð/ — sounds like **uh-SIST WITH**
-dasta source | /ˈdæs.tə sɔːs/ — sounds like **DAS-tuh SORS** | /ˈdæs.tə sɔrs/ — sounds like **DAS-tuh SORS**
+data source | /ˈdeɪ.tə sɔːs/ — sounds like **DAY-tuh SORS** | /ˈdeɪ.tə sɔrs/ — sounds like **DAY-tuh SORS**
 integration | /ˌɪn.tɪˈɡreɪ.ʃən/ — sounds like **IN-ti-GRAY-shun** | /ˌɪn.təˈɡreɪ.ʃən/ — sounds like **IN-tuh-GRAY-shun**
 help test | /help test/ — sounds like **HELP TEST** | /help test/ — sounds like **HELP TEST**
 debug the system | /ˈdiː.bʌɡ ðə ˈsɪs.təm/ — sounds like **DEE-bug thuh SIS-tum** | /ˈdi.bʌɡ ðə ˈsɪs.təm/ — sounds like **DEE-bug thuh SIS-tum**
@@ -465,7 +465,7 @@ workflows | /ˈwɜːk.fləʊz/ — sounds like **WURK-flohz** | /ˈwɝk.floʊz/ 
 basic knowledge of | /ˈbeɪ.sɪk ˈnɒl.ɪdʒ əv/ — sounds like **BAY-sik NOL-ij uv** | /ˈbeɪ.sɪk ˈnɑ.lɪdʒ əv/ — sounds like **BAY-sik NAH-lij uv**
 Docker | /ˈdɒk.ər/ — sounds like **DOCK-ur** | /ˈdɑ.kɚ/ — sounds like **DAHK-ur**
 meet | /miːt/ — sounds like **MEET** | /mit/ — sounds like **MEET**
-anumber of the requirements | /ə ˈnʌm.bər əv ðə rɪˈkwaɪər.mənts/ — sounds like **uh NUM-bur uv thuh ri-KWYR-munts** | /ə ˈnʌm.bɚ əv ðə rɪˈkwaɪr.mənts/ — sounds like **uh NUM-bur uv thuh ri-KWYR-munts**
+a number of the requirements | /ə ˈnʌm.bər əv ðə rɪˈkwaɪər.mənts/ — sounds like **uh NUM-bur uv thuh ri-KWYR-munts** | /ə ˈnʌm.bɚ əv ðə rɪˈkwaɪr.mənts/ — sounds like **uh NUM-bur uv thuh ri-KWYR-munts**
 encourage you | /ɪnˈkʌr.ɪdʒ juː/ — sounds like **in-KUR-ij YOO** | /ɪnˈkɝ.ɪdʒ ju/ — sounds like **in-KUR-ij YOO**
 to submit your application | /tuː səbˈmɪt jər ˌæp.lɪˈkeɪ.ʃən/ — sounds like **TOO sub-MIT yur AP-li-KAY-shun** | /tu səbˈmɪt jɚ ˌæp.ləˈkeɪ.ʃən/ — sounds like **TOO sub-MIT yur AP-luh-KAY-shun**
 encourage | /ɪnˈkʌr.ɪdʒ/ — sounds like **in-KUR-ij** | /ɪnˈkɝ.ɪdʒ/ — sounds like **in-KUR-ij**
@@ -543,8 +543,8 @@ multiple institutes | /ˈmʌl.tɪ.pəl ˈɪn.stɪ.tuːts/ — sounds like **MUL-
 giving me | /ˈɡɪv.ɪŋ miː/ — sounds like **GIV-ing MEE** | /ˈɡɪv.ɪŋ mi/ — sounds like **GIV-ing MEE**
 deep understanding of | /diːp ˌʌn.dəˈstæn.dɪŋ əv/ — sounds like **DEEP UN-dur-STAN-ding uv** | /dip ˌʌn.dɚˈstæn.dɪŋ əv/ — sounds like **DEEP UN-dur-STAN-ding uv**
 research workflow | /rɪˈsɜːtʃ ˈwɜːk.fləʊ/ — sounds like **ri-SURCH WURK-floh** | /rɪˈsɝtʃ ˈwɝk.floʊ/ — sounds like **ri-SURCH WURK-floh**
-corss-team | /krɒs tiːm/ — sounds like **KROS TEEM** | /krɔs tim/ — sounds like **KRAWS TEEM**
-collaboratioin | /kəˌlæb.əˈreɪ.ʃən/ — sounds like **kuh-LAB-uh-RAY-shun** | /kəˌlæb.əˈreɪ.ʃən/ — sounds like **kuh-LAB-uh-RAY-shun**
+cross-team | /krɒs tiːm/ — sounds like **KROS TEEM** | /krɔs tim/ — sounds like **KRAWS TEEM**
+collaboration | /kəˌlæb.əˈreɪ.ʃən/ — sounds like **kuh-LAB-uh-RAY-shun** | /kəˌlæb.əˈreɪ.ʃən/ — sounds like **kuh-LAB-uh-RAY-shun**
 challenges | /ˈtʃæl.ɪn.dʒəz/ — sounds like **CHAL-in-juz** | /ˈtʃæl.ən.dʒəz/ — sounds like **CHAL-un-juz**
 Curtin Institute of Radio Astronomy | /ˈkɜː.tɪn ˈɪn.stɪ.tuːt əv ˈreɪ.di.əʊ əˈstrɒn.ə.mi/ — sounds like **KUR-tin IN-sti-toot uv RAY-dee-oh uh-STRON-uh-mee** | /ˈkɝ.tɪn ˈɪn.stə.tut əv ˈreɪ.di.oʊ əˈstrɑ.nə.mi/ — sounds like **KUR-tin IN-stuh-toot uv RAY-dee-oh uh-STRAH-nuh-mee**
 astronomy-aware LLMs | /əˈstrɒn.ə.mi əˈweər el el emz/ — sounds like **uh-STRON-uh-mee uh-WAIR EL EL EMZ** | /əˈstrɑ.nə.mi əˈwer el el emz/ — sounds like **uh-STRAH-nuh-mee uh-WAIR EL EL EMZ**
@@ -554,9 +554,9 @@ strong | /strɒŋ/ — sounds like **STRONG** | /strɑŋ/ — sounds like **STRA
 problem-solving skills | /ˈprɒb.ləm ˈsɒlv.ɪŋ skɪlz/ — sounds like **PROB-lum SOLV-ing SKILZ** | /ˈprɑ.bləm ˈsɑlv.ɪŋ skɪlz/ — sounds like **PRAH-blum SAHLV-ing SKILZ**
 AI system design | /eɪ aɪ ˈsɪs.təm dɪˈzaɪn/ — sounds like **AY EYE SIS-tum di-ZYNE** | /eɪ aɪ ˈsɪs.təm dɪˈzaɪn/ — sounds like **AY EYE SIS-tum di-ZYNE**
 Academic tutor | /ˌæk.əˈdem.ɪk ˈtuː.tər/ — sounds like **AK-uh-DEM-ik TOO-tur** | /ˌæk.əˈdem.ɪk ˈtu.tɚ/ — sounds like **AK-uh-DEM-ik TOO-tur**
-refiend my ability | /rɪˈfaɪnd maɪ əˈbɪl.ə.ti/ — sounds like **ri-FYND MY uh-BIL-uh-tee** | /rɪˈfaɪnd maɪ əˈbɪl.ə.ti/ — sounds like **ri-FYND MY uh-BIL-uh-tee**
-commuicate | /kəˈmjuː.nɪ.keɪt/ — sounds like **kuh-MYOO-ni-kayt** | /kəˈmju.nə.keɪt/ — sounds like **kuh-MYOO-nuh-kayt**
-complex techincal concepts | /ˈkɒm.pleks ˈtek.nɪ.kəl ˈkɒn.septs/ — sounds like **KOM-pleks TEK-ni-kul KON-septs** | /ˈkɑm.pleks ˈtek.nɪ.kəl ˈkɑn.septs/ — sounds like **KAHM-pleks TEK-ni-kul KAHN-septs**
+refined my ability | /rɪˈfaɪnd maɪ əˈbɪl.ə.ti/ — sounds like **ri-FYND MY uh-BIL-uh-tee** | /rɪˈfaɪnd maɪ əˈbɪl.ə.ti/ — sounds like **ri-FYND MY uh-BIL-uh-tee**
+communicate | /kəˈmjuː.nɪ.keɪt/ — sounds like **kuh-MYOO-ni-kayt** | /kəˈmju.nə.keɪt/ — sounds like **kuh-MYOO-nuh-kayt**
+complex technical concepts | /ˈkɒm.pleks ˈtek.nɪ.kəl ˈkɒn.septs/ — sounds like **KOM-pleks TEK-ni-kul KON-septs** | /ˈkɑm.pleks ˈtek.nɪ.kəl ˈkɑn.septs/ — sounds like **KAHM-pleks TEK-ni-kul KAHN-septs**
 clearly | /ˈklɪə.li/ — sounds like **KLEER-lee** | /ˈklɪr.li/ — sounds like **KLEER-lee**
 work collaboratively | /wɜːk kəˈlæb.ər.ə.tɪv.li/ — sounds like **WURK kuh-LAB-ur-uh-tiv-lee** | /wɝk kəˈlæb.ɚ.ə.tɪv.li/ — sounds like **WURK kuh-LAB-ur-uh-tiv-lee**
 with diverse teams | /wɪð daɪˈvɜːs tiːmz/ — sounds like **WITH dy-VURS TEEMZ** | /wɪð daɪˈvɝs timz/ — sounds like **WITH dy-VURS TEEMZ**
@@ -594,7 +594,7 @@ precision health | /prɪˈsɪʒ.ən helθ/ — sounds like **pri-SIZH-un HELTH**
 computational biology | /ˌkɒm.pjʊˈteɪ.ʃən.əl baɪˈɒl.ə.dʒi/ — sounds like **KOM-pyoo-TAY-shun-ul by-OL-uh-jee** | /ˌkɑm.pjəˈteɪ.ʃən.əl baɪˈɑ.lə.dʒi/ — sounds like **KAHM-pyuh-TAY-shun-ul by-AH-luh-jee**
 strategic alignment | /strəˈtiː.dʒɪk əˈlaɪn.mənt/ — sounds like **struh-TEE-jik uh-LYN-munt** | /strəˈti.dʒɪk əˈlaɪn.mənt/ — sounds like **struh-TEE-jik uh-LYN-munt**
 business value | /ˈbɪz.nəs ˈvæl.juː/ — sounds like **BIZ-nus VAL-yoo** | /ˈbɪz.nəs ˈvæl.ju/ — sounds like **BIZ-nus VAL-yoo**
-corss-team collaboration | /krɒs tiːm kəˌlæb.əˈreɪ.ʃən/ — sounds like **KROS TEEM kuh-LAB-uh-RAY-shun** | /krɔs tim kəˌlæb.əˈreɪ.ʃən/ — sounds like **KRAWS TEEM kuh-LAB-uh-RAY-shun**
+cross-team collaboration | /krɒs tiːm kəˌlæb.əˈreɪ.ʃən/ — sounds like **KROS TEEM kuh-LAB-uh-RAY-shun** | /krɔs tim kəˌlæb.əˈreɪ.ʃən/ — sounds like **KRAWS TEEM kuh-LAB-uh-RAY-shun**
 stakeholder management | /ˈsteɪk.həʊl.dər ˈmæn.ɪdʒ.mənt/ — sounds like **STAYK-hohl-dur MAN-ij-munt** | /ˈsteɪk.hoʊl.dɚ ˈmæn.ədʒ.mənt/ — sounds like **STAYK-hohl-dur MAN-uj-munt**
 organizational impact | /ˌɔː.ɡən.aɪˈzeɪ.ʃən.əl ˈɪm.pækt/ — sounds like **OR-gun-y-ZAY-shun-ul IM-pakt** | /ˌɔr.ɡən.əˈzeɪ.ʃən.əl ˈɪm.pækt/ — sounds like **OR-gun-uh-ZAY-shun-ul IM-pakt**
 research reimagined | /rɪˈsɜːtʃ ˌriːɪˈmædʒ.ɪnd/ — sounds like **ri-SURCH REE-i-MAJ-ind** | /rɪˈsɝtʃ ˌriɪˈmædʒ.ənd/ — sounds like **ri-SURCH REE-i-MAJ-und**
@@ -656,7 +656,7 @@ handling | /ˈhænd.lɪŋ/ — sounds like **HAND-ling** | /ˈhænd.lɪŋ/ — s
 12-node Neo4j graph schema | /twelv nəʊd ˈniː.əʊ fɔː dʒeɪ ɡrɑːf ˈskiː.mə/ — sounds like **TWELV NOHD NEE-oh FOR JAY GRAHF SKEE-muh** | /twelv noʊd ˈni.oʊ fɔr dʒeɪ ɡræf ˈski.mə/ — sounds like **TWELV NOHD NEE-oh FOR JAY GRAF SKEE-muh**
 production deployment | /prəˈdʌk.ʃən dɪˈplɔɪ.mənt/ — sounds like **pruh-DUK-shun di-PLOY-munt** | /prəˈdʌk.ʃən dɪˈplɔɪ.mənt/ — sounds like **pruh-DUK-shun di-PLOY-munt**
 proven | /ˈpruː.vən/ — sounds like **PROO-vun** | /ˈpru.vən/ — sounds like **PROO-vun**
-techincal foundation | /ˈtek.nɪ.kəl faʊnˈdeɪ.ʃən/ — sounds like **TEK-ni-kul fown-DAY-shun** | /ˈtek.nɪ.kəl faʊnˈdeɪ.ʃən/ — sounds like **TEK-ni-kul fown-DAY-shun**
+technical foundation | /ˈtek.nɪ.kəl faʊnˈdeɪ.ʃən/ — sounds like **TEK-ni-kul fown-DAY-shun** | /ˈtek.nɪ.kəl faʊnˈdeɪ.ʃən/ — sounds like **TEK-ni-kul fown-DAY-shun**
 directly applies | /dɪˈrekt.li əˈplaɪz/ — sounds like **di-REKT-lee uh-PLYZ** | /dəˈrekt.li əˈplaɪz/ — sounds like **duh-REKT-lee uh-PLYZ**
 research mapping requirements | /rɪˈsɜːtʃ ˈmæp.ɪŋ rɪˈkwaɪər.mənts/ — sounds like **ri-SURCH MAP-ing ri-KWYR-munts** | /rɪˈsɝtʃ ˈmæp.ɪŋ rɪˈkwaɪr.mənts/ — sounds like **ri-SURCH MAP-ing ri-KWYR-munts**
 my UWA project | /maɪ juː dʌb.əl.juː eɪ ˈprɒdʒ.ekt/ — sounds like **MY YOO DUB-ul-yoo AY PROJ-ekt** | /maɪ ju dʌb.əl.ju eɪ ˈprɑdʒ.ekt/ — sounds like **MY YOO DUB-ul-yoo AY PRAH-jekt**
@@ -701,10 +701,10 @@ AI projects | /eɪ aɪ ˈprɒdʒ.ekts/ — sounds like **AY EYE PROJ-ekts** | /e
 require | /rɪˈkwaɪər/ — sounds like **ri-KWYR** | /rɪˈkwaɪr/ — sounds like **ri-KWYR**
 three elements | /θriː ˈel.ə.mənts/ — sounds like **THREE EL-uh-munts** | /θri ˈel.ə.mənts/ — sounds like **THREE EL-uh-munts**
 proven | /ˈpruː.vən/ — sounds like **PROO-vun** | /ˈpru.vən/ — sounds like **PROO-vun**
-techincal architecture | /ˈtek.nɪ.kəl ˈɑː.kɪ.tek.tʃər/ — sounds like **TEK-ni-kul AR-ki-tek-chur** | /ˈtek.nɪ.kəl ˈɑr.kə.tek.tʃɚ/ — sounds like **TEK-ni-kul AR-kuh-tek-chur**
+technical architecture | /ˈtek.nɪ.kəl ˈɑː.kɪ.tek.tʃər/ — sounds like **TEK-ni-kul AR-ki-tek-chur** | /ˈtek.nɪ.kəl ˈɑr.kə.tek.tʃɚ/ — sounds like **TEK-ni-kul AR-kuh-tek-chur**
 user-focused interfaces | /ˈjuː.zər ˈfəʊ.kəst ˈɪn.təˌfeɪ.səz/ — sounds like **YOO-zur FOH-kust IN-tur-fay-suz** | /ˈju.zɚ ˈfoʊ.kəst ˈɪn.tɚˌfeɪ.səz/ — sounds like **YOO-zur FOH-kust IN-tur-fay-suz**
 strong project management | /strɒŋ ˈprɒdʒ.ekt ˈmæn.ɪdʒ.mənt/ — sounds like **STRONG PROJ-ekt MAN-ij-munt** | /strɑŋ ˈprɑdʒ.ekt ˈmæn.ədʒ.mənt/ — sounds like **STRAHNG PRAH-jekt MAN-uj-munt**
-depolyment | /dɪˈplɔɪ.mənt/ — sounds like **di-PLOY-munt** | /dɪˈplɔɪ.mənt/ — sounds like **di-PLOY-munt**
+deployment | /dɪˈplɔɪ.mənt/ — sounds like **di-PLOY-munt** | /dɪˈplɔɪ.mənt/ — sounds like **di-PLOY-munt**
 Docker containers | /ˈdɒk.ər kənˈteɪ.nərz/ — sounds like **DOCK-ur kun-TAYN-urz** | /ˈdɑ.kɚ kənˈteɪ.nɚz/ — sounds like **DAHK-ur kun-TAYN-urz**
 automated testing | /ˈɔː.tə.meɪ.tɪd ˈtes.tɪŋ/ — sounds like **AW-tuh-may-tid TES-ting** | /ˈɔ.tə.meɪ.təd ˈtes.tɪŋ/ — sounds like **AW-tuh-may-tud TES-ting**
 Research Reimagined strategy | /rɪˈsɜːtʃ ˌriːɪˈmædʒ.ɪnd ˈstræt.ə.dʒi/ — sounds like **ri-SURCH REE-i-MAJ-ind STRAT-uh-jee** | /rɪˈsɝtʃ ˌriɪˈmædʒ.ənd ˈstræt.ə.dʒi/ — sounds like **ri-SURCH REE-i-MAJ-und STRAT-uh-jee**

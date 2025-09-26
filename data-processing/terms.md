@@ -287,7 +287,7 @@ example queries
 documented
 system development
 assist with
-dasta source
+data source
 integration
 help test
 debug the system
@@ -465,7 +465,7 @@ workflows
 basic knowledge of
 Docker
 meet
-anumber of the requirements
+a number of the requirements
 encourage you
 to submit your application
 encourage
@@ -544,8 +544,8 @@ multiple institutes
 giving me
 deep understanding of
 research workflow
-corss-team
-collaboratioin
+cross-team
+collaboration
 challenges
 Curtin Institute of Radio Astronomy
 astronomy-aware LLMs
@@ -555,9 +555,9 @@ strong
 problem-solving skills
 AI system design
 Academic tutor
-refiend my ability
-commuicate
-complex techincal concepts
+refined my ability
+communicate
+complex technical concepts
 clearly
 work collaboratively
 with diverse teams
@@ -595,7 +595,7 @@ precision health
 computational biology
 strategic alignment
 business value
-corss-team collaboration
+cross-team collaboration
 stakeholder management
 organizational impact
 research reimagined
@@ -657,7 +657,7 @@ handling
 12-node Neo4j graph schema
 production deployment
 proven
-techincal foundation
+technical foundation
 directly applies
 research mapping requirements
 my UWA project
@@ -702,10 +702,10 @@ AI projects
 require
 three elements
 proven
-techincal architecture
+technical architecture
 user-focused interfaces
 strong project management
-depolyment
+deployment
 Docker containers
 automated testing
 Research Reimagined strategy
@@ -832,7 +832,7 @@ using PydanticAI for
 extraction
 and mapping
 month three
-system inegration with
+system integration with
 Neo4j graph database
 user interface development
 month four
@@ -840,7 +840,7 @@ testing
 validation
 demonstration preparation
 this timeline is realistic
-becasue
+because
 the core multi-agent archetecture
 is proven
 how would you ensure
@@ -853,7 +853,7 @@ three validation layers
 automated
 data quality checks
 with multiple extraction methods
-ierative testing
+iterative testing
 with domain experts
 to validate mappings
 Neo4j graph database
