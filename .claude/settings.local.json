@@ -32,7 +32,8 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(jq length:*)",
-      "Bash(jq:*)"
+      "Bash(jq:*)",
+      "Bash(git reset:*)"
     ],
     "deny": []
   }
