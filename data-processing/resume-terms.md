@@ -1,5 +1,56 @@
 # PRONUNCIATION PRACTICE TERMS - INTERVIEW FOCUSED
 
+understanding | /ˌʌn.dəˈstæn.dɪŋ/ — sounds like **UN-dur-STAN-ding** | /ˌʌn.dɚˈstæn.dɪŋ/ — sounds like **UN-dur-STAN-ding**
+design philosophy | /dɪˈzaɪn fɪˈlɒs.ə.fi/ — sounds like **di-ZYNE fi-LOS-uh-fee** | /dɪˈzaɪn fɪˈlɑs.ə.fi/ — sounds like **di-ZYNE fi-LAH-suh-fee**
+represents | /ˌrep.rɪˈzents/ — sounds like **REP-ri-ZENTS** | /ˌrep.rɪˈzents/ — sounds like **REP-ri-ZENTS**
+a sophisticated approach | /ə səˈfɪs.tɪ.keɪ.tɪd əˈprəʊtʃ/ — sounds like **uh suh-FIS-ti-kay-tid uh-PROHCH** | /ə səˈfɪs.tɪ.keɪ.tɪd əˈproʊtʃ/ — sounds like **uh suh-FIS-ti-kay-tid uh-PROHCH**
+to building AI applications | /tə ˈbɪl.dɪŋ eɪ aɪ ˌæp.lɪˈkeɪ.ʃənz/ — sounds like **tuh BIL-ding AY EYE ap-li-KAY-shunz** | /tu ˈbɪl.dɪŋ eɪ aɪ ˌæp.ləˈkeɪ.ʃənz/ — sounds like **too BIL-ding AY EYE ap-luh-KAY-shunz**
+that emphasizes | /ðæt ˈem.fə.saɪ.zɪz/ — sounds like **that EM-fuh-sy-ziz** | /ðæt ˈem.fə.saɪ.zɪz/ — sounds like **that EM-fuh-sy-ziz**
+type safety | /taɪp ˈseɪf.ti/ — sounds like **TYPE SAYF-tee** | /taɪp ˈseɪf.ti/ — sounds like **TYPE SAYF-tee**
+structured data handling | /ˈstrʌk.tʃəd ˈdeɪ.tə ˈhæn.dlɪŋ/ — sounds like **STRUK-churd DAY-tuh HAN-dling** | /ˈstrʌk.tʃɚd ˈdeɪ.tə ˈhæn.dlɪŋ/ — sounds like **STRUK-churd DAY-tuh HAN-dling**
+and robust error management | /ænd rəʊˈbʌst ˈer.ər ˈmæn.ɪdʒ.mənt/ — sounds like **and roh-BUST ER-ur MAN-ij-munt** | /ænd roʊˈbʌst ˈer.ɚ ˈmæn.ɪdʒ.mənt/ — sounds like **and roh-BUST ER-ur MAN-ij-munt**
+built on top of Pydantic | /bɪlt ɒn tɒp ʌv paɪˈdæn.tɪk/ — sounds like **BILT on TOP uv py-DAN-tik** | /bɪlt ɑn tɑp ʌv paɪˈdæn.tɪk/ — sounds like **BILT ahn TAHP uhv py-DAN-tik**
+a Python library | /ə ˈpaɪ.θən ˈlaɪ.brər.i/ — sounds like **uh PY-thun LY-brur-ee** | /ə ˈpaɪ.θɑn ˈlaɪ.brer.i/ — sounds like **uh PY-thahn LY-brer-ee**
+for data validation | /fɔː ˈdeɪ.tə ˌvæl.ɪˈdeɪ.ʃən/ — sounds like **fawr DAY-tuh val-i-DAY-shun** | /fɔr ˈdeɪ.tə ˌvæl.əˈdeɪ.ʃən/ — sounds like **fawr DAY-tuh val-uh-DAY-shun**
+and settings management | /ænd ˈset.ɪŋz ˈmæn.ɪdʒ.mənt/ — sounds like **and SET-ingz MAN-ij-munt** | /ænd ˈset.ɪŋz ˈmæn.ɪdʒ.mənt/ — sounds like **and SET-ingz MAN-ij-munt**
+PydanticAI brings | /paɪˈdæn.tɪk eɪ aɪ brɪŋz/ — sounds like **py-DAN-tik AY EYE BRINGZ** | /paɪˈdæn.tɪk eɪ aɪ brɪŋz/ — sounds like **py-DAN-tik AY EYE BRINGZ**
+software engineering | /ˈsɒft.weər ˌen.dʒɪˈnɪə.rɪŋ/ — sounds like **SOFT-wair en-ji-NEER-ing** | /ˈsɔft.wer ˌen.dʒəˈnɪr.ɪŋ/ — sounds like **SAWFT-wair en-juh-NEER-ing**
+best practices | /best ˈpræk.tɪ.sɪz/ — sounds like **BEST PRAK-ti-siz** | /best ˈpræk.tə.səz/ — sounds like **BEST PRAK-tuh-suhz**
+to AI development | /tə eɪ aɪ dɪˈvel.əp.mənt/ — sounds like **tuh AY EYE di-VEL-up-munt** | /tu eɪ aɪ dɪˈvel.əp.mənt/ — sounds like **too AY EYE di-VEL-up-munt**
+the core insight | /ðə kɔː ˈɪn.saɪt/ — sounds like **thuh KAWR IN-syt** | /ðə kɔr ˈɪn.saɪt/ — sounds like **thuh KAWR IN-syt**
+behind PydanticAI | /bɪˈhaɪnd paɪˈdæn.tɪk eɪ aɪ/ — sounds like **bi-HYND py-DAN-tik AY EYE** | /bɪˈhaɪnd paɪˈdæn.tɪk eɪ aɪ/ — sounds like **bi-HYND py-DAN-tik AY EYE**
+is that AI applications | /ɪz ðæt eɪ aɪ ˌæp.lɪˈkeɪ.ʃənz/ — sounds like **iz that AY EYE ap-li-KAY-shunz** | /ɪz ðæt eɪ aɪ ˌæp.ləˈkeɪ.ʃənz/ — sounds like **iz that AY EYE ap-luh-KAY-shunz**
+benefit enormously | /ˈben.ɪ.fɪt ɪˈnɔː.məs.li/ — sounds like **BEN-i-fit i-NAWR-mus-lee** | /ˈben.ə.fɪt ɪˈnɔr.məs.li/ — sounds like **BEN-uh-fit i-NAWR-mus-lee**
+from structured approaches | /frʌm ˈstrʌk.tʃəd əˈprəʊ.tʃɪz/ — sounds like **frum STRUK-churd uh-PROH-chiz** | /frʌm ˈstrʌk.tʃɚd əˈproʊ.tʃəz/ — sounds like **frum STRUK-churd uh-PROH-chuhz**
+to data handling | /tə ˈdeɪ.tə ˈhæn.dlɪŋ/ — sounds like **tuh DAY-tuh HAN-dling** | /tu ˈdeɪ.tə ˈhæn.dlɪŋ/ — sounds like **too DAY-tuh HAN-dling**
+and agent coordination | /ænd ˈeɪ.dʒənt kəʊˌɔː.dɪˈneɪ.ʃən/ — sounds like **and AY-junt koh-awr-di-NAY-shun** | /ænd ˈeɪ.dʒənt koʊˌɔr.dəˈneɪ.ʃən/ — sounds like **and AY-junt koh-awr-duh-NAY-shun**
+while many AI frameworks | /waɪl ˈmen.i eɪ aɪ ˈfreɪm.wɜːks/ — sounds like **WYL MEN-ee AY EYE FRAYM-wurks** | /waɪl ˈmen.i eɪ aɪ ˈfreɪm.wɝks/ — sounds like **WYL MEN-ee AY EYE FRAYM-wurks**
+focus primarily on | /ˈfəʊ.kəs ˈpraɪ.mər.ə.li ɒn/ — sounds like **FOH-kus PRY-mur-uh-lee on** | /ˈfoʊ.kəs ˈpraɪ.mer.ə.li ɑn/ — sounds like **FOH-kus PRY-mer-uh-lee ahn**
+model interactions | /ˈmɒd.əl ˌɪn.tərˈæk.ʃənz/ — sounds like **MOD-ul in-tur-AK-shunz** | /ˈmɑ.dəl ˌɪn.tɚˈæk.ʃənz/ — sounds like **MAH-duhl in-tur-AK-shunz**
+emphasizes | /ˈem.fə.saɪ.zɪz/ — sounds like **EM-fuh-sy-ziz** | /ˈem.fə.saɪ.zɪz/ — sounds like **EM-fuh-sy-ziz**
+the entire application | /ði ɪnˈtaɪər ˌæp.lɪˈkeɪ.ʃən/ — sounds like **thee in-TYR ap-li-KAY-shun** | /ði ɪnˈtaɪr ˌæp.ləˈkeɪ.ʃən/ — sounds like **thee in-TYR ap-luh-KAY-shun**
+development lifecycle | /dɪˈvel.əp.mənt ˈlaɪf.saɪ.kəl/ — sounds like **di-VEL-up-munt LYF-sy-kul** | /dɪˈvel.əp.mənt ˈlaɪf.saɪ.kəl/ — sounds like **di-VEL-up-munt LYF-sy-kul**
+including | /ɪnˈkluː.dɪŋ/ — sounds like **in-KLOO-ding** | /ɪnˈklu.dɪŋ/ — sounds like **in-KLOO-ding**
+data validation | /ˈdeɪ.tə ˌvæl.ɪˈdeɪ.ʃən/ — sounds like **DAY-tuh val-i-DAY-shun** | /ˈdeɪ.tə ˌvæl.əˈdeɪ.ʃən/ — sounds like **DAY-tuh val-uh-DAY-shun**
+error handling | /ˈer.ər ˈhæn.dlɪŋ/ — sounds like **ER-ur HAN-dling** | /ˈer.ɚ ˈhæn.dlɪŋ/ — sounds like **ER-ur HAN-dling**
+testing | /ˈtest.ɪŋ/ — sounds like **TEST-ing** | /ˈtest.ɪŋ/ — sounds like **TEST-ing**
+and deployment | /ænd dɪˈplɔɪ.mənt/ — sounds like **and di-PLOY-munt** | /ænd dɪˈplɔɪ.mənt/ — sounds like **and di-PLOY-munt**
+type safety | /taɪp ˈseɪf.ti/ — sounds like **TYPE SAYF-tee** | /taɪp ˈseɪf.ti/ — sounds like **TYPE SAYF-tee**
+your AI applications | /jɔː eɪ aɪ ˌæp.lɪˈkeɪ.ʃənz/ — sounds like **yawr AY EYE ap-li-KAY-shunz** | /jʊr eɪ aɪ ˌæp.ləˈkeɪ.ʃənz/ — sounds like **yoor AY EYE ap-luh-KAY-shunz**
+can validate | /kæn ˈvæl.ɪ.deɪt/ — sounds like **kan VAL-i-dayt** | /kæn ˈvæl.ə.deɪt/ — sounds like **kan VAL-uh-dayt**
+inputs and outputs | /ˈɪn.pʊts ænd ˈaʊt.pʊts/ — sounds like **IN-puts and OWT-puts** | /ˈɪn.pʊts ænd ˈaʊt.pʊts/ — sounds like **IN-puts and OWT-puts**
+at runtime | /æt ˈrʌn.taɪm/ — sounds like **at RUN-tym** | /æt ˈrʌn.taɪm/ — sounds like **at RUN-tym**
+catching errors | /ˈkætʃ.ɪŋ ˈer.əz/ — sounds like **KACH-ing ER-urz** | /ˈkætʃ.ɪŋ ˈer.ɚz/ — sounds like **KACH-ing ER-urz**
+before they propagate | /bɪˈfɔː ðeɪ ˈprɒp.ə.ɡeɪt/ — sounds like **bi-FAWR thay PROP-uh-gayt** | /bɪˈfɔr ðeɪ ˈprɑp.ə.ɡeɪt/ — sounds like **bi-FAWR thay PRAHP-uh-gayt**
+through your system | /θruː jɔː ˈsɪs.təm/ — sounds like **THROO yawr SIS-tum** | /θru jʊr ˈsɪs.təm/ — sounds like **THROO yoor SIS-tum**
+structured outputs | /ˈstrʌk.tʃəd ˈaʊt.pʊts/ — sounds like **STRUK-churd OWT-puts** | /ˈstrʌk.tʃɚd ˈaʊt.pʊts/ — sounds like **STRUK-churd OWT-puts**
+ensure that AI responses | /ɪnˈʃʊər ðæt eɪ aɪ rɪˈspɒn.sɪz/ — sounds like **in-SHOOR that AY EYE ri-SPON-siz** | /ɪnˈʃʊr ðæt eɪ aɪ rɪˈspɑn.səz/ — sounds like **in-SHOOR that AY EYE ri-SPAHN-suhz**
+conform to | /kənˈfɔːm tə/ — sounds like **kun-FAWRM tuh** | /kənˈfɔrm tu/ — sounds like **kun-FAWRM too**
+predefined schemas | /ˌpriː.dɪˈfaɪnd ˈskiː.məz/ — sounds like **pree-di-FYND SKEE-muhz** | /ˌpri.dɪˈfaɪnd ˈski.məz/ — sounds like **pree-di-FYND SKEE-muhz**
+making them reliable | /ˈmeɪ.kɪŋ ðəm rɪˈlaɪ.ə.bəl/ — sounds like **MAY-king thum ri-LY-uh-bul** | /ˈmeɪ.kɪŋ ðəm rɪˈlaɪ.ə.bəl/ — sounds like **MAY-king thum ri-LY-uh-bul**
+for integration with | /fɔː ˌɪn.tɪˈɡreɪ.ʃən wɪð/ — sounds like **fawr in-ti-GRAY-shun with** | /fɔr ˌɪn.təˈɡreɪ.ʃən wɪð/ — sounds like **fawr in-tuh-GRAY-shun with**
+other systems | /ˈʌð.ər ˈsɪs.təmz/ — sounds like **UH-thur SIS-tumz** | /ˈʌð.ɚ ˈsɪs.təmz/ — sounds like **UH-thur SIS-tumz**
+
 AI | /eɪ aɪ/ — sounds like **AY EYE** | /eɪ aɪ/ — sounds like **AY EYE**
 Data Science | /ˈdeɪ.tə ˈsaɪ.əns/ — sounds like **DAY-tuh SY-uns** | /ˈdeɪ.tə ˈsaɪ.əns/ — sounds like **DAY-tuh SY-uns**
 professional | /prəˈfeʃ.ən.əl/ — sounds like **pruh-FESH-un-ul** | /prəˈfeʃ.ən.əl/ — sounds like **pruh-FESH-un-ul**
