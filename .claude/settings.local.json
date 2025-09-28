@@ -33,7 +33,9 @@
       "Bash(git push:*)",
       "Bash(jq length:*)",
       "Bash(jq:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(git checkout:*)",
+      "Read(///**)"
     ],
     "deny": []
   }
