@@ -447,7 +447,7 @@ team player | /tiːm ˈpleɪ.ər/ — sounds like **TEEM PLAY-ur** | /tim ˈple�
 with a commitment | /wɪð ə kəˈmɪt.mənt/ — sounds like **WITH uh kuh-MIT-munt** | /wɪð ə kəˈmɪt.mənt/ — sounds like **WITH uh kuh-MIT-munt**
 learning | /ˈlɜː.nɪŋ/ — sounds like **LUR-ning** | /ˈlɝ.nɪŋ/ — sounds like **LUR-ning**
 desirable experience | /dɪˈzaɪər.ə.bəl ɪkˈspɪə.ri.əns/ — sounds like **di-ZYR-uh-bul ik-SPEER-ee-uns** | /dɪˈzaɪr.ə.bəl ɪkˈspɪr.i.əns/ — sounds like **di-ZYR-uh-bul ik-SPEER-ee-uns**
-familarity with | /fəˌmɪl.iˈær.ə.ti wɪð/ — sounds like **fuh-MIL-ee-AR-uh-tee WITH** | /fəˌmɪl.jɚˈer.ə.ti wɪð/ — sounds like **fuh-MIL-yur-AIR-uh-tee WITH**
+familiarity with | /fəˌmɪl.iˈær.ə.ti wɪð/ — sounds like **fuh-MIL-ee-AR-uh-tee WITH** | /fəˌmɪl.jɚˈer.ə.ti wɪð/ — sounds like **fuh-MIL-yur-AIR-uh-tee WITH**
 understanding of | /ˌʌn.dəˈstæn.dɪŋ əv/ — sounds like **UN-dur-STAN-ding uv** | /ˌʌn.dɚˈstæn.dɪŋ əv/ — sounds like **UN-dur-STAN-ding uv**
 workflows | /ˈwɜːk.fləʊz/ — sounds like **WURK-flohz** | /ˈwɝk.floʊz/ — sounds like **WURK-flohz**
 basic knowledge of | /ˈbeɪ.sɪk ˈnɒl.ɪdʒ əv/ — sounds like **BAY-sik NOL-ij uv** | /ˈbeɪ.sɪk ˈnɑ.lɪdʒ əv/ — sounds like **BAY-sik NAH-lij uv**

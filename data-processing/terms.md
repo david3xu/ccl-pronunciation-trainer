@@ -398,7 +398,7 @@ team player
 with a commitment
 learning
 desirable experience
-familarity with
+familiarity with
 understanding of
 workflows
 basic knowledge of
@@ -532,7 +532,7 @@ supervised
 complete AI application
 development
 deliver
-workign systems
+working systems
 solve
 real organizational problems
 mentor teams
@@ -719,7 +719,7 @@ the core multi-agent archetecture
 is proven
 75% accuracy
 processing
-taought me
+taught me
 effective validation approaches
 three validation layers
 automated
