@@ -1132,3 +1132,104 @@ ensures efficient use of | /ɪnˈʃʊəz ɪˈfɪʃ.ənt juːs ɒv/ — sounds li
 computational resources | /ˌkɒm.pjʊˈteɪ.ʃən.əl rɪˈzɔː.sɪz/ — sounds like **kom-pyoo-TAY-shun-ul ri-ZOR-siz** | /ˌkɑm.pjəˈteɪ.ʃən.əl ˈri.sɔr.sɪz/ — sounds like **kahm-pyuh-TAY-shun-ul REE-sor-siz**
 while maintaining | /waɪl meɪnˈteɪ.nɪŋ/ — sounds like **WEYL mayn-TAY-ning** | /waɪl meɪnˈteɪ.nɪŋ/ — sounds like **WEYL mayn-TAY-ning**
 responsive performance | /rɪˈspɒn.sɪv pəˈfɔː.məns/ — sounds like **ri-SPON-siv pur-FOR-muns** | /rɪˈspɑn.sɪv pərˈfɔr.məns/ — sounds like **ri-SPAHN-siv pur-FOR-muns**
+graph theory | /ɡrɑːf ˈθɪə.ri/ — sounds like **GRAHF THEE-uh-ree** | /ɡræf ˈθi.ər.i/ — sounds like **GRAF THEE-ur-ee**
+provides | /prəˈvaɪdz/ — sounds like **pruh-VYEDZ** | /prəˈvaɪdz/ — sounds like **pruh-VYEDZ**
+the mathematical | /ðə ˌmæθ.əˈmæt.ɪ.kəl/ — sounds like **thuh math-uh-MAT-i-kul** | /ðə ˌmæθ.əˈmæt.ɪ.kəl/ — sounds like **thuh math-uh-MAT-i-kul**
+foundation | /faʊnˈdeɪ.ʃən/ — sounds like **fown-DAY-shun** | /faʊnˈdeɪ.ʃən/ — sounds like **fown-DAY-shun**
+for understanding | /fɔːr ˌʌn.dəˈstæn.dɪŋ/ — sounds like **FOR un-dur-STAN-ding** | /fɔr ˌʌn.dərˈstæn.dɪŋ/ — sounds like **FOR un-dur-STAN-ding**
+relationships | /rɪˈleɪ.ʃən.ʃɪps/ — sounds like **ri-LAY-shun-ships** | /rɪˈleɪ.ʃən.ʃɪps/ — sounds like **ri-LAY-shun-ships**
+in complex data | /ɪn ˈkɒm.pleks ˈdeɪ.tə/ — sounds like **in KOM-pleks DAY-tuh** | /ɪn ˈkɑm.pleks ˈdeɪ.tə/ — sounds like **in KAHM-pleks DAY-tuh**
+unlike traditional databases | /ʌnˈlaɪk trəˈdɪʃ.ən.əl ˈdeɪ.tə.beɪ.sɪz/ — sounds like **un-LYK truh-DISH-un-ul DAY-tuh-bay-siz** | /ʌnˈlaɪk trəˈdɪʃ.ən.əl ˈdeɪ.tə.beɪ.sɪz/ — sounds like **un-LYK truh-DISH-un-ul DAY-tuh-bay-siz**
+that store information | /ðæt stɔːr ˌɪn.fəˈmeɪ.ʃən/ — sounds like **that STOR in-fur-MAY-shun** | /ðæt stɔr ˌɪn.fərˈmeɪ.ʃən/ — sounds like **that STOR in-fur-MAY-shun**
+in tables | /ɪn ˈteɪ.bəlz/ — sounds like **in TAY-bulz** | /ɪn ˈteɪ.bəlz/ — sounds like **in TAY-bulz**
+graphs represent data as | /ɡrɑːfs ˌrep.rɪˈzent ˈdeɪ.tə æz/ — sounds like **GRAFS rep-ri-ZENT DAY-tuh az** | /ɡræfs ˌrep.rɪˈzent ˈdeɪ.tə æz/ — sounds like **GRAFS rep-ri-ZENT DAY-tuh az**
+networks of | /ˈnet.wɜːks ɒv/ — sounds like **NET-wurks OV** | /ˈnet.wɜrks ʌv/ — sounds like **NET-wurks UV**
+nodes and edges | /nəʊdz ænd ˈedʒ.ɪz/ — sounds like **NOHDZ and EJ-iz** | /noʊdz ænd ˈedʒ.ɪz/ — sounds like **NOHDZ and EJ-iz**
+entities and relationships | /ˈen.tɪ.tiz ænd rɪˈleɪ.ʃən.ʃɪps/ — sounds like **EN-ti-teez and ri-LAY-shun-ships** | /ˈen.tə.tiz ænd rɪˈleɪ.ʃən.ʃɪps/ — sounds like **EN-tuh-teez and ri-LAY-shun-ships**
+that can capture | /ðæt kæn ˈkæp.tʃər/ — sounds like **that kan KAP-chur** | /ðæt kæn ˈkæp.tʃər/ — sounds like **that kan KAP-chur**
+complex | /ˈkɒm.pleks/ — sounds like **KOM-pleks** | /ˈkɑm.pleks/ — sounds like **KAHM-pleks**
+multi-dimensional relationships | /ˌmʌl.ti.daɪˈmen.ʃən.əl rɪˈleɪ.ʃən.ʃɪps/ — sounds like **mul-ti-dy-MEN-shun-ul ri-LAY-shun-ships** | /ˌmʌl.ti.daɪˈmen.ʃən.əl rɪˈleɪ.ʃən.ʃɪps/ — sounds like **mul-ti-dy-MEN-shun-ul ri-LAY-shun-ships**
+naturally | /ˈnætʃ.ər.əl.i/ — sounds like **NACH-ur-ul-ee** | /ˈnætʃ.ər.əl.i/ — sounds like **NACH-ur-ul-ee**
+graph databases | /ɡrɑːf ˈdeɪ.tə.beɪ.sɪz/ — sounds like **GRAHF DAY-tuh-bay-siz** | /ɡræf ˈdeɪ.tə.beɪ.sɪz/ — sounds like **GRAF DAY-tuh-bay-siz**
+like Neo4j | /laɪk ˈniː.əʊ.fɔːr.dʒeɪ/ — sounds like **LYK NEE-oh-for-jay** | /laɪk ˈni.oʊ.fɔr.dʒeɪ/ — sounds like **LYK NEE-oh-for-jay**
+optimize storage | /ˈɒp.tɪ.maɪz ˈstɔː.rɪdʒ/ — sounds like **OP-ti-myz STOR-ij** | /ˈɑp.tə.maɪz ˈstɔr.ɪdʒ/ — sounds like **AHP-tuh-myz STOR-ij**
+and query performance | /ænd ˈkwɪər.i pəˈfɔː.məns/ — sounds like **and KWEER-ee pur-FOR-muns** | /ænd ˈkwɪr.i pərˈfɔr.məns/ — sounds like **and KWEER-ee pur-FOR-muns**
+specifically for | /spəˈsɪf.ɪ.kəl.i fɔːr/ — sounds like **spuh-SIF-i-kul-ee FOR** | /spəˈsɪf.ɪ.kəl.i fɔr/ — sounds like **spuh-SIF-i-kul-ee FOR**
+graph-structured data | /ɡrɑːf ˈstrʌk.tʃərd ˈdeɪ.tə/ — sounds like **GRAHF STRUK-churd DAY-tuh** | /ɡræf ˈstrʌk.tʃərd ˈdeɪ.tə/ — sounds like **GRAF STRUK-churd DAY-tuh**
+traditional relational databases | /trəˈdɪʃ.ən.əl rɪˈleɪ.ʃən.əl ˈdeɪ.tə.beɪ.sɪz/ — sounds like **truh-DISH-un-ul ri-LAY-shun-ul DAY-tuh-bay-siz** | /trəˈdɪʃ.ən.əl rɪˈleɪ.ʃən.əl ˈdeɪ.tə.beɪ.sɪz/ — sounds like **truh-DISH-un-ul ri-LAY-shun-ul DAY-tuh-bay-siz**
+struggle with queries | /ˈstrʌɡ.əl wɪð ˈkwɪər.iz/ — sounds like **STRUG-ul with KWEER-eez** | /ˈstrʌɡ.əl wɪθ ˈkwɪr.iz/ — sounds like **STRUG-ul with KWEER-eez**
+that require | /ðæt rɪˈkwaɪər/ — sounds like **that ri-KWYR** | /ðæt rɪˈkwaɪər/ — sounds like **that ri-KWYR**
+traversing | /trəˈvɜː.sɪŋ/ — sounds like **truh-VUR-sing** | /trəˈvɜr.sɪŋ/ — sounds like **truh-VUR-sing**
+multiple relationships | /ˈmʌl.tɪ.pəl rɪˈleɪ.ʃən.ʃɪps/ — sounds like **MUL-ti-pul ri-LAY-shun-ships** | /ˈmʌl.tə.pəl rɪˈleɪ.ʃən.ʃɪps/ — sounds like **MUL-tuh-pul ri-LAY-shun-ships**
+excel at these | /ɪkˈsel æt ðiːz/ — sounds like **ik-SEL at THEEZ** | /ɪkˈsel æt ðiz/ — sounds like **ik-SEL at THEEZ**
+multi-hop queries | /ˈmʌl.ti.hɒp ˈkwɪər.iz/ — sounds like **MUL-ti-hop KWEER-eez** | /ˈmʌl.ti.hɑp ˈkwɪr.iz/ — sounds like **MUL-ti-hahp KWEER-eez**
+that discover | /ðæt dɪˈskʌv.ər/ — sounds like **that dis-KUV-ur** | /ðæt dɪˈskʌv.ər/ — sounds like **that dis-KUV-ur**
+indirect connections and patterns | /ˌɪn.daɪˈrekt kəˈnek.ʃənz ænd ˈpæt.ənz/ — sounds like **in-dy-REKT kuh-NEK-shunz and PAT-urnz** | /ˌɪn.dəˈrekt kəˈnek.ʃənz ænd ˈpæt.ərnz/ — sounds like **in-duh-REKT kuh-NEK-shunz and PAT-urnz**
+graph algorithms | /ɡrɑːf ˈæl.ɡər.ɪð.əmz/ — sounds like **GRAHF AL-gur-i-thums** | /ɡræf ˈæl.ɡər.ɪð.əmz/ — sounds like **GRAF AL-gur-i-thums**
+enable | /ɪˈneɪ.bəl/ — sounds like **i-NAY-bul** | /ɪˈneɪ.bəl/ — sounds like **i-NAY-bul**
+sophisticated analysis | /səˈfɪs.tɪ.keɪ.tɪd əˈnæl.ɪ.sɪs/ — sounds like **suh-FIS-ti-kay-tid uh-NAL-i-sis** | /səˈfɪs.tə.keɪ.tɪd əˈnæl.ə.sɪs/ — sounds like **suh-FIS-tuh-kay-tid uh-NAL-uh-sis**
+of network structures | /ɒv ˈnet.wɜːk ˈstrʌk.tʃərz/ — sounds like **OV NET-wurk STRUK-churz** | /ʌv ˈnet.wɜrk ˈstrʌk.tʃərz/ — sounds like **UV NET-wurk STRUK-churz**
+community detection | /kəˈmjuː.nɪ.ti dɪˈtek.ʃən/ — sounds like **kuh-MYOO-ni-tee di-TEK-shun** | /kəˈmju.nə.ti dɪˈtek.ʃən/ — sounds like **kuh-MYOO-nuh-tee di-TEK-shun**
+identifies clusters of | /aɪˈden.tɪ.faɪz ˈklʌs.tərz ɒv/ — sounds like **eye-DEN-ti-fyez KLUS-turz OV** | /aɪˈden.tə.faɪz ˈklʌs.tərz ʌv/ — sounds like **eye-DEN-tuh-fyez KLUS-turz UV**
+highly connected nodes | /ˈhaɪ.li kəˈnek.tɪd nəʊdz/ — sounds like **HY-lee kuh-NEK-tid NOHDZ** | /ˈhaɪ.li kəˈnek.tɪd noʊdz/ — sounds like **HY-lee kuh-NEK-tid NOHDZ**
+useful for finding | /ˈjuːs.fəl fɔːr ˈfaɪn.dɪŋ/ — sounds like **YOOS-ful FOR FYNE-ding** | /ˈjus.fəl fɔr ˈfaɪn.dɪŋ/ — sounds like **YOOS-ful FOR FYNE-ding**
+research groups | /rɪˈsɜːtʃ ɡruːps/ — sounds like **ri-SURCH GROOPS** | /ˈri.sɜrtʃ ɡrups/ — sounds like **REE-surch GROOPS**
+or related projects | /ɔːr rɪˈleɪ.tɪd ˈprɒdʒ.ekts/ — sounds like **OR ri-LAY-tid PROJ-ekts** | /ɔr rɪˈleɪ.tɪd ˈprɑdʒ.ekts/ — sounds like **OR ri-LAY-tid PRAHJ-ekts**
+centrality measures | /senˈtræl.ɪ.ti ˈmeʒ.ərz/ — sounds like **sen-TRAL-i-tee MEZH-urz** | /senˈtræl.ə.ti ˈmeʒ.ərz/ — sounds like **sen-TRAL-uh-tee MEZH-urz**
+identify | /aɪˈden.tɪ.faɪ/ — sounds like **eye-DEN-ti-fy** | /aɪˈden.tə.faɪ/ — sounds like **eye-DEN-tuh-fy**
+the most important nodes | /ðə məʊst ɪmˈpɔː.tənt nəʊdz/ — sounds like **thuh MOHST im-POR-tunt NOHDZ** | /ðə moʊst ɪmˈpɔr.tənt noʊdz/ — sounds like **thuh MOHST im-POR-tunt NOHDZ**
+in a network | /ɪn ə ˈnet.wɜːk/ — sounds like **in uh NET-wurk** | /ɪn ə ˈnet.wɜrk/ — sounds like **in uh NET-wurk**
+pathfinding algorithms | /ˈpɑːθ.faɪn.dɪŋ ˈæl.ɡər.ɪð.əmz/ — sounds like **PAHTH-fyne-ding AL-gur-i-thums** | /ˈpæθ.faɪn.dɪŋ ˈæl.ɡər.ɪð.əmz/ — sounds like **PATH-fyne-ding AL-gur-i-thums**
+discover optimal routes | /dɪˈskʌv.ər ˈɒp.tɪ.məl ruːts/ — sounds like **dis-KUV-ur OP-ti-mul ROOTS** | /dɪˈskʌv.ər ˈɑp.tə.məl ruts/ — sounds like **dis-KUV-ur AHP-tuh-mul ROOTS**
+through relationship networks | /θruː rɪˈleɪ.ʃən.ʃɪp ˈnet.wɜːks/ — sounds like **THROO ri-LAY-shun-ship NET-wurks** | /θru rɪˈleɪ.ʃən.ʃɪp ˈnet.wɜrks/ — sounds like **THROO ri-LAY-shun-ship NET-wurks**
+knowledge graphs | /ˈnɒl.ɪdʒ ɡrɑːfs/ — sounds like **NOL-ij GRAFS** | /ˈnɑl.ɪdʒ ɡræfs/ — sounds like **NAHL-ij GRAFS**
+extend | /ɪkˈstend/ — sounds like **ik-STEND** | /ɪkˈstend/ — sounds like **ik-STEND**
+basic graph structures | /ˈbeɪ.sɪk ɡrɑːf ˈstrʌk.tʃərz/ — sounds like **BAY-sik GRAHF STRUK-churz** | /ˈbeɪ.sɪk ɡræf ˈstrʌk.tʃərz/ — sounds like **BAY-sik GRAF STRUK-churz**
+by incorporating | /baɪ ɪnˈkɔː.pər.eɪ.tɪŋ/ — sounds like **by in-KOR-pur-ay-ting** | /baɪ ɪnˈkɔr.pər.eɪ.tɪŋ/ — sounds like **by in-KOR-pur-ay-ting**
+semantic meaning | /sɪˈmæn.tɪk ˈmiː.nɪŋ/ — sounds like **si-MAN-tik MEE-ning** | /səˈmæn.tɪk ˈmi.nɪŋ/ — sounds like **suh-MAN-tik MEE-ning**
+and formal ontologies | /ænd ˈfɔː.məl ɒnˈtɒl.ə.dʒiz/ — sounds like **and FOR-mul on-TOL-uh-jeez** | /ænd ˈfɔr.məl ɑnˈtɑl.ə.dʒiz/ — sounds like **and FOR-mul ahn-TAHL-uh-jeez**
+while a simple graph | /waɪl ə ˈsɪm.pəl ɡrɑːf/ — sounds like **WYL uh SIM-pul GRAHF** | /waɪl ə ˈsɪm.pəl ɡræf/ — sounds like **WYL uh SIM-pul GRAF**
+might connect | /maɪt kəˈnekt/ — sounds like **MYT kuh-NEKT** | /maɪt kəˈnekt/ — sounds like **MYT kuh-NEKT**
+Person A | /ˈpɜː.sən eɪ/ — sounds like **PUR-sun AY** | /ˈpɜr.sən eɪ/ — sounds like **PUR-sun AY**
+to Person B | /tə ˈpɜː.sən biː/ — sounds like **tuh PUR-sun BEE** | /tu ˈpɜr.sən bi/ — sounds like **too PUR-sun BEE**
+a knowledge graph specifies | /ə ˈnɒl.ɪdʒ ɡrɑːf ˈspes.ɪ.faɪz/ — sounds like **uh NOL-ij GRAHF SPES-i-fyez** | /ə ˈnɑl.ɪdʒ ɡræf ˈspes.ə.faɪz/ — sounds like **uh NAHL-ij GRAF SPES-uh-fyez**
+that Person A | /ðæt ˈpɜː.sən eɪ/ — sounds like **that PUR-sun AY** | /ðæt ˈpɜr.sən eɪ/ — sounds like **that PUR-sun AY**
+has a colleague relationship | /hæz ə ˈkɒl.iːɡ rɪˈleɪ.ʃən.ʃɪp/ — sounds like **haz uh KOL-eeg ri-LAY-shun-ship** | /hæz ə ˈkɑl.iɡ rɪˈleɪ.ʃən.ʃɪp/ — sounds like **haz uh KAHL-eeg ri-LAY-shun-ship**
+with Person B | /wɪð ˈpɜː.sən biː/ — sounds like **with PUR-sun BEE** | /wɪθ ˈpɜr.sən bi/ — sounds like **with PUR-sun BEE**
+where colleague has | /weər ˈkɒl.iːɡ hæz/ — sounds like **WAIR KOL-eeg haz** | /wer ˈkɑl.iɡ hæz/ — sounds like **WAIR KAHL-eeg haz**
+specific semantic meaning | /spəˈsɪf.ɪk sɪˈmæn.tɪk ˈmiː.nɪŋ/ — sounds like **spuh-SIF-ik si-MAN-tik MEE-ning** | /spəˈsɪf.ɪk səˈmæn.tɪk ˈmi.nɪŋ/ — sounds like **spuh-SIF-ik suh-MAN-tik MEE-ning**
+within a broader | /wɪˈðɪn ə ˈbrɔː.dər/ — sounds like **wi-THIN uh BROR-dur** | /wɪˈθɪn ə ˈbrɔ.dər/ — sounds like **wi-THIN uh BROR-dur**
+organizational context | /ˌɔː.ɡən.aɪˈzeɪ.ʃən.əl ˈkɒn.tekst/ — sounds like **or-gun-eye-ZAY-shun-ul KON-tekst** | /ˌɔr.ɡən.aɪˈzeɪ.ʃən.əl ˈkɑn.tekst/ — sounds like **or-gun-eye-ZAY-shun-ul KAHN-tekst**
+ontology design | /ɒnˈtɒl.ə.dʒi dɪˈzaɪn/ — sounds like **on-TOL-uh-jee di-ZYNE** | /ɑnˈtɑl.ə.dʒi dɪˈzaɪn/ — sounds like **ahn-TAHL-uh-jee di-ZYNE**
+involves creating | /ɪnˈvɒlvz kriˈeɪ.tɪŋ/ — sounds like **in-VOLVZ kree-AY-ting** | /ɪnˈvɑlvz kriˈeɪ.tɪŋ/ — sounds like **in-VAHLVZ kree-AY-ting**
+formal specifications | /ˈfɔː.məl ˌspes.ɪ.fɪˈkeɪ.ʃənz/ — sounds like **FOR-mul spes-i-fi-KAY-shunz** | /ˈfɔr.məl ˌspes.ə.fəˈkeɪ.ʃənz/ — sounds like **FOR-mul spes-uh-fuh-KAY-shunz**
+of concepts, relationships | /ɒv ˈkɒn.septs rɪˈleɪ.ʃən.ʃɪps/ — sounds like **OV KON-septs ri-LAY-shun-ships** | /ʌv ˈkɑn.septs rɪˈleɪ.ʃən.ʃɪps/ — sounds like **UV KAHN-septs ri-LAY-shun-ships**
+and constraints within a domain | /ænd kənˈstreɪnts wɪˈðɪn ə dəˈmeɪn/ — sounds like **and kun-STRAYNTS wi-THIN uh duh-MAYN** | /ænd kənˈstreɪnts wɪˈθɪn ə doʊˈmeɪn/ — sounds like **and kun-STRAYNTS wi-THIN uh doh-MAYN**
+good ontologies | /ɡʊd ɒnˈtɒl.ə.dʒiz/ — sounds like **GOOD on-TOL-uh-jeez** | /ɡʊd ɑnˈtɑl.ə.dʒiz/ — sounds like **GOOD ahn-TAHL-uh-jeez**
+balance expressiveness | /ˈbæl.əns ɪkˈspres.ɪv.nəs/ — sounds like **BAL-uns ik-SPRES-iv-nus** | /ˈbæl.əns ɪkˈspres.ɪv.nəs/ — sounds like **BAL-uns ik-SPRES-iv-nus**
+with usability | /wɪð ˌjuː.zəˈbɪl.ɪ.ti/ — sounds like **with yoo-zuh-BIL-i-tee** | /wɪθ ˌju.zəˈbɪl.ə.ti/ — sounds like **with yoo-zuh-BIL-uh-tee**
+providing enough | /prəˈvaɪ.dɪŋ ɪˈnʌf/ — sounds like **pruh-VY-ding i-NUF** | /prəˈvaɪ.dɪŋ ɪˈnʌf/ — sounds like **pruh-VY-ding i-NUF**
+semantic richness | /sɪˈmæn.tɪk ˈrɪtʃ.nəs/ — sounds like **si-MAN-tik RICH-nus** | /səˈmæn.tɪk ˈrɪtʃ.nəs/ — sounds like **suh-MAN-tik RICH-nus**
+to support | /tə səˈpɔːt/ — sounds like **tuh suh-PORT** | /tu səˈpɔrt/ — sounds like **too suh-PORT**
+sophisticated | /səˈfɪs.tɪ.keɪ.tɪd/ — sounds like **suh-FIS-ti-kay-tid** | /səˈfɪs.tə.keɪ.tɪd/ — sounds like **suh-FIS-tuh-kay-tid**
+reasoning | /ˈriː.zən.ɪŋ/ — sounds like **REE-zun-ing** | /ˈri.zən.ɪŋ/ — sounds like **REE-zun-ing**
+while remaining | /waɪl rɪˈmeɪ.nɪŋ/ — sounds like **WYL ri-MAY-ning** | /waɪl rɪˈmeɪ.nɪŋ/ — sounds like **WYL ri-MAY-ning**
+comprehensible | /ˌkɒm.prɪˈhen.sɪ.bəl/ — sounds like **kom-pri-HEN-si-bul** | /ˌkɑm.prɪˈhen.sə.bəl/ — sounds like **kahm-pri-HEN-suh-bul**
+to domain experts | /tə dəˈmeɪn ˈeks.pɜːts/ — sounds like **tuh duh-MAYN EKS-purts** | /tu doʊˈmeɪn ˈeks.pɜrts/ — sounds like **too doh-MAYN EKS-purts**
+entity | /ˈen.tɪ.ti/ — sounds like **EN-ti-tee** | /ˈen.tə.ti/ — sounds like **EN-tuh-tee**
+resolution | /ˌrez.əˈluː.ʃən/ — sounds like **rez-uh-LOO-shun** | /ˌrez.əˈlu.ʃən/ — sounds like **rez-uh-LOO-shun**
+addresses the challenge of | /əˈdres.ɪz ðə ˈtʃæl.ɪndʒ ɒv/ — sounds like **uh-DRES-iz thuh CHAL-inj OV** | /əˈdres.ɪz ðə ˈtʃæl.ɪndʒ ʌv/ — sounds like **uh-DRES-iz thuh CHAL-inj UV**
+identifying | /aɪˈden.tɪ.faɪ.ɪŋ/ — sounds like **eye-DEN-ti-fy-ing** | /aɪˈden.tə.faɪ.ɪŋ/ — sounds like **eye-DEN-tuh-fy-ing**
+when different data sources | /wen ˈdɪf.ər.ənt ˈdeɪ.tə ˈsɔː.sɪz/ — sounds like **wen DIF-ur-unt DAY-tuh SOR-siz** | /wen ˈdɪf.ər.ənt ˈdeɪ.tə ˈsɔr.sɪz/ — sounds like **wen DIF-ur-unt DAY-tuh SOR-siz**
+refer to the same | /rɪˈfɜːr tə ðə seɪm/ — sounds like **ri-FUR tuh thuh SAYM** | /rɪˈfɜr tu ðə seɪm/ — sounds like **ri-FUR too thuh SAYM**
+real-world entity | /ˈriːl wɜːld ˈen.tɪ.ti/ — sounds like **REEL WURLD EN-ti-tee** | /ˈril wɜrld ˈen.tə.ti/ — sounds like **REEL WURLD EN-tuh-tee**
+research environments | /rɪˈsɜːtʃ ɪnˈvaɪ.rən.mənts/ — sounds like **ri-SURCH in-VY-run-munts** | /ˈri.sɜrtʃ ɪnˈvaɪ.rən.mənts/ — sounds like **REE-surch in-VY-run-munts**
+often contain | /ˈɒf.tən kənˈteɪn/ — sounds like **OF-tun kun-TAYN** | /ˈɔf.tən kənˈteɪn/ — sounds like **AWF-tun kun-TAYN**
+multiple references | /ˈmʌl.tɪ.pəl ˈref.ər.əns.ɪz/ — sounds like **MUL-ti-pul REF-ur-un-siz** | /ˈmʌl.tə.pəl ˈref.ər.əns.ɪz/ — sounds like **MUL-tuh-pul REF-ur-un-siz**
+to the same researcher | /tə ðə seɪm rɪˈsɜː.tʃər/ — sounds like **tuh thuh SAYM ri-SUR-chur** | /tu ðə seɪm ˈri.sɜr.tʃər/ — sounds like **too thuh SAYM REE-sur-chur**
+project or concept | /ˈprɒdʒ.ekt ɔːr ˈkɒn.sept/ — sounds like **PROJ-ekt OR KON-sept** | /ˈprɑdʒ.ekt ɔr ˈkɑn.sept/ — sounds like **PRAHJ-ekt OR KAHN-sept**
+and knowledge graphs | /ænd ˈnɒl.ɪdʒ ɡrɑːfs/ — sounds like **and NOL-ij GRAFS** | /ænd ˈnɑl.ɪdʒ ɡræfs/ — sounds like **and NAHL-ij GRAFS**
+must intelligently | /mʌst ɪnˈtel.ɪ.dʒənt.li/ — sounds like **MUST in-TEL-i-junt-lee** | /mʌst ɪnˈtel.ə.dʒənt.li/ — sounds like **MUST in-TEL-uh-junt-lee**
+merge these references | /mɜːdʒ ðiːz ˈref.ər.əns.ɪz/ — sounds like **MURJ THEEZ REF-ur-un-siz** | /mɜrdʒ ðiz ˈref.ər.əns.ɪz/ — sounds like **MURJ THEEZ REF-ur-un-siz**
+while preserving | /waɪl prɪˈzɜː.vɪŋ/ — sounds like **WYL pri-ZUR-ving** | /waɪl prɪˈzɜr.vɪŋ/ — sounds like **WYL pri-ZUR-ving**
+important distinctions | /ɪmˈpɔː.tənt dɪˈstɪŋk.ʃənz/ — sounds like **im-POR-tunt dis-TINGK-shunz** | /ɪmˈpɔr.tənt dɪˈstɪŋk.ʃənz/ — sounds like **im-POR-tunt dis-TINGK-shunz**
