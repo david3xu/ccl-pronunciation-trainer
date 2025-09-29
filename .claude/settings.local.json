@@ -35,7 +35,8 @@
       "Bash(jq:*)",
       "Bash(git reset:*)",
       "Bash(git checkout:*)",
-      "Read(///**)"
+      "Read(///**)",
+      "Bash(git log:*)"
     ],
     "deny": []
   }
