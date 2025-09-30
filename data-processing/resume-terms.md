@@ -1162,19 +1162,30 @@ that require | /ðæt rɪˈkwaɪər/ — sounds like **that ri-KWYR** | /ðæt r
 traversing | /trəˈvɜː.sɪŋ/ — sounds like **truh-VUR-sing** | /trəˈvɜr.sɪŋ/ — sounds like **truh-VUR-sing**
 multiple relationships | /ˈmʌl.tɪ.pəl rɪˈleɪ.ʃən.ʃɪps/ — sounds like **MUL-ti-pul ri-LAY-shun-ships** | /ˈmʌl.tə.pəl rɪˈleɪ.ʃən.ʃɪps/ — sounds like **MUL-tuh-pul ri-LAY-shun-ships**
 excel at these | /ɪkˈsel æt ðiːz/ — sounds like **ik-SEL at THEEZ** | /ɪkˈsel æt ðiz/ — sounds like **ik-SEL at THEEZ**
+multi-hop | /ˈmʌl.ti.hɒp/ — sounds like **MUL-ti-hop** | /ˈmʌl.ti.hɑp/ — sounds like **MUL-ti-hahp**
 multi-hop queries | /ˈmʌl.ti.hɒp ˈkwɪər.iz/ — sounds like **MUL-ti-hop KWEER-eez** | /ˈmʌl.ti.hɑp ˈkwɪr.iz/ — sounds like **MUL-ti-hahp KWEER-eez**
 that discover | /ðæt dɪˈskʌv.ər/ — sounds like **that dis-KUV-ur** | /ðæt dɪˈskʌv.ər/ — sounds like **that dis-KUV-ur**
+indirect | /ˌɪn.daɪˈrekt/ — sounds like **in-dy-REKT** | /ˌɪn.dəˈrekt/ — sounds like **in-duh-REKT**
+connections | /kəˈnek.ʃənz/ — sounds like **kuh-NEK-shunz** | /kəˈnek.ʃənz/ — sounds like **kuh-NEK-shunz**
+patterns | /ˈpæt.ənz/ — sounds like **PAT-urnz** | /ˈpæt.ɚnz/ — sounds like **PAT-urnz**
 indirect connections and patterns | /ˌɪn.daɪˈrekt kəˈnek.ʃənz ænd ˈpæt.ənz/ — sounds like **in-dy-REKT kuh-NEK-shunz and PAT-urnz** | /ˌɪn.dəˈrekt kəˈnek.ʃənz ænd ˈpæt.ərnz/ — sounds like **in-duh-REKT kuh-NEK-shunz and PAT-urnz**
 graph algorithms | /ɡrɑːf ˈæl.ɡər.ɪð.əmz/ — sounds like **GRAHF AL-gur-i-thums** | /ɡræf ˈæl.ɡər.ɪð.əmz/ — sounds like **GRAF AL-gur-i-thums**
 enable | /ɪˈneɪ.bəl/ — sounds like **i-NAY-bul** | /ɪˈneɪ.bəl/ — sounds like **i-NAY-bul**
+sophisticated | /səˈfɪs.tɪ.keɪ.tɪd/ — sounds like **suh-FIS-ti-kay-tid** | /səˈfɪs.tə.keɪ.tɪd/ — sounds like **suh-FIS-tuh-kay-tid**
 sophisticated analysis | /səˈfɪs.tɪ.keɪ.tɪd əˈnæl.ɪ.sɪs/ — sounds like **suh-FIS-ti-kay-tid uh-NAL-i-sis** | /səˈfɪs.tə.keɪ.tɪd əˈnæl.ə.sɪs/ — sounds like **suh-FIS-tuh-kay-tid uh-NAL-uh-sis**
 of network structures | /ɒv ˈnet.wɜːk ˈstrʌk.tʃərz/ — sounds like **OV NET-wurk STRUK-churz** | /ʌv ˈnet.wɜrk ˈstrʌk.tʃərz/ — sounds like **UV NET-wurk STRUK-churz**
+community | /kəˈmjuː.nɪ.ti/ — sounds like **kuh-MYOO-ni-tee** | /kəˈmju.nə.ti/ — sounds like **kuh-MYOO-nuh-tee**
+detection | /dɪˈtek.ʃən/ — sounds like **di-TEK-shun** | /dɪˈtek.ʃən/ — sounds like **di-TEK-shun**
+
 community detection | /kəˈmjuː.nɪ.ti dɪˈtek.ʃən/ — sounds like **kuh-MYOO-ni-tee di-TEK-shun** | /kəˈmju.nə.ti dɪˈtek.ʃən/ — sounds like **kuh-MYOO-nuh-tee di-TEK-shun**
+identifies | /aɪˈden.tɪ.faɪz/ — sounds like **eye-DEN-ti-fyez** | /aɪˈden.tə.faɪz/ — sounds like **eye-DEN-tuh-fyez**
+clusters | /ˈklʌs.tərz/ — sounds like **KLUS-turz** | /ˈklʌs.tərz/ — sounds like **KLUS-turz**
 identifies clusters of | /aɪˈden.tɪ.faɪz ˈklʌs.tərz ɒv/ — sounds like **eye-DEN-ti-fyez KLUS-turz OV** | /aɪˈden.tə.faɪz ˈklʌs.tərz ʌv/ — sounds like **eye-DEN-tuh-fyez KLUS-turz UV**
 highly connected nodes | /ˈhaɪ.li kəˈnek.tɪd nəʊdz/ — sounds like **HY-lee kuh-NEK-tid NOHDZ** | /ˈhaɪ.li kəˈnek.tɪd noʊdz/ — sounds like **HY-lee kuh-NEK-tid NOHDZ**
 useful for finding | /ˈjuːs.fəl fɔːr ˈfaɪn.dɪŋ/ — sounds like **YOOS-ful FOR FYNE-ding** | /ˈjus.fəl fɔr ˈfaɪn.dɪŋ/ — sounds like **YOOS-ful FOR FYNE-ding**
 research groups | /rɪˈsɜːtʃ ɡruːps/ — sounds like **ri-SURCH GROOPS** | /ˈri.sɜrtʃ ɡrups/ — sounds like **REE-surch GROOPS**
 or related projects | /ɔːr rɪˈleɪ.tɪd ˈprɒdʒ.ekts/ — sounds like **OR ri-LAY-tid PROJ-ekts** | /ɔr rɪˈleɪ.tɪd ˈprɑdʒ.ekts/ — sounds like **OR ri-LAY-tid PRAHJ-ekts**
+centrality | /senˈtræl.ɪ.ti/ — sounds like **sen-TRAL-i-tee** | /senˈtræl.ə.ti/ — sounds like **sen-TRAL-uh-tee**
 centrality measures | /senˈtræl.ɪ.ti ˈmeʒ.ərz/ — sounds like **sen-TRAL-i-tee MEZH-urz** | /senˈtræl.ə.ti ˈmeʒ.ərz/ — sounds like **sen-TRAL-uh-tee MEZH-urz**
 identify | /aɪˈden.tɪ.faɪ/ — sounds like **eye-DEN-ti-fy** | /aɪˈden.tə.faɪ/ — sounds like **eye-DEN-tuh-fy**
 the most important nodes | /ðə məʊst ɪmˈpɔː.tənt nəʊdz/ — sounds like **thuh MOHST im-POR-tunt NOHDZ** | /ðə moʊst ɪmˈpɔr.tənt noʊdz/ — sounds like **thuh MOHST im-POR-tunt NOHDZ**
@@ -1204,7 +1215,9 @@ ontology design | /ɒnˈtɒl.ə.dʒi dɪˈzaɪn/ — sounds like **on-TOL-uh-jee
 involves creating | /ɪnˈvɒlvz kriˈeɪ.tɪŋ/ — sounds like **in-VOLVZ kree-AY-ting** | /ɪnˈvɑlvz kriˈeɪ.tɪŋ/ — sounds like **in-VAHLVZ kree-AY-ting**
 formal specifications | /ˈfɔː.məl ˌspes.ɪ.fɪˈkeɪ.ʃənz/ — sounds like **FOR-mul spes-i-fi-KAY-shunz** | /ˈfɔr.məl ˌspes.ə.fəˈkeɪ.ʃənz/ — sounds like **FOR-mul spes-uh-fuh-KAY-shunz**
 of concepts, relationships | /ɒv ˈkɒn.septs rɪˈleɪ.ʃən.ʃɪps/ — sounds like **OV KON-septs ri-LAY-shun-ships** | /ʌv ˈkɑn.septs rɪˈleɪ.ʃən.ʃɪps/ — sounds like **UV KAHN-septs ri-LAY-shun-ships**
+constraints | /kənˈstreɪnts/ — sounds like **kun-STRAYNTS** | /kənˈstreɪnts/ — sounds like **kun-STRAYNTS**
 and constraints within a domain | /ænd kənˈstreɪnts wɪˈðɪn ə dəˈmeɪn/ — sounds like **and kun-STRAYNTS wi-THIN uh duh-MAYN** | /ænd kənˈstreɪnts wɪˈθɪn ə doʊˈmeɪn/ — sounds like **and kun-STRAYNTS wi-THIN uh doh-MAYN**
+ontologies | /ɒnˈtɒl.ə.dʒiz/ — sounds like **on-TOL-uh-jeez** | /ɑnˈtɑl.ə.dʒiz/ — sounds like **ahn-TAHL-uh-jeez**
 good ontologies | /ɡʊd ɒnˈtɒl.ə.dʒiz/ — sounds like **GOOD on-TOL-uh-jeez** | /ɡʊd ɑnˈtɑl.ə.dʒiz/ — sounds like **GOOD ahn-TAHL-uh-jeez**
 balance expressiveness | /ˈbæl.əns ɪkˈspres.ɪv.nəs/ — sounds like **BAL-uns ik-SPRES-iv-nus** | /ˈbæl.əns ɪkˈspres.ɪv.nəs/ — sounds like **BAL-uns ik-SPRES-iv-nus**
 with usability | /wɪð ˌjuː.zəˈbɪl.ɪ.ti/ — sounds like **with yoo-zuh-BIL-i-tee** | /wɪθ ˌju.zəˈbɪl.ə.ti/ — sounds like **with yoo-zuh-BIL-uh-tee**
