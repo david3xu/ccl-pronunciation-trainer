@@ -1480,3 +1480,260 @@ intuitively | /ɪnˈtjuː.ɪ.tɪv.li/ — sounds like **in-TYOO-i-tiv-lee** | /�
 while managing user expectations | /waɪl ˈmæn.ɪ.dʒɪŋ ˈjuː.zər ˌek.spekˈteɪ.ʃənz/ — sounds like **wyl MAN-i-jing YOO-zur ek-spek-TAY-shunz** | /waɪl ˈmæn.ə.dʒɪŋ ˈju.zɚ ˌek.spekˈteɪ.ʃənz/ — sounds like **wyl MAN-uh-jing YOO-zur ek-spek-TAY-shunz**
 about AI limitations | /əˈbaʊt eɪ aɪ ˌlɪm.ɪˈteɪ.ʃənz/ — sounds like **uh-BOWT AY EYE lim-i-TAY-shunz** | /əˈbaʊt eɪ aɪ ˌlɪm.əˈteɪ.ʃənz/ — sounds like **uh-BOWT AY EYE lim-uh-TAY-shunz**
 and processing times | /ænd ˈprəʊ.ses.ɪŋ taɪmz/ — sounds like **and PROH-ses-ing TYMZ** | /ænd ˈproʊ.ses.ɪŋ taɪmz/ — sounds like **and PROH-ses-ing TYMZ**
+
+version control | /ˈvɜː.ʃən kənˈtrəʊl/ — sounds like **VUR-shun kun-TROHL** | /ˈvɜr.ʒən kənˈtroʊl/ — sounds like **VUR-zhun kun-TROHL**
+and collaborative development | /ænd kəˈlæb.ər.ə.tɪv dɪˈvel.əp.mənt/ — sounds like **and kuh-LAB-ur-uh-tiv di-VEL-up-munt** | /ænd kəˈlæb.ɚ.ə.tɪv dɪˈvel.əp.mənt/ — sounds like **and kuh-LAB-ur-uh-tiv di-VEL-up-munt**
+git workflows | /ɡɪt ˈwɜːk.fləʊz/ — sounds like **GIT WURK-flohz** | /ɡɪt ˈwɜrk.floʊz/ — sounds like **GIT WURK-flohz**
+for AI projects | /fɔːr eɪ aɪ ˈprɒdʒ.ekts/ — sounds like **for AY EYE PROJ-ekts** | /fɔr eɪ aɪ ˈprɑdʒ.ekts/ — sounds like **for AY EYE PRAHJ-ekts**
+git version control | /ɡɪt ˈvɜː.ʃən kənˈtrəʊl/ — sounds like **GIT VUR-shun kun-TROHL** | /ɡɪt ˈvɜr.ʒən kənˈtroʊl/ — sounds like **GIT VUR-zhun kun-TROHL**
+becomes particularly important | /bɪˈkʌmz pəˈtɪk.jʊ.lə.li ɪmˈpɔː.tənt/ — sounds like **bi-KUMZ puh-TIK-yuh-luh-lee im-POR-tunt** | /bɪˈkʌmz pɚˈtɪk.jə.lɚ.li ɪmˈpɔr.tənt/ — sounds like **bi-KUMZ pur-TIK-yuh-lur-lee im-POR-tunt**
+in AI development | /ɪn eɪ aɪ dɪˈvel.əp.mənt/ — sounds like **in AY EYE di-VEL-up-munt** | /ɪn eɪ aɪ dɪˈvel.əp.mənt/ — sounds like **in AY EYE di-VEL-up-munt**
+where model configurations | /weər ˈmɒd.əl kənˌfɪɡ.jʊˈreɪ.ʃənz/ — sounds like **wair MOD-ul kun-fig-yuh-RAY-shunz** | /wer ˈmɑd.əl kənˌfɪɡ.jəˈreɪ.ʃənz/ — sounds like **wair MAHD-ul kun-fig-yuh-RAY-shunz**
+prompt templates | /prɒmpt ˈtem.pleɪts/ — sounds like **PROMPT TEM-playts** | /prɑmpt ˈtem.pleɪts/ — sounds like **PRAHMT TEM-playts**
+and training data | /ænd ˈtreɪ.nɪŋ ˈdeɪ.tə/ — sounds like **and TRAY-ning DAY-tuh** | /ænd ˈtreɪ.nɪŋ ˈdeɪ.tə/ — sounds like **and TRAY-ning DAY-tuh**
+require careful versioning | /rɪˈkwaɪə ˈkeə.fəl ˈvɜː.ʃən.ɪŋ/ — sounds like **ri-KWYR KAIR-ful VUR-shun-ing** | /rɪˈkwaɪɚ ˈker.fəl ˈvɜr.ʒən.ɪŋ/ — sounds like **ri-KWYR KAIR-ful VUR-zhun-ing**
+and collaboration management | /ænd kəˌlæb.əˈreɪ.ʃən ˈmæn.ɪdʒ.mənt/ — sounds like **and kuh-lab-uh-RAY-shun MAN-ij-munt** | /ænd kəˌlæb.ɚˈeɪ.ʃən ˈmæn.ɪdʒ.mənt/ — sounds like **and kuh-lab-ur-AY-shun MAN-ij-munt**
+branching strategies | /ˈbrɑːn.tʃɪŋ ˈstræt.ə.dʒiz/ — sounds like **BRAHN-ching STRAT-uh-jeez** | /ˈbræn.tʃɪŋ ˈstræt.ə.dʒiz/ — sounds like **BRAN-ching STRAT-uh-jeez**
+must accommodate | /mʌst əˈkɒm.ə.deɪt/ — sounds like **MUST uh-KOM-uh-dayt** | /mʌst əˈkɑm.ə.deɪt/ — sounds like **MUST uh-KAHM-uh-dayt**
+experimentation | /ɪkˌsper.ɪ.menˈteɪ.ʃən/ — sounds like **ik-sper-i-men-TAY-shun** | /ɪkˌsper.əˌmenˈteɪ.ʃən/ — sounds like **ik-sper-uh-men-TAY-shun**
+with different models | /wɪð ˈdɪf.ər.ənt ˈmɒd.əlz/ — sounds like **with DIF-ur-unt MOD-ulz** | /wɪθ ˈdɪf.ɚ.ənt ˈmɑd.əlz/ — sounds like **with DIF-ur-unt MAHD-ulz**
+prompt variations | /prɒmpt ˌveə.riˈeɪ.ʃənz/ — sounds like **PROMPT vair-ee-AY-shunz** | /prɑmpt ˌver.iˈeɪ.ʃənz/ — sounds like **PRAHMT ver-ee-AY-shunz**
+and architectural approaches | /ænd ˌɑː.kɪˈtek.tʃər.əl əˈprəʊ.tʃɪz/ — sounds like **and ar-ki-TEK-chur-ul uh-PROH-chiz** | /ænd ˌɑr.kəˈtek.tʃɚ.əl əˈproʊ.tʃəz/ — sounds like **and ar-kuh-TEK-chur-ul uh-PROH-chuhz**
+while maintaining | /waɪl meɪnˈteɪ.nɪŋ/ — sounds like **wyl mayn-TAY-ning** | /waɪl meɪnˈteɪ.nɪŋ/ — sounds like **wyl mayn-TAY-ning**
+stable production systems | /ˈsteɪ.bəl prəˈdʌk.ʃən ˈsɪs.təmz/ — sounds like **STAY-bul pruh-DUK-shun SIS-tumz** | /ˈsteɪ.bəl prəˈdʌk.ʃən ˈsɪs.təmz/ — sounds like **STAY-bul pruh-DUK-shun SIS-tumz**
+data versioning | /ˈdeɪ.tə ˈvɜː.ʃən.ɪŋ/ — sounds like **DAY-tuh VUR-shun-ing** | /ˈdeɪ.tə ˈvɜr.ʒən.ɪŋ/ — sounds like **DAY-tuh VUR-zhun-ing**
+extends traditional code versioning | /ɪkˈstendz trəˈdɪʃ.ən.əl kəʊd ˈvɜː.ʃən.ɪŋ/ — sounds like **ik-STENDZ truh-DISH-un-ul KOHD VUR-shun-ing** | /ɪkˈstendz trəˈdɪʃ.ən.əl koʊd ˈvɜr.ʒən.ɪŋ/ — sounds like **ik-STENDZ truh-DISH-un-ul KOHD VUR-zhun-ing**
+to handle datasets | /tə ˈhæn.dəl ˈdeɪ.tə.sets/ — sounds like **tuh HAN-dul DAY-tuh-sets** | /tu ˈhæn.dəl ˈdeɪ.tə.sets/ — sounds like **too HAN-dul DAY-tuh-sets**
+model weights | /ˈmɒd.əl weɪts/ — sounds like **MOD-ul WAYTS** | /ˈmɑd.əl weɪts/ — sounds like **MAHD-ul WAYTS**
+and configuration files | /ænd kənˌfɪɡ.jʊˈreɪ.ʃən faɪlz/ — sounds like **and kun-fig-yuh-RAY-shun FYLZ** | /ænd kənˌfɪɡ.jəˈreɪ.ʃən faɪlz/ — sounds like **and kun-fig-yuh-RAY-shun FYLZ**
+that change frequently | /ðæt tʃeɪndʒ ˈfriː.kwənt.li/ — sounds like **that CHAYNJ FREE-kwunt-lee** | /ðæt tʃeɪndʒ ˈfri.kwənt.li/ — sounds like **that CHAYNJ FREE-kwunt-lee**
+during AI development | /ˈdjʊə.rɪŋ eɪ aɪ dɪˈvel.əp.mənt/ — sounds like **DYOOR-ing AY EYE di-VEL-up-munt** | /ˈdʊr.ɪŋ eɪ aɪ dɪˈvel.əp.mənt/ — sounds like **DOOR-ing AY EYE di-VEL-up-munt**
+collaboration patterns | /kəˌlæb.əˈreɪ.ʃən ˈpæt.ənz/ — sounds like **kuh-lab-uh-RAY-shun PAT-unz** | /kəˌlæb.ɚˈeɪ.ʃən ˈpæt.ɚnz/ — sounds like **kuh-lab-ur-AY-shun PAT-urnz**
+code review | /kəʊd rɪˈvjuː/ — sounds like **KOHD ri-VYOO** | /koʊd rɪˈvju/ — sounds like **KOHD ri-VYOO**
+requires understanding | /rɪˈkwaɪəz ˌʌn.dəˈstæn.dɪŋ/ — sounds like **ri-KWYURZ un-dur-STAN-ding** | /rɪˈkwaɪɚz ˌʌn.dɚˈstæn.dɪŋ/ — sounds like **ri-KWYURZ un-dur-STAN-ding**
+both traditional | /bəʊθ trəˈdɪʃ.ən.əl/ — sounds like **bohth truh-DISH-un-ul** | /boʊθ trəˈdɪʃ.ən.əl/ — sounds like **bohth truh-DISH-un-ul**
+software engineering | /ˈsɒft.weər ˌen.dʒɪˈnɪə.rɪŋ/ — sounds like **SOFT-wair en-ji-NEER-ing** | /ˈsɔft.wer ˌen.dʒəˈnɪr.ɪŋ/ — sounds like **SAWFT-wair en-juh-NEER-ing**
+practices | /ˈpræk.tɪs.ɪz/ — sounds like **PRAK-tis-iz** | /ˈpræk.tə.səz/ — sounds like **PRAK-tuh-suhz**
+and AI-specific considerations | /ænd eɪ aɪ spəˈsɪf.ɪk kənˌsɪd.əˈreɪ.ʃənz/ — sounds like **and AY EYE spuh-SIF-ik kun-sid-uh-RAY-shunz** | /ænd eɪ aɪ spəˈsɪf.ɪk kənˌsɪd.ɚˈeɪ.ʃənz/ — sounds like **and AY EYE spuh-SIF-ik kun-sid-ur-AY-shunz**
+like model evaluation metrics | /laɪk ˈmɒd.əl ɪˌvæl.juˈeɪ.ʃən ˈmet.rɪks/ — sounds like **lyk MOD-ul i-val-yoo-AY-shun MET-riks** | /laɪk ˈmɑd.əl ɪˌvæl.juˈeɪ.ʃən ˈmet.rɪks/ — sounds like **lyk MAHD-ul i-val-yoo-AY-shun MET-riks**
+and prompt effectiveness | /ænd prɒmpt ɪˈfek.tɪv.nəs/ — sounds like **and PROMPT i-FEK-tiv-nus** | /ænd prɑmpt əˈfek.tɪv.nəs/ — sounds like **and PRAHMT uh-FEK-tiv-nus**
+documentation standards | /ˌdɒk.jʊ.menˈteɪ.ʃən ˈstæn.dədz/ — sounds like **dok-yuh-men-TAY-shun STAN-dudz** | /ˌdɑk.jəˌmenˈteɪ.ʃən ˈstæn.dɚdz/ — sounds like **dahk-yuh-men-TAY-shun STAN-durdz**
+become crucial | /bɪˈkʌm ˈkruː.ʃəl/ — sounds like **bi-KUM KROO-shul** | /bɪˈkʌm ˈkru.ʃəl/ — sounds like **bi-KUM KROO-shul**
+when multiple team members | /wen ˈmʌl.tɪ.pəl tiːm ˈmem.bəz/ — sounds like **wen MUL-ti-pul TEEM MEM-buhz** | /wen ˈmʌl.tə.pəl tim ˈmem.bɚz/ — sounds like **wen MUL-tuh-pul TEEM MEM-burz**
+need to understand | /niːd tə ˌʌn.dəˈstænd/ — sounds like **NEED tuh un-dur-STAND** | /nid tu ˌʌn.dɚˈstænd/ — sounds like **NEED too un-dur-STAND**
+complex AI architectures | /ˈkɒm.pleks eɪ aɪ ˈɑː.kɪ.tek.tʃəz/ — sounds like **KOM-pleks AY EYE AR-ki-tek-chuhz** | /ˈkɑm.pleks eɪ aɪ ˈɑr.kə.tek.tʃɚz/ — sounds like **KAHM-pleks AY EYE AR-kuh-tek-churz**
+agent behaviors | /ˈeɪ.dʒənt bɪˈheɪv.jəz/ — sounds like **AY-junt bi-HAYV-yuhz** | /ˈeɪ.dʒənt bɪˈheɪv.jɚz/ — sounds like **AY-junt bi-HAYV-yurz**
+and system integration patterns | /ænd ˈsɪs.təm ˌɪn.tɪˈɡreɪ.ʃən ˈpæt.ənz/ — sounds like **and SIS-tum in-ti-GRAY-shun PAT-unz** | /ænd ˈsɪs.təm ˌɪn.təˈɡreɪ.ʃən ˈpæt.ɚnz/ — sounds like **and SIS-tum in-tuh-GRAY-shun PAT-urnz**
+continuous integration | /kənˈtɪn.ju.əs ˌɪn.tɪˈɡreɪ.ʃən/ — sounds like **kun-TIN-yoo-us in-ti-GRAY-shun** | /kənˈtɪn.ju.əs ˌɪn.təˈɡreɪ.ʃən/ — sounds like **kun-TIN-yoo-us in-tuh-GRAY-shun**
+must handle model testing | /mʌst ˈhæn.dəl ˈmɒd.əl ˈtest.ɪŋ/ — sounds like **MUST HAN-dul MOD-ul TEST-ing** | /mʌst ˈhæn.dəl ˈmɑd.əl ˈtest.ɪŋ/ — sounds like **MUST HAN-dul MAHD-ul TEST-ing**
+performance validation | /pəˈfɔː.məns ˌvæl.ɪˈdeɪ.ʃən/ — sounds like **pur-FAWR-muns val-i-DAY-shun** | /pɚˈfɔr.məns ˌvæl.əˈdeɪ.ʃən/ — sounds like **pur-FAWR-muns val-uh-DAY-shun**
+and integration testing | /ænd ˌɪn.tɪˈɡreɪ.ʃən ˈtest.ɪŋ/ — sounds like **and in-ti-GRAY-shun TEST-ing** | /ænd ˌɪn.təˈɡreɪ.ʃən ˈtest.ɪŋ/ — sounds like **and in-tuh-GRAY-shun TEST-ing**
+across multiple AI components | /əˈkrɒs ˈmʌl.tɪ.pəl eɪ aɪ kəmˈpəʊ.nənts/ — sounds like **uh-KROSS MUL-ti-pul AY EYE kum-POH-nunts** | /əˈkrɔs ˈmʌl.tə.pəl eɪ aɪ kəmˈpoʊ.nənts/ — sounds like **uh-KRAWS MUL-tuh-pul AY EYE kum-POH-nunts**
+docker containers | /ˈdɒk.ər kənˈteɪ.nəz/ — sounds like **DOK-ur kun-TAY-nuhz** | /ˈdɑk.ɚ kənˈteɪ.nɚz/ — sounds like **DAHK-ur kun-TAY-nurz**
+provides consistent environments | /prəˈvaɪdz kənˈsɪs.tənt ɪnˈvaɪ.rən.mənts/ — sounds like **pruh-VYDZ kun-SIS-tunt in-VY-run-munts** | /prəˈvaɪdz kənˈsɪs.tənt ɪnˈvaɪ.rən.mənts/ — sounds like **pruh-VYDZ kun-SIS-tunt in-VY-run-munts**
+that often depend on | /ðæt ˈɒf.ən dɪˈpend ɒn/ — sounds like **that OF-un di-PEND on** | /ðæt ˈɔf.ən dɪˈpend ɑn/ — sounds like **that AWF-un di-PEND ahn**
+specific Python versions | /spəˈsɪf.ɪk ˈpaɪ.θən ˈvɜː.ʃənz/ — sounds like **spuh-SIF-ik PY-thun VUR-shunz** | /spəˈsɪf.ɪk ˈpaɪ.θɑn ˈvɝ.ʒənz/ — sounds like **spuh-SIF-ik PY-thahn VUR-zhunz**
+model libraries | /ˈmɒd.əl ˈlaɪ.brər.iz/ — sounds like **MOD-ul LY-brur-eez** | /ˈmɑ.dəl ˈlaɪ.brer.iz/ — sounds like **MAH-duhl LY-brer-eez**
+and system configurations | /ænd ˈsɪs.təm kənˌfɪg.jʊˈreɪ.ʃənz/ — sounds like **and SIS-tum kun-fig-yur-AY-shunz** | /ænd ˈsɪs.təm kənˌfɪg.jəˈreɪ.ʃənz/ — sounds like **and SIS-tum kun-fig-yur-AY-shunz**
+containerization | /kənˌteɪ.nər.aɪˈzeɪ.ʃən/ — sounds like **kun-tay-nur-y-ZAY-shun** | /kənˌteɪ.nɚ.əˈzeɪ.ʃən/ — sounds like **kun-tay-nur-uh-ZAY-shun**
+ensures that applications | /ɪnˈʃʊəz ðæt ˌæp.lɪˈkeɪ.ʃənz/ — sounds like **in-SHOORZ that ap-li-KAY-shunz** | /ɪnˈʃʊrz ðæt ˌæp.ləˈkeɪ.ʃənz/ — sounds like **in-SHOORZ that ap-luh-KAY-shunz**
+work consistently | /wɜːk kənˈsɪs.tənt.li/ — sounds like **WURK kun-SIS-tunt-lee** | /wɝk kənˈsɪs.tənt.li/ — sounds like **WURK kun-SIS-tunt-lee**
+across development, testing | /əˈkrɒs dɪˈvel.əp.mənt, ˈtest.ɪŋ/ — sounds like **uh-KROSS di-VEL-up-munt, TEST-ing** | /əˈkrɔs dɪˈvel.əp.mənt, ˈtest.ɪŋ/ — sounds like **uh-KRAWS di-VEL-up-munt, TEST-ing**
+and production environments | /ænd prəˈdʌk.ʃən ɪnˈvaɪ.rən.mənts/ — sounds like **and pruh-DUK-shun in-VY-run-munts** | /ænd prəˈdʌk.ʃən ɪnˈvaɪ.rən.mənts/ — sounds like **and pruh-DUK-shun in-VY-run-munts**
+dependency management | /dɪˈpen.dən.si ˈmæn.ɪdʒ.mənt/ — sounds like **di-PEN-dun-see MAN-ij-munt** | /dɪˈpen.dən.si ˈmæn.ɪdʒ.mənt/ — sounds like **di-PEN-dun-see MAN-ij-munt**
+becomes particularly | /bɪˈkʌmz pəˈtɪk.jʊ.lə.li/ — sounds like **bi-KUMZ puh-TIK-yuh-luh-lee** | /bɪˈkʌmz pɚˈtɪk.jə.lɚ.li/ — sounds like **bi-KUMZ pur-TIK-yuh-lur-lee**
+challenging | /ˈtʃæl.ɪn.dʒɪŋ/ — sounds like **CHAL-in-jing** | /ˈtʃæl.ən.dʒɪŋ/ — sounds like **CHAL-un-jing**
+that often require | /ðæt ˈɒf.ən rɪˈkwaɪə/ — sounds like **that OF-un ri-KWY-ur** | /ðæt ˈɔf.ən rɪˈkwaɪɚ/ — sounds like **that AWF-un ri-KWY-ur**
+specific version of | /spəˈsɪf.ɪk ˈvɜː.ʃən ɒv/ — sounds like **spuh-SIF-ik VUR-shun ov** | /spəˈsɪf.ɪk ˈvɝ.ʒən ʌv/ — sounds like **spuh-SIF-ik VUR-zhun uhv**
+machine learning libraries | /məˈʃiːn ˈlɜː.nɪŋ ˈlaɪ.brər.iz/ — sounds like **muh-SHEEN LUR-ning LY-brur-eez** | /məˈʃin ˈlɝ.nɪŋ ˈlaɪ.brer.iz/ — sounds like **muh-SHEEN LUR-ning LY-brer-eez**
+model frameworks | /ˈmɒd.əl ˈfreɪm.wɜːks/ — sounds like **MOD-ul FRAYM-wurks** | /ˈmɑ.dəl ˈfreɪm.wɝks/ — sounds like **MAH-duhl FRAYM-wurks**
+and system tools | /ænd ˈsɪs.təm tuːlz/ — sounds like **and SIS-tum TOOLZ** | /ænd ˈsɪs.təm tulz/ — sounds like **and SIS-tum TOOLZ**
+docker helps | /ˈdɒk.ər helps/ — sounds like **DOK-ur HELPS** | /ˈdɑk.ɚ helps/ — sounds like **DAHK-ur HELPS**
+isolate | /ˈaɪ.sə.leɪt/ — sounds like **EYE-suh-layt** | /ˈaɪ.sə.leɪt/ — sounds like **EYE-suh-layt**
+these dependencies | /ðiːz dɪˈpen.dən.siz/ — sounds like **THEEZ di-PEN-dun-seez** | /ðiz dɪˈpen.dən.siz/ — sounds like **THEEZ di-PEN-dun-seez**
+and prevent conflicts | /ænd prɪˈvent ˈkɒn.flɪkts/ — sounds like **and pri-VENT KON-flikts** | /ænd prɪˈvent ˈkɑn.flɪkts/ — sounds like **and pri-VENT KAHN-flikts**
+resource allocation | /rɪˈzɔːs ˌæl.əˈkeɪ.ʃən/ — sounds like **ri-ZAWRS al-uh-KAY-shun** | /rɪˈsɔrs ˌæl.əˈkeɪ.ʃən/ — sounds like **ri-SAWRS al-uh-KAY-shun**
+through docker | /θruː ˈdɒk.ər/ — sounds like **THROO DOK-ur** | /θru ˈdɑk.ɚ/ — sounds like **THROO DAHK-ur**
+enables efficient management of | /ɪnˈeɪ.bəlz ɪˈfɪʃ.ənt ˈmæn.ɪdʒ.mənt ɒv/ — sounds like **in-AY-bulz i-FISH-unt MAN-ij-munt ov** | /ɪnˈeɪ.bəlz ɪˈfɪʃ.ənt ˈmæn.ɪdʒ.mənt ʌv/ — sounds like **in-AY-bulz i-FISH-unt MAN-ij-munt uhv**
+computational resources | /ˌkɒm.pjʊˈteɪ.ʃən.əl rɪˈzɔː.sɪz/ — sounds like **kom-pyoo-TAY-shun-ul ri-ZAW-siz** | /ˌkɑm.pjəˈteɪ.ʃən.əl rɪˈsɔr.sɪz/ — sounds like **kahm-pyoo-TAY-shun-ul ri-SAWR-siz**
+particularly important | /pəˈtɪk.jʊ.lə.li ɪmˈpɔː.tənt/ — sounds like **puh-TIK-yuh-luh-lee im-PAWR-tunt** | /pɚˈtɪk.jə.lɚ.li ɪmˈpɔr.tənt/ — sounds like **pur-TIK-yuh-lur-lee im-PAWR-tunt**
+that require GPU access | /ðæt rɪˈkwaɪə dʒiː piː ˈjuː ˈæk.ses/ — sounds like **that ri-KWY-ur JEE PEE YOO AK-sess** | /ðæt rɪˈkwaɪɚ dʒi pi ˈju ˈæk.ses/ — sounds like **that ri-KWY-ur JEE PEE YOO AK-sess**
+or substantial | /ɔː səbˈstæn.ʃəl/ — sounds like **awr sub-STAN-shul** | /ɔr səbˈstæn.ʃəl/ — sounds like **awr sub-STAN-shul**
+memory allocation | /ˈmem.ər.i ˌæl.əˈkeɪ.ʃən/ — sounds like **MEM-uh-ree al-uh-KAY-shun** | /ˈmem.ər.i ˌæl.əˈkeɪ.ʃən/ — sounds like **MEM-uh-ree al-uh-KAY-shun**
+container orchestration | /kənˈteɪ.nər ˌɔː.kɪˈstreɪ.ʃən/ — sounds like **kun-TAY-nur awr-ki-STRAY-shun** | /kənˈteɪ.nɚ ˌɔr.kəˈstreɪ.ʃən/ — sounds like **kun-TAY-nur awr-kuh-STRAY-shun**
+using tools like | /ˈjuː.zɪŋ tuːlz laɪk/ — sounds like **YOO-zing TOOLZ lyk** | /ˈju.zɪŋ tulz laɪk/ — sounds like **YOO-zing TOOLZ lyk**
+Docker Compose | /ˈdɒk.ər kəmˈpəʊz/ — sounds like **DOK-ur kum-POHZ** | /ˈdɑk.ɚ kəmˈpoʊz/ — sounds like **DAHK-ur kum-POHZ**
+or Kubernetes | /ɔː ˈkuː.bəˌneɪ.tiːz/ — sounds like **awr KOO-buh-nay-teez** | /ɔr ˈku.bɚˌneɪ.tiz/ — sounds like **awr KOO-bur-nay-teez**
+enables complex AI applications | /ɪnˈeɪ.bəlz ˈkɒm.pleks eɪ aɪ ˌæp.lɪˈkeɪ.ʃənz/ — sounds like **in-AY-bulz KOM-pleks AY EYE ap-li-KAY-shunz** | /ɪnˈeɪ.bəlz ˈkɑm.pleks eɪ aɪ ˌæp.ləˈkeɪ.ʃənz/ — sounds like **in-AY-bulz KAHM-pleks AY EYE ap-luh-KAY-shunz**
+with multiple services | /wɪð ˈmʌl.tɪ.pəl ˈsɜː.vɪ.sɪz/ — sounds like **with MUL-ti-pul SUR-vi-siz** | /wɪð ˈmʌl.tə.pəl ˈsɝ.və.səz/ — sounds like **with MUL-tuh-pul SUR-vuh-suhz**
+to deploy and scale | /tə dɪˈplɔɪ ænd skeɪl/ — sounds like **tuh di-PLOY and SKAYL** | /tu dɪˈplɔɪ ænd skeɪl/ — sounds like **too di-PLOY and SKAYL**
+effectively | /ɪˈfek.tɪv.li/ — sounds like **i-FEK-tiv-lee** | /əˈfek.tɪv.li/ — sounds like **uh-FEK-tiv-lee**
+environment configuration | /ɪnˈvaɪ.rən.mənt kənˌfɪg.jʊˈreɪ.ʃən/ — sounds like **in-VY-run-munt kun-fig-yur-AY-shun** | /ɪnˈvaɪ.rən.mənt kənˌfɪg.jəˈreɪ.ʃən/ — sounds like **in-VY-run-munt kun-fig-yur-AY-shun**
+through environment variables | /θruː ɪnˈvaɪ.rən.mənt ˈveə.ri.ə.bəlz/ — sounds like **THROO in-VY-run-munt VAIR-ee-uh-bulz** | /θru ɪnˈvaɪ.rən.mənt ˈver.i.ə.bəlz/ — sounds like **THROO in-VY-run-munt VAIR-ee-uh-bulz**
+and configuration files | /ænd kənˌfɪg.jʊˈreɪ.ʃən faɪlz/ — sounds like **and kun-fig-yur-AY-shun FYLZ** | /ænd kənˌfɪg.jəˈreɪ.ʃən faɪlz/ — sounds like **and kun-fig-yur-AY-shun FYLZ**
+allows AI applications | /əˈlaʊz eɪ aɪ ˌæp.lɪˈkeɪ.ʃənz/ — sounds like **uh-LOWZ AY EYE ap-li-KAY-shunz** | /əˈlaʊz eɪ aɪ ˌæp.ləˈkeɪ.ʃənz/ — sounds like **uh-LOWZ AY EYE ap-luh-KAY-shunz**
+to adapt to | /tə əˈdæpt tuː/ — sounds like **tuh uh-DAPT too** | /tu əˈdæpt tu/ — sounds like **too uh-DAPT too**
+different deployment contexts | /ˈdɪf.rənt dɪˈplɔɪ.mənt ˈkɒn.teksts/ — sounds like **DIF-runt di-PLOY-munt KON-teksts** | /ˈdɪf.rənt dɪˈplɔɪ.mənt ˈkɑn.teksts/ — sounds like **DIF-runt di-PLOY-munt KAHN-teksts**
+while maintaining | /waɪl meɪnˈteɪ.nɪŋ/ — sounds like **wyl mayn-TAY-ning** | /waɪl meɪnˈteɪ.nɪŋ/ — sounds like **wyl mayn-TAY-ning**
+consistent behavior | /kənˈsɪs.tənt bɪˈheɪ.vjə/ — sounds like **kun-SIS-tunt bi-HAYV-yuh** | /kənˈsɪs.tənt bɪˈheɪ.vjɚ/ — sounds like **kun-SIS-tunt bi-HAYV-yur**
+health monitoring | /helθ ˈmɒn.ɪ.tər.ɪŋ/ — sounds like **HELTH MON-i-tur-ing** | /helθ ˈmɑn.ə.tɚ.ɪŋ/ — sounds like **HELTH MAHN-uh-tur-ing**
+for containerized AI applications | /fɔː kənˈteɪ.nər.aɪzd eɪ aɪ ˌæp.lɪˈkeɪ.ʃənz/ — sounds like **fawr kun-TAY-nur-yzd AY EYE ap-li-KAY-shunz** | /fɔr kənˈteɪ.nɚ.aɪzd eɪ aɪ ˌæp.ləˈkeɪ.ʃənz/ — sounds like **fawr kun-TAY-nur-yzd AY EYE ap-luh-KAY-shunz**
+requires understanding | /rɪˈkwaɪəz ˌʌn.dəˈstæn.dɪŋ/ — sounds like **ri-KWYURZ un-dur-STAN-ding** | /rɪˈkwaɪɚz ˌʌn.dɚˈstæn.dɪŋ/ — sounds like **ri-KWYURZ un-dur-STAN-ding**
+AI-specific metrics | /eɪ aɪ spəˈsɪf.ɪk ˈmet.rɪks/ — sounds like **AY EYE spuh-SIF-ik MET-riks** | /eɪ aɪ spəˈsɪf.ɪk ˈmet.rɪks/ — sounds like **AY EYE spuh-SIF-ik MET-riks**
+model performance | /ˈmɒd.əl pəˈfɔː.məns/ — sounds like **MOD-ul pur-FAWR-muns** | /ˈmɑ.dəl pɚˈfɔr.məns/ — sounds like **MAH-duhl pur-FAWR-muns**
+response quality | /rɪˈspɒns ˈkwɒl.ə.ti/ — sounds like **ri-SPONS KWOL-uh-tee** | /rɪˈspɑns ˈkwɑl.ə.ti/ — sounds like **ri-SPAHNS KWAHL-uh-tee**
+
+research environment | /rɪˈsɜːtʃ ɪnˈvaɪ.rən.mənt/ — sounds like **ri-SURCH in-VY-run-munt** | /rɪˈsɝtʃ ɪnˈvaɪ.rən.mənt/ — sounds like **ri-SURCH in-VY-run-munt**
+technologies | /tekˈnɒl.ə.dʒiz/ — sounds like **tek-NOL-uh-jeez** | /tekˈnɑl.ə.dʒiz/ — sounds like **tek-NAHL-uh-jeez**
+high-performance computing | /haɪ pəˈfɔː.məns kəmˈpjuː.tɪŋ/ — sounds like **HY pur-FAWR-muns kum-PYOO-ting** | /haɪ pɚˈfɔr.məns kəmˈpju.tɪŋ/ — sounds like **HY pur-FAWR-muns kum-PYOO-ting**
+often available | /ˈɒf.ən əˈveɪ.lə.bəl/ — sounds like **OF-un uh-VAY-luh-bul** | /ˈɔf.ən əˈveɪ.lə.bəl/ — sounds like **AWF-un uh-VAY-luh-bul**
+in research institutions | /ɪn rɪˈsɜːtʃ ˌɪn.stɪˈtjuː.ʃənz/ — sounds like **in ri-SURCH in-sti-TYOO-shunz** | /ɪn rɪˈsɝtʃ ˌɪn.stəˈtu.ʃənz/ — sounds like **in ri-SURCH in-stuh-TOO-shunz**
+provide computational resources | /prəˈvaɪd ˌkɒm.pjʊˈteɪ.ʃən.əl rɪˈzɔː.sɪz/ — sounds like **pruh-VYD kom-pyoo-TAY-shun-ul ri-ZAW-siz** | /prəˈvaɪd ˌkɑm.pjəˈteɪ.ʃən.əl rɪˈsɔr.sɪz/ — sounds like **pruh-VYD kahm-pyoo-TAY-shun-ul ri-SAWR-siz**
+for large-scale AI training | /fɔː lɑːdʒ skeɪl eɪ aɪ ˈtreɪ.nɪŋ/ — sounds like **fawr LAHRJ SKAYL AY EYE TRAY-ning** | /fɔr lɑrdʒ skeɪl eɪ aɪ ˈtreɪ.nɪŋ/ — sounds like **fawr LAHRJ SKAYL AY EYE TRAY-ning**
+and inference | /ænd ˈɪn.fər.əns/ — sounds like **and IN-fur-uns** | /ænd ˈɪn.fɚ.əns/ — sounds like **and IN-fur-uns**
+understanding how to leverage | /ˌʌn.dəˈstæn.dɪŋ haʊ tə ˈlev.ər.ɪdʒ/ — sounds like **un-dur-STAN-ding HOW tuh LEV-ur-ij** | /ˌʌn.dɚˈstæn.dɪŋ haʊ tu ˈlev.ɚ.ɪdʒ/ — sounds like **un-dur-STAN-ding HOW too LEV-ur-ij**
+these resources effectively | /ðiːz rɪˈzɔː.sɪz ɪˈfek.tɪv.li/ — sounds like **THEEZ ri-ZAW-siz i-FEK-tiv-lee** | /ðiz rɪˈsɔr.sɪz əˈfek.tɪv.li/ — sounds like **THEEZ ri-SAWR-siz uh-FEK-tiv-lee**
+can dramatically | /kæn drəˈmæt.ɪk.li/ — sounds like **kan druh-MAT-ik-lee** | /kæn drəˈmæt.ɪk.li/ — sounds like **kan druh-MAT-ik-lee**
+expand your capabilities | /ɪkˈspænd jɔː ˌkeɪ.pəˈbɪl.ə.tiz/ — sounds like **ik-SPAND yawr kay-puh-BIL-uh-teez** | /ɪkˈspænd jʊr ˌkeɪ.pəˈbɪl.ə.tiz/ — sounds like **ik-SPAND yoor kay-puh-BIL-uh-teez**
+shared data storage | /ʃeəd ˈdeɪ.tə ˈstɔː.rɪdʒ/ — sounds like **SHAIRD DAY-tuh STAWR-ij** | /ʃerd ˈdeɪ.tə ˈstɔr.ɪdʒ/ — sounds like **SHAIRD DAY-tuh STAWR-ij**
+access permissions | /ˈæk.ses pəˈmɪʃ.ənz/ — sounds like **AK-sess pur-MISH-unz** | /ˈæk.ses pɚˈmɪʃ.ənz/ — sounds like **AK-sess pur-MISH-unz**
+backup strategies | /ˈbæk.ʌp ˈstræt.ə.dʒiz/ — sounds like **BAK-up STRAT-uh-jeez** | /ˈbæk.ʌp ˈstræt.ə.dʒiz/ — sounds like **BAK-up STRAT-uh-jeez**
+collaboration protocols | /kəˌlæb.əˈreɪ.ʃən ˈprəʊ.tə.kɒlz/ — sounds like **kuh-lab-uh-RAY-shun PROH-tuh-kolz** | /kəˌlæb.əˈreɪ.ʃən ˈproʊ.tə.kɑlz/ — sounds like **kuh-lab-uh-RAY-shun PROH-tuh-kahlz**
+that enable multiple researchers | /ðæt ɪnˈeɪ.bəl ˈmʌl.tɪ.pəl rɪˈsɜː.tʃəz/ — sounds like **that in-AY-bul MUL-ti-pul ri-SUR-chuz** | /ðæt ɪnˈeɪ.bəl ˈmʌl.tə.pəl rɪˈsɝ.tʃɚz/ — sounds like **that in-AY-bul MUL-tuh-pul ri-SUR-churz**
+to work with common datasts | /tə wɜːk wɪð ˈkɒm.ən ˈdeɪ.tə.sets/ — sounds like **tuh WURK with KOM-un DAY-tuh-sets** | /tu wɝk wɪð ˈkɑm.ən ˈdeɪ.tə.sets/ — sounds like **too WURK with KAHM-un DAY-tuh-sets**
+safely | /ˈseɪf.li/ — sounds like **SAYF-lee** | /ˈseɪf.li/ — sounds like **SAYF-lee**
+data provenance | /ˈdeɪ.tə ˈprɒv.ə.nəns/ — sounds like **DAY-tuh PROV-uh-nuns** | /ˈdeɪ.tə ˈprɑv.ə.nəns/ — sounds like **DAY-tuh PRAHV-uh-nuns**
+tracking | /ˈtræk.ɪŋ/ — sounds like **TRAK-ing** | /ˈtræk.ɪŋ/ — sounds like **TRAK-ing**
+becomes crucial | /bɪˈkʌmz ˈkruː.ʃəl/ — sounds like **bi-KUMZ KROO-shul** | /bɪˈkʌmz ˈkru.ʃəl/ — sounds like **bi-KUMZ KROO-shul**
+where the source | /weə ðə sɔːs/ — sounds like **WAIR thuh SAWRS** | /wer ðə sɔrs/ — sounds like **WAIR thuh SAWRS**
+and transformation history of data | /ænd ˌtrænz.fəˈmeɪ.ʃən ˈhɪs.tər.i əv ˈdeɪ.tə/ — sounds like **and tranz-fur-MAY-shun HIS-tur-ee uv DAY-tuh** | /ænd ˌtrænz.fɚˈmeɪ.ʃən ˈhɪs.tɚ.i əv ˈdeɪ.tə/ — sounds like **and tranz-fur-MAY-shun HIS-tur-ee uv DAY-tuh**
+directly impacts | /dəˈrekt.li ˈɪm.pækts/ — sounds like **duh-REKT-lee IM-pakts** | /dəˈrekt.li ˈɪm.pækts/ — sounds like **duh-REKT-lee IM-pakts**
+scientific validity | /ˌsaɪ.ənˈtɪf.ɪk vəˈlɪd.ə.ti/ — sounds like **sy-un-TIF-ik vuh-LID-uh-tee** | /ˌsaɪ.ənˈtɪf.ɪk vəˈlɪd.ə.ti/ — sounds like **sy-un-TIF-ik vuh-LID-uh-tee**
+maintain clear records | /meɪnˈteɪn klɪər ˈrek.ɔːdz/ — sounds like **mayn-TAYN KLEER REK-awdz** | /meɪnˈteɪn klɪr ˈrek.ɔrdz/ — sounds like **mayn-TAYN KLEER REK-awrdz**
+of data origins | /əv ˈdeɪ.tə ˈɒr.ɪ.dʒɪnz/ — sounds like **uv DAY-tuh OR-i-jinz** | /əv ˈdeɪ.tə ˈɔr.ə.dʒɪnz/ — sounds like **uv DAY-tuh AWR-uh-jinz**
+and processing steps | /ænd ˈprəʊ.ses.ɪŋ steps/ — sounds like **and PROH-ses-ing STEPS** | /ænd ˈproʊ.ses.ɪŋ steps/ — sounds like **and PROH-ses-ing STEPS**
+reproducibility | /ˌriː.prə.djuː.səˈbɪl.ə.ti/ — sounds like **ree-pruh-dyoo-suh-BIL-uh-tee** | /ˌri.prə.du.səˈbɪl.ə.ti/ — sounds like **ree-pruh-doo-suh-BIL-uh-tee**
+AI experiments can be | /eɪ aɪ ɪkˈsper.ɪ.ments kæn biː/ — sounds like **AY EYE ik-SPER-i-ments kan BEE** | /eɪ aɪ ɪkˈsper.ə.ments kæn bi/ — sounds like **AY EYE ik-SPER-uh-ments kan BEE**
+repeated with identical results | /rɪˈpiː.tɪd wɪð aɪˈden.tɪ.kəl rɪˈzʌlts/ — sounds like **ri-PEE-tid with eye-DEN-ti-kul ri-ZULTS** | /rɪˈpi.tɪd wɪð aɪˈden.tə.kəl rɪˈzʌlts/ — sounds like **ri-PEE-tid with eye-DEN-tuh-kul ri-ZULTS**
+careful version control of code | /ˈkeə.fəl ˈvɜː.ʃən kənˈtrəʊl əv kəʊd/ — sounds like **KAIR-ful VUR-shun kun-TROHL uv KOHD** | /ˈker.fəl ˈvɝ.ʒən kənˈtroʊl əv koʊd/ — sounds like **KAIR-ful VUR-zhun kun-TROHL uv KOHD**
+data, model configurations | /ˈdeɪ.tə, ˈmɒd.əl kənˌfɪg.jʊˈreɪ.ʃənz/ — sounds like **DAY-tuh, MOD-ul kun-fig-yur-AY-shunz** | /ˈdeɪ.tə, ˈmɑ.dəl kənˌfɪg.jəˈreɪ.ʃənz/ — sounds like **DAY-tuh, MAH-duhl kun-fig-yur-AY-shunz**
+and environmental dependencies | /ænd ɪnˌvaɪ.rənˈmen.təl dɪˈpen.dən.siz/ — sounds like **and in-vy-run-MEN-tul di-PEN-dun-seez** | /ænd ɪnˌvaɪ.rənˈmen.təl dɪˈpen.dən.siz/ — sounds like **and in-vy-run-MEN-tul di-PEN-dun-seez**
+compliance | /kəmˈplaɪ.əns/ — sounds like **kum-PLY-uns** | /kəmˈplaɪ.əns/ — sounds like **kum-PLY-uns**
+and ethics | /ænd ˈeθ.ɪks/ — sounds like **and ETH-iks** | /ænd ˈeθ.ɪks/ — sounds like **and ETH-iks**
+considerations | /kənˌsɪd.əˈreɪ.ʃənz/ — sounds like **kun-sid-uh-RAY-shunz** | /kənˌsɪd.ɚˈeɪ.ʃənz/ — sounds like **kun-sid-ur-AY-shunz**
+in research environments | /ɪn rɪˈsɜːtʃ ɪnˈvaɪ.rən.mənts/ — sounds like **in ri-SURCH in-VY-run-munts** | /ɪn rɪˈsɝtʃ ɪnˈvaɪ.rən.mənts/ — sounds like **in ri-SURCH in-VY-run-munts**
+often include data privacy | /ˈɒf.ən ɪnˈkluːd ˈdeɪ.tə ˈprɪv.ə.si/ — sounds like **OF-un in-KLOOD DAY-tuh PRIV-uh-see** | /ˈɔf.ən ɪnˈklud ˈdeɪ.tə ˈprɪv.ə.si/ — sounds like **AWF-un in-KLOOD DAY-tuh PRIV-uh-see**
+institutional review board protocols | /ˌɪn.stɪˈtjuː.ʃən.əl rɪˈvjuː bɔːd ˈprəʊ.tə.kɒlz/ — sounds like **in-sti-TYOO-shun-ul ri-VYOO BAWRD PROH-tuh-kolz** | /ˌɪn.stəˈtu.ʃən.əl rɪˈvju bɔrd ˈproʊ.tə.kɑlz/ — sounds like **in-stuh-TOO-shun-ul ri-VYOO BAWRD PROH-tuh-kahlz**
+and ethical AI guidelines | /ænd ˈeθ.ɪ.kəl eɪ aɪ ˈɡaɪd.laɪnz/ — sounds like **and ETH-i-kul AY EYE GYD-lynz** | /ænd ˈeθ.ə.kəl eɪ aɪ ˈɡaɪd.laɪnz/ — sounds like **and ETH-uh-kul AY EYE GYD-lynz**
+that shape | /ðæt ʃeɪp/ — sounds like **that SHAYP** | /ðæt ʃeɪp/ — sounds like **that SHAYP**
+how systems can collect | /haʊ ˈsɪs.təmz kæn kəˈlekt/ — sounds like **HOW SIS-tumz kan kuh-LEKT** | /haʊ ˈsɪs.təmz kæn kəˈlekt/ — sounds like **HOW SIS-tumz kan kuh-LEKT**
+process and share information | /ˈprəʊ.ses ænd ʃeə ˌɪn.fəˈmeɪ.ʃən/ — sounds like **PROH-sess and SHAIR in-fur-MAY-shun** | /ˈproʊ.ses ænd ʃer ˌɪn.fɚˈmeɪ.ʃən/ — sounds like **PROH-sess and SHAIR in-fur-MAY-shun**
+
+integration patterns | /ˌɪn.tɪˈɡreɪ.ʃən ˈpæt.ənz/ — sounds like **in-ti-GRAY-shun PAT-unz** | /ˌɪn.təˈɡreɪ.ʃən ˈpæt.ɚnz/ — sounds like **in-tuh-GRAY-shun PAT-urnz**
+system design | /ˈsɪs.təm dɪˈzaɪn/ — sounds like **SIS-tum di-ZYNE** | /ˈsɪs.təm dɪˈzaɪn/ — sounds like **SIS-tum di-ZYNE**
+API design | /eɪ piː aɪ dɪˈzaɪn/ — sounds like **AY PEE EYE di-ZYNE** | /eɪ pi aɪ dɪˈzaɪn/ — sounds like **AY PEE EYE di-ZYNE**
+for AI systems | /fɔː eɪ aɪ ˈsɪs.təmz/ — sounds like **fawr AY EYE SIS-tumz** | /fɔr eɪ aɪ ˈsɪs.təmz/ — sounds like **fawr AY EYE SIS-tumz**
+requires balancing | /rɪˈkwaɪəz ˈbæl.əns.ɪŋ/ — sounds like **ri-KWYURZ BAL-uns-ing** | /rɪˈkwaɪɚz ˈbæl.ən.sɪŋ/ — sounds like **ri-KWYURZ BAL-un-sing**
+ease of use | /iːz əv juːz/ — sounds like **EEZ uv YOOZ** | /iz əv juz/ — sounds like **EEZ uv YOOZ**
+with flexibility | /wɪð ˌflek.səˈbɪl.ə.ti/ — sounds like **with flek-suh-BIL-uh-tee** | /wɪð ˌflek.səˈbɪl.ə.ti/ — sounds like **with flek-suh-BIL-uh-tee**
+and performance | /ænd pəˈfɔː.məns/ — sounds like **and pur-FAWR-muns** | /ænd pɚˈfɔr.məns/ — sounds like **and pur-FAWR-muns**
+good APIs abstract | /ɡʊd eɪ piː aɪz ˈæb.strækt/ — sounds like **GOOD AY PEE EYEz AB-strakt** | /ɡʊd eɪ pi aɪz ˈæb.strækt/ — sounds like **GOOD AY PEE EYEz AB-strakt**
+complexity | /kəmˈplek.sə.ti/ — sounds like **kum-PLEK-suh-tee** | /kəmˈplek.sə.ti/ — sounds like **kum-PLEK-suh-tee**
+while providing necessary control | /waɪl prəˈvaɪ.dɪŋ ˈne.sə.sər.i kənˈtrəʊl/ — sounds like **wyl pruh-VY-ding NE-suh-suh-ree kun-TROHL** | /waɪl prəˈvaɪ.dɪŋ ˈne.sə.ser.i kənˈtroʊl/ — sounds like **wyl pruh-VY-ding NE-suh-ser-ee kun-TROHL**
+over AI behavior | /ˈəʊ.vər eɪ aɪ bɪˈheɪv.jər/ — sounds like **OH-vur AY EYE bi-HAYV-yur** | /ˈoʊ.vɚ eɪ aɪ bɪˈheɪv.jɚ/ — sounds like **OH-vur AY EYE bi-HAYV-yur**
+and configuration | /ænd kənˌfɪɡ.jʊˈreɪ.ʃən/ — sounds like **and kun-fig-yuh-RAY-shun** | /ænd kənˌfɪɡ.jəˈreɪ.ʃən/ — sounds like **and kun-fig-yuh-RAY-shun**
+authentication | /ɔː.ˌθen.tɪˈkeɪ.ʃən/ — sounds like **aw-then-ti-KAY-shun** | /ɔ.ˌθen.təˈkeɪ.ʃən/ — sounds like **aw-then-tuh-KAY-shun**
+authorization | /ˌɔː.θər.aɪˈzeɪ.ʃən/ — sounds like **aw-thuh-ry-ZAY-shun** | /ˌɔ.θɚ.əˈzeɪ.ʃən/ — sounds like **aw-thur-uh-ZAY-shun**
+become complex | /bɪˈkʌm ˈkɒm.pleks/ — sounds like **bi-KUM KOM-pleks** | /bɪˈkʌm ˈkɑm.pleks/ — sounds like **bi-KUM KAHM-pleks**
+in multi-user research environments | /ɪn ˈmʌl.ti ˈjuː.zə rɪˈsɜːtʃ ɪnˈvaɪ.rən.mənts/ — sounds like **in MUL-tee YOO-zuh ri-SURCH in-VY-run-munts** | /ɪn ˈmʌl.ti ˈju.zɚ rɪˈsɝtʃ ɪnˈvaɪ.rən.mənts/ — sounds like **in MUL-tee YOO-zur ri-SURCH in-VY-run-munts**
+where different users | /weə ˈdɪf.rənt ˈjuː.zəz/ — sounds like **wair DIF-runt YOO-zuhz** | /wer ˈdɪf.rənt ˈju.zɚz/ — sounds like **wair DIF-runt YOO-zurz**
+may have access to | /meɪ hæv ˈæk.ses tuː/ — sounds like **MAY hav AK-sess too** | /meɪ hæv ˈæk.ses tu/ — sounds like **MAY hav AK-sess too**
+different data sources | /ˈdɪf.rənt ˈdeɪ.tə ˈsɔː.sɪz/ — sounds like **DIF-runt DAY-tuh SAWR-siz** | /ˈdɪf.rənt ˈdeɪ.tə ˈsɔr.səz/ — sounds like **DIF-runt DAY-tuh SAWR-suz**
+computational resources | /ˌkɒm.pjʊˈteɪ.ʃən.əl rɪˈzɔː.sɪz/ — sounds like **kom-pyoo-TAY-shun-ul ri-ZAWR-siz** | /ˌkɑm.pjəˈteɪ.ʃən.əl rɪˈsɔr.səz/ — sounds like **kahm-pyoo-TAY-shun-ul ri-SAWR-suz**
+and system capabilities | /ænd ˈsɪs.təm ˌkeɪ.pəˈbɪl.ə.tiz/ — sounds like **and SIS-tum kay-puh-BIL-uh-teez** | /ænd ˈsɪs.təm ˌkeɪ.pəˈbɪl.ə.tiz/ — sounds like **and SIS-tum kay-puh-BIL-uh-teez**
+monitoring | /ˈmɒn.ɪ.tər.ɪŋ/ — sounds like **MON-i-tur-ing** | /ˈmɑn.ə.tɚ.ɪŋ/ — sounds like **MAHN-uh-tur-ing**
+alerting | /əˈlɜː.tɪŋ/ — sounds like **uh-LUR-ting** | /əˈlɝ.tɪŋ/ — sounds like **uh-LUR-ting**
+track both traditional system metrics | /træk bəʊθ trəˈdɪʃ.ən.əl ˈsɪs.təm ˈmet.rɪks/ — sounds like **TRAK bohth truh-DISH-un-ul SIS-tum MET-riks** | /træk boʊθ trəˈdɪʃ.ən.əl ˈsɪs.təm ˈmet.rɪks/ — sounds like **TRAK bohth truh-DISH-un-ul SIS-tum MET-riks**
+and AI-specific indicators | /ænd eɪ aɪ spəˈsɪf.ɪk ˈɪn.dɪ.keɪ.təz/ — sounds like **and AY EYE spuh-SIF-ik IN-di-kay-tuhz** | /ænd eɪ aɪ spəˈsɪf.ɪk ˈɪn.də.keɪ.tɚz/ — sounds like **and AY EYE spuh-SIF-ik IN-duh-kay-turz**
+like response quality | /laɪk rɪˈspɒns ˈkwɒl.ə.ti/ — sounds like **lyk ri-SPONS KWOL-uh-tee** | /laɪk rɪˈspɑns ˈkwɑl.ə.ti/ — sounds like **lyk ri-SPAHNS KWAHL-uh-tee**
+model performance | /ˈmɒd.əl pəˈfɔː.məns/ — sounds like **MOD-ul pur-FAWR-muns** | /ˈmɑd.əl pɚˈfɔr.məns/ — sounds like **MAHD-ul pur-FAWR-muns**
+and user satisfaction | /ænd ˈjuː.zə ˌsæt.ɪsˈfæk.ʃən/ — sounds like **and YOO-zuh sat-is-FAK-shun** | /ænd ˈju.zɚ ˌsæt.ɪsˈfæk.ʃən/ — sounds like **and YOO-zur sat-is-FAK-shun**
+scalability and performance | /ˌskeɪ.ləˈbɪl.ə.ti ænd pəˈfɔː.məns/ — sounds like **skay-luh-BIL-uh-tee and pur-FAWR-muns** | /ˌskeɪ.ləˈbɪl.ə.ti ænd pɚˈfɔr.məns/ — sounds like **skay-luh-BIL-uh-tee and pur-FAWR-muns**
+horizontal scaling | /ˌhɒr.ɪˈzɒn.təl ˈskeɪ.lɪŋ/ — sounds like **hor-i-ZON-tul SKAY-ling** | /ˌhɔr.əˈzɑn.təl ˈskeɪ.lɪŋ/ — sounds like **hawr-uh-ZAHN-tul SKAY-ling**
+strategies for AI applications | /ˈstræt.ə.dʒiz fɔː eɪ aɪ ˌæp.lɪˈkeɪ.ʃənz/ — sounds like **STRAT-uh-jeez fawr AY EYE ap-li-KAY-shunz** | /ˈstræt.ə.dʒiz fɔr eɪ aɪ ˌæp.ləˈkeɪ.ʃənz/ — sounds like **STRAT-uh-jeez fawr AY EYE ap-luh-KAY-shunz**
+involve distributing workload | /ɪnˈvɒlv dɪˈstrɪb.juː.tɪŋ ˈwɜːk.ləʊd/ — sounds like **in-VOLV di-STRIB-yoo-ting WURK-lohd** | /ɪnˈvɑlv dɪˈstrɪb.ju.tɪŋ ˈwɝk.loʊd/ — sounds like **in-VAHLV di-STRIB-yoo-ting WURK-lohd**
+across multiple instances | /əˈkrɒs ˈmʌl.tɪ.pəl ˈɪn.stən.sɪz/ — sounds like **uh-KROSS MUL-ti-pul IN-stun-siz** | /əˈkrɔs ˈmʌl.tə.pəl ˈɪn.stən.səz/ — sounds like **uh-KRAWS MUL-tuh-pul IN-stun-suz**
+while managing state | /waɪl ˈmæn.ɪ.dʒɪŋ steɪt/ — sounds like **wyl MAN-i-jing STAYT** | /waɪl ˈmæn.ə.dʒɪŋ steɪt/ — sounds like **wyl MAN-uh-jing STAYT**
+consistency | /kənˈsɪs.tən.si/ — sounds like **kun-SIS-tun-see** | /kənˈsɪs.tən.si/ — sounds like **kun-SIS-tun-see**
+and resource utilization | /ænd rɪˈzɔːs ˌjuː.tɪl.aɪˈzeɪ.ʃən/ — sounds like **and ri-ZAWRS yoo-til-y-ZAY-shun** | /ænd rɪˈsɔrs ˌju.təl.əˈzeɪ.ʃən/ — sounds like **and ri-SAWRS yoo-tul-uh-ZAY-shun**
+effectively | /ɪˈfek.tɪv.li/ — sounds like **i-FEK-tiv-lee** | /əˈfek.tɪv.li/ — sounds like **uh-FEK-tiv-lee**
+caching strategies | /ˈkæʃ.ɪŋ ˈstræt.ə.dʒiz/ — sounds like **KASH-ing STRAT-uh-jeez** | /ˈkæʃ.ɪŋ ˈstræt.ə.dʒiz/ — sounds like **KASH-ing STRAT-uh-jeez**
+can dramatically | /kæn drəˈmæt.ɪk.li/ — sounds like **kan druh-MAT-ik-lee** | /kæn drəˈmæt.ɪk.li/ — sounds like **kan druh-MAT-ik-lee**
+improve performance | /ɪmˈpruːv pəˈfɔː.məns/ — sounds like **im-PROOV pur-FAWR-muns** | /ɪmˈpruv pɚˈfɔr.məns/ — sounds like **im-PROOV pur-FAWR-muns**
+by storing | /baɪ ˈstɔː.rɪŋ/ — sounds like **by STAWR-ing** | /baɪ ˈstɔr.ɪŋ/ — sounds like **by STAWR-ing**
+frequently accessed results | /ˈfriː.kwənt.li ækˈsest rɪˈzʌlts/ — sounds like **FREE-kwunt-lee ak-SEST ri-ZULTS** | /ˈfri.kwənt.li ækˈsest rɪˈzʌlts/ — sounds like **FREE-kwunt-lee ak-SEST ri-ZULTS**
+pre-computed embeddings | /ˌpriː.kəmˈpjuː.tɪd ɪmˈbed.ɪŋz/ — sounds like **pree-kum-PYOO-tid im-BED-ingz** | /ˌpri.kəmˈpju.tɪd ɪmˈbed.ɪŋz/ — sounds like **pree-kum-PYOO-tid im-BED-ingz**
+and intermediate | /ænd ˌɪn.təˈmiː.di.ət/ — sounds like **and in-tuh-MEE-dee-ut** | /ænd ˌɪn.tɚˈmi.di.ət/ — sounds like **and in-tur-MEE-dee-ut**
+processing results | /ˈprəʊ.ses.ɪŋ rɪˈzʌlts/ — sounds like **PROH-ses-ing ri-ZULTS** | /ˈproʊ.ses.ɪŋ rɪˈzʌlts/ — sounds like **PROH-ses-ing ri-ZULTS**
+performance optimization | /pəˈfɔː.məns ˌɒp.tɪ.maɪˈzeɪ.ʃən/ — sounds like **pur-FAWR-muns op-ti-my-ZAY-shun** | /pɚˈfɔr.məns ˌɑp.təˈmaɪ.zeɪ.ʃən/ — sounds like **pur-FAWR-muns ahp-tuh-my-ZAY-shun**
+requires understanding bottlenecks | /rɪˈkwaɪəz ˌʌn.dəˈstæn.dɪŋ ˈbɒt.əl.neks/ — sounds like **ri-KWYURZ un-dur-STAN-ding BOT-ul-neks** | /rɪˈkwaɪɚz ˌʌn.dɚˈstæn.dɪŋ ˈbɑt.əl.neks/ — sounds like **ri-KWYURZ un-dur-STAN-ding BAHT-ul-neks**
+specific to AI workloads | /spəˈsɪf.ɪk tuː eɪ aɪ ˈwɜːk.ləʊdz/ — sounds like **spuh-SIF-ik too AY EYE WURK-lohdz** | /spəˈsɪf.ɪk tu eɪ aɪ ˈwɝk.loʊdz/ — sounds like **spuh-SIF-ik too AY EYE WURK-lohdz**
+including model inference time | /ɪnˈkluː.dɪŋ ˈmɒd.əl ˈɪn.fər.əns taɪm/ — sounds like **in-KLOO-ding MOD-ul IN-fur-uns TYM** | /ɪnˈklu.dɪŋ ˈmɑd.əl ˈɪn.fɚ.əns taɪm/ — sounds like **in-KLOO-ding MAHD-ul IN-fur-uns TYM**
+database query performance | /ˈdeɪ.tə.beɪs ˈkwɪə.ri pəˈfɔː.məns/ — sounds like **DAY-tuh-bays KWEER-ee pur-FAWR-muns** | /ˈdeɪ.tə.beɪs ˈkwɪr.i pɚˈfɔr.məns/ — sounds like **DAY-tuh-bays KWEER-ee pur-FAWR-muns**
+and network latency | /ænd ˈnet.wɜːk ˈleɪ.tən.si/ — sounds like **and NET-wurk LAY-tun-see** | /ænd ˈnet.wɝk ˈleɪ.tən.si/ — sounds like **and NET-wurk LAY-tun-see**
+for distributed systems | /fɔː dɪˈstrɪb.juː.tɪd ˈsɪs.təmz/ — sounds like **fawr di-STRIB-yoo-tid SIS-tumz** | /fɔr dɪˈstrɪb.ju.tɪd ˈsɪs.təmz/ — sounds like **fawr di-STRIB-yoo-tid SIS-tumz**
+integrate multiple technologies | /ˈɪn.tɪ.ɡreɪt ˈmʌl.tɪ.pəl tekˈnɒl.ə.dʒiz/ — sounds like **IN-ti-grayt MUL-ti-pul tek-NOL-uh-jeez** | /ˈɪn.tə.ɡreɪt ˈmʌl.tə.pəl tekˈnɑl.ə.dʒiz/ — sounds like **IN-tuh-grayt MUL-tuh-pul tek-NAHL-uh-jeez**
+to create comprehensive | /tuː kriˈeɪt ˌkɒm.prɪˈhen.sɪv/ — sounds like **too kri-AYT kom-pri-HEN-siv** | /tu kriˈeɪt ˌkɑm.prɪˈhen.sɪv/ — sounds like **too kri-AYT kahm-pri-HEN-siv**
+research intelligence capabilities | /rɪˈsɜːtʃ ɪnˈtel.ɪ.dʒəns ˌkeɪ.pəˈbɪl.ə.tiz/ — sounds like **ri-SURCH in-TEL-i-juns kay-puh-BIL-uh-teez** | /rɪˈsɝtʃ ɪnˈtel.ə.dʒəns ˌkeɪ.pəˈbɪl.ə.tiz/ — sounds like **ri-SURCH in-TEL-uh-juns kay-puh-BIL-uh-teez**
+a research mapping system | /ə rɪˈsɜːtʃ ˈmæp.ɪŋ ˈsɪs.təm/ — sounds like **uh ri-SURCH MAP-ing SIS-tum** | /ə rɪˈsɝtʃ ˈmæp.ɪŋ ˈsɪs.təm/ — sounds like **uh ri-SURCH MAP-ing SIS-tum**
+might use vector databases | /maɪt juːz ˈvek.tər ˈdeɪ.tə.beɪ.sɪz/ — sounds like **MYT YOOZ VEK-tur DAY-tuh-bay-siz** | /maɪt juz ˈvek.tɚ ˈdeɪ.tə.beɪ.səz/ — sounds like **MYT YOOZ VEK-tur DAY-tuh-bay-suz**
+to find semantically similar | /tuː faɪnd sɪˈmæn.tɪk.li ˈsɪm.ɪ.lər/ — sounds like **too FYND si-MAN-tik-lee SIM-i-lur** | /tu faɪnd səˈmæn.tɪk.li ˈsɪm.ə.lɚ/ — sounds like **too FYND suh-MAN-tik-lee SIM-uh-lur**
+research papers | /rɪˈsɜːtʃ ˈpeɪ.pəz/ — sounds like **ri-SURCH PAY-puhz** | /rɪˈsɝtʃ ˈpeɪ.pɚz/ — sounds like **ri-SURCH PAY-purz**
+knowledge graphs | /ˈnɒl.ɪdʒ ɡrɑːfs/ — sounds like **NOL-ij GRAHFS** | /ˈnɑl.ɪdʒ ɡræfs/ — sounds like **NAHL-ij GRAFS**
+to represent relationships | /tuː ˌrep.rɪˈzent rɪˈleɪ.ʃən.ʃɪps/ — sounds like **too rep-ri-ZENT ri-LAY-shun-ships** | /tu ˌrep.rɪˈzent rɪˈleɪ.ʃən.ʃɪps/ — sounds like **too rep-ri-ZENT ri-LAY-shun-ships**
+between researchers and projects | /bɪˈtwiːn rɪˈsɜː.tʃəz ænd ˈprɒdʒ.ekts/ — sounds like **bi-TWEEN ri-SUR-chuz and PROJ-ekts** | /bɪˈtwin rɪˈsɝ.tʃɚz ænd ˈprɑdʒ.ekts/ — sounds like **bi-TWEEN ri-SUR-churz and PRAHJ-ekts**
+multi-agent systems | /ˌmʌl.ti ˈeɪ.dʒənt ˈsɪs.təmz/ — sounds like **MUL-tee AY-junt SIS-tumz** | /ˌmʌl.ti ˈeɪ.dʒənt ˈsɪs.təmz/ — sounds like **MUL-tee AY-junt SIS-tumz**
+to coordinate different analysis tasks | /tuː kəʊˈɔː.dɪ.neɪt ˈdɪf.rənt əˈnæl.ə.sɪs tɑːsks/ — sounds like **too koh-AW-di-nayt DIF-runt uh-NAL-uh-sis TAHSKS** | /tu koʊˈɔr.də.neɪt ˈdɪf.rənt əˈnæl.ə.sɪs tæsks/ — sounds like **too koh-AWR-duh-nayt DIF-runt uh-NAL-uh-sis TASKS**
+and web interfaces | /ænd web ˈɪn.tə.feɪs.ɪz/ — sounds like **and WEB IN-tuh-fays-iz** | /ænd web ˈɪn.tɚ.feɪs.əz/ — sounds like **and WEB IN-tur-fays-uz**
+to present results to researchers | /tuː prɪˈzent rɪˈzʌlts tuː rɪˈsɜː.tʃəz/ — sounds like **too pri-ZENT ri-ZULTS too ri-SUR-chuz** | /tu prɪˈzent rɪˈzʌlts tu rɪˈsɝ.tʃɚz/ — sounds like **too pri-ZENT ri-ZULTS too ri-SUR-churz**
+in intuitive formats | /ɪn ɪnˈtjuː.ɪ.tɪv ˈfɔː.mæts/ — sounds like **in in-TYOO-i-tiv FAWR-mats** | /ɪn ɪnˈtu.ə.tɪv ˈfɔr.mæts/ — sounds like **in in-TOO-uh-tiv FAWR-mats**
+the PydanticAI framework | /ðə paɪˈdæn.tɪk eɪ aɪ ˈfreɪm.wɜːk/ — sounds like **thuh py-DAN-tik AY EYE FRAYM-wurk** | /ðə paɪˈdæn.tɪk eɪ aɪ ˈfreɪm.wɝk/ — sounds like **thuh py-DAN-tik AY EYE FRAYM-wurk**
+would provide structured coordination | /wʊd prəˈvaɪd ˈstrʌk.tʃəd kəʊˌɔː.dɪˈneɪ.ʃən/ — sounds like **wood pruh-VYD STRUK-churd koh-awr-di-NAY-shun** | /wʊd prəˈvaɪd ˈstrʌk.tʃɚd koʊˌɔr.dəˈneɪ.ʃən/ — sounds like **wood pruh-VYD STRUK-churd koh-awr-duh-NAY-shun**
+across these components | /əˈkrɒs ðiːz kəmˈpəʊ.nənts/ — sounds like **uh-KROSS theez kum-POH-nunts** | /əˈkrɔs ðiz kəmˈpoʊ.nənts/ — sounds like **uh-KRAWS theez kum-POH-nunts**
+ensuring type safety | /ɪnˈʃʊə.rɪŋ taɪp ˈseɪf.ti/ — sounds like **in-SHOOR-ing TYPE SAYF-tee** | /ɪnˈʃʊr.ɪŋ taɪp ˈseɪf.ti/ — sounds like **in-SHOOR-ing TYPE SAYF-tee**
+and robust error handling | /ænd rəʊˈbʌst ˈer.ər ˈhænd.lɪŋ/ — sounds like **and roh-BUST ER-ur HAND-ling** | /ænd roʊˈbʌst ˈer.ɚ ˈhænd.lɪŋ/ — sounds like **and roh-BUST ER-ur HAND-ling**
+as different AI agents interact with | /əz ˈdɪf.rənt eɪ aɪ ˈeɪ.dʒənts ˌɪn.təˈrækt wɪð/ — sounds like **uz DIF-runt AY EYE AY-junts in-tur-AKT with** | /əz ˈdɪf.rənt eɪ aɪ ˈeɪ.dʒənts ˌɪn.tɚˈækt wɪð/ — sounds like **uz DIF-runt AY EYE AY-junts in-tur-AKT with**
+various data sources | /ˈveə.ri.əs ˈdeɪ.tə ˈsɔː.sɪz/ — sounds like **VAIR-ee-us DAY-tuh SAWR-siz** | /ˈver.i.əs ˈdeɪ.tə ˈsɔr.səz/ — sounds like **VAIR-ee-us DAY-tuh SAWR-suz**
+and processing systems | /ænd ˈprəʊ.ses.ɪŋ ˈsɪs.təmz/ — sounds like **and PROH-ses-ing SIS-tumz** | /ænd ˈproʊ.ses.ɪŋ ˈsɪs.təmz/ — sounds like **and PROH-ses-ing SIS-tumz**
+docker containers would ensure | /ˈdɒk.ər kənˈteɪ.nəz wʊd ɪnˈʃʊə/ — sounds like **DOK-ur kun-TAY-nuhz wood in-SHOOR** | /ˈdɑk.ɚ kənˈteɪ.nɚz wʊd ɪnˈʃʊr/ — sounds like **DAHK-ur kun-TAY-nurz wood in-SHOOR**
+consistent deployment | /kənˈsɪs.tənt dɪˈplɔɪ.mənt/ — sounds like **kun-SIS-tunt di-PLOY-munt** | /kənˈsɪs.tənt dɪˈplɔɪ.mənt/ — sounds like **kun-SIS-tunt di-PLOY-munt**
+across development | /əˈkrɒs dɪˈvel.əp.mənt/ — sounds like **uh-KROSS di-VEL-up-munt** | /əˈkrɔs dɪˈvel.əp.mənt/ — sounds like **uh-KRAWS di-VEL-up-munt**
+and production environments | /ænd prəˈdʌk.ʃən ɪnˈvaɪ.rən.mənts/ — sounds like **and pruh-DUK-shun in-VY-run-munts** | /ænd prəˈdʌk.ʃən ɪnˈvaɪ.rən.mənts/ — sounds like **and pruh-DUK-shun in-VY-run-munts**
+while git workflows | /waɪl ɡɪt ˈwɜːk.fləʊz/ — sounds like **wyl GIT WURK-flohz** | /waɪl ɡɪt ˈwɝk.floʊz/ — sounds like **wyl GIT WURK-flohz**
+would enable collaborative development | /wʊd ɪnˈeɪ.bəl kəˈlæb.ər.ə.tɪv dɪˈvel.əp.mənt/ — sounds like **wood in-AY-bul kuh-LAB-ur-uh-tiv di-VEL-up-munt** | /wʊd ɪnˈeɪ.bəl kəˈlæb.ɚ.ə.tɪv dɪˈvel.əp.mənt/ — sounds like **wood in-AY-bul kuh-LAB-ur-uh-tiv di-VEL-up-munt**
+of increasingly | /əv ɪnˈkriː.sɪŋ.li/ — sounds like **uv in-KREE-sing-lee** | /əv ɪnˈkri.sɪŋ.li/ — sounds like **uv in-KREE-sing-lee**
+sophisticated | /səˈfɪs.tɪ.keɪ.tɪd/ — sounds like **suh-FIS-ti-kay-tid** | /səˈfɪs.tə.keɪ.tɪd/ — sounds like **suh-FIS-tuh-kay-tid**
+AI capabilities | /eɪ aɪ ˌkeɪ.pəˈbɪl.ə.tiz/ — sounds like **AY EYE kay-puh-BIL-uh-teez** | /eɪ aɪ ˌkeɪ.pəˈbɪl.ə.tiz/ — sounds like **AY EYE kay-puh-BIL-uh-teez**
+underlying principles | /ˌʌn.dəˈlaɪ.ɪŋ ˈprɪn.sə.pəlz/ — sounds like **un-dur-LY-ing PRIN-suh-pulz** | /ˌʌn.dɚˈlaɪ.ɪŋ ˈprɪn.sə.pəlz/ — sounds like **un-dur-LY-ing PRIN-suh-pulz**
+memorizing | /ˈmem.ər.aɪ.zɪŋ/ — sounds like **MEM-uh-ry-zing** | /ˈmem.ɚ.aɪ.zɪŋ/ — sounds like **MEM-uh-ry-zing**
+specific syntax | /spəˈsɪf.ɪk ˈsɪn.tæks/ — sounds like **spuh-SIF-ik SIN-taks** | /spəˈsɪf.ɪk ˈsɪn.tæks/ — sounds like **spuh-SIF-ik SIN-taks**
+or configurations | /ɔː kənˌfɪɡ.jʊˈreɪ.ʃənz/ — sounds like **awr kun-fig-yuh-RAY-shunz** | /ɔr kənˌfɪɡ.jəˈreɪ.ʃənz/ — sounds like **awr kun-fig-yuh-RAY-shunz**
+engage with | /ɪnˈɡeɪdʒ wɪð/ — sounds like **in-GAYJ with** | /ɪnˈɡeɪdʒ wɪð/ — sounds like **in-GAYJ with**
+the conceptual foundations | /ðə kənˈsep.tʃu.əl faʊnˈdeɪ.ʃənz/ — sounds like **thuh kun-SEP-choo-ul fown-DAY-shunz** | /ðə kənˈsep.tʃu.əl faʊnˈdeɪ.ʃənz/ — sounds like **thuh kun-SEP-choo-ul fown-DAY-shunz**
+and design trade-offs | /ænd dɪˈzaɪn ˈtreɪd ɒfs/ — sounds like **and di-ZYNE TRAYD ofs** | /ænd dɪˈzaɪn ˈtreɪd ɔfs/ — sounds like **and di-ZYNE TRAYD awfs**
+prepare to discuss | /prɪˈpeə tuː dɪˈskʌs/ — sounds like **pri-PAIR too di-SKUSS** | /prɪˈper tu dɪˈskʌs/ — sounds like **pri-PAIR too di-SKUSS**
+how different technologies | /haʊ ˈdɪf.rənt tekˈnɒl.ə.dʒiz/ — sounds like **HOW DIF-runt tek-NOL-uh-jeez** | /haʊ ˈdɪf.rənt tekˈnɑl.ə.dʒiz/ — sounds like **HOW DIF-runt tek-NAHL-uh-jeez**
+complement each other | /ˈkɒm.plɪ.ment iːtʃ ˈʌð.ər/ — sounds like **KOM-pli-ment EECH UH-thur** | /ˈkɑm.plə.ment itʃ ˈʌð.ɚ/ — sounds like **KAHM-pluh-ment EECH UH-thur**
+where their limitations | /weə ðeə ˌlɪm.ɪˈteɪ.ʃənz/ — sounds like **WAIR thair lim-i-TAY-shunz** | /wer ðer ˌlɪm.əˈteɪ.ʃənz/ — sounds like **WAIR thair lim-uh-TAY-shunz**
+create opportunities | /kriˈeɪt ˌɒp.əˈtjuː.nə.tiz/ — sounds like **kri-AYT op-uh-TYOO-nuh-teez** | /kriˈeɪt ˌɑp.ɚˈtu.nə.tiz/ — sounds like **kri-AYT ahp-ur-TOO-nuh-teez**
+for hybrid approaches | /fɔː ˈhaɪ.brɪd əˈprəʊ.tʃɪz/ — sounds like **fawr HY-brid uh-PROH-chiz** | /fɔr ˈhaɪ.brɪd əˈproʊ.tʃəz/ — sounds like **fawr HY-brid uh-PROH-chuz**
+and how technical decisions | /ænd haʊ ˈtek.nɪ.kəl dɪˈsɪʒ.ənz/ — sounds like **and HOW TEK-ni-kul di-SIZH-unz** | /ænd haʊ ˈtek.nə.kəl dəˈsɪʒ.ənz/ — sounds like **and HOW TEK-nuh-kul duh-SIZH-unz**
+impact user experience | /ˈɪm.pækt ˈjuː.zər ɪkˈspɪə.ri.əns/ — sounds like **IM-pakt YOO-zur ik-SPEER-ee-uns** | /ˈɪm.pækt ˈju.zɚ ɪkˈspɪr.i.əns/ — sounds like **IM-pakt YOO-zur ik-SPEER-ee-uns**
+and system reliability | /ænd ˈsɪs.təm rɪˌlaɪ.əˈbɪl.ə.ti/ — sounds like **and SIS-tum ri-ly-uh-BIL-uh-tee** | /ænd ˈsɪs.təm rɪˌlaɪ.əˈbɪl.ə.ti/ — sounds like **and SIS-tum ri-ly-uh-BIL-uh-tee**
+this demonstrates | /ðɪs ˈdem.ən.streɪts/ — sounds like **THIS DEM-un-strayts** | /ðɪs ˈdem.ən.streɪts/ — sounds like **THIS DEM-un-strayts**
+the sophisticated | /ðə səˈfɪs.tɪ.keɪ.tɪd/ — sounds like **thuh suh-FIS-ti-kay-tid** | /ðə səˈfɪs.tə.keɪ.tɪd/ — sounds like **thuh suh-FIS-tuh-kay-tid**
+technical thinking | /ˈtek.nɪ.kəl ˈθɪŋk.ɪŋ/ — sounds like **TEK-ni-kul THINK-ing** | /ˈtek.nə.kəl ˈθɪŋk.ɪŋ/ — sounds like **TEK-nuh-kul THINK-ing**
+that research environments require | /ðæt rɪˈsɜːtʃ ɪnˈvaɪ.rən.mənts rɪˈkwaɪə/ — sounds like **that ri-SURCH in-VY-run-munts ri-KWYUR** | /ðæt rɪˈsɝtʃ ɪnˈvaɪ.rən.mənts rɪˈkwaɪɚ/ — sounds like **that ri-SURCH in-VY-run-munts ri-KWYUR**
+for building systems | /fɔː ˈbɪl.dɪŋ ˈsɪs.təmz/ — sounds like **fawr BIL-ding SIS-tumz** | /fɔr ˈbɪl.dɪŋ ˈsɪs.təmz/ — sounds like **fawr BIL-ding SIS-tumz**
+that support scientific discovery | /ðæt səˈpɔːt ˌsaɪ.ənˈtɪf.ɪk dɪsˈkʌv.ər.i/ — sounds like **that suh-PAWRT sy-un-TIF-ik dis-KUV-uh-ree** | /ðæt səˈpɔrt ˌsaɪ.ənˈtɪf.ɪk dɪsˈkʌv.ɚ.i/ — sounds like **that suh-PAWRT sy-un-TIF-ik dis-KUV-ur-ee**
+effectively | /ɪˈfek.tɪv.li/ — sounds like **i-FEK-tiv-lee** | /əˈfek.tɪv.li/ — sounds like **uh-FEK-tiv-lee**
