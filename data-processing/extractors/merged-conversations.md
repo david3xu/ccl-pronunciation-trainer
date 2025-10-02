@@ -1,7 +1,7 @@
 # CCL Conversations Collection
 
-**Dialogue Range:** 70253 → 70158 (96 conversations total)
-**Last Updated:** 29 August 2025
+**Dialogue Range:** 70257 → 70158 (100 conversations total)
+**Last Updated:** 2 October 2025
 **Processing Order:** Descending (newest first)
 **Categories:** Social, Business, Medical, Legal
 **Source:** Merged from individual conversation files, properly categorized based on raw.md
@@ -10,6 +10,10 @@ _This file contains all CCL conversation dialogues with highlighted vocabulary t
 
 ## Table of Contents
 
+- [#70257. Filing a Lost Baggage Insurance Claim](#70257-filing-a-lost-baggage-insurance-claim---business)
+- [#70256. Broken Mobile Phone Replacement](#70256-broken-mobile-phone-replacement---business)
+- [#70255. Preventing Seasickness on a Sailing Trip](#70255-preventing-seasickness-on-a-sailing-trip---medical)
+- [#70254. New Council Employee Helps Community Centre](#70254-new-council-employee-helps-community-centre---social)
 - [#70253. Inquiring About House Extension Approval](#70253-inquiring-about-house-extension-approval---business)
 - [#70252. Suite Bathroom Design Clarification 3](#70252-suite-bathroom-design-clarification-3---business)
 - [#70251. In-home support program for the elderly](#70251-in-home-support-program-for-the-elderly---social)
@@ -108,7 +112,189 @@ _This file contains all CCL conversation dialogues with highlighted vocabulary t
 - [#70158. Catering Business Ideas](#70158-catering-business-ideas---business)
 
 ---
+---
 
+#70257. Filing a Lost Baggage Insurance Claim - Business
+
+1.  Good morning. Thank you for calling our _insurance company_. How can I help you today?
+    早上好，感谢致电我们保险公司。今天我能帮您什么？
+
+2.  早上好。我在你们公司买了_旅游保险_。我旅游出了意外，需要_申请理赔_。
+    Hello, I have _travel insurance_ with your company. I had an accident during my trip and I need to _make a claim_.
+
+3.  Oh, I'm so sorry to hear you had an _incident_ during your trip. Could you please tell me what happened and what you're looking to claim?
+    哦，我很遗憾听到您在旅行期间遇到了意外。您能告诉我发生了什么事，以及您想理赔什么吗？
+
+4.  我之前去国外_度假_了。在路上的时候，航空公司把我的_行李弄丢_了，所以我只能买新的衣服和个人物品。
+    I went abroad for _vacation_ before, and during the trip, the airline _lost my luggage_, so I had to buy new clothes and _personal items_.
+
+5.  Oh, that's _unfortunate_. How long has it been since your _holiday_? Sometimes the airline will _recover_ your luggage even after you _return home_.
+    哦，那真是太不幸了。您的假期结束有多久了？有时就算您已经回国了，航空公司也能找回行李的。
+
+6.  已经有一个多月了。航空公司说他们会_尽力找回_，但是还是没有找到。
+    It's already been more than a month. The airline said they would _try their best_ to find it, but they still haven't.
+
+7.  I understand. _Lost luggage_ is a _common issue_ with airlines. I hope it didn't _affect_ your holiday too much.
+    我明白。行李丢失是航空公司常有的问题。我希望这没有太影响您的假期。
+
+8.  行李刚丢的时候，我确实非常_心烦_，但现在我感觉好些了。我应该怎么_申请理赔_呢？
+    I was indeed really _upset_ when my luggage first got lost, but I've felt better now. How should I _file a claim_?
+
+9.  The _quickest way_ is to _submit_ your claim via our website. You'll need to provide _details_ of your losses.
+    最快的方式是通过我们的网站提交理赔。您需要提供您的损失详情。
+
+10. 好的，我会提交的。我就是不知道我需要提供什么_文件_。我之前从来没_申请过理赔_。
+    Okay, I'll submit it. I just don't know what _documents_ I need to provide. I have never _made a claim_ before.
+
+11. You need to provide the airline's _written confirmation_ of baggage loss, as well as the _receipts_ showing how much you spent.
+    您需要提供航空公司出具的行李丢失书面确认，以及能显示您花费金额的收据。
+
+12. 谢谢。听起来很_简单_。所有的文件我都有，所有购买物品的_小票_我也保留着呢。
+    Thanks. That sounds _simple_. I have all the documents, and I've also kept all the _receipts_ of the items I bought.
+
+13. Great! And don't forget to claim for the _suitcase_ itself. Some people forget to do that, but it can be very _expensive_.
+    太好了！别忘了也要把行李箱本身也要理赔。有些人会忘记，但它可能非常昂贵。
+
+14. 谢谢你的_提醒_。我会的。我现在很_庆幸_我能在出国旅游之前购买了旅游保险。
+    Thanks for the _reminder_. I'll be sure to do that. I'm now _glad_ that I got travel insurance before going abroad.
+
+---
+
+#70256. Broken Mobile Phone Replacement - Business
+
+1.  Hi there, thanks for calling our _customer service_ center. How can I help you today?
+    你好，感谢致电我们客服中心。我今天能帮你什么呢？
+
+2.  你好。上周，我在你们的_官网_买了一部手机。今天早上我_收到_手机了，但是出现了一个问题。
+    Hello. Last week, I bought a mobile phone on your _official website_. I _received_ it this morning, but there's a problem.
+
+3.  I'm so sorry to hear that. Could you please tell me more about the _problem_ with the phone?
+    真抱歉听到这个消息。你能多跟我讲讲手机出了什么问题吗？
+
+4.  我_兴奋地_拆开手机_包装盒_的时候，发现手机_屏幕_已经碎了。真的太_失望_了。
+    When I _excitedly_ _unboxed_ my new phone, I found that the _screen_ was already broken. What a _disappointment_!
+
+5.  Oh dear, that's _unfortunate_. We _inspect_ all our devices carefully before _shipping_. I think it must have been _damaged_ during _transport_.
+    哎呀，真的太不幸了。我们在发货前都会仔细检查所有设备的。我想这一定是在运输途中损坏的。
+
+6.  我真的很失望。这周末我有个_特别_的活动要参加。我买这个手机，主要就是因为它的_相机功能_。
+    I'm really disappointed. I have a _special_ event this weekend. I bought this phone mainly for its _camera function_.
+
+7.  I'm sorry to hear that. You can _return_ the phone either by _mail_ or _in store_, and you may choose a _replacement_ or a _refund_.
+    很抱歉听到这个。你可以通过邮寄或到店退还手机，你可以选择换货或退款。
+
+8.  开车去_离我最近_的门店也要一个小时呢。我就是不想跑那么_远_，所以才在网上买的。
+    It takes me an hour to drive to the _nearest_ store. I didn't want to go that _far_, so I bought it online.
+
+9.  I understand. _Returning_ it to the nearest store is indeed a _long drive_ for you, but _mailing it back_ will take even longer.
+    我明白。把它退到最近的门店确实对您来说要开很久的车，但邮寄回去的话，您甚至要花更久时间的。
+
+10. 有道理。可能开车去店里对我来说更好吧。这样，起码我能在周末_之前_拿到新手机。
+    That makes sense. Maybe driving to the store is better for me. At least this way, I can get a new phone _before_ the weekend.
+
+11. I also _recommend_ you call the store first to _confirm_ if they have the right _model_ of your phone before making the trip.
+    我也建议你在出发前先打电话给门店，确认他们有没有你需要的型号。
+
+12. 真_麻烦_啊。我没想到还会有这个问题。如果没有_相同型号_的，该怎么办呢？
+    What a _hassle_. I didn't expect this problem. If they don't have the _same model_, what should I do?
+
+13. If the phone isn't _available_ in store, they will check if there is a _similar type_, and you can decide what to do then.
+    如果店里没有这款手机，他们会看看有没有类似型号的，你到时候可以决定怎么做。
+
+14. 行吧。也只能这样了。我_打电话_给门店，看看他们怎么说，再决定吧。谢谢你的_建议_。
+    Alright, that's the only way then. I'll _call_ the store, see what they say, and then decide. Thank you for your _advice_.
+
+---
+
+#70255. Preventing Seasickness on a Sailing Trip - Medical
+
+1.  Hi there, welcome to the _pharmacy_, let me know if you need any help.
+    你好，欢迎光临药店，有需要帮忙请告诉我。
+
+2.  下午好，我想_请教_一个问题: 有什么药可以_预防_晕船吗?
+    Good afternoon, I'd like to _ask_ something. Is there any medicine that can _prevent_ seasickness?
+
+3.  Yes, of course. I'll be happy to help with that. Please tell me more about your _motion sickness_ and what _causes_ it.
+    当然，我很乐意帮你。请多跟我说说你晕船的情况，还有它是由什么引起的？
+
+4.  我平时不怎么_晕船_。我的朋友邀请我去_驾驶帆船_，我挺想去的。但上次去的时候，感觉特别_难受_。
+    I don't usually get _seasick_, but my friend invited me to go _sailing_. I'd love to go, but last time I went, I felt really _unwell_.
+
+5.  Yes, that could be very _unpleasant_, especially when you're on a boat, you can't get off once you started feeling sick.
+    是的，那会很难受，特别是当你在船上的时候，一旦开始不舒服，都没办法下船了。
+
+6.  我觉得，如果船在_河流_中航行，那并不太糟糕。但一到_大海_，就特别难受。
+    I feel like it's not too bad if the boat is on a _river_, but once it's out at _sea_, I feel awful.
+
+7.  There are a few different _treatments_ available to help with motion sickness, these include _herb remedies_, which are often used on _mild cases_.
+    有几种不同的治疗方法可以帮助缓解晕动症，包括一些草本疗法，通常用于轻微的情况。
+
+8.  我以前用过_类似的药_，但效果不是很好，我想看看有没有更_强效_的。
+    I've used _something like that_ before, but it didn't work very well. I'd like to see if there's anything _stronger_.
+
+9.  I understand, there is some _medication_ that should help. You need to take at least _one hour_ before you get on the boat.
+    我明白，有一些药应该会有帮助。你需要在上船前至少提前一小时服用。
+
+10. 这听起来不错，我想试试。我不想_冒这个险_。要是又在海上感觉很糟糕，朋友们也会觉得_扫兴_。
+    That sounds good, I'd like to try it. I don't want to _take the risk_. If I feel sick again at sea, it'll _ruin the fun_ for my friends too.
+
+11. No problem. The medication can make some people quite _drowsy_, it's important to read the _medical information_ on the pack.
+    没问题。这种药可能会让一些人犯困，所以阅读包装上的药品说明很重要。
+
+12. 好的，我服药之前会先看_说明_。希望不要太_犯困_，不然这一天也玩的不开心。
+    Okay, I'll read the _instructions_ before I take it. I hope I won't get too _sleepy_, otherwise the day won't be fun.
+
+13. Well, have a lovely day, and maybe the _fresh air_ and _sunshine_ out on the water will help the sickness as well.
+    好的，祝你今天愉快。或许水上的新鲜空气和阳光也会对缓解晕船有帮助。
+
+14. 那就太好了，多谢你的帮助。
+    That would be wonderful. Thanks so much for your help.
+
+---
+
+#70254. New Council Employee Helps Community Centre - Social
+
+1.  Hi, welcome to the _council_. I am glad you were able to _meet with_ me today.
+    嗨，欢迎来到市政厅。很高兴你今天能来见我。
+
+2.  我一直很_期待_这次见面，我很乐意_介绍_我们社区中心的工作。
+    I've been really _looking forward_ to meeting. I'm happy to _tell you about_ the work our community center does.
+
+3.  I _appreciate_ that. I have only been _working at_ the council for a few weeks. So, I have a lot to _learn about_ the center.
+    谢谢。我在市政厅才工作了几个星期，所以这个中心还有很多需要我学习的内容。
+
+4.  我们为当地居民_提供_各种_项目和活动_。来社区中心的人很_多样_。有家庭，有老人，还有新移民。
+    We _run_ a variety of _programs and activities_ for the local people. The people who come to the community center are very _diverse_. There are families, older people, and new migrants.
+
+5.  The _local library_ is located at the center too, I believe. There are certainly a lot to _manage_. It must be a _busy place_ to work.
+    我记得当地图书馆也在中心里。要管理的东西确实很多。这里工作肯定挺忙的。
+
+6.  是的，我真的很_喜欢_这份工作。不过，有你来帮我_一起管理_中心，我会非常高兴。一个人确实_忙不过来_。
+    Yes, I really _enjoy_ this job. But I'd be very glad to have your help _managing_ the center. It's really _too much for one person_.
+
+7.  I think I am going to _like_ the _variety_ of my new job very much. Please tell me where you might need help first.
+    我觉得我会很喜欢这份新工作带来的多样性。您先说说您可能最需要我帮忙的地方吧。
+
+8.  我在想，我们能不能_办一个市场_，买些_价格亲民_的新鲜蔬果，或许还能加点衣服和家居用品。
+    I was wondering if we could _run a market_ with _reasonably priced_ fresh fruit and veggies, and perhaps add some clothing and home goods too.
+
+9.  That's a _good idea_. I know everyone is finding prices at shops are more _expensive_ these days. A _cheaper alternative_ will be welcome.
+    这是个好主意。我知道大家都觉得最近商店里东西的价格在上涨。更便宜的选择会很受欢迎的。
+
+10. 我_原本打算_联系一些本地_供应商_，但最近实在太忙，一直_抽不出时间_。
+    I was _planning_ to contact a few local _suppliers_, but I've been too busy lately and haven't _found the time_.
+
+11. I can do that if you like. I have some _experience_ in _organizing_ local markets, so I know where to _start_.
+    如果你愿意的话，这件事我可以做的。我有一些组织本地市场的经验，所以我知道从哪儿开始。
+
+12. 那真是_太好了_。我很高兴您能对我们的活动_提出_任何_改进建议_。我自己也一直在_寻求_新的想法。
+    That's really _great_. I'm happy you can _give_ any _suggestions_ to improve our programs. I myself have always been _looking for_ new ideas.
+
+13. That's _good to know_. Once I am all _familiar with_ everything the center does, I am sure I will be able to _come up with_ some ideas.
+    真好。等我把中心的各项工作都熟悉了，我肯定能想出一些点子。
+
+14. 太棒了。我相信我们会_合作_的_非常愉快_。
+    Great. I'm sure we'll _work together_ _very well_.
 #70253. Inquiring About House Extension Approval – Business
 
 Briefing: This dialogue takes place between a Mandarin-speaking homeowner and an English-speaking officer at a local council planning office. They are discussing the requirements and process for obtaining council approval for a home extension project. The dialogue starts now.
