@@ -38,7 +38,10 @@
       "Read(///**)",
       "Bash(git log:*)",
       "Read(//tmp/**)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(pip3 list:*)",
+      "Bash(pdfinfo:*)",
+      "Bash(pdftotext:*)"
     ],
     "deny": []
   }
