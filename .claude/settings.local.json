@@ -41,7 +41,26 @@
       "Bash(cat:*)",
       "Bash(pip3 list:*)",
       "Bash(pdfinfo:*)",
-      "Bash(pdftotext:*)"
+      "Bash(pdftotext:*)",
+      "Bash(chmod:*)",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/shared/Constants.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/core/VocabularyManager.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/core/App.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/models/Category.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/models/Dialogue.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/models/Vocabulary.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/data/extractors/ChineseEnglishExtractor.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/data/formatters/VocabularyFormatter.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/data/formatters/PronunciationParser.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/data/config/ModeConfigurations.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/data/DialogueDataLoader.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/scripts/unified-data-pipeline.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/scripts/conversation-vocabulary-extractor.js )",
+      "Bash(/tmp/resume-branch-code-backup/)",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/utils/StateTest.js )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/scripts/conversation-vocabulary-extractor.js)",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/data/formatters )",
+      "Bash(/home/291928k/eng-workspace/ccl-pronunciation-trainer/src/js/data/config)"
     ],
     "deny": []
   }
