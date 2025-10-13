@@ -190,6 +190,12 @@ class UIController {
     displayWord(word, index) {
         if (!word) return;
 
+        // Special handling for interview sentences - simplified display
+        if (word.isSentence) {
+            this.displaySentence(word, index);
+            return;
+        }
+
         // Resolve pronunciation pieces: phonetic (no asterisks) and IPA
         let phoneticPlain = '';
         let ipaOnly = '';
@@ -377,6 +383,49 @@ class UIController {
         window.progressTracker.updateProgress(index, totalWords, word);
 
         console.log(`Displayed word ${index + 1}/${totalWords}: "${word.english}"`);
+    }
+
+    displaySentence(sentence, index) {
+        // Simplified display for interview sentences - only show the sentence text
+
+        // Hide phonetic and IPA
+        const phoneticElement = document.getElementById('phoneticSpelling');
+        if (phoneticElement) {
+            phoneticElement.style.display = 'none';
+        }
+
+        const ipaElement = document.getElementById('ipaNotation');
+        if (ipaElement) {
+            ipaElement.style.display = 'none';
+        }
+
+        // Display the sentence text
+        const englishElement = document.getElementById('englishWord');
+        if (englishElement) {
+            englishElement.textContent = sentence.english;
+            englishElement.classList.add('word-change');
+            setTimeout(() => {
+                englishElement.classList.remove('word-change');
+            }, 500);
+        }
+
+        // Hide example sentence area
+        const exampleElement = document.getElementById('exampleSentence');
+        if (exampleElement) {
+            exampleElement.style.display = 'none';
+        }
+
+        // Hide old combined pronunciation if present
+        const pronunciationElement = document.getElementById('pronunciationText');
+        if (pronunciationElement) {
+            pronunciationElement.style.display = 'none';
+        }
+
+        // Update progress display
+        const totalSentences = window.vocabularyManager.getTotalWords();
+        window.progressTracker.updateProgress(index, totalSentences, sentence);
+
+        console.log(`Displayed sentence ${index + 1}/${totalSentences}: "${sentence.english.substring(0, 50)}..."`);
     }
 
     displayFirstWord() {

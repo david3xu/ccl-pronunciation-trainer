@@ -1,0 +1,1946 @@
+{
+  "metadata": {
+    "generated": "2025-10-13T13:43:30.421Z",
+    "totalSentences": 387,
+    "source": "interview-sentence-pipeline",
+    "version": "1.0",
+    "description": "Interview practice sentences for pronunciation training"
+  },
+  "sentences": [
+    {
+      "id": "sentence-1",
+      "text": "So, I'm an AI and Data Science professional.",
+      "order": 1
+    },
+    {
+      "id": "sentence-2",
+      "text": "Right now I'm tutoring at Curtin University, and I just finished a Research Associate role at UWA.",
+      "order": 2
+    },
+    {
+      "id": "sentence-3",
+      "text": "Education-wise, I have a Master's in Predictive Analytics - that's Data Science - from Curtin.",
+      "order": 3
+    },
+    {
+      "id": "sentence-4",
+      "text": "I also have a Master's in Economics and a Bachelor's in Mathematics.",
+      "order": 4
+    },
+    {
+      "id": "sentence-5",
+      "text": "So I've got a pretty strong analytical background.",
+      "order": 5
+    },
+    {
+      "id": "sentence-6",
+      "text": "Now, for my experience - at UWA I developed three research prototypes during my six-month contract.",
+      "order": 6
+    },
+    {
+      "id": "sentence-7",
+      "text": "Let me tell you about them.",
+      "order": 7
+    },
+    {
+      "id": "sentence-8",
+      "text": "The first one was a Multi-Agent AI system using PydanticAI.",
+      "order": 8
+    },
+    {
+      "id": "sentence-9",
+      "text": "It was for mining maintenance data - basically exploring conversational interfaces.",
+      "order": 9
+    },
+    {
+      "id": "sentence-10",
+      "text": "I did 315 commits on GitHub for this, so it was pretty intensive development.",
+      "order": 10
+    },
+    {
+      "id": "sentence-11",
+      "text": "The second prototype was a Neo4j graph database.",
+      "order": 11
+    },
+    {
+      "id": "sentence-12",
+      "text": "This one processed over 7,300 incident records from four mining facilities.",
+      "order": 12
+    },
+    {
+      "id": "sentence-13",
+      "text": "It was all about relationship mapping and root cause analysis.",
+      "order": 13
+    },
+    {
+      "id": "sentence-14",
+      "text": "And the third one was an intelligent Excel processing tool.",
+      "order": 14
+    },
+    {
+      "id": "sentence-15",
+      "text": "It had automatic library selection - pretty useful for handling messy data.",
+      "order": 15
+    },
+    {
+      "id": "sentence-16",
+      "text": "All three were delivered as proof-of-concept, showing technical feasibility with real industry data.",
+      "order": 16
+    },
+    {
+      "id": "sentence-17",
+      "text": "Before UWA, I worked at CIRA - that's the Curtin Institute of Radio Astronomy.",
+      "order": 17
+    },
+    {
+      "id": "sentence-18",
+      "text": "There I built my first AI system - a conversational interface for astronomy researchers.",
+      "order": 18
+    },
+    {
+      "id": "sentence-19",
+      "text": "This was my introduction to LLMs, basic RAG patterns, and working with researchers.",
+      "order": 19
+    },
+    {
+      "id": "sentence-20",
+      "text": "It was a learning project that taught me the fundamentals of AI development.",
+      "order": 20
+    },
+    {
+      "id": "sentence-21",
+      "text": "I also train research students and teach at Curtin - Data Structures, Algorithms, Web Development.",
+      "order": 21
+    },
+    {
+      "id": "sentence-22",
+      "text": "This has really helped me get better at explaining complex technical stuff to different kinds of people.",
+      "order": 22
+    },
+    {
+      "id": "sentence-23",
+      "text": "So why this role?",
+      "order": 23
+    },
+    {
+      "id": "sentence-24",
+      "text": "Well, your mission really resonates with me - improving children's health through research.",
+      "order": 24
+    },
+    {
+      "id": "sentence-25",
+      "text": "That's meaningful work.",
+      "order": 25
+    },
+    {
+      "id": "sentence-26",
+      "text": "The four-month prototype challenge excites me because it matches what I'm good at - delivering practical systems quickly in research environments.",
+      "order": 26
+    },
+    {
+      "id": "sentence-27",
+      "text": "And here's the thing - I have hands-on PydanticAI experience, which is exactly what you're looking for.",
+      "order": 27
+    },
+    {
+      "id": "sentence-28",
+      "text": "Plus I built Neo4j graph databases specifically for relationship mapping.",
+      "order": 28
+    },
+    {
+      "id": "sentence-29",
+      "text": "That's directly applicable to what you need - creating connections between projects, researchers, and themes.",
+      "order": 29
+    },
+    {
+      "id": "sentence-30",
+      "text": "This role combines everything I'm looking for: technical challenge, mission alignment, and the opportunity to make a real difference.",
+      "order": 30
+    },
+    {
+      "id": "sentence-31",
+      "text": "I'd say there are three main reasons.",
+      "order": 31
+    },
+    {
+      "id": "sentence-32",
+      "text": "First, the mission.",
+      "order": 32
+    },
+    {
+      "id": "sentence-33",
+      "text": "I want my technical work to actually have real-world impact.",
+      "order": 33
+    },
+    {
+      "id": "sentence-34",
+      "text": "Children's health research?",
+      "order": 34
+    },
+    {
+      "id": "sentence-35",
+      "text": "That's about as meaningful as it gets.",
+      "order": 35
+    },
+    {
+      "id": "sentence-36",
+      "text": "I've built systems for astronomy and mining - interesting technical problems, sure, but not deeply meaningful to me personally.",
+      "order": 36
+    },
+    {
+      "id": "sentence-37",
+      "text": "Your work directly improves children's health outcomes.",
+      "order": 37
+    },
+    {
+      "id": "sentence-38",
+      "text": "That matters.",
+      "order": 38
+    },
+    {
+      "id": "sentence-39",
+      "text": "Second reason - the technical match.",
+      "order": 39
+    },
+    {
+      "id": "sentence-40",
+      "text": "You need PydanticAI multi-agent systems and relationship mapping through graph databases.",
+      "order": 40
+    },
+    {
+      "id": "sentence-41",
+      "text": "I've built exactly that at UWA.",
+      "order": 41
+    },
+    {
+      "id": "sentence-42",
+      "text": "The multi-agent RAG prototype with PydanticAI?",
+      "order": 42
+    },
+    {
+      "id": "sentence-43",
+      "text": "Done it.",
+      "order": 43
+    },
+    {
+      "id": "sentence-44",
+      "text": "Neo4j graph database with a 12-entity schema for relationship discovery?",
+      "order": 44
+    },
+    {
+      "id": "sentence-45",
+      "text": "Built it.",
+      "order": 45
+    },
+    {
+      "id": "sentence-46",
+      "text": "This isn't me learning on the job.",
+      "order": 46
+    },
+    {
+      "id": "sentence-47",
+      "text": "I can apply proven experience immediately.",
+      "order": 47
+    },
+    {
+      "id": "sentence-48",
+      "text": "Third - the timing and the challenge.",
+      "order": 48
+    },
+    {
+      "id": "sentence-49",
+      "text": "The four-month prototype timeline is ambitious.",
+      "order": 49
+    },
+    {
+      "id": "sentence-50",
+      "text": "I like that.",
+      "order": 50
+    },
+    {
+      "id": "sentence-51",
+      "text": "I've proven I can deliver rapid prototypes in research environments - I did it within my six-month UWA contract.",
+      "order": 51
+    },
+    {
+      "id": "sentence-52",
+      "text": "And here's something exciting - I noticed you're recruiting postdoctoral researchers for autonomous discovery engines.",
+      "order": 52
+    },
+    {
+      "id": "sentence-53",
+      "text": "That tells me you're building a computational biology lab with an ambitious vision.",
+      "order": 53
+    },
+    {
+      "id": "sentence-54",
+      "text": "My Data Analyst role is more focused - mapping research relationships so people can see who's working on what.",
+      "order": 54
+    },
+    {
+      "id": "sentence-55",
+      "text": "But I'm excited because you clearly value AI-driven approaches, and my multi-agent and graph database experience means I can build this mapping system well and potentially contribute ideas as the lab evolves.",
+      "order": 55
+    },
+    {
+      "id": "sentence-56",
+      "text": "I'd say I have three key strengths.",
+      "order": 56
+    },
+    {
+      "id": "sentence-57",
+      "text": "First - rapid prototyping and delivery.",
+      "order": 57
+    },
+    {
+      "id": "sentence-58",
+      "text": "At UWA, I delivered three working research prototypes within my six-month contract.",
+      "order": 58
+    },
+    {
+      "id": "sentence-59",
+      "text": "Over 315 commits on GitHub.",
+      "order": 59
+    },
+    {
+      "id": "sentence-60",
+      "text": "I understand how to balance working demonstration with perfect system.",
+      "order": 60
+    },
+    {
+      "id": "sentence-61",
+      "text": "For prototypes, shipping beats perfection.",
+      "order": 61
+    },
+    {
+      "id": "sentence-62",
+      "text": "I know when 75% accuracy is good enough and when to stop optimizing.",
+      "order": 62
+    },
+    {
+      "id": "sentence-63",
+      "text": "Second strength - user-centric design in research environments.",
+      "order": 63
+    },
+    {
+      "id": "sentence-64",
+      "text": "I've worked in two research institutions now.",
+      "order": 64
+    },
+    {
+      "id": "sentence-65",
+      "text": "At CIRA, I learned something important: adoption matters more than sophistication.",
+      "order": 65
+    },
+    {
+      "id": "sentence-66",
+      "text": "I built interfaces specifically for non-technical researchers.",
+      "order": 66
+    },
+    {
+      "id": "sentence-67",
+      "text": "Started simple, gathered feedback constantly, iterated.",
+      "order": 67
+    },
+    {
+      "id": "sentence-68",
+      "text": "I can build powerful systems that researchers will actually use - not just technically impressive demos that nobody touches.",
+      "order": 68
+    },
+    {
+      "id": "sentence-69",
+      "text": "Third - rapid learning with new technologies.",
+      "order": 69
+    },
+    {
+      "id": "sentence-70",
+      "text": "I picked up PydanticAI, Neo4j, and Azure deployment within my UWA contract period.",
+      "order": 70
+    },
+    {
+      "id": "sentence-71",
+      "text": "When I'm facing new frameworks or domains - like computational biology - I build proof-of-concepts quickly, learn from failures, and adapt.",
+      "order": 71
+    },
+    {
+      "id": "sentence-72",
+      "text": "I'm comfortable working with evolving technologies where you can't just Google the answer.",
+      "order": 72
+    },
+    {
+      "id": "sentence-73",
+      "text": "You have to experiment and iterate.",
+      "order": 73
+    },
+    {
+      "id": "sentence-74",
+      "text": "So I'm actively working on two things.",
+      "order": 74
+    },
+    {
+      "id": "sentence-75",
+      "text": "First - communication as a non-native English speaker.",
+      "order": 75
+    },
+    {
+      "id": "sentence-76",
+      "text": "English is my second language.",
+      "order": 76
+    },
+    {
+      "id": "sentence-77",
+      "text": "Sometimes I need to pause to make sure I'm explaining technical concepts clearly, especially in real-time conversations.",
+      "order": 77
+    },
+    {
+      "id": "sentence-78",
+      "text": "But I've developed strategies for this.",
+      "order": 78
+    },
+    {
+      "id": "sentence-79",
+      "text": "I prepare documentation thoroughly.",
+      "order": 79
+    },
+    {
+      "id": "sentence-80",
+      "text": "I use visuals when possible.",
+      "order": 80
+    },
+    {
+      "id": "sentence-81",
+      "text": "And I always ask, 'Does this make sense?' to ensure understanding.",
+      "order": 81
+    },
+    {
+      "id": "sentence-82",
+      "text": "My teaching experience at Curtin has helped me improve a lot.",
+      "order": 82
+    },
+    {
+      "id": "sentence-83",
+      "text": "Second thing - over-engineering tendencies.",
+      "order": 83
+    },
+    {
+      "id": "sentence-84",
+      "text": "I sometimes spend extra time refining implementations when 'good enough' would work.",
+      "order": 84
+    },
+    {
+      "id": "sentence-85",
+      "text": "Especially for prototypes.",
+      "order": 85
+    },
+    {
+      "id": "sentence-86",
+      "text": "I'm learning to balance quality with delivery speed.",
+      "order": 86
+    },
+    {
+      "id": "sentence-87",
+      "text": "At UWA, I learned that shipping a 75% solution quickly beats a 95% solution that's late.",
+      "order": 87
+    },
+    {
+      "id": "sentence-88",
+      "text": "For your four-month timeline, I'd consciously prioritize working demonstration over perfect code.",
+      "order": 88
+    },
+    {
+      "id": "sentence-89",
+      "text": "We can always refactor later if the project continues.",
+      "order": 89
+    },
+    {
+      "id": "sentence-90",
+      "text": "Both of these are things I actively manage.",
+      "order": 90
+    },
+    {
+      "id": "sentence-91",
+      "text": "And I've shown improvement on both through my recent research work.",
+      "order": 91
+    },
+    {
+      "id": "sentence-92",
+      "text": "I think there are four concrete reasons.",
+      "order": 92
+    },
+    {
+      "id": "sentence-93",
+      "text": "First - proven PydanticAI prototype development experience.",
+      "order": 93
+    },
+    {
+      "id": "sentence-94",
+      "text": "I've actually built multi-agent research prototypes with PydanticAI, not just studied it.",
+      "order": 94
+    },
+    {
+      "id": "sentence-95",
+      "text": "Here's the thing - in October 2025, hands-on PydanticAI experience is rare.",
+      "order": 95
+    },
+    {
+      "id": "sentence-96",
+      "text": "The framework only released late 2024.",
+      "order": 96
+    },
+    {
+      "id": "sentence-97",
+      "text": "I happen to have built with it during 2025 when it was emerging.",
+      "order": 97
+    },
+    {
+      "id": "sentence-98",
+      "text": "This timing advantage means I can deliver immediately in your four-month timeline without climbing the learning curve.",
+      "order": 98
+    },
+    {
+      "id": "sentence-99",
+      "text": "Second - graph database expertise for relationship mapping.",
+      "order": 99
+    },
+    {
+      "id": "sentence-100",
+      "text": "The job description specifically says 'create connections between projects, researchers, and themes.'",
+      "order": 100
+    },
+    {
+      "id": "sentence-101",
+      "text": "I architected a Neo4j database with a 12-entity schema.",
+      "order": 101
+    },
+    {
+      "id": "sentence-102",
+      "text": "Processed 7,300-plus records specifically for relationship discovery.",
+      "order": 102
+    },
+    {
+      "id": "sentence-103",
+      "text": "Most candidates can code Python, sure.",
+      "order": 103
+    },
+    {
+      "id": "sentence-104",
+      "text": "But fewer have hands-on experience designing graph databases for relationship-heavy problems like organizational intelligence.",
+      "order": 104
+    },
+    {
+      "id": "sentence-105",
+      "text": "Third - research environment experience.",
+      "order": 105
+    },
+    {
+      "id": "sentence-106",
+      "text": "I've worked in two research institutions building systems that researchers actually use.",
+      "order": 106
+    },
+    {
+      "id": "sentence-107",
+      "text": "I understand the balance you need between technical capability and usability.",
+      "order": 107
+    },
+    {
+      "id": "sentence-108",
+      "text": "I can build enterprise-grade systems with proper deployment and monitoring, while keeping the user experience simple enough for non-technical researchers.",
+      "order": 108
+    },
+    {
+      "id": "sentence-109",
+      "text": "Fourth - timing and mission alignment.",
+      "order": 109
+    },
+    {
+      "id": "sentence-110",
+      "text": "I'm at a point where I want meaningful work.",
+      "order": 110
+    },
+    {
+      "id": "sentence-111",
+      "text": "Children's health research matters to me.",
+      "order": 111
+    },
+    {
+      "id": "sentence-112",
+      "text": "That intrinsic motivation?",
+      "order": 112
+    },
+    {
+      "id": "sentence-113",
+      "text": "It means I'll go the extra mile when deadlines are tight.",
+      "order": 113
+    },
+    {
+      "id": "sentence-114",
+      "text": "So at UWA, I needed to deliver a Multi-Agent RAG research prototype within my six-month contract.",
+      "order": 114
+    },
+    {
+      "id": "sentence-115",
+      "text": "Here's what made it challenging: PydanticAI was a very new framework.",
+      "order": 115
+    },
+    {
+      "id": "sentence-116",
+      "text": "Released late 2024.",
+      "order": 116
+    },
+    {
+      "id": "sentence-117",
+      "text": "The documentation was incomplete.",
+      "order": 117
+    },
+    {
+      "id": "sentence-118",
+      "text": "There weren't many community examples.",
+      "order": 118
+    },
+    {
+      "id": "sentence-119",
+      "text": "I had to learn this new framework while simultaneously delivering a working proof-of-concept to an industry partner.",
+      "order": 119
+    },
+    {
+      "id": "sentence-120",
+      "text": "I needed to deliver a complete system.",
+      "order": 120
+    },
+    {
+      "id": "sentence-121",
+      "text": "PydanticAI agents for data extraction.",
+      "order": 121
+    },
+    {
+      "id": "sentence-122",
+      "text": "Neo4j graph database for relationship mapping.",
+      "order": 122
+    },
+    {
+      "id": "sentence-123",
+      "text": "Natural language query interface.",
+      "order": 123
+    },
+    {
+      "id": "sentence-124",
+      "text": "Azure deployment.",
+      "order": 124
+    },
+    {
+      "id": "sentence-125",
+      "text": "All of it functional, tested, and demonstrable to non-technical stakeholders.",
+      "order": 125
+    },
+    {
+      "id": "sentence-126",
+      "text": "All within the contract period.",
+      "order": 126
+    },
+    {
+      "id": "sentence-127",
+      "text": "I approached this with strict prioritization.",
+      "order": 127
+    },
+    {
+      "id": "sentence-128",
+      "text": "First month - I built a simple proof-of-concept.",
+      "order": 128
+    },
+    {
+      "id": "sentence-129",
+      "text": "One agent processing one document type.",
+      "order": 129
+    },
+    {
+      "id": "sentence-130",
+      "text": "Basic database schema.",
+      "order": 130
+    },
+    {
+      "id": "sentence-131",
+      "text": "End-to-end flow working.",
+      "order": 131
+    },
+    {
+      "id": "sentence-132",
+      "text": "This validated the approach early and got stakeholder buy-in.",
+      "order": 132
+    },
+    {
+      "id": "sentence-133",
+      "text": "Second and third months - I expanded core functionality.",
+      "order": 133
+    },
+    {
+      "id": "sentence-134",
+      "text": "Three specialized agents - ingestion, query, validation.",
+      "order": 134
+    },
+    {
+      "id": "sentence-135",
+      "text": "Full database schema with 12 entities.",
+      "order": 135
+    },
+    {
+      "id": "sentence-136",
+      "text": "Processing real data from four mining facilities.",
+      "order": 136
+    },
+    {
+      "id": "sentence-137",
+      "text": "Fourth and fifth months - I tackled deployment.",
+      "order": 137
+    },
+    {
+      "id": "sentence-138",
+      "text": "Integrated nine Azure services.",
+      "order": 138
+    },
+    {
+      "id": "sentence-139",
+      "text": "Implemented Infrastructure as Code with Bicep templates.",
+      "order": 139
+    },
+    {
+      "id": "sentence-140",
+      "text": "Set up automated testing.",
+      "order": 140
+    },
+    {
+      "id": "sentence-141",
+      "text": "I committed over 315 times during this period.",
+      "order": 141
+    },
+    {
+      "id": "sentence-142",
+      "text": "Small, frequent commits.",
+      "order": 142
+    },
+    {
+      "id": "sentence-143",
+      "text": "Continuous integration.",
+      "order": 143
+    },
+    {
+      "id": "sentence-144",
+      "text": "I also documented as I went.",
+      "order": 144
+    },
+    {
+      "id": "sentence-145",
+      "text": "And I trained four research students on the system through a three-week bootcamp.",
+      "order": 145
+    },
+    {
+      "id": "sentence-146",
+      "text": "Knowledge transfer was important.",
+      "order": 146
+    },
+    {
+      "id": "sentence-147",
+      "text": "I delivered three working research prototypes within the six-month contract.",
+      "order": 147
+    },
+    {
+      "id": "sentence-148",
+      "text": "The Multi-Agent RAG system successfully demonstrated proof-of-concept with 7,300-plus incident records processed.",
+      "order": 148
+    },
+    {
+      "id": "sentence-149",
+      "text": "The Neo4j database enabled relationship discovery across four facilities.",
+      "order": 149
+    },
+    {
+      "id": "sentence-150",
+      "text": "And the Excel tool improved data processing efficiency.",
+      "order": 150
+    },
+    {
+      "id": "sentence-151",
+      "text": "The key lesson?",
+      "order": 151
+    },
+    {
+      "id": "sentence-152",
+      "text": "Break ambitious timelines into incremental milestones.",
+      "order": 152
+    },
+    {
+      "id": "sentence-153",
+      "text": "Accept 'working' over 'perfect' for prototypes.",
+      "order": 153
+    },
+    {
+      "id": "sentence-154",
+      "text": "And document and share knowledge continuously.",
+      "order": 154
+    },
+    {
+      "id": "sentence-155",
+      "text": "You know what's interesting about my experience?",
+      "order": 155
+    },
+    {
+      "id": "sentence-156",
+      "text": "It's really about timing.",
+      "order": 156
+    },
+    {
+      "id": "sentence-157",
+      "text": "PydanticAI released late 2024.",
+      "order": 157
+    },
+    {
+      "id": "sentence-158",
+      "text": "I worked at UWA from February to August 2025.",
+      "order": 158
+    },
+    {
+      "id": "sentence-159",
+      "text": "Perfect timing, right?",
+      "order": 159
+    },
+    {
+      "id": "sentence-160",
+      "text": "So I have research prototype development experience with PydanticAI when it's still emerging.",
+      "order": 160
+    },
+    {
+      "id": "sentence-161",
+      "text": "In two years, many people will have this experience.",
+      "order": 161
+    },
+    {
+      "id": "sentence-162",
+      "text": "But right now?",
+      "order": 162
+    },
+    {
+      "id": "sentence-163",
+      "text": "In October 2025?",
+      "order": 163
+    },
+    {
+      "id": "sentence-164",
+      "text": "Hands-on PydanticAI multi-agent system experience is rare.",
+      "order": 164
+    },
+    {
+      "id": "sentence-165",
+      "text": "I'm not saying I'm more talented than other candidates.",
+      "order": 165
+    },
+    {
+      "id": "sentence-166",
+      "text": "I just happened to work on a project during 2025 that required PydanticAI when it was only months old.",
+      "order": 166
+    },
+    {
+      "id": "sentence-167",
+      "text": "This timing makes my experience valuable right now - but it won't be rare in two years.",
+      "order": 167
+    },
+    {
+      "id": "sentence-168",
+      "text": "If you hire me, you get someone who's already climbed the PydanticAI learning curve.",
+      "order": 168
+    },
+    {
+      "id": "sentence-169",
+      "text": "I can deliver immediately in your four-month timeline.",
+      "order": 169
+    },
+    {
+      "id": "sentence-170",
+      "text": "Here's something I learned at UWA.",
+      "order": 170
+    },
+    {
+      "id": "sentence-171",
+      "text": "I've already made the mistakes with PydanticAI that every beginner makes.",
+      "order": 171
+    },
+    {
+      "id": "sentence-172",
+      "text": "The documentation was incomplete because the framework was so new.",
+      "order": 172
+    },
+    {
+      "id": "sentence-173",
+      "text": "I dealt with that.",
+      "order": 173
+    },
+    {
+      "id": "sentence-174",
+      "text": "I learned from trial and error with multi-agent orchestration.",
+      "order": 174
+    },
+    {
+      "id": "sentence-175",
+      "text": "I debugged Azure integration challenges.",
+      "order": 175
+    },
+    {
+      "id": "sentence-176",
+      "text": "I discovered what works versus what just sounds good in theory.",
+      "order": 176
+    },
+    {
+      "id": "sentence-177",
+      "text": "You know the edge cases?",
+      "order": 177
+    },
+    {
+      "id": "sentence-178",
+      "text": "The gotchas?",
+      "order": 178
+    },
+    {
+      "id": "sentence-179",
+      "text": "The parts where documentation is incomplete?",
+      "order": 179
+    },
+    {
+      "id": "sentence-180",
+      "text": "I know them.",
+      "order": 180
+    },
+    {
+      "id": "sentence-181",
+      "text": "For your four-month timeline, you need someone who won't spend weeks debugging the same issues I've already solved.",
+      "order": 181
+    },
+    {
+      "id": "sentence-182",
+      "text": "I can save you time by applying lessons learned rather than relearning them.",
+      "order": 182
+    },
+    {
+      "id": "sentence-183",
+      "text": "I've learned something important: the best system is one that researchers actually use.",
+      "order": 183
+    },
+    {
+      "id": "sentence-184",
+      "text": "At CIRA, I focused on building natural language interfaces that astronomy researchers could use without learning technical query languages.",
+      "order": 184
+    },
+    {
+      "id": "sentence-185",
+      "text": "The key was starting simple and iterating based on user feedback - adoption matters more than sophistication.",
+      "order": 185
+    },
+    {
+      "id": "sentence-186",
+      "text": "For your four-month prototype, I'd prioritize getting researchers to engage with the system early.",
+      "order": 186
+    },
+    {
+      "id": "sentence-187",
+      "text": "Weekly demos.",
+      "order": 187
+    },
+    {
+      "id": "sentence-188",
+      "text": "Gather feedback.",
+      "order": 188
+    },
+    {
+      "id": "sentence-189",
+      "text": "Iterate based on actual usage patterns - not what I think they need.",
+      "order": 189
+    },
+    {
+      "id": "sentence-190",
+      "text": "This is the 'start simple, validate fast' approach.",
+      "order": 190
+    },
+    {
+      "id": "sentence-191",
+      "text": "Month 1, I'd build a proof of concept.",
+      "order": 191
+    },
+    {
+      "id": "sentence-192",
+      "text": "Single PydanticAI agent reading one document type - like project descriptions.",
+      "order": 192
+    },
+    {
+      "id": "sentence-193",
+      "text": "Basic entity extraction - project name, lead researcher, theme.",
+      "order": 193
+    },
+    {
+      "id": "sentence-194",
+      "text": "By Week 4, I'd demo extracting 10 projects accurately.",
+      "order": 194
+    },
+    {
+      "id": "sentence-195",
+      "text": "Month 2, core functionality.",
+      "order": 195
+    },
+    {
+      "id": "sentence-196",
+      "text": "Add more document types - publications, grant applications.",
+      "order": 196
+    },
+    {
+      "id": "sentence-197",
+      "text": "Store in a simple database - could even start with SQLite before moving to graph database.",
+      "order": 197
+    },
+    {
+      "id": "sentence-198",
+      "text": "Deliver 50-plus projects mapped with basic relationships.",
+      "order": 198
+    },
+    {
+      "id": "sentence-199",
+      "text": "Month 3, intelligence layer.",
+      "order": 199
+    },
+    {
+      "id": "sentence-200",
+      "text": "Implement simple relationship discovery - shared researchers, similar themes.",
+      "order": 200
+    },
+    {
+      "id": "sentence-201",
+      "text": "Add basic natural language query interface.",
+      "order": 201
+    },
+    {
+      "id": "sentence-202",
+      "text": "Users can ask, 'What projects is Dr. Smith working on?'",
+      "order": 202
+    },
+    {
+      "id": "sentence-203",
+      "text": "Month 4, polish and demo.",
+      "order": 203
+    },
+    {
+      "id": "sentence-204",
+      "text": "Simple web UI using Streamlit for speed.",
+      "order": 204
+    },
+    {
+      "id": "sentence-205",
+      "text": "Documentation, example queries, leadership demo prep.",
+      "order": 205
+    },
+    {
+      "id": "sentence-206",
+      "text": "Why this approach?",
+      "order": 206
+    },
+    {
+      "id": "sentence-207",
+      "text": "I'd prioritize proving the concept works quickly.",
+      "order": 207
+    },
+    {
+      "id": "sentence-208",
+      "text": "By Week 4, you'd see actual project data extracted, even if it's just 10 projects.",
+      "order": 208
+    },
+    {
+      "id": "sentence-209",
+      "text": "This de-risks the project early.",
+      "order": 209
+    },
+    {
+      "id": "sentence-210",
+      "text": "Lets us validate our approach with real users.",
+      "order": 210
+    },
+    {
+      "id": "sentence-211",
+      "text": "Then we'd expand systematically based on what works.",
+      "order": 211
+    },
+    {
+      "id": "sentence-212",
+      "text": "This is the 'understand before building' approach.",
+      "order": 212
+    },
+    {
+      "id": "sentence-213",
+      "text": "Month 1 would be data discovery.",
+      "order": 213
+    },
+    {
+      "id": "sentence-214",
+      "text": "Audit all possible data sources - SharePoint, research databases, email metadata, grant applications, publications databases.",
+      "order": 214
+    },
+    {
+      "id": "sentence-215",
+      "text": "Interview 5 to 10 researchers about their information needs.",
+      "order": 215
+    },
+    {
+      "id": "sentence-216",
+      "text": "Deliverable is a comprehensive data source map plus user requirements.",
+      "order": 216
+    },
+    {
+      "id": "sentence-217",
+      "text": "Month 2, schema design.",
+      "order": 217
+    },
+    {
+      "id": "sentence-218",
+      "text": "Design the graph database schema based on actual data.",
+      "order": 218
+    },
+    {
+      "id": "sentence-219",
+      "text": "What entities?",
+      "order": 219
+    },
+    {
+      "id": "sentence-220",
+      "text": "Researchers, Projects, Themes, Publications, Grants.",
+      "order": 220
+    },
+    {
+      "id": "sentence-221",
+      "text": "What relationships?",
+      "order": 221
+    },
+    {
+      "id": "sentence-222",
+      "text": "Works on, collaborates with, contributes to.",
+      "order": 222
+    },
+    {
+      "id": "sentence-223",
+      "text": "Implement schema in Neo4j.",
+      "order": 223
+    },
+    {
+      "id": "sentence-224",
+      "text": "Month 3, automated extraction.",
+      "order": 224
+    },
+    {
+      "id": "sentence-225",
+      "text": "Build PydanticAI agents for each document type.",
+      "order": 225
+    },
+    {
+      "id": "sentence-226",
+      "text": "Implement data pipeline for regular updates.",
+      "order": 226
+    },
+    {
+      "id": "sentence-227",
+      "text": "Month 4, interface and demo.",
+      "order": 227
+    },
+    {
+      "id": "sentence-228",
+      "text": "Natural language query system plus simple UI.",
+      "order": 228
+    },
+    {
+      "id": "sentence-229",
+      "text": "Leadership demonstration.",
+      "order": 229
+    },
+    {
+      "id": "sentence-230",
+      "text": "Why this approach?",
+      "order": 230
+    },
+    {
+      "id": "sentence-231",
+      "text": "If we design the wrong schema, we'll waste months rebuilding.",
+      "order": 231
+    },
+    {
+      "id": "sentence-232",
+      "text": "I'd invest upfront in understanding the data landscape and user needs.",
+      "order": 232
+    },
+    {
+      "id": "sentence-233",
+      "text": "Yes, you don't see code in Week 1, but you get better architecture that won't need major refactoring.",
+      "order": 233
+    },
+    {
+      "id": "sentence-234",
+      "text": "This works best if data sources are complex or requirements are unclear.",
+      "order": 234
+    },
+    {
+      "id": "sentence-235",
+      "text": "There are multiple valid approaches.",
+      "order": 235
+    },
+    {
+      "id": "sentence-236",
+      "text": "Each has trade-offs.",
+      "order": 236
+    },
+    {
+      "id": "sentence-237",
+      "text": "MVP First?",
+      "order": 237
+    },
+    {
+      "id": "sentence-238",
+      "text": "Fastest to initial value.",
+      "order": 238
+    },
+    {
+      "id": "sentence-239",
+      "text": "Good for proving concept.",
+      "order": 239
+    },
+    {
+      "id": "sentence-240",
+      "text": "But might require refactoring later.",
+      "order": 240
+    },
+    {
+      "id": "sentence-241",
+      "text": "Data-First?",
+      "order": 241
+    },
+    {
+      "id": "sentence-242",
+      "text": "Better long-term architecture.",
+      "order": 242
+    },
+    {
+      "id": "sentence-243",
+      "text": "But slower initial delivery.",
+      "order": 243
+    },
+    {
+      "id": "sentence-244",
+      "text": "My recommendation would depend on your priorities.",
+      "order": 244
+    },
+    {
+      "id": "sentence-245",
+      "text": "If the four-month timeline is fixed and we need to demonstrate something to secure continued funding, I'd lean toward MVP First.",
+      "order": 245
+    },
+    {
+      "id": "sentence-246",
+      "text": "If you're confident the project will continue and want solid architecture from the start, Data-First makes sense.",
+      "order": 246
+    },
+    {
+      "id": "sentence-247",
+      "text": "So what's most important to you - speed to initial demo, or long-term architectural quality?",
+      "order": 247
+    },
+    {
+      "id": "sentence-248",
+      "text": "So I pay attention to where technologies sit on what I call the maturity curve.",
+      "order": 248
+    },
+    {
+      "id": "sentence-249",
+      "text": "On one end, you have bleeding edge - that's research only, not ready for delivery.",
+      "order": 249
+    },
+    {
+      "id": "sentence-250",
+      "text": "On the other end, you have commodity - everyone knows it, it's off-the-shelf.",
+      "order": 250
+    },
+    {
+      "id": "sentence-251",
+      "text": "I don't want to be on the bleeding edge - that's too risky.",
+      "order": 251
+    },
+    {
+      "id": "sentence-252",
+      "text": "But I also don't want to only work with mature technologies - by then it's commodity work.",
+      "order": 252
+    },
+    {
+      "id": "sentence-253",
+      "text": "I'm most comfortable in the middle - the emerging stage.",
+      "order": 253
+    },
+    {
+      "id": "sentence-254",
+      "text": "Past pure research.",
+      "order": 254
+    },
+    {
+      "id": "sentence-255",
+      "text": "Proven enough to deploy.",
+      "order": 255
+    },
+    {
+      "id": "sentence-256",
+      "text": "But before it's commoditized.",
+      "order": 256
+    },
+    {
+      "id": "sentence-257",
+      "text": "That's where you need someone who can work with incomplete documentation and evolving best practices.",
+      "order": 257
+    },
+    {
+      "id": "sentence-258",
+      "text": "Here's where things sit in October 2025:",
+      "order": 258
+    },
+    {
+      "id": "sentence-259",
+      "text": "ChatGPT, GPT-4?",
+      "order": 259
+    },
+    {
+      "id": "sentence-260",
+      "text": "Mainstream.",
+      "order": 260
+    },
+    {
+      "id": "sentence-261",
+      "text": "Everyone uses it.",
+      "order": 261
+    },
+    {
+      "id": "sentence-262",
+      "text": "Basic RAG systems?",
+      "order": 262
+    },
+    {
+      "id": "sentence-263",
+      "text": "Also mainstream now.",
+      "order": 263
+    },
+    {
+      "id": "sentence-264",
+      "text": "Common pattern.",
+      "order": 264
+    },
+    {
+      "id": "sentence-265",
+      "text": "But PydanticAI?",
+      "order": 265
+    },
+    {
+      "id": "sentence-266",
+      "text": "Multi-agent RAG?",
+      "order": 266
+    },
+    {
+      "id": "sentence-267",
+      "text": "Knowledge graphs for organizational intelligence?",
+      "order": 267
+    },
+    {
+      "id": "sentence-268",
+      "text": "These are emerging.",
+      "order": 268
+    },
+    {
+      "id": "sentence-269",
+      "text": "Papers are being published right now.",
+      "order": 269
+    },
+    {
+      "id": "sentence-270",
+      "text": "Few deployed implementations.",
+      "order": 270
+    },
+    {
+      "id": "sentence-271",
+      "text": "Your role sits at that emerging stage.",
+      "order": 271
+    },
+    {
+      "id": "sentence-272",
+      "text": "In two years, this will be common.",
+      "order": 272
+    },
+    {
+      "id": "sentence-273",
+      "text": "But right now, you need someone comfortable in that gap.",
+      "order": 273
+    },
+    {
+      "id": "sentence-274",
+      "text": "That's where I thrive.",
+      "order": 274
+    },
+    {
+      "id": "sentence-275",
+      "text": "I think critically about AI's limitations.",
+      "order": 275
+    },
+    {
+      "id": "sentence-276",
+      "text": "That's important.",
+      "order": 276
+    },
+    {
+      "id": "sentence-277",
+      "text": "For this role, AI excels at finding patterns and connections.",
+      "order": 277
+    },
+    {
+      "id": "sentence-278",
+      "text": "Like, 'Which researchers frequently co-author?'",
+      "order": 278
+    },
+    {
+      "id": "sentence-279",
+      "text": "Or, 'What projects share methodologies?'",
+      "order": 279
+    },
+    {
+      "id": "sentence-280",
+      "text": "AI is great at that.",
+      "order": 280
+    },
+    {
+      "id": "sentence-281",
+      "text": "But AI shouldn't make decisions like, 'These two projects should collaborate.'",
+      "order": 281
+    },
+    {
+      "id": "sentence-282",
+      "text": "That requires human judgment.",
+      "order": 282
+    },
+    {
+      "id": "sentence-283",
+      "text": "Research culture.",
+      "order": 283
+    },
+    {
+      "id": "sentence-284",
+      "text": "Personalities.",
+      "order": 284
+    },
+    {
+      "id": "sentence-285",
+      "text": "Institutional politics.",
+      "order": 285
+    },
+    {
+      "id": "sentence-286",
+      "text": "Things AI can't understand.",
+      "order": 286
+    },
+    {
+      "id": "sentence-287",
+      "text": "I'd design the system to surface connections and let researchers decide what to act on.",
+      "order": 287
+    },
+    {
+      "id": "sentence-288",
+      "text": "The AI is an intelligence tool, not a decision-maker.",
+      "order": 288
+    },
+    {
+      "id": "sentence-289",
+      "text": "Does that make sense?",
+      "order": 289
+    },
+    {
+      "id": "sentence-290",
+      "text": "We're in an interesting period.",
+      "order": 290
+    },
+    {
+      "id": "sentence-291",
+      "text": "Rapid capability expansion, but also hype inflation.",
+      "order": 291
+    },
+    {
+      "id": "sentence-292",
+      "text": "Let me separate what I think is real from what's hype.",
+      "order": 292
+    },
+    {
+      "id": "sentence-293",
+      "text": "What's real:",
+      "order": 293
+    },
+    {
+      "id": "sentence-294",
+      "text": "LLMs have genuinely improved at language understanding and generation.",
+      "order": 294
+    },
+    {
+      "id": "sentence-295",
+      "text": "That's real progress.",
+      "order": 295
+    },
+    {
+      "id": "sentence-296",
+      "text": "RAG systems provide practical solutions to hallucination problems.",
+      "order": 296
+    },
+    {
+      "id": "sentence-297",
+      "text": "Multi-agent systems show promise for complex workflows.",
+      "order": 297
+    },
+    {
+      "id": "sentence-298",
+      "text": "AI can genuinely accelerate certain tasks - writing, analysis, coding assistance.",
+      "order": 298
+    },
+    {
+      "id": "sentence-299",
+      "text": "What's hype:",
+      "order": 299
+    },
+    {
+      "id": "sentence-300",
+      "text": "Claims that AI will replace all knowledge workers?",
+      "order": 300
+    },
+    {
+      "id": "sentence-301",
+      "text": "That's hype.",
+      "order": 301
+    },
+    {
+      "id": "sentence-302",
+      "text": "It's augmentation, not replacement.",
+      "order": 302
+    },
+    {
+      "id": "sentence-303",
+      "text": "The belief that throwing AI at any problem will solve it?",
+      "order": 303
+    },
+    {
+      "id": "sentence-304",
+      "text": "Also hype.",
+      "order": 304
+    },
+    {
+      "id": "sentence-305",
+      "text": "You need good problem definition first.",
+      "order": 305
+    },
+    {
+      "id": "sentence-306",
+      "text": "Predictions that AGI is two years away?",
+      "order": 306
+    },
+    {
+      "id": "sentence-307",
+      "text": "We're nowhere close to general intelligence.",
+      "order": 307
+    },
+    {
+      "id": "sentence-308",
+      "text": "The idea that every company needs an AI strategy?",
+      "order": 308
+    },
+    {
+      "id": "sentence-309",
+      "text": "Many don't.",
+      "order": 309
+    },
+    {
+      "id": "sentence-310",
+      "text": "They need basic digitization first.",
+      "order": 310
+    },
+    {
+      "id": "sentence-311",
+      "text": "For children's health research, your mission is meaningful and AI can genuinely help.",
+      "order": 311
+    },
+    {
+      "id": "sentence-312",
+      "text": "Not because AI is magic, but because you have specific problems AI is actually good at.",
+      "order": 312
+    },
+    {
+      "id": "sentence-313",
+      "text": "Finding patterns in large amounts of research output.",
+      "order": 313
+    },
+    {
+      "id": "sentence-314",
+      "text": "Making institutional knowledge discoverable.",
+      "order": 314
+    },
+    {
+      "id": "sentence-315",
+      "text": "Enabling cross-team connections.",
+      "order": 315
+    },
+    {
+      "id": "sentence-316",
+      "text": "This is practical AI application, not hype.",
+      "order": 316
+    },
+    {
+      "id": "sentence-317",
+      "text": "I saw you're recruiting postdoctoral researchers for autonomous discovery systems.",
+      "order": 317
+    },
+    {
+      "id": "sentence-318",
+      "text": "How do you envision this Data Analyst role supporting or integrating with those discovery engines?",
+      "order": 318
+    },
+    {
+      "id": "sentence-319",
+      "text": "Is the mapping system meant to provide the knowledge graph substrate for hypothesis generation?",
+      "order": 319
+    },
+    {
+      "id": "sentence-320",
+      "text": "The postdoc job description mentions agentic coding environments and autonomous research agents.",
+      "order": 320
+    },
+    {
+      "id": "sentence-321",
+      "text": "I've used Claude-Code extensively and built multi-agent systems at UWA.",
+      "order": 321
+    },
+    {
+      "id": "sentence-322",
+      "text": "How much autonomy are you envisioning for this mapping system - should it evolve toward autonomous relationship discovery, or stay as a query tool initially?",
+      "order": 322
+    },
+    {
+      "id": "sentence-323",
+      "text": "What computational biology concepts would be most valuable for me to learn first to effectively support your team - especially as you bring on postdocs working on rare disease discovery?",
+      "order": 323
+    },
+    {
+      "id": "sentence-324",
+      "text": "What does success look like from your perspective - beyond the technical deliverables?",
+      "order": 324
+    },
+    {
+      "id": "sentence-325",
+      "text": "How do you see this system supporting the Research Reimagined strategy over the next two to three years?",
+      "order": 325
+    },
+    {
+      "id": "sentence-326",
+      "text": "What challenges have you encountered so far in trying to map research activities or facilitate cross-team collaboration?",
+      "order": 326
+    },
+    {
+      "id": "sentence-327",
+      "text": "What does the onboarding process look like for this role?",
+      "order": 327
+    },
+    {
+      "id": "sentence-328",
+      "text": "Are there opportunities for professional development or training, particularly in computational biology concepts?",
+      "order": 328
+    },
+    {
+      "id": "sentence-329",
+      "text": "What are the next steps in the hiring process?",
+      "order": 329
+    },
+    {
+      "id": "sentence-330",
+      "text": "I have hands-on PydanticAI experience from my UWA work building multi-agent research prototypes.",
+      "order": 330
+    },
+    {
+      "id": "sentence-331",
+      "text": "In October 2025, this is rare - the framework only released late 2024.",
+      "order": 331
+    },
+    {
+      "id": "sentence-332",
+      "text": "I happen to have built with it when it was emerging.",
+      "order": 332
+    },
+    {
+      "id": "sentence-333",
+      "text": "Which means I've already climbed the PydanticAI learning curve and can deliver immediately in your four-month timeline.",
+      "order": 333
+    },
+    {
+      "id": "sentence-334",
+      "text": "At UWA, I architected a Neo4j database with a 12-entity schema.",
+      "order": 334
+    },
+    {
+      "id": "sentence-335",
+      "text": "Processed 7,300-plus records specifically for relationship mapping.",
+      "order": 335
+    },
+    {
+      "id": "sentence-336",
+      "text": "The job description says 'create connections between projects, researchers, and themes' - that's exactly what graph databases excel at.",
+      "order": 336
+    },
+    {
+      "id": "sentence-337",
+      "text": "And I have hands-on experience designing them.",
+      "order": 337
+    },
+    {
+      "id": "sentence-338",
+      "text": "I delivered three research prototypes within my six-month UWA contract.",
+      "order": 338
+    },
+    {
+      "id": "sentence-339",
+      "text": "315 commits on GitHub.",
+      "order": 339
+    },
+    {
+      "id": "sentence-340",
+      "text": "I understand the difference between research prototypes and production systems - prototypes prioritize demonstrating feasibility.",
+      "order": 340
+    },
+    {
+      "id": "sentence-341",
+      "text": "For your four-month timeline, I know how to balance working demonstration with perfect system.",
+      "order": 341
+    },
+    {
+      "id": "sentence-342",
+      "text": "I've worked in two research institutions building systems that researchers actually use.",
+      "order": 342
+    },
+    {
+      "id": "sentence-343",
+      "text": "I learned that adoption matters more than sophistication.",
+      "order": 343
+    },
+    {
+      "id": "sentence-344",
+      "text": "At CIRA and UWA, I focused on simple, usable interfaces over technical complexity.",
+      "order": 344
+    },
+    {
+      "id": "sentence-345",
+      "text": "For your prototype, I'd get researchers engaged early through weekly demos and iterate based on actual usage.",
+      "order": 345
+    },
+    {
+      "id": "sentence-346",
+      "text": "I want my technical work to have real-world impact.",
+      "order": 346
+    },
+    {
+      "id": "sentence-347",
+      "text": "Children's health research is as meaningful as it gets.",
+      "order": 347
+    },
+    {
+      "id": "sentence-348",
+      "text": "That intrinsic motivation matters when you're debugging at 7pm trying to meet a deadline.",
+      "order": 348
+    },
+    {
+      "id": "sentence-349",
+      "text": "I'll care about delivering because the mission matters to me.",
+      "order": 349
+    },
+    {
+      "id": "sentence-350",
+      "text": "When I started at UWA, I had never used PydanticAI.",
+      "order": 350
+    },
+    {
+      "id": "sentence-351",
+      "text": "Within my contract period, I delivered a working multi-agent prototype.",
+      "order": 351
+    },
+    {
+      "id": "sentence-352",
+      "text": "I learn by building proof-of-concepts quickly, failing fast, and iterating.",
+      "order": 352
+    },
+    {
+      "id": "sentence-353",
+      "text": "That rapid learning ability is how I'd approach new requirements in computational biology.",
+      "order": 353
+    },
+    {
+      "id": "sentence-354",
+      "text": "I know computational biology is new territory for me.",
+      "order": 354
+    },
+    {
+      "id": "sentence-355",
+      "text": "I don't have domain expertise yet.",
+      "order": 355
+    },
+    {
+      "id": "sentence-356",
+      "text": "But here's my approach: when I started at UWA, I learned about mining maintenance systems by working closely with the team and studying the domain data.",
+      "order": 356
+    },
+    {
+      "id": "sentence-357",
+      "text": "I learned their terminology and failure patterns by building with real data.",
+      "order": 357
+    },
+    {
+      "id": "sentence-358",
+      "text": "This helped me build useful systems quickly.",
+      "order": 358
+    },
+    {
+      "id": "sentence-359",
+      "text": "For this role, I'd follow the same pattern.",
+      "order": 359
+    },
+    {
+      "id": "sentence-360",
+      "text": "I learn domains quickly through immersion and building.",
+      "order": 360
+    },
+    {
+      "id": "sentence-361",
+      "text": "What computational biology concepts would be most valuable for me to learn first?",
+      "order": 361
+    },
+    {
+      "id": "sentence-362",
+      "text": "What research workflows should I understand?",
+      "order": 362
+    },
+    {
+      "id": "sentence-363",
+      "text": "I noticed you're also recruiting postdoctoral researchers for autonomous discovery systems.",
+      "order": 363
+    },
+    {
+      "id": "sentence-364",
+      "text": "That's exciting - it tells me you're building a computational biology lab with an ambitious research vision.",
+      "order": 364
+    },
+    {
+      "id": "sentence-365",
+      "text": "I understand my Data Analyst role is more focused - building the mapping system to track research relationships, create visualizations, and enable simple queries.",
+      "order": 365
+    },
+    {
+      "id": "sentence-366",
+      "text": "It's organizational intelligence rather than scientific discovery infrastructure.",
+      "order": 366
+    },
+    {
+      "id": "sentence-367",
+      "text": "But here's why I'm excited:",
+      "order": 367
+    },
+    {
+      "id": "sentence-368",
+      "text": "At UWA, I built multi-agent systems and graph databases.",
+      "order": 368
+    },
+    {
+      "id": "sentence-369",
+      "text": "I understand how to design systems that are queryable and extensible.",
+      "order": 369
+    },
+    {
+      "id": "sentence-370",
+      "text": "And I use AI coding assistants like Claude-Code, so I can communicate well with computational researchers.",
+      "order": 370
+    },
+    {
+      "id": "sentence-371",
+      "text": "I see this as: I deliver the 4-month mapping prototype as specified.",
+      "order": 371
+    },
+    {
+      "id": "sentence-372",
+      "text": "If it works well and you want to extend it, I have the technical background to contribute.",
+      "order": 372
+    },
+    {
+      "id": "sentence-373",
+      "text": "But I'm not overstating the initial scope - it's a focused organizational mapping tool.",
+      "order": 373
+    },
+    {
+      "id": "sentence-374",
+      "text": "On the practical side: I'm on a 485 Graduate visa with full work rights.",
+      "order": 374
+    },
+    {
+      "id": "sentence-375",
+      "text": "I can start immediately - I'm currently casual tutoring at Curtin which is flexible.",
+      "order": 375
+    },
+    {
+      "id": "sentence-376",
+      "text": "Fixed-term research contracts suit me well because I like focused, time-bound projects with clear deliverables.",
+      "order": 376
+    },
+    {
+      "id": "sentence-377",
+      "text": "For professional development, I'm committed to continuous learning.",
+      "order": 377
+    },
+    {
+      "id": "sentence-378",
+      "text": "I'd want to deepen my understanding of computational biology and stay current with AI frameworks as they evolve.",
+      "order": 378
+    },
+    {
+      "id": "sentence-379",
+      "text": "Your Research Reimagined strategy mentions innovation and learning - that resonates with me.",
+      "order": 379
+    },
+    {
+      "id": "sentence-380",
+      "text": "I have the exact PydanticAI multi-agent and graph database experience you need.",
+      "order": 380
+    },
+    {
+      "id": "sentence-381",
+      "text": "I've built data infrastructure - graph databases and multi-agent systems - that others can query and build upon.",
+      "order": 381
+    },
+    {
+      "id": "sentence-382",
+      "text": "I've been actively involved in AI development from basic tools at CIRA to advanced multi-agent systems at UWA.",
+      "order": 382
+    },
+    {
+      "id": "sentence-383",
+      "text": "I've proven I can deliver research prototypes within tight timelines.",
+      "order": 383
+    },
+    {
+      "id": "sentence-384",
+      "text": "I'm deeply aligned with your mission to improve children's health.",
+      "order": 384
+    },
+    {
+      "id": "sentence-385",
+      "text": "And I understand my role: building a focused organizational mapping tool for project tracking, research relationships, and visualization.",
+      "order": 385
+    },
+    {
+      "id": "sentence-386",
+      "text": "Document Created: October 13, 2025",
+      "order": 386
+    },
+    {
+      "id": "sentence-387",
+      "text": "Practice Method: Read term by term, combine naturally as you memorize",
+      "order": 387
+    }
+  ]
+}

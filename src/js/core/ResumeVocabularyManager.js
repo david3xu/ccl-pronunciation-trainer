@@ -4,7 +4,7 @@ class ResumeVocabularyManager {
     constructor() {
         this.currentCategory = 'all-categories';
         this.currentDifficulty = 'all';
-        this.currentLearningMode = 'resume-terms'; // resume-terms, aiml-terms, professional-terms
+        this.currentLearningMode = 'resume-terms'; // resume-terms, aiml-terms, professional-terms, interview-sentences
         this.currentWords = [];
         this.allWords = []; // Store unfiltered words
         this.categoryCounts = {}; // Store counts per category per difficulty
@@ -18,6 +18,7 @@ class ResumeVocabularyManager {
         this.resumeTermsDataset = null; // Dataset for resume-terms mode
         this.aimlTermsDataset = null; // Dataset for AI/ML terms with definitions
         this.professionalTermsDataset = null; // Combined dataset
+        this.interviewSentencesDataset = null; // Dataset for interview sentence practice
 
         // Professional category labels
         this.categoryLabels = {
@@ -89,6 +90,16 @@ class ResumeVocabularyManager {
             this.aimlTermsDataset = await aimlResponse.json();
             console.log(`✅ Loaded ${this.aimlTermsDataset.vocabulary.length} AI/ML terms`);
 
+            // Load interview sentences dataset
+            try {
+                const sentencesResponse = await fetch('data/processed/interview-sentences.json');
+                this.interviewSentencesDataset = await sentencesResponse.json();
+                console.log(`✅ Loaded ${this.interviewSentencesDataset.sentences.length} interview sentences`);
+            } catch (e) {
+                console.warn('⚠️ Interview sentences dataset not found (optional)');
+                this.interviewSentencesDataset = { metadata: {}, sentences: [] };
+            }
+
             // Load or create professional terms dataset (combined)
             try {
                 const professionalResponse = await fetch('data/processed/professional-terms-dataset.json');
@@ -158,6 +169,16 @@ class ResumeVocabularyManager {
                 break;
             case 'professional-terms':
                 this.allWords = this.professionalTermsDataset.vocabulary;
+                break;
+            case 'interview-sentences':
+                // Convert sentences to word-like format for compatibility
+                this.allWords = this.interviewSentencesDataset.sentences.map(s => ({
+                    english: s.text,
+                    id: s.id,
+                    difficulty: 'normal',
+                    category: 'interview-practice',
+                    isSentence: true // Flag to identify sentences
+                }));
                 break;
             default:
                 this.allWords = this.resumeTermsDataset.vocabulary;
