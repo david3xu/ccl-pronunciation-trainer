@@ -255,7 +255,8 @@ class UIController {
         }
         // Fallback to pronunciation database
         else if (window.pronunciationDB) {
-            const ukPron = window.pronunciationDB.getPronunciationFromVocabulary(word.english, 'uk');
+            const wordText = word.english || word.text;
+            const ukPron = window.pronunciationDB.getPronunciationFromVocabulary(wordText, 'uk');
             if (ukPron) {
                 const ipaMatch = ukPron.match(/\/([^\/]+)\//);
                 const phoneticMatch = ukPron.match(/\*\*([^*]+)\*\*/);
@@ -284,21 +285,24 @@ class UIController {
         // Update English word (middle)
         const englishElement = document.getElementById('englishWord');
         if (englishElement) {
+            // Get the text - support both word.english (vocabulary) and word.text (speaking-terms)
+            const displayText = word.text || word.english;
+            
             // For vocabulary-clean entries, make sure we're using the full word
             // and not just the phonetic representation
             if (word.source === 'vocabulary-clean') {
                 console.log('Vocabulary word:', word);
                 // Handle words that might contain slashes (like "Behave/act")
                 // or other special characters
-                if (word.english.includes('/')) {
+                if (displayText && displayText.includes('/')) {
                     // Get the full phrase before any '/' character
-                    const fullWord = word.english.split('/')[0].trim();
+                    const fullWord = displayText.split('/')[0].trim();
                     englishElement.textContent = fullWord;
                 } else {
-                    englishElement.textContent = word.english;
+                    englishElement.textContent = displayText;
                 }
             } else {
-                englishElement.textContent = word.english;
+                englishElement.textContent = displayText;
             }
             englishElement.classList.add('word-change');
             setTimeout(() => {
@@ -382,7 +386,11 @@ class UIController {
         const totalWords = window.vocabularyManager.getTotalWords();
         window.progressTracker.updateProgress(index, totalWords, word);
 
-        console.log(`Displayed word ${index + 1}/${totalWords}: "${word.english}"`);
+        }, 500);
+        }
+
+        const displayText = word.text || word.english;
+        console.log(`Displayed word ${index + 1}/${totalWords}: "${displayText}"`);
     }
 
     displaySentence(sentence, index) {

@@ -6,9 +6,14 @@ class TTSEngine {
         this.targetRepeats = 2;
     }
 
-    async pronounceWord(word, repeatCount = 0) {
-        if (!word || !word.english) {
-            window.progressTracker.showError('No word to pronounce');
+    async pronounceWord(word, speed = 1.0) {
+        // Support both word.english (vocabulary) and word.text (speaking-terms)
+        const wordText = word?.text || word?.english;
+        if (!word || !wordText) {
+            console.error('No word to pronounce');
+            if (window.progressTracker) {
+                window.progressTracker.showError('No word to pronounce');
+            }
             return;
         }
 
@@ -19,7 +24,7 @@ class TTSEngine {
             this.enableBackgroundAudio();
 
             // Clean text for TTS
-            const cleanText = this.cleanTextForTTS(word.english);
+            const cleanText = this.cleanTextForTTS(wordText);
 
             // Get pronunciation rate based on repeat count for progressive learning
             let pronunciationRate;
@@ -46,7 +51,7 @@ class TTSEngine {
 
             // Emit speaking start event
             window.eventBus.emit('tts:speakingStarted', {
-                word: word.english,
+                word: wordText,
                 repeatCount: this.currentRepeatCount,
                 rate: pronunciationRate
             });
@@ -100,14 +105,14 @@ class TTSEngine {
 
             // Emit speaking completed event
             window.eventBus.emit('tts:speakingCompleted', {
-                word: word.english,
+                word: wordText,
                 repeatCount: this.currentRepeatCount
             });
 
         } catch (error) {
             console.warn('Speech error:', error);
             // Don't show error to user - fallback is already handled in speak()
-            this.showTTSFallback(word.english);
+            this.showTTSFallback(wordText);
         }
     }
 
