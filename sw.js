@@ -226,30 +226,8 @@ async function handleAudioPlaybackSync() {
       });
     });
 
-    // Register another sync to keep it alive (only if supported)
-    if (self.registration && self.registration.sync) {
-      try {
-        await self.registration.sync.register('audio-playback');
-      } catch (syncError) {
-        // Background Sync not supported, ignore silently
-      }
-    }
-
-    // Send notification to maintain audio session (only if supported)
-    if (self.registration && self.registration.showNotification) {
-      try {
-        await self.registration.showNotification('CCL Trainer Audio Active', {
-          body: 'Audio playback continues in background',
-          icon: '/icon-192x192.png',
-          badge: '/icon-72x72.png',
-          tag: 'audio-playback',
-          silent: true,
-          requireInteraction: false
-        });
-      } catch (notifError) {
-        // Notifications not supported or permission denied, ignore silently
-      }
-    }
+    // DO NOT re-register sync here - it causes infinite loop
+    // The sync is registered by the client when needed
 
   } catch (error) {
     // Ignore errors silently - background sync is optional enhancement
@@ -259,17 +237,7 @@ async function handleAudioPlaybackSync() {
 // Handle Background Audio Requests
 async function handleBackgroundAudioRequest(payload) {
   try {
-    // Register background sync for audio playback (only if supported)
-    if (self.registration && self.registration.sync) {
-      try {
-        await self.registration.sync.register('background-audio-sync');
-        await self.registration.sync.register('audio-playback');
-      } catch (syncError) {
-        // Background Sync not supported, ignore silently
-      }
-    }
-
-    // Notify clients of audio processing
+    // Notify clients of audio processing (no re-registration of sync)
     const clients = await self.clients.matchAll();
     clients.forEach(client => {
       client.postMessage({
