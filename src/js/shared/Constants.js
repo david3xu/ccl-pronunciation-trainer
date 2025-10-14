@@ -49,7 +49,8 @@ const Constants = {
     VOCABULARY_CLEAN: 'resume-terms',
     AIML_TERMS: 'aiml-terms',
     PROFESSIONAL_TERMS: 'professional-terms',
-    SPEAKING_TERMS: 'speaking-terms'
+    SPEAKING_TERMS: 'speaking-terms',
+    TOPIC_TERMS: 'topic-terms'
   },
 
   DIALOGUE_GROUPS: {

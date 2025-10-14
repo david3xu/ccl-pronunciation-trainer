@@ -19,6 +19,7 @@ class ResumeVocabularyManager {
         this.aimlTermsDataset = null; // Dataset for AI/ML terms with definitions
         this.professionalTermsDataset = null; // Combined dataset
         this.speakingTermsDataset = null; // Dataset for speaking practice
+        this.topicTermsDataset = null; // Dataset for topic practice
         this.interviewSentencesDataset = null; // Dataset for interview sentence practice
 
         // Professional category labels
@@ -65,7 +66,7 @@ class ResumeVocabularyManager {
 
             // Emit initialization event
             if (window.eventBus) {
-                window.eventBus.emit('vocabulary:initialized', {
+                window.eventBus.emit(window.appConfig.get('events.vocabulary.initialized'), {
                     mode: this.currentLearningMode,
                     totalWords: this.getTotalWords()
                 });
@@ -99,6 +100,16 @@ class ResumeVocabularyManager {
             } catch (e) {
                 console.warn('⚠️ Speaking terms dataset not found (optional)');
                 this.speakingTermsDataset = { metadata: {}, vocabulary: [] };
+            }
+
+            // Load topic terms dataset
+            try {
+                const topicResponse = await fetch('data/processed/topic-terms-dataset.json');
+                this.topicTermsDataset = await topicResponse.json();
+                console.log(`✅ Loaded ${this.topicTermsDataset.vocabulary.length} topic practice items`);
+            } catch (e) {
+                console.warn('⚠️ Topic terms dataset not found (optional)');
+                this.topicTermsDataset = { metadata: {}, vocabulary: [] };
             }
 
             // Load interview sentences dataset
@@ -185,6 +196,10 @@ class ResumeVocabularyManager {
                 // Load speaking practice content
                 this.allWords = this.speakingTermsDataset.vocabulary || [];
                 break;
+            case 'topic-terms':
+                // Load topic practice content
+                this.allWords = this.topicTermsDataset.vocabulary || [];
+                break;
             case 'interview-sentences':
                 // Convert sentences to word-like format for compatibility
                 this.allWords = this.interviewSentencesDataset.sentences.map(s => ({
@@ -207,7 +222,7 @@ class ResumeVocabularyManager {
 
         // Emit event
         if (window.eventBus) {
-            window.eventBus.emit('vocabulary:loaded', {
+            window.eventBus.emit(window.appConfig.get('events.vocabulary.loaded'), {
                 mode: this.currentLearningMode,
                 totalWords: this.getTotalWords(),
                 filteredWords: this.currentWords.length
@@ -223,7 +238,7 @@ class ResumeVocabularyManager {
 
         // Emit event for category change
         if (window.eventBus) {
-            window.eventBus.emit('vocabulary:categoryChanged', {
+            window.eventBus.emit(window.appConfig.get('events.vocabulary.categoryChanged'), {
                 category: this.currentCategory,
                 filteredWords: this.currentWords.length
             });
@@ -238,7 +253,7 @@ class ResumeVocabularyManager {
 
         // Emit event for difficulty change
         if (window.eventBus) {
-            window.eventBus.emit('vocabulary:difficultyChanged', {
+            window.eventBus.emit(window.appConfig.get('events.vocabulary.difficultyChanged'), {
                 difficulty: this.currentDifficulty,
                 filteredWords: this.currentWords.length
             });

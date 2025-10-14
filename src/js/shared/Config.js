@@ -27,7 +27,8 @@ class AppConfig {
                     RESUME_TERMS: '/data/processed/resume-terms-dataset.json',
                     AIML_TERMS: '/data/processed/aiml-terms-dataset.json',
                     PROFESSIONAL_TERMS: '/data/processed/professional-terms-dataset.json',
-                    SPEAKING_TERMS: '/data/processed/speaking-terms-dataset.json'
+                    SPEAKING_TERMS: '/data/processed/speaking-terms-dataset.json',
+                    TOPIC_TERMS: '/data/processed/topic-terms-dataset.json'
                 }
             },
             PROFESSIONAL_CATEGORIES: {
@@ -75,7 +76,8 @@ class AppConfig {
                     { id: 'resume-terms', label: '💼 Resume Terms', dataset: 'resumeTerms' },
                     { id: 'aiml-terms', label: '🤖 AI/ML Terms', dataset: 'aimlTerms' },
                     { id: 'professional-terms', label: '🌟 All Professional Terms', dataset: 'professionalTerms' },
-                    { id: 'speaking-terms', label: '🎯 Speaking Terms', dataset: 'speakingTerms' }
+                    { id: 'speaking-terms', label: '🎯 Speaking Terms', dataset: 'speakingTerms' },
+                    { id: 'topic-terms', label: '🎤 Topic Terms', dataset: 'topicTerms' }
                 ],
                 difficulties: ['easy', 'normal', 'hard'],
                 categories: CONSTANTS.PROFESSIONAL_CATEGORIES
@@ -86,7 +88,8 @@ class AppConfig {
                 resumeTerms: CONSTANTS.DATA.FULL_PATHS.RESUME_TERMS,
                 aimlTerms: CONSTANTS.DATA.FULL_PATHS.AIML_TERMS,
                 professionalTerms: CONSTANTS.DATA.FULL_PATHS.PROFESSIONAL_TERMS,
-                speakingTerms: CONSTANTS.DATA.FULL_PATHS.SPEAKING_TERMS
+                speakingTerms: CONSTANTS.DATA.FULL_PATHS.SPEAKING_TERMS,
+                topicTerms: CONSTANTS.DATA.FULL_PATHS.TOPIC_TERMS
             },
 
             // UI Configuration
@@ -129,6 +132,16 @@ class AppConfig {
                 debug: false,
                 verbose: false,
                 mockData: false
+            },
+
+            // Event Configuration
+            events: {
+                vocabulary: {
+                    initialized: 'vocabulary:initialized',
+                    loaded: 'vocabulary:loaded',
+                    categoryChanged: 'vocabulary:categoryChanged',
+                    difficultyChanged: 'vocabulary:difficultyChanged'
+                }
             }
         };
     }
