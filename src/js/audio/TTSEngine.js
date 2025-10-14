@@ -6,7 +6,7 @@ class TTSEngine {
         this.targetRepeats = 2;
     }
 
-    async pronounceWord(word, speed = 1.0) {
+    async pronounceWord(word, repeatCount = 0) {
         // Support both word.english (vocabulary) and word.text (speaking-terms)
         const wordText = word?.text || word?.english;
         if (!word || !wordText) {
