@@ -386,9 +386,6 @@ class UIController {
         const totalWords = window.vocabularyManager.getTotalWords();
         window.progressTracker.updateProgress(index, totalWords, word);
 
-        }, 500);
-        }
-
         const displayText = word.text || word.english;
         console.log(`Displayed word ${index + 1}/${totalWords}: "${displayText}"`);
     }
