@@ -26,7 +26,8 @@ class AppConfig {
                 FULL_PATHS: {
                     RESUME_TERMS: '/data/processed/resume-terms-dataset.json',
                     AIML_TERMS: '/data/processed/aiml-terms-dataset.json',
-                    PROFESSIONAL_TERMS: '/data/processed/professional-terms-dataset.json'
+                    PROFESSIONAL_TERMS: '/data/processed/professional-terms-dataset.json',
+                    SPEAKING_TERMS: '/data/processed/speaking-terms-dataset.json'
                 }
             },
             PROFESSIONAL_CATEGORIES: {
@@ -73,7 +74,8 @@ class AppConfig {
                 learningModes: [
                     { id: 'resume-terms', label: '💼 Resume Terms', dataset: 'resumeTerms' },
                     { id: 'aiml-terms', label: '🤖 AI/ML Terms', dataset: 'aimlTerms' },
-                    { id: 'professional-terms', label: '🌟 All Professional Terms', dataset: 'professionalTerms' }
+                    { id: 'professional-terms', label: '🌟 All Professional Terms', dataset: 'professionalTerms' },
+                    { id: 'speaking-terms', label: '🎯 Speaking Terms', dataset: 'speakingTerms' }
                 ],
                 difficulties: ['easy', 'normal', 'hard'],
                 categories: CONSTANTS.PROFESSIONAL_CATEGORIES
@@ -83,7 +85,8 @@ class AppConfig {
             dataSources: {
                 resumeTerms: CONSTANTS.DATA.FULL_PATHS.RESUME_TERMS,
                 aimlTerms: CONSTANTS.DATA.FULL_PATHS.AIML_TERMS,
-                professionalTerms: CONSTANTS.DATA.FULL_PATHS.PROFESSIONAL_TERMS
+                professionalTerms: CONSTANTS.DATA.FULL_PATHS.PROFESSIONAL_TERMS,
+                speakingTerms: CONSTANTS.DATA.FULL_PATHS.SPEAKING_TERMS
             },
 
             // UI Configuration

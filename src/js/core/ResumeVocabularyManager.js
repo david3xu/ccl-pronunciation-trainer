@@ -18,6 +18,7 @@ class ResumeVocabularyManager {
         this.resumeTermsDataset = null; // Dataset for resume-terms mode
         this.aimlTermsDataset = null; // Dataset for AI/ML terms with definitions
         this.professionalTermsDataset = null; // Combined dataset
+        this.speakingTermsDataset = null; // Dataset for speaking practice
         this.interviewSentencesDataset = null; // Dataset for interview sentence practice
 
         // Professional category labels
@@ -89,6 +90,16 @@ class ResumeVocabularyManager {
             const aimlResponse = await fetch('data/processed/aiml-terms-dataset.json');
             this.aimlTermsDataset = await aimlResponse.json();
             console.log(`✅ Loaded ${this.aimlTermsDataset.vocabulary.length} AI/ML terms`);
+
+            // Load speaking terms dataset
+            try {
+                const speakingResponse = await fetch('data/processed/speaking-terms-dataset.json');
+                this.speakingTermsDataset = await speakingResponse.json();
+                console.log(`✅ Loaded ${this.speakingTermsDataset.vocabulary.length} speaking practice items`);
+            } catch (e) {
+                console.warn('⚠️ Speaking terms dataset not found (optional)');
+                this.speakingTermsDataset = { metadata: {}, vocabulary: [] };
+            }
 
             // Load interview sentences dataset
             try {
@@ -169,6 +180,10 @@ class ResumeVocabularyManager {
                 break;
             case 'professional-terms':
                 this.allWords = this.professionalTermsDataset.vocabulary;
+                break;
+            case 'speaking-terms':
+                // Load speaking practice content
+                this.allWords = this.speakingTermsDataset.vocabulary || [];
                 break;
             case 'interview-sentences':
                 // Convert sentences to word-like format for compatibility

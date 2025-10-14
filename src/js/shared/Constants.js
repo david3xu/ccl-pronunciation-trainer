@@ -48,7 +48,8 @@ const Constants = {
   MODES: {
     VOCABULARY_CLEAN: 'resume-terms',
     AIML_TERMS: 'aiml-terms',
-    PROFESSIONAL_TERMS: 'professional-terms'
+    PROFESSIONAL_TERMS: 'professional-terms',
+    SPEAKING_TERMS: 'speaking-terms'
   },
 
   DIALOGUE_GROUPS: {
