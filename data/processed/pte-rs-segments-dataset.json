@@ -2,82 +2,12 @@
   "meta": {
     "type": "rs",
     "version": "1.0",
-    "count": 1429,
+    "count": 1424,
     "updated": "2025-10-17",
     "source": "pte-repeat-sentence-segments.md",
     "description": "PTE Repeat Sentence practice sentences"
   },
   "items": [
-    {
-      "id": 1,
-      "type": "rs",
-      "content": {
-        "sentence": "Listen to each segment individually",
-        "ipa": null
-      },
-      "metadata": {
-        "category": "general",
-        "difficulty": "easy",
-        "wordCount": 5,
-        "tags": []
-      }
-    },
-    {
-      "id": 2,
-      "type": "rs",
-      "content": {
-        "sentence": "Repeat immediately after hearing it",
-        "ipa": null
-      },
-      "metadata": {
-        "category": "general",
-        "difficulty": "easy",
-        "wordCount": 5,
-        "tags": []
-      }
-    },
-    {
-      "id": 3,
-      "type": "rs",
-      "content": {
-        "sentence": "Focus on natural rhythm and intonation",
-        "ipa": null
-      },
-      "metadata": {
-        "category": "general",
-        "difficulty": "easy",
-        "wordCount": 6,
-        "tags": []
-      }
-    },
-    {
-      "id": 4,
-      "type": "rs",
-      "content": {
-        "sentence": "Move to the next segment",
-        "ipa": null
-      },
-      "metadata": {
-        "category": "general",
-        "difficulty": "easy",
-        "wordCount": 5,
-        "tags": []
-      }
-    },
-    {
-      "id": 5,
-      "type": "rs",
-      "content": {
-        "sentence": "Practice complete sentences by combining segments",
-        "ipa": null
-      },
-      "metadata": {
-        "category": "general",
-        "difficulty": "easy",
-        "wordCount": 6,
-        "tags": []
-      }
-    },
     {
       "id": 1,
       "type": "rs",
