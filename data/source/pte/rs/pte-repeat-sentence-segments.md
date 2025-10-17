@@ -13,11 +13,11 @@
 This dataset breaks down complete sentences into **thought groups** (sense groups) - natural speech segments where native speakers pause briefly.
 
 **How to Practice**:
-1. Listen to each segment individually
-2. Repeat immediately after hearing it
-3. Focus on natural rhythm and intonation
-4. Move to the next segment
-5. Practice complete sentences by combining segments
+- Listen to each segment individually
+- Repeat immediately after hearing it
+- Focus on natural rhythm and intonation
+- Move to the next segment
+- Practice complete sentences by combining segments
 
 **Benefits**:
 - Master natural pausing points
