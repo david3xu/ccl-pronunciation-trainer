@@ -1,0 +1,4735 @@
+{
+  "metadata": {
+    "generated": "2025-11-10T12:38:06.134Z",
+    "totalTerms": 472,
+    "source": "pte-rs-core-vocabulary-with-ipa",
+    "description": "PTE RS Core Vocabulary (475 key terms from RS practice with IPA)",
+    "version": "1.0",
+    "categories": [
+      "pte-rs-core"
+    ],
+    "hasIPA": true
+  },
+  "vocabulary": [
+    {
+      "english": "preliminary",
+      "pronunciation": {
+        "ipa": "prɪˈlɪmɪnəri",
+        "phonetic": "prih-LIM-ih-ner-ee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "bibliography",
+      "pronunciation": {
+        "ipa": "ˌbɪbliˈɒɡrəfi",
+        "phonetic": "bib-lee-OG-ruh-fee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "seminar",
+      "pronunciation": {
+        "ipa": "ˈsemɪnɑːr",
+        "phonetic": "SEM-ih-nahr"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "assistance",
+      "pronunciation": {
+        "ipa": "əˈsɪstəns",
+        "phonetic": "uh-SIS-tuhns"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "assignments",
+      "pronunciation": {
+        "ipa": "əˈsaɪnmənts",
+        "phonetic": "uh-SYNE-muhnts"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "submitted",
+      "pronunciation": {
+        "ipa": "səbˈmɪtɪd",
+        "phonetic": "suhb-MIT-id"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "essays",
+      "pronunciation": {
+        "ipa": "ˈeseɪz",
+        "phonetic": "ES-ayz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "allergy",
+      "pronunciation": {
+        "ipa": "ˈælərdʒi",
+        "phonetic": "AL-er-jee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "text",
+      "pronunciation": {
+        "ipa": "tekst",
+        "phonetic": "tekst"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "references",
+      "pronunciation": {
+        "ipa": "ˈrefərənsɪz",
+        "phonetic": "REF-er-uhn-siz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "cited",
+      "pronunciation": {
+        "ipa": "ˈsaɪtɪd",
+        "phonetic": "SY-tid"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "appropriately",
+      "pronunciation": {
+        "ipa": "əˈproʊpriətli",
+        "phonetic": "uh-PRO-pree-uht-lee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "footnotes",
+      "pronunciation": {
+        "ipa": "ˈfʊtnoʊts",
+        "phonetic": "FOOT-nohts"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "representative",
+      "pronunciation": {
+        "ipa": "ˌreprɪˈzentətɪv",
+        "phonetic": "rep-rih-ZEN-tuh-tiv"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "union",
+      "pronunciation": {
+        "ipa": "ˈjuːnjən",
+        "phonetic": "YOON-yuhn"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "conferences",
+      "pronunciation": {
+        "ipa": "ˈkɒnfərənsɪz",
+        "phonetic": "KON-fer-uhn-siz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "scheduled",
+      "pronunciation": {
+        "ipa": "ˈskedʒuːld",
+        "phonetic": "SKED-joold"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "third",
+      "pronunciation": {
+        "ipa": "θɜːrd",
+        "phonetic": "thurd"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "college",
+      "pronunciation": {
+        "ipa": "ˈkɒlɪdʒ",
+        "phonetic": "KOL-ij"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "refectory",
+      "pronunciation": {
+        "ipa": "rɪˈfektəri",
+        "phonetic": "rih-FEK-tuh-ree"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "vegetarian dishes",
+      "pronunciation": {
+        "ipa": "ˌvedʒɪˈteəriən ˈdɪʃɪz",
+        "phonetic": "vej-ih-TAIR-ee-uhn DISH-iz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "daily basis",
+      "pronunciation": {
+        "ipa": "ˈdeɪli ˈbeɪsɪs",
+        "phonetic": "DAY-lee BAY-sis"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "research",
+      "pronunciation": {
+        "ipa": "rɪˈsɜːrtʃ",
+        "phonetic": "rih-SURCH"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "purpose",
+      "pronunciation": {
+        "ipa": "ˈpɜːrpəs",
+        "phonetic": "PUR-puhs"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "African",
+      "pronunciation": {
+        "ipa": "ˈæfrɪkən",
+        "phonetic": "AF-rih-kuhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "elephant",
+      "pronunciation": {
+        "ipa": "ˈelɪfənt",
+        "phonetic": "EL-ih-fuhnt"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "mammal",
+      "pronunciation": {
+        "ipa": "ˈmæməl",
+        "phonetic": "MAM-uhl"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "world",
+      "pronunciation": {
+        "ipa": "wɜːrld",
+        "phonetic": "wurld"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "permit",
+      "pronunciation": {
+        "ipa": "ˈpɜːrmɪt",
+        "phonetic": "PUR-mit"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "parking spot",
+      "pronunciation": {
+        "ipa": "ˈpɑːrkɪŋ spɒt",
+        "phonetic": "PAHR-king spot"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "campus",
+      "pronunciation": {
+        "ipa": "ˈkæmpəs",
+        "phonetic": "KAM-puhs"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "impossible",
+      "pronunciation": {
+        "ipa": "ɪmˈpɒsəbəl",
+        "phonetic": "im-POS-uh-buhl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "author's",
+      "pronunciation": {
+        "ipa": "ˈɔːθərz",
+        "phonetic": "AW-thurz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "point of view",
+      "pronunciation": {
+        "ipa": "pɔɪnt əv vjuː",
+        "phonetic": "poynt uhv vyoo"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "immigration",
+      "pronunciation": {
+        "ipa": "ˌɪmɪˈɡreɪʃən",
+        "phonetic": "im-ih-GRAY-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "contact",
+      "pronunciation": {
+        "ipa": "ˈkɒntækt",
+        "phonetic": "KON-takt"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "registrar",
+      "pronunciation": {
+        "ipa": "ˌredʒɪˈstrɑːr",
+        "phonetic": "rej-ih-STRAHR"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "required",
+      "pronunciation": {
+        "ipa": "rɪˈkwaɪərd",
+        "phonetic": "rih-KWY-erd"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "complete",
+      "pronunciation": {
+        "ipa": "kəmˈpliːt",
+        "phonetic": "kuhm-PLEET"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "written",
+      "pronunciation": {
+        "ipa": "ˈrɪtən",
+        "phonetic": "RIT-uhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "inernational",
+      "pronunciation": {
+        "ipa": "ˌɪntərˈnæʃənəl",
+        "phonetic": "in-ter-NASH-uh-nuhl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "locating",
+      "pronunciation": {
+        "ipa": "loʊˈkeɪtɪŋ",
+        "phonetic": "loh-KAY-ting"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "university",
+      "pronunciation": {
+        "ipa": "ˌjuːnɪˈvɜːrsəti",
+        "phonetic": "yoo-nih-VUR-sih-tee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "housing",
+      "pronunciation": {
+        "ipa": "ˈhaʊzɪŋ",
+        "phonetic": "HOW-zing"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "gender",
+      "pronunciation": {
+        "ipa": "ˈdʒendər",
+        "phonetic": "JEN-der"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "discussing",
+      "pronunciation": {
+        "ipa": "dɪˈskʌsɪŋ",
+        "phonetic": "dih-SKUS-ing"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "figures",
+      "pronunciation": {
+        "ipa": "ˈfɪɡjərz",
+        "phonetic": "FIG-yerz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "words",
+      "pronunciation": {
+        "ipa": "wɜːrdz",
+        "phonetic": "wurdz"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "common",
+      "pronunciation": {
+        "ipa": "ˈkɒmən",
+        "phonetic": "KOM-uhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "occurrence",
+      "pronunciation": {
+        "ipa": "əˈkɜːrəns",
+        "phonetic": "uh-KUR-uhns"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "referential",
+      "pronunciation": {
+        "ipa": "ˌrefəˈrenʃəl",
+        "phonetic": "ref-uh-REN-shuhl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "finalize",
+      "pronunciation": {
+        "ipa": "ˈfaɪnəlaɪz",
+        "phonetic": "FY-nuh-lyz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "Wednesday",
+      "pronunciation": {
+        "ipa": "ˈwenzdeɪ",
+        "phonetic": "WENZ-day"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "journalism",
+      "pronunciation": {
+        "ipa": "ˈdʒɜːrnəlɪzəm",
+        "phonetic": "JUR-nuh-liz-uhm"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "collection",
+      "pronunciation": {
+        "ipa": "kəˈlekʃən",
+        "phonetic": "kuh-LEK-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "publication",
+      "pronunciation": {
+        "ipa": "ˌpʌblɪˈkeɪʃən",
+        "phonetic": "pub-lih-KAY-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "transmission",
+      "pronunciation": {
+        "ipa": "trænsˈmɪʃən",
+        "phonetic": "trans-MISH-uhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "urban",
+      "pronunciation": {
+        "ipa": "ˈɜːrbən",
+        "phonetic": "UR-buhn"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "poor",
+      "pronunciation": {
+        "ipa": "pʊr",
+        "phonetic": "poor"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "lived in",
+      "pronunciation": {
+        "ipa": "lɪvd ɪn",
+        "phonetic": "livd in"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "extremely",
+      "pronunciation": {
+        "ipa": "ɪkˈstriːmli",
+        "phonetic": "ik-STREEM-lee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "cramped",
+      "pronunciation": {
+        "ipa": "kræmpt",
+        "phonetic": "krampt"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "condition",
+      "pronunciation": {
+        "ipa": "kənˈdɪʃən",
+        "phonetic": "kuhn-DISH-uhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "mentors",
+      "pronunciation": {
+        "ipa": "ˈmentɔːrz",
+        "phonetic": "MEN-torz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "arranged",
+      "pronunciation": {
+        "ipa": "əˈreɪndʒd",
+        "phonetic": "uh-RAYNJ'd"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "additional",
+      "pronunciation": {
+        "ipa": "əˈdɪʃənəl",
+        "phonetic": "uh-DISH-uh-nuhl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "modern",
+      "pronunciation": {
+        "ipa": "ˈmɒdərn",
+        "phonetic": "MOD-urn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "poetry",
+      "pronunciation": {
+        "ipa": "ˈpoʊətri",
+        "phonetic": "POH-uh-tree"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "conventions",
+      "pronunciation": {
+        "ipa": "kənˈvenʃənz",
+        "phonetic": "kuhn-VEN-shuhnz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "language",
+      "pronunciation": {
+        "ipa": "ˈlæŋɡwɪdʒ",
+        "phonetic": "LANG-gwij"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "rhythm",
+      "pronunciation": {
+        "ipa": "ˈrɪðəm",
+        "phonetic": "RITH-uhm"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "objectives",
+      "pronunciation": {
+        "ipa": "əbˈdʒektɪvz",
+        "phonetic": "uhb-JEK-tivz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "driven",
+      "pronunciation": {
+        "ipa": "ˈdrɪvən",
+        "phonetic": "DRIV-uhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "natural",
+      "pronunciation": {
+        "ipa": "ˈnætʃərəl",
+        "phonetic": "NACH-er-uhl"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "curiosity",
+      "pronunciation": {
+        "ipa": "ˌkjʊriˈɒsəti",
+        "phonetic": "kyoor-ee-OS-ih-tee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "instincts",
+      "pronunciation": {
+        "ipa": "ˈɪnstɪŋkts",
+        "phonetic": "IN-stingkts"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "influence",
+      "pronunciation": {
+        "ipa": "ˈɪnfluəns",
+        "phonetic": "IN-floo-uhns"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "media",
+      "pronunciation": {
+        "ipa": "ˈmiːdiə",
+        "phonetic": "MEE-dee-uh"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "further",
+      "pronunciation": {
+        "ipa": "ˈfɜːrðər",
+        "phonetic": "FUR-thur"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "extension",
+      "pronunciation": {
+        "ipa": "ɪkˈstenʃən",
+        "phonetic": "ik-STEN-shuhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "education",
+      "pronunciation": {
+        "ipa": "ˌedʒuˈkeɪʃən",
+        "phonetic": "ej-oo-KAY-shuhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "executive",
+      "pronunciation": {
+        "ipa": "ɪɡˈzekjətɪv",
+        "phonetic": "ig-ZEK-yuh-tiv"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "physiology",
+      "pronunciation": {
+        "ipa": "ˌfɪziˈɒlədʒi",
+        "phonetic": "fiz-ee-OL-uh-jee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "internal",
+      "pronunciation": {
+        "ipa": "ɪnˈtɜːrnəl",
+        "phonetic": "in-TUR-nuhl"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "exernal",
+      "pronunciation": {
+        "ipa": "ɪkˈstɜːrnəl",
+        "phonetic": "ik-STUR-nuhl"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "structure",
+      "pronunciation": {
+        "ipa": "ˈstrʌktʃər",
+        "phonetic": "STRUK-chur"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "field trip",
+      "pronunciation": {
+        "ipa": "fiːld trɪp",
+        "phonetic": "feeld trip"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "portfolio",
+      "pronunciation": {
+        "ipa": "pɔːrtˈfoʊlioʊ",
+        "phonetic": "port-FOH-lee-oh"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "review office",
+      "pronunciation": {
+        "ipa": "rɪˈvjuː ˈɒfɪs",
+        "phonetic": "rih-VYOO OF-is"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "expert",
+      "pronunciation": {
+        "ipa": "ˈekspɜːrt",
+        "phonetic": "EK-spurt"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "eighteenth",
+      "pronunciation": {
+        "ipa": "ˌeɪˈtiːnθ",
+        "phonetic": "ay-TEENTH"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "century",
+      "pronunciation": {
+        "ipa": "ˈsentʃəri",
+        "phonetic": "SEN-chuh-ree"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "French",
+      "pronunciation": {
+        "ipa": "frentʃ",
+        "phonetic": "french"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "literature",
+      "pronunciation": {
+        "ipa": "ˈlɪtərətʃər",
+        "phonetic": "LIT-er-uh-chur"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "traumatic",
+      "pronunciation": {
+        "ipa": "trɔːˈmætɪk",
+        "phonetic": "traw-MAT-ik"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "brain injury",
+      "pronunciation": {
+        "ipa": "breɪn ˈɪndʒəri",
+        "phonetic": "brayn IN-juh-ree"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "author",
+      "pronunciation": {
+        "ipa": "ˈɔːθər",
+        "phonetic": "AW-thur"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "expresses",
+      "pronunciation": {
+        "ipa": "ɪkˈspresɪz",
+        "phonetic": "ik-SPRES-iz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "readily",
+      "pronunciation": {
+        "ipa": "ˈredɪli",
+        "phonetic": "RED-ih-lee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "accept",
+      "pronunciation": {
+        "ipa": "əkˈsept",
+        "phonetic": "uhk-SEPT"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "course",
+      "pronunciation": {
+        "ipa": "kɔːrs",
+        "phonetic": "kors"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "comprises",
+      "pronunciation": {
+        "ipa": "kəmˈpraɪzɪz",
+        "phonetic": "kuhm-PRY-ziz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "lectures",
+      "pronunciation": {
+        "ipa": "ˈlektʃərz",
+        "phonetic": "LEK-churz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "seminars",
+      "pronunciation": {
+        "ipa": "ˈsemɪnɑːrz",
+        "phonetic": "SEM-ih-nahrz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "tutorials",
+      "pronunciation": {
+        "ipa": "tjuːˈtɔːriəlz",
+        "phonetic": "too-TOR-ee-uhlz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "outline",
+      "pronunciation": {
+        "ipa": "ˈaʊtlaɪn",
+        "phonetic": "OWT-lyn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "beginning",
+      "pronunciation": {
+        "ipa": "bɪˈɡɪnɪŋ",
+        "phonetic": "bih-GIN-ing"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "twentieth",
+      "pronunciation": {
+        "ipa": "ˈtwentiəθ",
+        "phonetic": "TWEN-tee-uhth"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "campus tour",
+      "pronunciation": {
+        "ipa": "ˈkæmpəs tʊr",
+        "phonetic": "KAM-puhs toor"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "get familiar",
+      "pronunciation": {
+        "ipa": "ɡet fəˈmɪliər",
+        "phonetic": "get fuh-MIL-yur"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "teaching",
+      "pronunciation": {
+        "ipa": "ˈtiːtʃɪŋ",
+        "phonetic": "TEE-ching"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "facilities",
+      "pronunciation": {
+        "ipa": "fəˈsɪlətiz",
+        "phonetic": "fuh-SIL-ih-teez"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "evidence",
+      "pronunciation": {
+        "ipa": "ˈevɪdəns",
+        "phonetic": "EV-ih-duhns"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "between",
+      "pronunciation": {
+        "ipa": "bɪˈtwiːn",
+        "phonetic": "bih-TWEEN"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "brain events",
+      "pronunciation": {
+        "ipa": "breɪn ɪˈvents",
+        "phonetic": "brayn ih-VENTS"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "behavioral events",
+      "pronunciation": {
+        "ipa": "bɪˈheɪvjərəl ɪˈvents",
+        "phonetic": "bih-HAYV-yer-uhl ih-VENTS"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "fascinating",
+      "pronunciation": {
+        "ipa": "ˈfæsɪneɪtɪŋ",
+        "phonetic": "FAS-ih-nay-ting"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "contest",
+      "pronunciation": {
+        "ipa": "ˈkɒntest",
+        "phonetic": "KON-test"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "land living history",
+      "pronunciation": {
+        "ipa": "lænd ˈlɪvɪŋ ˈhɪstəri",
+        "phonetic": "land LIV-ing HIS-tuh-ree"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "the human history",
+      "pronunciation": {
+        "ipa": "ðə ˈhjuːmən ˈhɪstəri",
+        "phonetic": "thuh HYOO-muhn HIS-tuh-ree"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "suffered",
+      "pronunciation": {
+        "ipa": "ˈsʌfərd",
+        "phonetic": "SUF-erd"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a series of",
+      "pronunciation": {
+        "ipa": "ə ˈsɪriːz əv",
+        "phonetic": "uh SEER-eez uhv"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "invasions",
+      "pronunciation": {
+        "ipa": "ɪnˈveɪʒənz",
+        "phonetic": "in-VAY-zhunz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "tribes",
+      "pronunciation": {
+        "ipa": "traɪbz",
+        "phonetic": "trybz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "present-day",
+      "pronunciation": {
+        "ipa": "ˌprezənt ˈdeɪ",
+        "phonetic": "PREZ-uhnt day"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "Germany",
+      "pronunciation": {
+        "ipa": "ˈdʒɜːrməni",
+        "phonetic": "JUR-muh-nee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "Denmark",
+      "pronunciation": {
+        "ipa": "ˈdenmɑːrk",
+        "phonetic": "DEN-mahrk"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "registration",
+      "pronunciation": {
+        "ipa": "ˌredʒɪˈstreɪʃən",
+        "phonetic": "rej-ih-STRAY-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "early March",
+      "pronunciation": {
+        "ipa": "ˈɜːrli mɑːrtʃ",
+        "phonetic": "UR-lee mahrch"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "invention",
+      "pronunciation": {
+        "ipa": "ɪnˈvenʃən",
+        "phonetic": "in-VEN-shuhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "clock",
+      "pronunciation": {
+        "ipa": "klɒk",
+        "phonetic": "klok"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "disputed",
+      "pronunciation": {
+        "ipa": "dɪˈspjuːtɪd",
+        "phonetic": "dih-SPYOO-tid"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "historians",
+      "pronunciation": {
+        "ipa": "hɪˈstɔːriənz",
+        "phonetic": "hih-STOR-ee-uhnz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "developments",
+      "pronunciation": {
+        "ipa": "dɪˈveləpmənts",
+        "phonetic": "dih-VEL-uhp-muhnts"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "discussed",
+      "pronunciation": {
+        "ipa": "dɪˈskʌst",
+        "phonetic": "dih-SKUST"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "depth",
+      "pronunciation": {
+        "ipa": "depθ",
+        "phonetic": "depth"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "economic",
+      "pronunciation": {
+        "ipa": "ˌiːkəˈnɒmɪk",
+        "phonetic": "ee-kuh-NOM-ik"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "Typhoon",
+      "pronunciation": {
+        "ipa": "taɪˈfuːn",
+        "phonetic": "ty-FOON"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "sentences",
+      "pronunciation": {
+        "ipa": "ˈsentənsɪz",
+        "phonetic": "SEN-tuhn-siz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "essay",
+      "pronunciation": {
+        "ipa": "ˈeseɪ",
+        "phonetic": "ES-ay"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "capture",
+      "pronunciation": {
+        "ipa": "ˈkæptʃər",
+        "phonetic": "KAP-chur"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "attention",
+      "pronunciation": {
+        "ipa": "əˈtenʃən",
+        "phonetic": "uh-TEN-shuhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "inherent",
+      "pronunciation": {
+        "ipa": "ɪnˈhɪrənt",
+        "phonetic": "in-HEER-uhnt"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "tension",
+      "pronunciation": {
+        "ipa": "ˈtenʃən",
+        "phonetic": "TEN-shuhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "features",
+      "pronunciation": {
+        "ipa": "ˈfiːtʃərz",
+        "phonetic": "FEE-churz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "addressed",
+      "pronunciation": {
+        "ipa": "əˈdrest",
+        "phonetic": "uh-DREST"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "inital",
+      "pronunciation": {
+        "ipa": "ɪˈnɪʃəl",
+        "phonetic": "ih-NISH-uhl"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "intriguing",
+      "pronunciation": {
+        "ipa": "ɪnˈtriːɡɪŋ",
+        "phonetic": "in-TREE-ging"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "statistically",
+      "pronunciation": {
+        "ipa": "stəˈtɪstɪkli",
+        "phonetic": "stuh-TIS-tik-lee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "insignificant",
+      "pronunciation": {
+        "ipa": "ˌɪnsɪɡˈnɪfɪkənt",
+        "phonetic": "in-sig-NIF-ih-kuhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "technology",
+      "pronunciation": {
+        "ipa": "tekˈnɒlədʒi",
+        "phonetic": "tek-NOL-uh-jee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "music",
+      "pronunciation": {
+        "ipa": "ˈmjuːzɪk",
+        "phonetic": "MYOO-zik"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "library",
+      "pronunciation": {
+        "ipa": "ˈlaɪbreri",
+        "phonetic": "LY-brer-ee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "weekend",
+      "pronunciation": {
+        "ipa": "ˌwiːkˈend",
+        "phonetic": "week-END"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "majority",
+      "pronunciation": {
+        "ipa": "məˈdʒɒrəti",
+        "phonetic": "muh-JOR-ih-tee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "hardware",
+      "pronunciation": {
+        "ipa": "ˈhɑːrdwer",
+        "phonetic": "HARD-wair"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "customer",
+      "pronunciation": {
+        "ipa": "ˈkʌstəmər",
+        "phonetic": "KUS-tuh-mer"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "medical center",
+      "pronunciation": {
+        "ipa": "ˈmedɪkəl ˈsentər",
+        "phonetic": "MED-ih-kuhl SEN-ter"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "supermarket",
+      "pronunciation": {
+        "ipa": "ˈsuːpərmɑːrkɪt",
+        "phonetic": "SOO-per-mahr-kit"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "North Street",
+      "pronunciation": {
+        "ipa": "nɔːrθ striːt",
+        "phonetic": "north street"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "minimal mark",
+      "pronunciation": {
+        "ipa": "ˈmɪnɪməl mɑːrk",
+        "phonetic": "MIN-ih-muhl mahrk"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "distinction",
+      "pronunciation": {
+        "ipa": "dɪˈstɪŋkʃən",
+        "phonetic": "dih-STING-kshuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "to be awarded",
+      "pronunciation": {
+        "ipa": "tə bi əˈwɔːrdɪd",
+        "phonetic": "tuh bee uh-WOR-did"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "psychology",
+      "pronunciation": {
+        "ipa": "saɪˈkɒlədʒi",
+        "phonetic": "sy-KOL-uh-jee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "department",
+      "pronunciation": {
+        "ipa": "dɪˈpɑːrtmənt",
+        "phonetic": "dih-PAHRT-muhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "volunteers",
+      "pronunciation": {
+        "ipa": "ˌvɒlənˈtɪrz",
+        "phonetic": "vol-uhn-TEERZ"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "involved",
+      "pronunciation": {
+        "ipa": "ɪnˈvɒlvd",
+        "phonetic": "in-VOLVD"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "research projects",
+      "pronunciation": {
+        "ipa": "rɪˈsɜːrtʃ ˈprɒdʒekts",
+        "phonetic": "rih-SURCH PROJ-ekts"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "thrown out",
+      "pronunciation": {
+        "ipa": "θroʊn aʊt",
+        "phonetic": "throhn owt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "validity",
+      "pronunciation": {
+        "ipa": "vəˈlɪdəti",
+        "phonetic": "vuh-LID-ih-tee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "argument",
+      "pronunciation": {
+        "ipa": "ˈɑːrɡjumənt",
+        "phonetic": "AHR-gyuh-muhnt"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "research paper",
+      "pronunciation": {
+        "ipa": "rɪˈsɜːrtʃ ˈpeɪpər",
+        "phonetic": "rih-SURCH PAY-per"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a thorough review",
+      "pronunciation": {
+        "ipa": "ə ˈθʌroʊ rɪˈvjuː",
+        "phonetic": "uh THUR-oh rih-VYOO"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "quarter",
+      "pronunciation": {
+        "ipa": "ˈkwɔːrtər",
+        "phonetic": "KWOR-ter"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "smoke",
+      "pronunciation": {
+        "ipa": "smoʊk",
+        "phonetic": "smohk"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "contributed",
+      "pronunciation": {
+        "ipa": "kənˈtrɪbjuːtɪd",
+        "phonetic": "kuhn-TRIB-yoo-tid"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a great deal",
+      "pronunciation": {
+        "ipa": "ə ɡreɪt diːl",
+        "phonetic": "uh grayt deel"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "air pollution",
+      "pronunciation": {
+        "ipa": "er pəˈluːʃən",
+        "phonetic": "air puh-LOO-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "welfare officer",
+      "pronunciation": {
+        "ipa": "ˈwelfer ˈɒfɪsər",
+        "phonetic": "WEL-fair OF-ih-ser"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "exam techniques",
+      "pronunciation": {
+        "ipa": "ɪɡˈzæm tekˈniːks",
+        "phonetic": "ig-ZAM tek-NEEKS"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "colonial era",
+      "pronunciation": {
+        "ipa": "kəˈloʊniəl ˈɪrə",
+        "phonetic": "kuh-LOH-nee-uhl EER-uh"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "nuclear",
+      "pronunciation": {
+        "ipa": "ˈnuːkliər",
+        "phonetic": "NOO-klee-er"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "disarmament",
+      "pronunciation": {
+        "ipa": "dɪsˈɑːrməmənt",
+        "phonetic": "dis-AHR-muh-muhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "visiting professor",
+      "pronunciation": {
+        "ipa": "ˈvɪzɪtɪŋ prəˈfesər",
+        "phonetic": "VIZ-ih-ting pruh-FES-er"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "geology",
+      "pronunciation": {
+        "ipa": "dʒiˈɒlədʒi",
+        "phonetic": "jee-OL-uh-jee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "competing",
+      "pronunciation": {
+        "ipa": "kəmˈpiːtɪŋ",
+        "phonetic": "kuhm-PEET-ing"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "computer courses",
+      "pronunciation": {
+        "ipa": "kəmˈpjuːtər ˈkɔːrsɪz",
+        "phonetic": "kuhm-PYOO-ter KOR-siz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "position",
+      "pronunciation": {
+        "ipa": "pəˈzɪʃən",
+        "phonetic": "puh-ZISH-uhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "available",
+      "pronunciation": {
+        "ipa": "əˈveɪləbəl",
+        "phonetic": "uh-VAY-luh-buhl"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "junior lecturer",
+      "pronunciation": {
+        "ipa": "ˈdʒuːniər ˈlektʃərər",
+        "phonetic": "JOON-yer LEK-chur-er"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "media studies",
+      "pronunciation": {
+        "ipa": "ˈmiːdiə ˈstʌdiz",
+        "phonetic": "MEE-dee-uh STUD-eez"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a guest lecturer",
+      "pronunciation": {
+        "ipa": "ə ɡest ˈlektʃərər",
+        "phonetic": "uh gest LEK-chur-er"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "visiting",
+      "pronunciation": {
+        "ipa": "ˈvɪzɪtɪŋ",
+        "phonetic": "VIZ-ih-ting"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "psychology department",
+      "pronunciation": {
+        "ipa": "saɪˈkɒlədʒi dɪˈpɑːrtmənt",
+        "phonetic": "sy-KOL-uh-jee dih-PAHRT-muhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "significant rise",
+      "pronunciation": {
+        "ipa": "sɪɡˈnɪfɪkənt raɪz",
+        "phonetic": "sig-NIF-ih-kuhnt ryz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "tuition fees",
+      "pronunciation": {
+        "ipa": "tjuˈɪʃən fiːz",
+        "phonetic": "too-ISH-uhn feez"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "ample opportunities",
+      "pronunciation": {
+        "ipa": "ˈæmpəl ˌɒpərˈtuːnətiz",
+        "phonetic": "AM-puhl op-er-TOO-nih-teez"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "presentation",
+      "pronunciation": {
+        "ipa": "ˌprezənˈteɪʃən",
+        "phonetic": "prez-uhn-TAY-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "article",
+      "pronunciation": {
+        "ipa": "ˈɑːrtɪkəl",
+        "phonetic": "AHR-tih-kuhl"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "covers",
+      "pronunciation": {
+        "ipa": "ˈkʌvərz",
+        "phonetic": "KUV-erz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "confict",
+      "pronunciation": {
+        "ipa": "ˈkɒnflɪkt",
+        "phonetic": "KON-flikt"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "starting point",
+      "pronunciation": {
+        "ipa": "ˈstɑːrtɪŋ pɔɪnt",
+        "phonetic": "STAHR-ting poynt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "discussion",
+      "pronunciation": {
+        "ipa": "dɪˈskʌʃən",
+        "phonetic": "dih-SKUSH-uhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "Robert",
+      "pronunciation": {
+        "ipa": "ˈrɒbərt",
+        "phonetic": "ROB-ert"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "faculty",
+      "pronunciation": {
+        "ipa": "ˈfækəlti",
+        "phonetic": "FAK-uhl-tee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a first draft",
+      "pronunciation": {
+        "ipa": "ə fɜːrst dræft",
+        "phonetic": "uh furst draft"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "left-hand side",
+      "pronunciation": {
+        "ipa": "left hænd saɪd",
+        "phonetic": "left hand syd"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "establish",
+      "pronunciation": {
+        "ipa": "ɪˈstæblɪʃ",
+        "phonetic": "ih-STAB-lish"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "identification number",
+      "pronunciation": {
+        "ipa": "aɪˌdentɪfɪˈkeɪʃən ˈnʌmbər",
+        "phonetic": "eye-den-tih-fih-KAY-shuhn NUM-ber"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "registration form",
+      "pronunciation": {
+        "ipa": "ˌredʒɪˈstreɪʃən fɔːrm",
+        "phonetic": "rej-ih-STRAY-shuhn form"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "less stressed",
+      "pronunciation": {
+        "ipa": "les strest",
+        "phonetic": "les strest"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "well preapred",
+      "pronunciation": {
+        "ipa": "wel prɪˈperd",
+        "phonetic": "wel prih-PAIRD"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "economic section",
+      "pronunciation": {
+        "ipa": "ˌiːkəˈnɒmɪk ˈsekʃən",
+        "phonetic": "ee-kuh-NOM-ik SEK-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "second floor",
+      "pronunciation": {
+        "ipa": "ˈsekənd flɔːr",
+        "phonetic": "SEK-uhnd flor"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "constantly",
+      "pronunciation": {
+        "ipa": "ˈkɒnstəntli",
+        "phonetic": "KON-stuhnt-lee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "industry",
+      "pronunciation": {
+        "ipa": "ˈɪndəstri",
+        "phonetic": "IN-duh-stree"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "agriculture",
+      "pronunciation": {
+        "ipa": "ˈæɡrɪkʌltʃər",
+        "phonetic": "AG-rih-kuhl-chur"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "attend the tutorial",
+      "pronunciation": {
+        "ipa": "əˈtend ðə tjuːˈtɔːriəl",
+        "phonetic": "uh-TEND thuh too-TOR-ee-uhl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a doctor appointment",
+      "pronunciation": {
+        "ipa": "ə ˈdɒktər əˈpɔɪntmənt",
+        "phonetic": "uh DOK-ter uh-POYNT-muhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "felt happy",
+      "pronunciation": {
+        "ipa": "felt ˈhæpi",
+        "phonetic": "felt HAP-ee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "learned the results",
+      "pronunciation": {
+        "ipa": "lɜːrnd ðə rɪˈzʌlts",
+        "phonetic": "lurnd thuh rih-ZULTS"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "election",
+      "pronunciation": {
+        "ipa": "ɪˈlekʃən",
+        "phonetic": "ih-LEK-shuhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "newspapers",
+      "pronunciation": {
+        "ipa": "ˈnuːzpeɪpərz",
+        "phonetic": "NOOZ-pay-perz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "reporting stories",
+      "pronunciation": {
+        "ipa": "rɪˈpɔːrtɪŋ ˈstɔːriz",
+        "phonetic": "rih-POR-ting STOR-eez"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "take advantage",
+      "pronunciation": {
+        "ipa": "teɪk ədˈvæntɪdʒ",
+        "phonetic": "tayk ad-VAN-tij"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "online resources",
+      "pronunciation": {
+        "ipa": "ˈɒnlaɪn rɪˈsɔːrsɪz",
+        "phonetic": "ON-lyn rih-SOR-siz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "attending the lecture",
+      "pronunciation": {
+        "ipa": "əˈtendɪŋ ðə ˈlektʃər",
+        "phonetic": "uh-TEND-ing thuh LEK-chur"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "be given credits",
+      "pronunciation": {
+        "ipa": "bi ˈɡɪvən ˈkredɪts",
+        "phonetic": "bee GIV-uhn KRED-its"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "due date",
+      "pronunciation": {
+        "ipa": "duː deɪt",
+        "phonetic": "doo dayt"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "demonstrates",
+      "pronunciation": {
+        "ipa": "ˈdemənstreɪts",
+        "phonetic": "DEM-uhn-strayts"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "further research",
+      "pronunciation": {
+        "ipa": "ˈfɜːrðər rɪˈsɜːrtʃ",
+        "phonetic": "FUR-thur rih-SURCH"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "in this field",
+      "pronunciation": {
+        "ipa": "ɪn ðɪs fiːld",
+        "phonetic": "in this feeld"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "the educational policies",
+      "pronunciation": {
+        "ipa": "ði ˌedʒuˈkeɪʃənəl ˈpɒləsiz",
+        "phonetic": "thee ej-oo-KAY-shuh-nuhl POL-ih-seez"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "verdict",
+      "pronunciation": {
+        "ipa": "ˈvɜːrdɪkt",
+        "phonetic": "VUR-dikt"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "which side",
+      "pronunciation": {
+        "ipa": "wɪtʃ saɪd",
+        "phonetic": "wich syd"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "more convincing",
+      "pronunciation": {
+        "ipa": "mɔːr kənˈvɪnsɪŋ",
+        "phonetic": "mor kuhn-VIN-sing"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "jury",
+      "pronunciation": {
+        "ipa": "ˈdʒʊri",
+        "phonetic": "JOOR-ee"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "hand in",
+      "pronunciation": {
+        "ipa": "hænd ɪn",
+        "phonetic": "hand in"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "make money",
+      "pronunciation": {
+        "ipa": "meɪk ˈmʌni",
+        "phonetic": "mayk MUN-ee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "change society",
+      "pronunciation": {
+        "ipa": "tʃeɪndʒ səˈsaɪəti",
+        "phonetic": "chaynj suh-SY-uh-tee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "strategy",
+      "pronunciation": {
+        "ipa": "ˈstrætədʒi",
+        "phonetic": "STRAT-uh-jee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "judicial review",
+      "pronunciation": {
+        "ipa": "dʒuˈdɪʃəl rɪˈvjuː",
+        "phonetic": "joo-DISH-uhl rih-VYOO"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "department office",
+      "pronunciation": {
+        "ipa": "dɪˈpɑːrtmənt ˈɒfɪs",
+        "phonetic": "dih-PAHRT-muhnt OF-is"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "before the deadline",
+      "pronunciation": {
+        "ipa": "bɪˈfɔːr ðə ˈdedlaɪn",
+        "phonetic": "bih-FOR thuh DED-lyn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "satisfy",
+      "pronunciation": {
+        "ipa": "ˈsætɪsfaɪ",
+        "phonetic": "SAT-is-fy"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "customer's needs",
+      "pronunciation": {
+        "ipa": "ˈkʌstəmərz niːdz",
+        "phonetic": "KUS-tuh-merz needz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "successful",
+      "pronunciation": {
+        "ipa": "səkˈsesfəl",
+        "phonetic": "suhk-SES-fuhl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "one milk",
+      "pronunciation": {
+        "ipa": "wʌn mɪlk",
+        "phonetic": "wun milk"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "in my coffee",
+      "pronunciation": {
+        "ipa": "ɪn maɪ ˈkɒfi",
+        "phonetic": "in my KOF-ee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "in the morning",
+      "pronunciation": {
+        "ipa": "ɪn ðə ˈmɔːrnɪŋ",
+        "phonetic": "in thuh MOR-ning"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "receive the reimbursement",
+      "pronunciation": {
+        "ipa": "rɪˈsiːv ðə ˌriːɪmˈbɜːrsmənt",
+        "phonetic": "rih-SEEV thuh ree-im-BURS-muhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "origial receipts",
+      "pronunciation": {
+        "ipa": "əˈrɪdʒənəl rɪˈsiːts",
+        "phonetic": "uh-RIJ-ih-nuhl rih-SEETS"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "television outputs",
+      "pronunciation": {
+        "ipa": "ˈtelɪvɪʒən ˈaʊtpʊts",
+        "phonetic": "TEL-ih-vizh-uhn OWT-poots"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "given away",
+      "pronunciation": {
+        "ipa": "ˈɡɪvən əˈweɪ",
+        "phonetic": "GIV-uhn uh-WAY"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "educational programs",
+      "pronunciation": {
+        "ipa": "ˌedʒuˈkeɪʃənəl ˈproʊɡræmz",
+        "phonetic": "ej-oo-KAY-shuh-nuhl PROH-gramz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "organic food",
+      "pronunciation": {
+        "ipa": "ɔːrˈɡænɪk fuːd",
+        "phonetic": "or-GAN-ik food"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "applying",
+      "pronunciation": {
+        "ipa": "əˈplaɪɪŋ",
+        "phonetic": "uh-PLY-ing"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "chemicals",
+      "pronunciation": {
+        "ipa": "ˈkemɪkəlz",
+        "phonetic": "KEM-ih-kuhlz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "possesses",
+      "pronunciation": {
+        "ipa": "pəˈzesɪz",
+        "phonetic": "puh-ZES-iz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "no artifical additives",
+      "pronunciation": {
+        "ipa": "noʊ ˌɑːrtɪˈfɪʃəl ˈædɪtɪvz",
+        "phonetic": "noh ahr-tih-FISH-uhl AD-ih-tivz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "vary",
+      "pronunciation": {
+        "ipa": "ˈveri",
+        "phonetic": "VAIR-ee"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "rules of breaks",
+      "pronunciation": {
+        "ipa": "ruːlz əv breɪks",
+        "phonetic": "roolz uhv brayks"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "lunch time",
+      "pronunciation": {
+        "ipa": "lʌntʃ taɪm",
+        "phonetic": "lunch tym"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "spiritualism",
+      "pronunciation": {
+        "ipa": "ˈspɪrɪtʃuəlɪzəm",
+        "phonetic": "SPIR-ih-choo-uh-liz-uhm"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "defiend",
+      "pronunciation": {
+        "ipa": "dɪˈfaɪnd",
+        "phonetic": "dih-FYND"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a system of",
+      "pronunciation": {
+        "ipa": "ə ˈsɪstəm əv",
+        "phonetic": "uh SIS-tuhm uhv"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "belief",
+      "pronunciation": {
+        "ipa": "bɪˈliːf",
+        "phonetic": "bih-LEEF"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "religious practice",
+      "pronunciation": {
+        "ipa": "rɪˈlɪdʒəs ˈpræktɪs",
+        "phonetic": "rih-LIJ-uhs PRAK-tis"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "discount cards",
+      "pronunciation": {
+        "ipa": "ˈdɪskaʊnt kɑːrdz",
+        "phonetic": "DIS-kownt kahrdz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "on campus",
+      "pronunciation": {
+        "ipa": "ɒn ˈkæmpəs",
+        "phonetic": "on KAM-puhs"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "at the coffee house",
+      "pronunciation": {
+        "ipa": "æt ðə ˈkɒfi haʊs",
+        "phonetic": "at thuh KOF-ee hows"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "application form",
+      "pronunciation": {
+        "ipa": "ˌæplɪˈkeɪʃən fɔːrm",
+        "phonetic": "ap-lih-KAY-shuhn form"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "the end of term",
+      "pronunciation": {
+        "ipa": "ði end əv tɜːrm",
+        "phonetic": "thee end uhv turm"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "bookstore",
+      "pronunciation": {
+        "ipa": "ˈbʊkstɔːr",
+        "phonetic": "BOOK-stor"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "postponed",
+      "pronunciation": {
+        "ipa": "poʊstˈpoʊnd",
+        "phonetic": "pohst-POHND"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "Indian",
+      "pronunciation": {
+        "ipa": "ˈɪndiən",
+        "phonetic": "IN-dee-uhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "state",
+      "pronunciation": {
+        "ipa": "steɪt",
+        "phonetic": "stayt"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a land of forests",
+      "pronunciation": {
+        "ipa": "ə lænd əv ˈfɒrɪsts",
+        "phonetic": "uh land uhv FOR-ists"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "valleys",
+      "pronunciation": {
+        "ipa": "ˈvæliz",
+        "phonetic": "VAL-eez"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "snowy islands",
+      "pronunciation": {
+        "ipa": "ˈsnoʊi ˈaɪləndz",
+        "phonetic": "SNOH-ee EYE-luhndz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "timetable",
+      "pronunciation": {
+        "ipa": "ˈtaɪmteɪbəl",
+        "phonetic": "TYM-tay-buhl"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a coffee culture",
+      "pronunciation": {
+        "ipa": "ə ˈkɒfi ˈkʌltʃər",
+        "phonetic": "uh KOF-ee KUL-chur"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "vessels",
+      "pronunciation": {
+        "ipa": "ˈvesəlz",
+        "phonetic": "VES-uhlz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "fails to",
+      "pronunciation": {
+        "ipa": "feɪlz tuː",
+        "phonetic": "faylz too"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "rapidly",
+      "pronunciation": {
+        "ipa": "ˈræpɪdli",
+        "phonetic": "RAP-id-lee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "expected",
+      "pronunciation": {
+        "ipa": "ɪkˈspektɪd",
+        "phonetic": "ik-SPEK-tid"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "honest and true",
+      "pronunciation": {
+        "ipa": "ˈɒnɪst ənd truː",
+        "phonetic": "ON-ist uhnd troo"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "accommodation",
+      "pronunciation": {
+        "ipa": "əˌkɒməˈdeɪʃən",
+        "phonetic": "uh-kom-uh-DAY-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a walking distance",
+      "pronunciation": {
+        "ipa": "ə ˈwɔːkɪŋ ˈdɪstəns",
+        "phonetic": "uh WOK-ing DIS-tuhns"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "academic buildings",
+      "pronunciation": {
+        "ipa": "ˌækəˈdemɪk ˈbɪldɪŋz",
+        "phonetic": "ak-uh-DEM-ik BIL-dingz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "environmental",
+      "pronunciation": {
+        "ipa": "ɪnˌvaɪrənˈmentəl",
+        "phonetic": "in-vy-ruhn-MEN-tuhl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "friendliness",
+      "pronunciation": {
+        "ipa": "ˈfrendlinəs",
+        "phonetic": "FREND-lee-nes"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a new category",
+      "pronunciation": {
+        "ipa": "ə nuː ˈkætəɡəri",
+        "phonetic": "uh noo KAT-uh-gor-ee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "engineering courses",
+      "pronunciation": {
+        "ipa": "ˌendʒɪˈnɪrɪŋ ˈkɔːrsɪz",
+        "phonetic": "en-jih-NEER-ing KOR-siz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "war experience",
+      "pronunciation": {
+        "ipa": "wɔːr ɪkˈspɪriəns",
+        "phonetic": "wor ik-SPEER-ee-uhns"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "critically",
+      "pronunciation": {
+        "ipa": "ˈkrɪtɪkli",
+        "phonetic": "KRIT-ik-lee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "comment",
+      "pronunciation": {
+        "ipa": "ˈkɒment",
+        "phonetic": "KOM-ent"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "fundamental",
+      "pronunciation": {
+        "ipa": "ˌfʌndəˈmentəl",
+        "phonetic": "fun-duh-MEN-tuhl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "realities",
+      "pronunciation": {
+        "ipa": "riˈælətiz",
+        "phonetic": "ree-AL-ih-teez"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "especially",
+      "pronunciation": {
+        "ipa": "ɪˈspeʃəli",
+        "phonetic": "ih-SPESH-uh-lee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "national needs",
+      "pronunciation": {
+        "ipa": "ˈnæʃənəl niːdz",
+        "phonetic": "NASH-uh-nuhl needz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "ability to flourish",
+      "pronunciation": {
+        "ipa": "əˈbɪləti tuː ˈflʌrɪʃ",
+        "phonetic": "uh-BIL-ih-tee too FLUR-ish"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "reference books",
+      "pronunciation": {
+        "ipa": "ˈrefərəns bʊks",
+        "phonetic": "REF-er-uhns books"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "service center",
+      "pronunciation": {
+        "ipa": "ˈsɜːrvɪs ˈsentər",
+        "phonetic": "SUR-vis SEN-ter"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "posted",
+      "pronunciation": {
+        "ipa": "ˈpoʊstɪd",
+        "phonetic": "POH-stid"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "on the website",
+      "pronunciation": {
+        "ipa": "ɒn ðə ˈwebsaɪt",
+        "phonetic": "on thuh WEB-syt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "global solutions",
+      "pronunciation": {
+        "ipa": "ˈɡloʊbəl səˈluːʃənz",
+        "phonetic": "GLOH-buhl suh-LOO-shuhnz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "negative discourse",
+      "pronunciation": {
+        "ipa": "ˈneɡətɪv ˈdɪskɔːrs",
+        "phonetic": "NEG-uh-tiv DIS-kors"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "predominant",
+      "pronunciation": {
+        "ipa": "prɪˈdɒmɪnənt",
+        "phonetic": "prih-DOM-ih-nuhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "discussions",
+      "pronunciation": {
+        "ipa": "dɪˈskʌʃənz",
+        "phonetic": "dih-SKUSH-uhnz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "undergraduate students",
+      "pronunciation": {
+        "ipa": "ˌʌndərˈɡrædʒuət ˈstuːdənts",
+        "phonetic": "un-der-GRAD-joo-uht STOO-duhnts"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "graduation",
+      "pronunciation": {
+        "ipa": "ˌɡrædʒuˈeɪʃən",
+        "phonetic": "grad-joo-AY-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "apply for an extension",
+      "pronunciation": {
+        "ipa": "əˈplaɪ fɔːr ən ɪkˈstenʃən",
+        "phonetic": "uh-PLY for uhn ik-STEN-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "approach",
+      "pronunciation": {
+        "ipa": "əˈproʊtʃ",
+        "phonetic": "uh-PROHCH"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "equipment",
+      "pronunciation": {
+        "ipa": "ɪˈkwɪpmənt",
+        "phonetic": "ih-KWIP-muhnt"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "regardless",
+      "pronunciation": {
+        "ipa": "rɪˈɡɑːrdləs",
+        "phonetic": "rih-GAHRD-les"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "financial",
+      "pronunciation": {
+        "ipa": "faɪˈnænʃəl",
+        "phonetic": "fy-NAN-shuhl"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "circumstances",
+      "pronunciation": {
+        "ipa": "ˈsɜːrkəmstænsɪz",
+        "phonetic": "SUR-kuhm-stan-siz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "the school principal",
+      "pronunciation": {
+        "ipa": "ðə skuːl ˈprɪnsəpəl",
+        "phonetic": "thuh skool PRIN-sih-puhl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "financial director",
+      "pronunciation": {
+        "ipa": "faɪˈnænʃəl dəˈrektər",
+        "phonetic": "fy-NAN-shuhl dih-REK-ter"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "pay agreement",
+      "pronunciation": {
+        "ipa": "peɪ əˈɡriːmənt",
+        "phonetic": "pay uh-GREE-muhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "crashed",
+      "pronunciation": {
+        "ipa": "kræʃt",
+        "phonetic": "krasht"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "current affairs",
+      "pronunciation": {
+        "ipa": "ˈkʌrənt əˈferz",
+        "phonetic": "KUR-uhnt uh-FAIRZ"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "retake",
+      "pronunciation": {
+        "ipa": "ˌriːˈteɪk",
+        "phonetic": "ree-TAYK"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "module",
+      "pronunciation": {
+        "ipa": "ˈmɒdjuːl",
+        "phonetic": "MOD-jool"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "promptly",
+      "pronunciation": {
+        "ipa": "ˈprɒmptli",
+        "phonetic": "PROMPT-lee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "restricted",
+      "pronunciation": {
+        "ipa": "rɪˈstrɪktɪd",
+        "phonetic": "rih-STRIK-tid"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "scholarships",
+      "pronunciation": {
+        "ipa": "ˈskɒlərʃɪps",
+        "phonetic": "SKOL-er-ships"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "principally",
+      "pronunciation": {
+        "ipa": "ˈprɪnsəpəli",
+        "phonetic": "PRIN-sih-puh-lee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "specific goals",
+      "pronunciation": {
+        "ipa": "spɪˈsɪfɪk ɡoʊlz",
+        "phonetic": "spih-SIF-ik gohlz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "irrelevant",
+      "pronunciation": {
+        "ipa": "ɪˈreləvənt",
+        "phonetic": "ih-REL-uh-vuhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "framework",
+      "pronunciation": {
+        "ipa": "ˈfreɪmwɜːrk",
+        "phonetic": "FRAYM-wurk"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "carry out",
+      "pronunciation": {
+        "ipa": "ˈkæri aʊt",
+        "phonetic": "KAR-ee owt"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "survey",
+      "pronunciation": {
+        "ipa": "ˈsɜːrveɪ",
+        "phonetic": "SUR-vay"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "observe",
+      "pronunciation": {
+        "ipa": "əbˈzɜːrv",
+        "phonetic": "uhb-ZURV"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "language skills",
+      "pronunciation": {
+        "ipa": "ˈlæŋɡwɪdʒ skɪlz",
+        "phonetic": "LANG-gwij skilz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "toddlers",
+      "pronunciation": {
+        "ipa": "ˈtɒdlərz",
+        "phonetic": "TOD-lerz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "hourly bus service",
+      "pronunciation": {
+        "ipa": "ˈaʊərli bʌs ˈsɜːrvɪs",
+        "phonetic": "OW-er-lee bus SUR-vis"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "hesitate",
+      "pronunciation": {
+        "ipa": "ˈhezɪteɪt",
+        "phonetic": "HEZ-ih-tayt"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "cafeteria",
+      "pronunciation": {
+        "ipa": "ˌkæfəˈtɪriə",
+        "phonetic": "kaf-uh-TEER-ee-uh"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "snack machines",
+      "pronunciation": {
+        "ipa": "snæk məˈʃiːnz",
+        "phonetic": "snak muh-SHEENZ"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "accessible",
+      "pronunciation": {
+        "ipa": "əkˈsesəbəl",
+        "phonetic": "ak-SES-uh-buhl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "throughout",
+      "pronunciation": {
+        "ipa": "θruːˈaʊt",
+        "phonetic": "throo-OWT"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "preventing",
+      "pronunciation": {
+        "ipa": "prɪˈventɪŋ",
+        "phonetic": "prih-VENT-ing"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "injustice",
+      "pronunciation": {
+        "ipa": "ɪnˈdʒʌstɪs",
+        "phonetic": "in-JUS-tis"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "arteries",
+      "pronunciation": {
+        "ipa": "ˈɑːrtəriz",
+        "phonetic": "AHR-ter-eez"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "oxygenated",
+      "pronunciation": {
+        "ipa": "ˈɒksɪdʒəneɪtɪd",
+        "phonetic": "OK-sih-juh-nay-tid"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "notable",
+      "pronunciation": {
+        "ipa": "ˈnoʊtəbəl",
+        "phonetic": "NOH-tuh-buhl"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "variance",
+      "pronunciation": {
+        "ipa": "ˈveriəns",
+        "phonetic": "VAIR-ee-uhns"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "hypothesis",
+      "pronunciation": {
+        "ipa": "haɪˈpɒθəsɪs",
+        "phonetic": "hy-POTH-uh-sis"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "rigorous",
+      "pronunciation": {
+        "ipa": "ˈrɪɡərəs",
+        "phonetic": "RIG-er-uhs"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "renowned",
+      "pronunciation": {
+        "ipa": "rɪˈnaʊnd",
+        "phonetic": "rih-NOWND"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "economist",
+      "pronunciation": {
+        "ipa": "ɪˈkɒnəmɪst",
+        "phonetic": "ih-KON-uh-mist"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "speech",
+      "pronunciation": {
+        "ipa": "spiːtʃ",
+        "phonetic": "speech"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "registration period",
+      "pronunciation": {
+        "ipa": "ˌredʒɪˈstreɪʃən ˈpɪriəd",
+        "phonetic": "rej-ih-STRAY-shuhn PEER-ee-uhd"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "environment",
+      "pronunciation": {
+        "ipa": "ɪnˈvaɪrənmənt",
+        "phonetic": "in-VY-ruhn-muhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "electricity bill",
+      "pronunciation": {
+        "ipa": "ɪˌlekˈtrɪsəti bɪl",
+        "phonetic": "ih-lek-TRIS-ih-tee bil"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "consultation",
+      "pronunciation": {
+        "ipa": "ˌkɒnsəlˈteɪʃən",
+        "phonetic": "kon-suhl-TAY-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "supervisor",
+      "pronunciation": {
+        "ipa": "ˈsuːpərvaɪzər",
+        "phonetic": "SOO-per-vy-zer"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "thesis",
+      "pronunciation": {
+        "ipa": "ˈθiːsɪs",
+        "phonetic": "THEE-sis"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "approved",
+      "pronunciation": {
+        "ipa": "əˈpruːvd",
+        "phonetic": "uh-PROOVD"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "the faculty committee",
+      "pronunciation": {
+        "ipa": "ðə ˈfækəlti kəˈmɪti",
+        "phonetic": "thuh FAK-uhl-tee kuh-MIT-ee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "health workers",
+      "pronunciation": {
+        "ipa": "helθ ˈwɜːrkərz",
+        "phonetic": "helth WUR-kerz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "pensioners",
+      "pronunciation": {
+        "ipa": "ˈpenʃənərz",
+        "phonetic": "PEN-shuh-nerz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "reception",
+      "pronunciation": {
+        "ipa": "rɪˈsepʃən",
+        "phonetic": "rih-SEP-shuhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "pressure",
+      "pronunciation": {
+        "ipa": "ˈpreʃər",
+        "phonetic": "PRESH-ur"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "economic necessity",
+      "pronunciation": {
+        "ipa": "ˌiːkəˈnɒmɪk nəˈsesəti",
+        "phonetic": "ee-kuh-NOM-ik nuh-SES-ih-tee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "outstripped",
+      "pronunciation": {
+        "ipa": "aʊtˈstrɪpt",
+        "phonetic": "owt-STRIPT"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "theory",
+      "pronunciation": {
+        "ipa": "ˈθɪəri",
+        "phonetic": "THEER-ee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "campus stores",
+      "pronunciation": {
+        "ipa": "ˈkæmpəs stɔːrz",
+        "phonetic": "KAM-puhs storz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "bankruptcy",
+      "pronunciation": {
+        "ipa": "ˈbæŋkrʌptsi",
+        "phonetic": "BANK-rupt-see"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "skyrocketed",
+      "pronunciation": {
+        "ipa": "ˈskaɪrɒkɪtɪd",
+        "phonetic": "SKY-rok-ih-tid"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "third quarter",
+      "pronunciation": {
+        "ipa": "θɜːrd ˈkwɔːrtər",
+        "phonetic": "thurd KWOR-ter"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "citations",
+      "pronunciation": {
+        "ipa": "saɪˈteɪʃənz",
+        "phonetic": "sy-TAY-shuhnz"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "raise the concern",
+      "pronunciation": {
+        "ipa": "reɪz ðə kənˈsɜːrn",
+        "phonetic": "rayz thuh kuhn-SURN"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "applicants",
+      "pronunciation": {
+        "ipa": "ˈæplɪkənts",
+        "phonetic": "AP-lih-kuhnts"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "preferably",
+      "pronunciation": {
+        "ipa": "ˈprefərəbli",
+        "phonetic": "PREF-er-uh-blee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "cycling",
+      "pronunciation": {
+        "ipa": "ˈsaɪklɪŋ",
+        "phonetic": "SY-kling"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a major phenomenon",
+      "pronunciation": {
+        "ipa": "ə ˈmeɪdʒər fəˈnɒmɪnən",
+        "phonetic": "uh MAY-jer fuh-NOM-ih-non"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "Europe",
+      "pronunciation": {
+        "ipa": "ˈjʊrəp",
+        "phonetic": "YOOR-uhp"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "regarded as",
+      "pronunciation": {
+        "ipa": "rɪˈɡɑːrdɪd æz",
+        "phonetic": "rih-GAHR-did az"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "invalid",
+      "pronunciation": {
+        "ipa": "ɪnˈvælɪd",
+        "phonetic": "in-VAL-id"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "laboratory",
+      "pronunciation": {
+        "ipa": "ˈlæbrətɔːri",
+        "phonetic": "LAB-ruh-tor-ee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "capacity",
+      "pronunciation": {
+        "ipa": "kəˈpæsəti",
+        "phonetic": "kuh-PAS-ih-tee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "argued",
+      "pronunciation": {
+        "ipa": "ˈɑːrɡjuːd",
+        "phonetic": "AHR-gyood"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "collaborating",
+      "pronunciation": {
+        "ipa": "kəˈlæbəreɪtɪŋ",
+        "phonetic": "kuh-LAB-uh-ray-ting"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "individuals",
+      "pronunciation": {
+        "ipa": "ˌɪndɪˈvɪdʒuəlz",
+        "phonetic": "in-dih-VIJ-oo-uhlz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "celebrated",
+      "pronunciation": {
+        "ipa": "ˈselɪbreɪtɪd",
+        "phonetic": "SEL-ih-bray-tid"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "the Earth Day",
+      "pronunciation": {
+        "ipa": "ði ɜːrθ deɪ",
+        "phonetic": "thee urth day"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "passports",
+      "pronunciation": {
+        "ipa": "ˈpɑːspɔːrts",
+        "phonetic": "PAS-ports"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "competency of language",
+      "pronunciation": {
+        "ipa": "ˈkɒmpɪtənsi əv ˈlæŋɡwɪdʒ",
+        "phonetic": "KOM-pih-tuhn-see uhv LANG-gwij"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "in preparation",
+      "pronunciation": {
+        "ipa": "ɪn ˌprepəˈreɪʃən",
+        "phonetic": "in prep-uh-RAY-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "north side",
+      "pronunciation": {
+        "ipa": "nɔːrθ saɪd",
+        "phonetic": "north syd"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "online help system",
+      "pronunciation": {
+        "ipa": "ˈɒnlaɪn help ˈsɪstəm",
+        "phonetic": "ON-lyn help SIS-tuhm"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "countryside",
+      "pronunciation": {
+        "ipa": "ˈkʌntrisaɪd",
+        "phonetic": "KUN-tree-syd"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "manufacturing costs",
+      "pronunciation": {
+        "ipa": "ˌmænjuˈfæktʃərɪŋ kɒsts",
+        "phonetic": "man-yoo-FAK-chur-ing kosts"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "get access",
+      "pronunciation": {
+        "ipa": "ɡet ˈækses",
+        "phonetic": "get AK-ses"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "art galleries",
+      "pronunciation": {
+        "ipa": "ɑːrt ˈɡæləriz",
+        "phonetic": "ahrt GAL-uh-reez"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "geography",
+      "pronunciation": {
+        "ipa": "dʒiˈɒɡrəfi",
+        "phonetic": "jee-OG-ruh-fee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "field training",
+      "pronunciation": {
+        "ipa": "fiːld ˈtreɪnɪŋ",
+        "phonetic": "feeld TRAY-ning"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "plagiarism",
+      "pronunciation": {
+        "ipa": "ˈpleɪdʒərɪzəm",
+        "phonetic": "PLAY-juh-riz-uhm"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "viewed",
+      "pronunciation": {
+        "ipa": "vjuːd",
+        "phonetic": "vyood"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "probably",
+      "pronunciation": {
+        "ipa": "ˈprɒbəbli",
+        "phonetic": "PROB-uh-blee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "attractive layout",
+      "pronunciation": {
+        "ipa": "əˈtræktɪv ˈleɪaʊt",
+        "phonetic": "uh-TRAK-tiv LAY-owt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "collaoration",
+      "pronunciation": {
+        "ipa": "kəˌlæbəˈreɪʃən",
+        "phonetic": "kuh-lab-uh-RAY-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "social work",
+      "pronunciation": {
+        "ipa": "ˈsoʊʃəl wɜːrk",
+        "phonetic": "SOH-shuhl wurk"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "career",
+      "pronunciation": {
+        "ipa": "kəˈrɪr",
+        "phonetic": "kuh-REER"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "sociology work",
+      "pronunciation": {
+        "ipa": "ˌsoʊsiˈɒlədʒi wɜːrk",
+        "phonetic": "soh-see-OL-uh-jee wurk"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "computer failure",
+      "pronunciation": {
+        "ipa": "kəmˈpjuːtər ˈfeɪljər",
+        "phonetic": "kuhm-PYOO-ter FAYL-yer"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "excuse",
+      "pronunciation": {
+        "ipa": "ɪkˈskjuːs",
+        "phonetic": "ik-SKYOOZ"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "further information",
+      "pronunciation": {
+        "ipa": "ˈfɜːrðər ˌɪnfərˈmeɪʃən",
+        "phonetic": "FUR-thur in-fer-MAY-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "administrative team",
+      "pronunciation": {
+        "ipa": "ədˈmɪnɪstrətɪv tiːm",
+        "phonetic": "ad-MIN-ih-stray-tiv teem"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "Russia",
+      "pronunciation": {
+        "ipa": "ˈrʌʃə",
+        "phonetic": "RUSH-uh"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "colleagues",
+      "pronunciation": {
+        "ipa": "ˈkɒliːɡz",
+        "phonetic": "KOL-eegz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "identification card",
+      "pronunciation": {
+        "ipa": "aɪˌdentɪfɪˈkeɪʃən kɑːrd",
+        "phonetic": "eye-den-tih-fih-KAY-shuhn kahrd"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "organized class notes",
+      "pronunciation": {
+        "ipa": "ˈɔːrɡənaɪzd klæs noʊts",
+        "phonetic": "OR-guh-nyzd klas nohts"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "more efficient",
+      "pronunciation": {
+        "ipa": "mɔːr ɪˈfɪʃənt",
+        "phonetic": "mor ih-FISH-uhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "favorite sports",
+      "pronunciation": {
+        "ipa": "ˈfeɪvərɪt spɔːrts",
+        "phonetic": "FAY-ver-it sports"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "soccer",
+      "pronunciation": {
+        "ipa": "ˈsɒkər",
+        "phonetic": "SOK-er"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "tennis",
+      "pronunciation": {
+        "ipa": "ˈtenɪs",
+        "phonetic": "TEN-is"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "basketball",
+      "pronunciation": {
+        "ipa": "ˈbæskɪtbɔːl",
+        "phonetic": "BAS-kit-bawl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "filled in",
+      "pronunciation": {
+        "ipa": "fɪld ɪn",
+        "phonetic": "fild in"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "panel discussion",
+      "pronunciation": {
+        "ipa": "ˈpænəl dɪˈskʌʃən",
+        "phonetic": "PAN-uhl dih-SKUSH-uhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "sustainable development",
+      "pronunciation": {
+        "ipa": "səˈsteɪnəbəl dɪˈveləpmənt",
+        "phonetic": "suh-STAY-nuh-buhl dih-VEL-uhp-muhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "priviledge",
+      "pronunciation": {
+        "ipa": "ˈprɪvəlɪdʒ",
+        "phonetic": "PRIV-uh-lij"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "guest speaker",
+      "pronunciation": {
+        "ipa": "ɡest ˈspiːkər",
+        "phonetic": "gest SPEE-ker"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "foreign languages",
+      "pronunciation": {
+        "ipa": "ˈfɒrɪn ˈlæŋɡwɪdʒɪz",
+        "phonetic": "FOR-in LANG-gwij-iz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "consult",
+      "pronunciation": {
+        "ipa": "kənˈsʌlt",
+        "phonetic": "kuhn-SULT"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "hosts",
+      "pronunciation": {
+        "ipa": "hoʊsts",
+        "phonetic": "hohsts"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "canceled",
+      "pronunciation": {
+        "ipa": "ˈkænsəld",
+        "phonetic": "KAN-suhld"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "power cut",
+      "pronunciation": {
+        "ipa": "ˈpaʊər kʌt",
+        "phonetic": "POW-er kut"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "standard form",
+      "pronunciation": {
+        "ipa": "ˈstændərd fɔːrm",
+        "phonetic": "STAN-derd form"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "quotation",
+      "pronunciation": {
+        "ipa": "kwoʊˈteɪʃən",
+        "phonetic": "kwoh-TAY-shuhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "widespread use",
+      "pronunciation": {
+        "ipa": "ˈwaɪdspred juːs",
+        "phonetic": "WYD-spred yoos"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "renewable",
+      "pronunciation": {
+        "ipa": "rɪˈnuːəbəl",
+        "phonetic": "rih-NOO-uh-buhl"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "energy sources",
+      "pronunciation": {
+        "ipa": "ˈenərdʒi ˈsɔːrsɪz",
+        "phonetic": "EN-er-jee SOR-siz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "produce electricity",
+      "pronunciation": {
+        "ipa": "prəˈduːs ɪˌlekˈtrɪsəti",
+        "phonetic": "pruh-DOOS ih-lek-TRIS-ih-tee"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "London",
+      "pronunciation": {
+        "ipa": "ˈlʌndən",
+        "phonetic": "LUN-duhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "experiment",
+      "pronunciation": {
+        "ipa": "ɪkˈsperɪmənt",
+        "phonetic": "ik-SPER-ih-muhnt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "indicates",
+      "pronunciation": {
+        "ipa": "ˈɪndɪkeɪts",
+        "phonetic": "IN-dih-kayts"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "examination hall",
+      "pronunciation": {
+        "ipa": "ɪɡˌzæmɪˈneɪʃən hɔːl",
+        "phonetic": "ig-zam-ih-NAY-shuhn hawl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "all sorts of services",
+      "pronunciation": {
+        "ipa": "ɔːl sɔːrts əv ˈsɜːrvɪsɪz",
+        "phonetic": "awl sorts uhv SUR-vih-siz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "backgrounds",
+      "pronunciation": {
+        "ipa": "ˈbækɡraʊndz",
+        "phonetic": "BAK-growndz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "achieve",
+      "pronunciation": {
+        "ipa": "əˈtʃiːv",
+        "phonetic": "uh-CHEEV"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "variety",
+      "pronunciation": {
+        "ipa": "vəˈraɪəti",
+        "phonetic": "vuh-RY-uh-tee"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "qualificaitons",
+      "pronunciation": {
+        "ipa": "ˌkwɒlɪfɪˈkeɪʃənz",
+        "phonetic": "kwol-ih-fih-KAY-shuhnz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "boarding pass",
+      "pronunciation": {
+        "ipa": "ˈbɔːrdɪŋ pæs",
+        "phonetic": "BOR-ding pas"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "passport",
+      "pronunciation": {
+        "ipa": "ˈpɑːspɔːrt",
+        "phonetic": "PAS-port"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "boarding gate",
+      "pronunciation": {
+        "ipa": "ˈbɔːrdɪŋ ɡeɪt",
+        "phonetic": "BOR-ding gayt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "grocery",
+      "pronunciation": {
+        "ipa": "ˈɡroʊsəri",
+        "phonetic": "GROH-suh-ree"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "wear",
+      "pronunciation": {
+        "ipa": "wer",
+        "phonetic": "wair"
+      },
+      "difficulty": "easy",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a hard hat",
+      "pronunciation": {
+        "ipa": "ə hɑːrd hæt",
+        "phonetic": "uh hard hat"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "construction site",
+      "pronunciation": {
+        "ipa": "kənˈstrʌkʃən saɪt",
+        "phonetic": "kuhn-STRUK-shuhn syt"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "downtown",
+      "pronunciation": {
+        "ipa": "ˌdaʊnˈtaʊn",
+        "phonetic": "down-TOWN"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "community center",
+      "pronunciation": {
+        "ipa": "kəˈmjuːnəti ˈsentər",
+        "phonetic": "kuh-MYOO-nih-tee SEN-ter"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "leave a message",
+      "pronunciation": {
+        "ipa": "liːv ə ˈmesɪdʒ",
+        "phonetic": "leev uh MES-ij"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "written exam",
+      "pronunciation": {
+        "ipa": "ˈrɪtən ɪɡˈzæm",
+        "phonetic": "RIT-uhn ig-ZAM"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "the driver's license",
+      "pronunciation": {
+        "ipa": "ðə ˈdraɪvərz ˈlaɪsəns",
+        "phonetic": "thuh DRY-verz LY-suhns"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "summer vacation",
+      "pronunciation": {
+        "ipa": "ˈsʌmər veɪˈkeɪʃən",
+        "phonetic": "SUM-er vay-KAY-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "the nurse's office",
+      "pronunciation": {
+        "ipa": "ðə ˈnɜːrsɪz ˈɒfɪs",
+        "phonetic": "thuh NUR-siz OF-is"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "station",
+      "pronunciation": {
+        "ipa": "ˈsteɪʃən",
+        "phonetic": "STAY-shuhn"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "transportation",
+      "pronunciation": {
+        "ipa": "ˌtrænspɔːrˈteɪʃən",
+        "phonetic": "trans-por-TAY-shuhn"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "special circumstances",
+      "pronunciation": {
+        "ipa": "ˈspeʃəl ˈsɜːrkəmstænsɪz",
+        "phonetic": "SPESH-uhl SUR-kuhm-stan-siz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "statistical evidence",
+      "pronunciation": {
+        "ipa": "stəˈtɪstɪkəl ˈevɪdəns",
+        "phonetic": "stuh-TIS-tih-kuhl EV-ih-duhns"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "official",
+      "pronunciation": {
+        "ipa": "əˈfɪʃəl",
+        "phonetic": "uh-FISH-uhl"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "welcom events",
+      "pronunciation": {
+        "ipa": "ˈwelkəm ɪˈvents",
+        "phonetic": "WEL-kuhm ih-VENTS"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "lecture handouts",
+      "pronunciation": {
+        "ipa": "ˈlektʃər ˈhændaʊts",
+        "phonetic": "LEK-chur HAND-owts"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "downloadable",
+      "pronunciation": {
+        "ipa": "ˌdaʊnˈloʊdəbəl",
+        "phonetic": "down-LOH-duh-buhl"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "agricultural workers",
+      "pronunciation": {
+        "ipa": "ˌæɡrɪˈkʌltʃərəl ˈwɜːrkərz",
+        "phonetic": "ag-rih-KUL-chur-uhl WUR-kerz"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "alternative work",
+      "pronunciation": {
+        "ipa": "ɔːlˈtɜːrnətɪv wɜːrk",
+        "phonetic": "awl-TUR-nuh-tiv wurk"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "a physical educational instructor",
+      "pronunciation": {
+        "ipa": "ə ˈfɪzɪkəl ˌedʒuˈkeɪʃənəl ɪnˈstrʌktər",
+        "phonetic": "uh FIZ-ih-kuhl ej-oo-KAY-shuh-nuhl in-STRUK-ter"
+      },
+      "difficulty": "hard",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    },
+    {
+      "english": "handouts",
+      "pronunciation": {
+        "ipa": "ˈhændaʊts",
+        "phonetic": "HAND-owts"
+      },
+      "difficulty": "normal",
+      "category": "pte-rs-core",
+      "source": "pte-rs-core-vocabulary-with-ipa"
+    }
+  ]
+}

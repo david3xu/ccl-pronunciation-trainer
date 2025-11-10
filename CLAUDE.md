@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**PTE Pronunciation Trainer** - A web-based pronunciation training application for PTE exam preparation, featuring comprehensive vocabulary (13 books, 13,000+ terms) and practice modes (RS/ASQ/WFD with 2,507 sentences/questions). Built with vanilla JavaScript using event-driven architecture.
+**PTE Pronunciation Trainer** - A web-based pronunciation training application for PTE exam preparation, featuring comprehensive vocabulary (14 books, 13,500+ terms) and practice modes (RS/RS Segments/ASQ/WFD with 3,931 items). Built with vanilla JavaScript using event-driven architecture.
 
 **Current Version**: v2.5.4 (Production Ready - October 2025)
 
@@ -109,10 +109,10 @@ window.audioControls.startAutoPlay();
 ## Data Architecture
 
 ### Dataset Types
-1. **Vocabulary** (13 books) - Words with IPA pronunciation
-   - PTE FIB Listening, Beginner, Intermediate, Advanced, RA, RS Vocab, Must-Know, WFD Vocab, RS-WFD Vocab, Reading FIB, Reading FIB Drag, ASQ Answers, High-Frequency
-2. **Practice** (3 modes) - Sentences/questions for practice
-   - Repeat Sentence (620), Answer Short Question (692), Write From Dictation (1,195)
+1. **Vocabulary** (14 books) - Words with IPA pronunciation
+   - PTE FIB Listening, Beginner, Intermediate, Advanced, RA, RS Vocab, Must-Know, WFD Vocab, RS-WFD Vocab, Reading FIB, Reading FIB Drag, ASQ Answers, High-Frequency, RS Core
+2. **Practice** (4 modes) - Sentences/questions for practice
+   - Repeat Sentence (620), RS Thought Groups/Segments (1,424), Answer Short Question (692), Write From Dictation (1,195)
 
 ### Data Flow
 ```
