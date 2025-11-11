@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-11-11T08:27:47.306Z",
+    "generated": "2025-11-11T08:41:42.256Z",
     "totalTerms": 773,
     "source": "pte-rs-core-vocabulary-with-ipa",
     "description": "PTE RS Core Vocabulary (475 key terms from RS practice with IPA)",
@@ -3292,7 +3292,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "the treatment fro the disease",
+      "english": "the treatment for the disease",
       "pronunciation": {
         "ipa": "ðə ˈtriːtmənt fɔːr ðə dɪˈziːz",
         "phonetic": "thuh TREET-muhnt for thuh dih-ZEEZ"

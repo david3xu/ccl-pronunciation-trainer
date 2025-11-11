@@ -340,7 +340,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 706. the investigation | /ði ɪnˌvestɪˈɡeɪʃən/ — sounds like **thee in-ves-tih-GAY-shuhn**
 707. the stand of the problem | /ðə stænd əv ðə ˈprɒbləm/ — sounds like **thuh stand uhv thuh PROB-luhm**
 708. to fulfill certain requirements | /tuː fʊlˈfɪl ˈsɜːrtən rɪˈkwaɪrmənts/ — sounds like **too fool-FIL SUR-tuhn rih-KWYR-muhnts**
-709. the treatment fro the disease | /ðə ˈtriːtmənt fɔːr ðə dɪˈziːz/ — sounds like **thuh TREET-muhnt for thuh dih-ZEEZ**
+709. the treatment for the disease | /ðə ˈtriːtmənt fɔːr ðə dɪˈziːz/ — sounds like **thuh TREET-muhnt for thuh dih-ZEEZ**
 710. will be soon available | /wɪl biː suːn əˈveɪləbəl/ — sounds like **wil bee soon uh-VAY-luh-buhl**
 711. mobile phone chargers | /ˈmoʊbaɪl foʊn ˈtʃɑːrdʒərz/ — sounds like **MOH-byl fohn CHAHR-jerz**
 712. vary enormously | /ˈveri ɪˈnɔːrməsli/ — sounds like **VAIR-ee ih-NOR-muhs-lee**
