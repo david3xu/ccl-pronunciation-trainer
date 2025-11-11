@@ -48,7 +48,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 38. required | /rɪˈkwaɪərd/ — sounds like **rih-KWY-erd**
 39. complete | /kəmˈpliːt/ — sounds like **kuhm-PLEET**
 40. written | /ˈrɪtən/ — sounds like **RIT-uhn**
-41. inernational | /ˌɪntərˈnæʃənəl/ — sounds like **in-ter-NASH-uh-nuhl**
+41. international | /ˌɪntərˈnæʃənəl/ — sounds like **in-ter-NASH-uh-nuhl**
 42. locating | /loʊˈkeɪtɪŋ/ — sounds like **loh-KAY-ting**
 43. university | /ˌjuːnɪˈvɜːrsəti/ — sounds like **yoo-nih-VUR-sih-tee**
 44. housing | /ˈhaʊzɪŋ/ — sounds like **HOW-zing**
@@ -92,7 +92,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 82. executive | /ɪɡˈzekjətɪv/ — sounds like **ig-ZEK-yuh-tiv**
 83. physiology | /ˌfɪziˈɒlədʒi/ — sounds like **fiz-ee-OL-uh-jee**
 84. internal | /ɪnˈtɜːrnəl/ — sounds like **in-TUR-nuhl**
-85. exernal | /ɪkˈstɜːrnəl/ — sounds like **ik-STUR-nuhl**
+85. external | /ɪkˈstɜːrnəl/ — sounds like **ik-STUR-nuhl**
 86. structure | /ˈstrʌktʃər/ — sounds like **STRUK-chur**
 87. field trip | /fiːld trɪp/ — sounds like **feeld trip**
 88. portfolio | /pɔːrtˈfoʊlioʊ/ — sounds like **port-FOH-lee-oh**
@@ -342,12 +342,12 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 708. to fulfill certain requirements | /tuː fʊlˈfɪl ˈsɜːrtən rɪˈkwaɪrmənts/ — sounds like **too fool-FIL SUR-tuhn rih-KWYR-muhnts**
 709. the treatment fro the disease | /ðə ˈtriːtmənt fɔːr ðə dɪˈziːz/ — sounds like **thuh TREET-muhnt for thuh dih-ZEEZ**
 710. will be soon available | /wɪl biː suːn əˈveɪləbəl/ — sounds like **wil bee soon uh-VAY-luh-buhl**
-711. mobile phose chargers | /ˈmoʊbaɪl foʊn ˈtʃɑːrdʒərz/ — sounds like **MOH-byl fohn CHAHR-jerz**
+711. mobile phone chargers | /ˈmoʊbaɪl foʊn ˈtʃɑːrdʒərz/ — sounds like **MOH-byl fohn CHAHR-jerz**
 712. vary enormously | /ˈveri ɪˈnɔːrməsli/ — sounds like **VAIR-ee ih-NOR-muhs-lee**
 713. digital and physical copies of journals | /ˈdɪdʒɪtəl ænd ˈfɪzɪkəl ˈkɒpiz əv ˈdʒɜːrnəlz/ — sounds like **DIJ-ih-tuhl and FIZ-ih-kuhl KOP-eez uhv JUR-nuhlz**
 714. the amount of harmful gases | /ði əˈmaʊnt əv ˈhɑːrmfəl ˈɡæsɪz/ — sounds like **thee uh-MOWNT uhv HAHRM-fuhl GAS-iz**
 715. the argument against | /ði ˈɑːrɡjumənt əˈɡenst/ — sounds like **thee AHR-gyuh-muhnt uh-GENST**
-716. serveral perspectives | /ˈsevrəl pərˈspektɪvz/ — sounds like **SEV-ruhl per-SPEK-tivz**
+716. several perspectives | /ˈsevrəl pərˈspektɪvz/ — sounds like **SEV-ruhl per-SPEK-tivz**
 717. making a profit | /ˈmeɪkɪŋ ə ˈprɒfɪt/ — sounds like **MAY-king uh PROF-it**
 718. protecting the environment | /prəˈtektɪŋ ði ɪnˈvaɪrənmənt/ — sounds like **pruh-TEK-ting thee in-VY-ruhn-muhnt**
 719. graduate certificate | /ˈɡrædʒuət sərˈtɪfɪkət/ — sounds like **GRAD-joo-uht ser-TIF-ih-kuht**
@@ -403,11 +403,11 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 769. in front of the gate | /ɪn frʌnt əv ðə ɡeɪt/ — sounds like **in frunt uhv thuh gayt**
 770. will be deducted | /wɪl biː dɪˈdʌktɪd/ — sounds like **wil bee dih-DUK-tid**
 771. handed in after the due date | /ˈhændɪd ɪn ˈæftər ðə duː deɪt/ — sounds like **HAN-did in AF-ter thuh doo dayt**
-772. the science fiction navel | /ðə ˈsaɪəns ˈfɪkʃən ˈnɒvəl/ — sounds like **thuh SY-uhns FIK-shuhn NOV-uhl**
+772. the science fiction novel | /ðə ˈsaɪəns ˈfɪkʃən ˈnɒvəl/ — sounds like **thuh SY-uhns FIK-shuhn NOV-uhl**
 773. advanced space technologies | /ədˈvænst speɪs tekˈnɒlədʒiz/ — sounds like **ad-VANST spays tek-NOL-uh-jeez**
 774. to create the setting | /tuː kriˈeɪt ðə ˈsetɪŋ/ — sounds like **too kree-AYT thuh SET-ing**
 775. any significant variance | /ˈeni sɪɡˈnɪfɪkənt ˈveriəns/ — sounds like **EN-ee sig-NIF-ih-kuhnt VAIR-ee-uhns**
-776. the critical literature veview | /ðə ˈkrɪtɪkəl ˈlɪtərətʃər rɪˈvjuː/ — sounds like **thuh KRIT-ih-kuhl LIT-er-uh-chur rih-VYOO**
+776. the critical literature review | /ðə ˈkrɪtɪkəl ˈlɪtərətʃər rɪˈvjuː/ — sounds like **thuh KRIT-ih-kuhl LIT-er-uh-chur rih-VYOO**
 777. thicken and broaden | /ˈθɪkən ænd ˈbrɔːdən/ — sounds like **THIK-uhn and BRAW-duhn**
 
 <!-- NOTE: This file contains 475 unique terms extracted from PTE RS practice materials.
@@ -464,7 +464,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 144. tension | /ˈtenʃən/ — sounds like **TEN-shuhn**
 145. features | /ˈfiːtʃərz/ — sounds like **FEE-churz**
 146. addressed | /əˈdrest/ — sounds like **uh-DREST**
-147. inital | /ɪˈnɪʃəl/ — sounds like **ih-NISH-uhl**
+147. initial | /ɪˈnɪʃəl/ — sounds like **ih-NISH-uhl**
 148. intriguing | /ɪnˈtriːɡɪŋ/ — sounds like **in-TREE-ging**
 149. statistically | /stəˈtɪstɪkli/ — sounds like **stuh-TIS-tik-lee**
 150. insignificant | /ˌɪnsɪɡˈnɪfɪkənt/ — sounds like **in-sig-NIF-ih-kuhnt**
@@ -518,7 +518,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 198. presentation | /ˌprezənˈteɪʃən/ — sounds like **prez-uhn-TAY-shuhn**
 199. article | /ˈɑːrtɪkəl/ — sounds like **AHR-tih-kuhl**
 200. covers | /ˈkʌvərz/ — sounds like **KUV-erz**
-201. confict | /ˈkɒnflɪkt/ — sounds like **KON-flikt**
+201. conflict | /ˈkɒnflɪkt/ — sounds like **KON-flikt**
 202. starting point | /ˈstɑːrtɪŋ pɔɪnt/ — sounds like **STAHR-ting poynt**
 203. discussion | /dɪˈskʌʃən/ — sounds like **dih-SKUSH-uhn**
 204. Robert | /ˈrɒbərt/ — sounds like **ROB-ert**
@@ -570,7 +570,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 250. in my coffee | /ɪn maɪ ˈkɒfi/ — sounds like **in my KOF-ee**
 251. in the morning | /ɪn ðə ˈmɔːrnɪŋ/ — sounds like **in thuh MOR-ning**
 252. receive the reimbursement | /rɪˈsiːv ðə ˌriːɪmˈbɜːrsmənt/ — sounds like **rih-SEEV thuh ree-im-BURS-muhnt**
-253. origial receipts | /əˈrɪdʒənəl rɪˈsiːts/ — sounds like **uh-RIJ-ih-nuhl rih-SEETS**
+253. original receipts | /əˈrɪdʒənəl rɪˈsiːts/ — sounds like **uh-RIJ-ih-nuhl rih-SEETS**
 254. television outputs | /ˈtelɪvɪʒən ˈaʊtpʊts/ — sounds like **TEL-ih-vizh-uhn OWT-poots**
 255. given away | /ˈɡɪvən əˈweɪ/ — sounds like **GIV-uhn uh-WAY**
 256. educational programs | /ˌedʒuˈkeɪʃənəl ˈproʊɡræmz/ — sounds like **ej-oo-KAY-shuh-nuhl PROH-gramz**
@@ -583,7 +583,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 263. rules of breaks | /ruːlz əv breɪks/ — sounds like **roolz uhv brayks**
 264. lunch time | /lʌntʃ taɪm/ — sounds like **lunch tym**
 265. spiritualism | /ˈspɪrɪtʃuəlɪzəm/ — sounds like **SPIR-ih-choo-uh-liz-uhm**
-266. defiend | /dɪˈfaɪnd/ — sounds like **dih-FYND**
+266. defined | /dɪˈfaɪnd/ — sounds like **dih-FYND**
 267. a system of | /ə ˈsɪstəm əv/ — sounds like **uh SIS-tuhm uhv**
 268. belief | /bɪˈliːf/ — sounds like **bih-LEEF**
 269. religious practice | /rɪˈlɪdʒəs ˈpræktɪs/ — sounds like **rih-LIJ-uhs PRAK-tis**
@@ -764,7 +764,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 444. backgrounds | /ˈbækɡraʊndz/ — sounds like **BAK-growndz**
 445. achieve | /əˈtʃiːv/ — sounds like **uh-CHEEV**
 446. variety | /vəˈraɪəti/ — sounds like **vuh-RY-uh-tee**
-447. qualificaitons | /ˌkwɒlɪfɪˈkeɪʃənz/ — sounds like **kwol-ih-fih-KAY-shuhnz**
+447. qualifications | /ˌkwɒlɪfɪˈkeɪʃənz/ — sounds like **kwol-ih-fih-KAY-shuhnz**
 448. boarding pass | /ˈbɔːrdɪŋ pæs/ — sounds like **BOR-ding pas**
 449. passport | /ˈpɑːspɔːrt/ — sounds like **PAS-port**
 450. boarding gate | /ˈbɔːrdɪŋ ɡeɪt/ — sounds like **BOR-ding gayt**
@@ -784,7 +784,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 464. special circumstances | /ˈspeʃəl ˈsɜːrkəmstænsɪz/ — sounds like **SPESH-uhl SUR-kuhm-stan-siz**
 465. statistical evidence | /stəˈtɪstɪkəl ˈevɪdəns/ — sounds like **stuh-TIS-tih-kuhl EV-ih-duhns**
 466. official | /əˈfɪʃəl/ — sounds like **uh-FISH-uhl**
-467. welcom events | /ˈwelkəm ɪˈvents/ — sounds like **WEL-kuhm ih-VENTS**
+467. welcome events | /ˈwelkəm ɪˈvents/ — sounds like **WEL-kuhm ih-VENTS**
 468. lecture handouts | /ˈlektʃər ˈhændaʊts/ — sounds like **LEK-chur HAND-owts**
 469. downloadable | /ˌdaʊnˈloʊdəbəl/ — sounds like **down-LOH-duh-buhl**
 470. agricultural workers | /ˌæɡrɪˈkʌltʃərəl ˈwɜːrkərz/ — sounds like **ag-rih-KUL-chur-uhl WUR-kerz**

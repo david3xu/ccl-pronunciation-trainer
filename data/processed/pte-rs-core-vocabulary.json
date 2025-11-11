@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-11-11T08:18:47.737Z",
+    "generated": "2025-11-11T08:27:47.306Z",
     "totalTerms": 773,
     "source": "pte-rs-core-vocabulary-with-ipa",
     "description": "PTE RS Core Vocabulary (475 key terms from RS practice with IPA)",
@@ -412,7 +412,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "inernational",
+      "english": "international",
       "pronunciation": {
         "ipa": "ˌɪntərˈnæʃənəl",
         "phonetic": "in-ter-NASH-uh-nuhl"
@@ -852,7 +852,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "exernal",
+      "english": "external",
       "pronunciation": {
         "ipa": "ɪkˈstɜːrnəl",
         "phonetic": "ik-STUR-nuhl"
@@ -3312,7 +3312,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "mobile phose chargers",
+      "english": "mobile phone chargers",
       "pronunciation": {
         "ipa": "ˈmoʊbaɪl foʊn ˈtʃɑːrdʒərz",
         "phonetic": "MOH-byl fohn CHAHR-jerz"
@@ -3362,7 +3362,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "serveral perspectives",
+      "english": "several perspectives",
       "pronunciation": {
         "ipa": "ˈsevrəl pərˈspektɪvz",
         "phonetic": "SEV-ruhl per-SPEK-tivz"
@@ -3922,7 +3922,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "the science fiction navel",
+      "english": "the science fiction novel",
       "pronunciation": {
         "ipa": "ðə ˈsaɪəns ˈfɪkʃən ˈnɒvəl",
         "phonetic": "thuh SY-uhns FIK-shuhn NOV-uhl"
@@ -3962,7 +3962,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "the critical literature veview",
+      "english": "the critical literature review",
       "pronunciation": {
         "ipa": "ðə ˈkrɪtɪkəl ˈlɪtərətʃər rɪˈvjuː",
         "phonetic": "thuh KRIT-ih-kuhl LIT-er-uh-chur rih-VYOO"
@@ -4482,7 +4482,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "inital",
+      "english": "initial",
       "pronunciation": {
         "ipa": "ɪˈnɪʃəl",
         "phonetic": "ih-NISH-uhl"
@@ -5022,7 +5022,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "confict",
+      "english": "conflict",
       "pronunciation": {
         "ipa": "ˈkɒnflɪkt",
         "phonetic": "KON-flikt"
@@ -5532,7 +5532,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "origial receipts",
+      "english": "original receipts",
       "pronunciation": {
         "ipa": "əˈrɪdʒənəl rɪˈsiːts",
         "phonetic": "uh-RIJ-ih-nuhl rih-SEETS"
@@ -5662,7 +5662,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "defiend",
+      "english": "defined",
       "pronunciation": {
         "ipa": "dɪˈfaɪnd",
         "phonetic": "dih-FYND"
@@ -7472,7 +7472,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "qualificaitons",
+      "english": "qualifications",
       "pronunciation": {
         "ipa": "ˌkwɒlɪfɪˈkeɪʃənz",
         "phonetic": "kwol-ih-fih-KAY-shuhnz"
@@ -7672,7 +7672,7 @@
       "source": "pte-rs-core-vocabulary-with-ipa"
     },
     {
-      "english": "welcom events",
+      "english": "welcome events",
       "pronunciation": {
         "ipa": "ˈwelkəm ɪˈvents",
         "phonetic": "WEL-kuhm ih-VENTS"
