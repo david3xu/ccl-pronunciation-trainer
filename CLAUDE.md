@@ -8,6 +8,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **Current Version**: v2.5.4 (Production Ready - October 2025)
 
+**Branch Strategy**: This repository has two main development branches:
+- **`pte` branch** (Current) - Production-ready vanilla JS version with latest vocabulary and fixes
+- **`claude/incomplete-description-*` branch** - Future v3.0.0 with React + TypeScript + AI features (experimental)
+
 ## Essential Commands
 
 ### Development
