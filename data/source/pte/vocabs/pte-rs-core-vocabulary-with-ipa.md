@@ -50,7 +50,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 40. written | /ˈrɪtən/ — sounds like **RIT-uhn**
 41. international | /ˌɪntərˈnæʃənəl/ — sounds like **in-ter-NASH-uh-nuhl**
 42. locating | /loʊˈkeɪtɪŋ/ — sounds like **loh-KAY-ting**
-43. university | /ˌjuːnɪˈvɜːrsəti/ — sounds like **yoo-nih-VUR-sih-tee**
+43. university | /ˌjuːnɪˈvɜːrsɪti/ — sounds like **yoo-nih-VUR-sih-tee**
 44. housing | /ˈhaʊzɪŋ/ — sounds like **HOW-zing**
 45. gender | /ˈdʒendər/ — sounds like **JEN-der**
 46. discussing | /dɪˈskʌsɪŋ/ — sounds like **dih-SKUS-ing**
@@ -82,7 +82,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 72. objectives | /əbˈdʒektɪvz/ — sounds like **uhb-JEK-tivz**
 73. driven | /ˈdrɪvən/ — sounds like **DRIV-uhn**
 74. natural | /ˈnætʃərəl/ — sounds like **NACH-er-uhl**
-75. curiosity | /ˌkjʊriˈɒsəti/ — sounds like **kyoor-ee-OS-ih-tee**
+75. curiosity | /ˌkjʊriˈɒsɪti/ — sounds like **kyoor-ee-OS-ih-tee**
 76. instincts | /ˈɪnstɪŋkts/ — sounds like **IN-stingkts**
 77. influence | /ˈɪnfluəns/ — sounds like **IN-floo-uhns**
 78. media | /ˈmiːdiə/ — sounds like **MEE-dee-uh**
@@ -131,7 +131,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 497. we've been looking at | /wiːv biːn ˈlʊkɪŋ æt/ — sounds like **weev been LOOK-ing at**
 498. various aspects | /ˈveriəs ˈæspekts/ — sounds like **VAIR-ee-uhs AS-pekts**
 499. of the social history | /əv ðə ˈsoʊʃəl ˈhɪstəri/ — sounds like **uhv thuh SOH-shuhl HIS-tuh-ree**
-500. the rising prosperity | /ðə ˈraɪzɪŋ prɒˈsperəti/ — sounds like **thuh RY-zing pros-PER-ih-tee**
+500. the rising prosperity | /ðə ˈraɪzɪŋ prɒˈsperɪti/ — sounds like **thuh RY-zing pros-PER-ih-tee**
 501. feel more content | /fiːl mɔːr ˈkɒntent/ — sounds like **feel mor KON-tent**
 502. novelists | /ˈnɒvəlɪsts/ — sounds like **NOV-uh-lists**
 503. a major role | /ə ˈmeɪdʒər roʊl/ — sounds like **uh MAY-jer rohl**
@@ -151,7 +151,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 517. the academic building | /ði ˌækəˈdemɪk ˈbɪldɪŋ/ — sounds like **thee ak-uh-DEM-ik BIL-ding**
 518. are held accountable | /ɑːr held əˈkaʊntəbəl/ — sounds like **ahr held uh-KOWN-tuh-buhl**
 519. for adhering to | /fɔːr ædˈhɪrɪŋ tuː/ — sounds like **for ad-HEER-ing too**
-520. established community standards | /ɪˈstæblɪʃt kəˈmjuːnəti ˈstændərdz/ — sounds like **ih-STAB-lisht kuh-MYOO-nih-tee STAN-derdz**
+520. established community standards | /ɪˈstæblɪʃt kəˈmjuːnɪti ˈstændərdz/ — sounds like **ih-STAB-lisht kuh-MYOO-nih-tee STAN-derdz**
 521. educational achievement | /ˌedʒuˈkeɪʃənəl əˈtʃiːvmənt/ — sounds like **ej-oo-KAY-shuh-nuhl uh-CHEEV-muhnt**
 522. family size | /ˈfæməli saɪz/ — sounds like **FAM-ih-lee syz**
 523. the aesthetic implications | /ði esˈθetɪk ˌɪmplɪˈkeɪʃənz/ — sounds like **thee es-THET-ik im-plih-KAY-shuhnz**
@@ -196,7 +196,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 562. written coursework | /ˈrɪtən ˈkɔːrswɜːrk/ — sounds like **RIT-uhn KORS-wurk**
 563. the same problems | /ðə seɪm ˈprɒbləmz/ — sounds like **thuh saym PROB-luhmz**
 564. Californian residents | /ˌkælɪˈfɔːrniən ˈrezɪdənts/ — sounds like **kal-ih-FOR-nee-uhn REZ-ih-duhnts**
-565. a demonstrated ability | /ə ˈdemənstreɪtɪd əˈbɪləti/ — sounds like **uh DEM-uhn-stray-tid uh-BIL-ih-tee**
+565. a demonstrated ability | /ə ˈdemənstreɪtɪd əˈbɪlɪti/ — sounds like **uh DEM-uhn-stray-tid uh-BIL-ih-tee**
 566. write clear, correct and concise English | /raɪt klɪr kəˈrekt ænd kənˈsaɪs ˈɪŋɡlɪʃ/ — sounds like **ryt kleer kuh-REKT and kuhn-SYS ING-glish**
 567. bigotry | /ˈbɪɡətri/ — sounds like **BIG-uh-tree**
 568. biographical information | /ˌbaɪəˈɡræfɪkəl ˌɪnfərˈmeɪʃən/ — sounds like **by-uh-GRAF-ih-kuhl in-fer-MAY-shuhn**
@@ -297,7 +297,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 663. professional training | /prəˈfeʃənəl ˈtreɪnɪŋ/ — sounds like **pruh-FESH-uh-nuhl TRAY-ning**
 664. pack the items | /pæk ði ˈaɪtəmz/ — sounds like **pak thee EYE-tuhmz**
 665. the demand for the course | /ðə dɪˈmænd fɔːr ðə kɔːrs/ — sounds like **thuh dih-MAND for thuh kors**
-666. university authorities | /ˌjuːnɪˈvɜːrsəti əˈθɒrətiz/ — sounds like **yoo-nih-VUR-sih-tee aw-THOR-ih-teez**
+666. university authorities | /ˌjuːnɪˈvɜːrsəti əˈθɒrɪtiz/ — sounds like **yoo-nih-VUR-sih-tee aw-THOR-ih-teez**
 667. took on | /tʊk ɒn/ — sounds like **took on**
 668. additional academic staff | /əˈdɪʃənəl ˌækəˈdemɪk stæf/ — sounds like **uh-DISH-uh-nuhl ak-uh-DEM-ik staf**
 669. an extra lecture | /ən ˈekstrə ˈlektʃər/ — sounds like **uhn EK-struh LEK-chur**
@@ -362,8 +362,8 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 728. investigative paradigm | /ɪnˈvestɪɡətɪv ˈpærədaɪm/ — sounds like **in-VES-tih-guh-tiv PAIR-uh-dym**
 729. in other spheres | /ɪn ˈʌðər sfɪrz/ — sounds like **in UTH-er sfeerz**
 730. mass transit systems | /mæs ˈtrænsɪt ˈsɪstəmz/ — sounds like **mas TRAN-sit SIS-tuhmz**
-731. welcoming activities | /ˈwelkəmɪŋ ækˈtɪvətiz/ — sounds like **WEL-kuh-ming ak-TIV-ih-teez**
-732. to serve the community | /tuː sɜːrv ðə kəˈmjuːnəti/ — sounds like **too surv thuh kuh-MYOO-nih-tee**
+731. welcoming activities | /ˈwelkəmɪŋ ækˈtɪvɪtiz/ — sounds like **WEL-kuh-ming ak-TIV-ih-teez**
+732. to serve the community | /tuː sɜːrv ðə kəˈmjuːnɪti/ — sounds like **too surv thuh kuh-MYOO-nih-tee**
 733. a vital part of our role | /ə ˈvaɪtəl pɑːrt əv ˈaʊər roʊl/ — sounds like **uh VY-tuhl pahrt uhv OW-er rohl**
 734. from return on their investment | /frɒm rɪˈtɜːrn ɒn ðer ɪnˈvestmənt/ — sounds like **from rih-TURN on thair in-VEST-muhnt**
 735. the support and advice | /ðə səˈpɔːrt ænd ədˈvaɪs/ — sounds like **thuh suh-PORT and ad-VYS**
@@ -429,7 +429,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 109. campus tour | /ˈkæmpəs tʊr/ — sounds like **KAM-puhs toor**
 110. get familiar | /ɡet fəˈmɪliər/ — sounds like **get fuh-MIL-yur**
 111. teaching | /ˈtiːtʃɪŋ/ — sounds like **TEE-ching**
-112. facilities | /fəˈsɪlətiz/ — sounds like **fuh-SIL-ih-teez**
+112. facilities | /fəˈsɪlɪtiz/ — sounds like **fuh-SIL-ih-teez**
 113. evidence | /ˈevɪdəns/ — sounds like **EV-ih-duhns**
 114. between | /bɪˈtwiːn/ — sounds like **bih-TWEEN**
 115. brain events | /breɪn ɪˈvents/ — sounds like **brayn ih-VENTS**
@@ -472,7 +472,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 152. music | /ˈmjuːzɪk/ — sounds like **MYOO-zik**
 153. library | /ˈlaɪbreri/ — sounds like **LY-brer-ee**
 154. weekend | /ˌwiːkˈend/ — sounds like **week-END**
-155. majority | /məˈdʒɒrəti/ — sounds like **muh-JOR-ih-tee**
+155. majority | /məˈdʒɒrɪti/ — sounds like **muh-JOR-ih-tee**
 156. hardware | /ˈhɑːrdwer/ — sounds like **HARD-wair**
 157. customer | /ˈkʌstəmər/ — sounds like **KUS-tuh-mer**
 158. medical center | /ˈmedɪkəl ˈsentər/ — sounds like **MED-ih-kuhl SEN-ter**
@@ -487,7 +487,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 167. involved | /ɪnˈvɒlvd/ — sounds like **in-VOLVD**
 168. research projects | /rɪˈsɜːrtʃ ˈprɒdʒekts/ — sounds like **rih-SURCH PROJ-ekts**
 169. thrown out | /θroʊn aʊt/ — sounds like **throhn owt**
-170. validity | /vəˈlɪdəti/ — sounds like **vuh-LID-ih-tee**
+170. validity | /vəˈlɪdɪti/ — sounds like **vuh-LID-ih-tee**
 171. argument | /ˈɑːrɡjumənt/ — sounds like **AHR-gyuh-muhnt**
 172. research paper | /rɪˈsɜːrtʃ ˈpeɪpər/ — sounds like **rih-SURCH PAY-per**
 173. a thorough review | /ə ˈθʌroʊ rɪˈvjuː/ — sounds like **uh THUR-oh rih-VYOO**
@@ -514,7 +514,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 194. psychology department | /saɪˈkɒlədʒi dɪˈpɑːrtmənt/ — sounds like **sy-KOL-uh-jee dih-PAHRT-muhnt**
 195. significant rise | /sɪɡˈnɪfɪkənt raɪz/ — sounds like **sig-NIF-ih-kuhnt ryz**
 196. tuition fees | /tjuˈɪʃən fiːz/ — sounds like **too-ISH-uhn feez**
-197. ample opportunities | /ˈæmpəl ˌɒpərˈtuːnətiz/ — sounds like **AM-puhl op-er-TOO-nih-teez**
+197. ample opportunities | /ˈæmpəl ˌɒpərˈtuːnɪtiz/ — sounds like **AM-puhl op-er-TOO-nih-teez**
 198. presentation | /ˌprezənˈteɪʃən/ — sounds like **prez-uhn-TAY-shuhn**
 199. article | /ˈɑːrtɪkəl/ — sounds like **AHR-tih-kuhl**
 200. covers | /ˈkʌvərz/ — sounds like **KUV-erz**
@@ -620,7 +620,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 300. realities | /riˈælɪtiz/ — sounds like **ree-AL-ih-teez**
 301. especially | /ɪˈspeʃəli/ — sounds like **ih-SPESH-uh-lee**
 302. national needs | /ˈnæʃənəl niːdz/ — sounds like **NASH-uh-nuhl needz**
-303. ability to flourish | /əˈbɪləti tuː ˈflʌrɪʃ/ — sounds like **uh-BIL-ih-tee too FLUR-ish**
+303. ability to flourish | /əˈbɪlɪti tuː ˈflʌrɪʃ/ — sounds like **uh-BIL-ih-tee too FLUR-ish**
 304. reference books | /ˈrefərəns bʊks/ — sounds like **REF-er-uhns books**
 305. service center | /ˈsɜːrvɪs ˈsentər/ — sounds like **SUR-vis SEN-ter**
 306. posted | /ˈpoʊstɪd/ — sounds like **POH-stid**
@@ -675,7 +675,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 355. speech | /spiːtʃ/ — sounds like **speech**
 356. registration period | /ˌredʒɪˈstreɪʃən ˈpɪriəd/ — sounds like **rej-ih-STRAY-shuhn PEER-ee-uhd**
 357. environment | /ɪnˈvaɪrənmənt/ — sounds like **in-VY-ruhn-muhnt**
-358. electricity bill | /ɪˌlekˈtrɪsəti bɪl/ — sounds like **ih-lek-TRIS-ih-tee bil**
+358. electricity bill | /ɪˌlekˈtrɪsɪti bɪl/ — sounds like **ih-lek-TRIS-ih-tee bil**
 359. consultation | /ˌkɒnsəlˈteɪʃən/ — sounds like **kon-suhl-TAY-shuhn**
 360. supervisor | /ˈsuːpərvaɪzər/ — sounds like **SOO-per-vy-zer**
 361. thesis | /ˈθiːsɪs/ — sounds like **THEE-sis**
@@ -685,7 +685,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 365. pensioners | /ˈpenʃənərz/ — sounds like **PEN-shuh-nerz**
 366. reception | /rɪˈsepʃən/ — sounds like **rih-SEP-shuhn**
 367. pressure | /ˈpreʃər/ — sounds like **PRESH-ur**
-368. economic necessity | /ˌiːkəˈnɒmɪk nəˈsesəti/ — sounds like **ee-kuh-NOM-ik nuh-SES-ih-tee**
+368. economic necessity | /ˌiːkəˈnɒmɪk nəˈsesɪti/ — sounds like **ee-kuh-NOM-ik nuh-SES-ih-tee**
 369. outstripped | /aʊtˈstrɪpt/ — sounds like **owt-STRIPT**
 370. theory | /ˈθɪəri/ — sounds like **THEER-ee**
 371. campus stores | /ˈkæmpəs stɔːrz/ — sounds like **KAM-puhs storz**
@@ -702,7 +702,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 382. regarded as | /rɪˈɡɑːrdɪd æz/ — sounds like **rih-GAHR-did az**
 383. invalid | /ɪnˈvælɪd/ — sounds like **in-VAL-id**
 384. laboratory | /ˈlæbrətɔːri/ — sounds like **LAB-ruh-tor-ee**
-385. capacity | /kəˈpæsəti/ — sounds like **kuh-PAS-ih-tee**
+385. capacity | /kəˈpæsɪti/ — sounds like **kuh-PAS-ih-tee**
 386. argued | /ˈɑːrɡjuːd/ — sounds like **AHR-gyood**
 387. collaborating | /kəˈlæbəreɪtɪŋ/ — sounds like **kuh-LAB-uh-ray-ting**
 388. individuals | /ˌɪndɪˈvɪdʒuəlz/ — sounds like **in-dih-VIJ-oo-uhlz**
@@ -755,7 +755,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 435. widespread use | /ˈwaɪdspred juːs/ — sounds like **WYD-spred yoos**
 436. renewable | /rɪˈnuːəbəl/ — sounds like **rih-NOO-uh-buhl**
 437. energy sources | /ˈenərdʒi ˈsɔːrsɪz/ — sounds like **EN-er-jee SOR-siz**
-438. produce electricity | /prəˈduːs ɪˌlekˈtrɪsəti/ — sounds like **pruh-DOOS ih-lek-TRIS-ih-tee**
+438. produce electricity | /prəˈduːs ɪˌlekˈtrɪsɪti/ — sounds like **pruh-DOOS ih-lek-TRIS-ih-tee**
 439. London | /ˈlʌndən/ — sounds like **LUN-duhn**
 440. experiment | /ɪkˈsperɪmənt/ — sounds like **ik-SPER-ih-muhnt**
 441. indicates | /ˈɪndɪkeɪts/ — sounds like **IN-dih-kayts**
@@ -773,7 +773,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 453. a hard hat | /ə hɑːrd hæt/ — sounds like **uh hard hat**
 454. construction site | /kənˈstrʌkʃən saɪt/ — sounds like **kuhn-STRUK-shuhn syt**
 455. downtown | /ˌdaʊnˈtaʊn/ — sounds like **down-TOWN**
-456. community center | /kəˈmjuːnəti ˈsentər/ — sounds like **kuh-MYOO-nih-tee SEN-ter**
+456. community center | /kəˈmjuːnɪti ˈsentər/ — sounds like **kuh-MYOO-nih-tee SEN-ter**
 457. leave a message | /liːv ə ˈmesɪdʒ/ — sounds like **leev uh MES-ij**
 458. written exam | /ˈrɪtən ɪɡˈzæm/ — sounds like **RIT-uhn ig-ZAM**
 459. the driver's license | /ðə ˈdraɪvərz ˈlaɪsəns/ — sounds like **thuh DRY-verz LY-suhns**

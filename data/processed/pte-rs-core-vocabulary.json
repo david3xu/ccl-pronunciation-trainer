@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-11-12T01:30:12.086Z",
+    "generated": "2025-11-12T01:36:45.789Z",
     "totalTerms": 773,
     "source": "pte-rs-core-vocabulary-with-ipa",
     "description": "PTE RS Core Vocabulary (475 key terms from RS practice with IPA)",
@@ -434,7 +434,7 @@
     {
       "english": "university",
       "pronunciation": {
-        "ipa": "ˌjuːnɪˈvɜːrsəti",
+        "ipa": "ˌjuːnɪˈvɜːrsɪti",
         "phonetic": "yoo-nih-VUR-sih-tee"
       },
       "difficulty": "hard",
@@ -754,7 +754,7 @@
     {
       "english": "curiosity",
       "pronunciation": {
-        "ipa": "ˌkjʊriˈɒsəti",
+        "ipa": "ˌkjʊriˈɒsɪti",
         "phonetic": "kyoor-ee-OS-ih-tee"
       },
       "difficulty": "normal",
@@ -1234,7 +1234,7 @@
     {
       "english": "the rising prosperity",
       "pronunciation": {
-        "ipa": "ðə ˈraɪzɪŋ prɒˈsperəti",
+        "ipa": "ðə ˈraɪzɪŋ prɒˈsperɪti",
         "phonetic": "thuh RY-zing pros-PER-ih-tee"
       },
       "difficulty": "hard",
@@ -1424,7 +1424,7 @@
     {
       "english": "established community standards",
       "pronunciation": {
-        "ipa": "ɪˈstæblɪʃt kəˈmjuːnəti ˈstændərdz",
+        "ipa": "ɪˈstæblɪʃt kəˈmjuːnɪti ˈstændərdz",
         "phonetic": "ih-STAB-lisht kuh-MYOO-nih-tee STAN-derdz"
       },
       "difficulty": "hard",
@@ -1874,7 +1874,7 @@
     {
       "english": "a demonstrated ability",
       "pronunciation": {
-        "ipa": "ə ˈdemənstreɪtɪd əˈbɪləti",
+        "ipa": "ə ˈdemənstreɪtɪd əˈbɪlɪti",
         "phonetic": "uh DEM-uhn-stray-tid uh-BIL-ih-tee"
       },
       "difficulty": "hard",
@@ -2864,7 +2864,7 @@
     {
       "english": "university authorities",
       "pronunciation": {
-        "ipa": "ˌjuːnɪˈvɜːrsəti əˈθɒrətiz",
+        "ipa": "ˌjuːnɪˈvɜːrsəti əˈθɒrɪtiz",
         "phonetic": "yoo-nih-VUR-sih-tee aw-THOR-ih-teez"
       },
       "difficulty": "hard",
@@ -3514,7 +3514,7 @@
     {
       "english": "welcoming activities",
       "pronunciation": {
-        "ipa": "ˈwelkəmɪŋ ækˈtɪvətiz",
+        "ipa": "ˈwelkəmɪŋ ækˈtɪvɪtiz",
         "phonetic": "WEL-kuh-ming ak-TIV-ih-teez"
       },
       "difficulty": "hard",
@@ -3524,7 +3524,7 @@
     {
       "english": "to serve the community",
       "pronunciation": {
-        "ipa": "tuː sɜːrv ðə kəˈmjuːnəti",
+        "ipa": "tuː sɜːrv ðə kəˈmjuːnɪti",
         "phonetic": "too surv thuh kuh-MYOO-nih-tee"
       },
       "difficulty": "hard",
@@ -4134,7 +4134,7 @@
     {
       "english": "facilities",
       "pronunciation": {
-        "ipa": "fəˈsɪlətiz",
+        "ipa": "fəˈsɪlɪtiz",
         "phonetic": "fuh-SIL-ih-teez"
       },
       "difficulty": "hard",
@@ -4564,7 +4564,7 @@
     {
       "english": "majority",
       "pronunciation": {
-        "ipa": "məˈdʒɒrəti",
+        "ipa": "məˈdʒɒrɪti",
         "phonetic": "muh-JOR-ih-tee"
       },
       "difficulty": "normal",
@@ -4714,7 +4714,7 @@
     {
       "english": "validity",
       "pronunciation": {
-        "ipa": "vəˈlɪdəti",
+        "ipa": "vəˈlɪdɪti",
         "phonetic": "vuh-LID-ih-tee"
       },
       "difficulty": "normal",
@@ -4984,7 +4984,7 @@
     {
       "english": "ample opportunities",
       "pronunciation": {
-        "ipa": "ˈæmpəl ˌɒpərˈtuːnətiz",
+        "ipa": "ˈæmpəl ˌɒpərˈtuːnɪtiz",
         "phonetic": "AM-puhl op-er-TOO-nih-teez"
       },
       "difficulty": "hard",
@@ -6034,7 +6034,7 @@
     {
       "english": "ability to flourish",
       "pronunciation": {
-        "ipa": "əˈbɪləti tuː ˈflʌrɪʃ",
+        "ipa": "əˈbɪlɪti tuː ˈflʌrɪʃ",
         "phonetic": "uh-BIL-ih-tee too FLUR-ish"
       },
       "difficulty": "hard",
@@ -6584,7 +6584,7 @@
     {
       "english": "electricity bill",
       "pronunciation": {
-        "ipa": "ɪˌlekˈtrɪsəti bɪl",
+        "ipa": "ɪˌlekˈtrɪsɪti bɪl",
         "phonetic": "ih-lek-TRIS-ih-tee bil"
       },
       "difficulty": "hard",
@@ -6684,7 +6684,7 @@
     {
       "english": "economic necessity",
       "pronunciation": {
-        "ipa": "ˌiːkəˈnɒmɪk nəˈsesəti",
+        "ipa": "ˌiːkəˈnɒmɪk nəˈsesɪti",
         "phonetic": "ee-kuh-NOM-ik nuh-SES-ih-tee"
       },
       "difficulty": "hard",
@@ -6854,7 +6854,7 @@
     {
       "english": "capacity",
       "pronunciation": {
-        "ipa": "kəˈpæsəti",
+        "ipa": "kəˈpæsɪti",
         "phonetic": "kuh-PAS-ih-tee"
       },
       "difficulty": "normal",
@@ -7384,7 +7384,7 @@
     {
       "english": "produce electricity",
       "pronunciation": {
-        "ipa": "prəˈduːs ɪˌlekˈtrɪsəti",
+        "ipa": "prəˈduːs ɪˌlekˈtrɪsɪti",
         "phonetic": "pruh-DOOS ih-lek-TRIS-ih-tee"
       },
       "difficulty": "hard",
@@ -7564,7 +7564,7 @@
     {
       "english": "community center",
       "pronunciation": {
-        "ipa": "kəˈmjuːnəti ˈsentər",
+        "ipa": "kəˈmjuːnɪti ˈsentər",
         "phonetic": "kuh-MYOO-nih-tee SEN-ter"
       },
       "difficulty": "hard",
