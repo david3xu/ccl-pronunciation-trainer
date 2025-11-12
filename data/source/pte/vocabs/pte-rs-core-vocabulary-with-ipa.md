@@ -617,7 +617,7 @@ This vocabulary book contains 777 core terms and phrases extracted from PTE Repe
 297. critically | /ˈkrɪtɪkli/ — sounds like **KRIT-ik-lee**
 298. comment | /ˈkɒment/ — sounds like **KOM-ent**
 299. fundamental | /ˌfʌndəˈmentəl/ — sounds like **fun-duh-MEN-tuhl**
-300. realities | /riˈælətiz/ — sounds like **ree-AL-ih-teez**
+300. realities | /riˈælɪtiz/ — sounds like **ree-AL-ih-teez**
 301. especially | /ɪˈspeʃəli/ — sounds like **ih-SPESH-uh-lee**
 302. national needs | /ˈnæʃənəl niːdz/ — sounds like **NASH-uh-nuhl needz**
 303. ability to flourish | /əˈbɪləti tuː ˈflʌrɪʃ/ — sounds like **uh-BIL-ih-tee too FLUR-ish**
