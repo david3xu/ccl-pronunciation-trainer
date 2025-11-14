@@ -436,7 +436,7 @@ Repeat Sentence is a crucial part of the PTE Speaking section where test-takers 
 413. Does the government in your country help families that need help?
 414. Conservation is the survival of future generation.
 415. Biographical information should be removed prior to the publication of the results.
-416. A demonstrated ability to write clear, correct and concise English is bigotry.
+416. A demonstrated ability to write clear, correct and concise English is obligatory.
 417. Thirty nine point five percent of Californian residents don't speak English at home.
 418. You will find the economic section on the second floor of the library.
 419. You will be less stressed if you are well prepared for the exam.

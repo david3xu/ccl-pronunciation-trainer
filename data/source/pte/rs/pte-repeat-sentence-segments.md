@@ -1090,7 +1090,7 @@ This dataset breaks down complete sentences into **thought groups** (sense group
 1059. with appropriate graphs?
 1060. A demonstrated ability
 1061. to write clear, correct and concise English
-1062. is bigotry.
+1062. is obligatory.
 1063. Biographical information
 1064. should be removed
 1065. prior to the publication of the results.
