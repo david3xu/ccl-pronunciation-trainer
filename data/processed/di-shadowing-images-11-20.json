@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-11-18T11:15:55.533Z",
+    "generated": "2025-11-18T13:27:53.886Z",
     "totalAnswers": 10,
     "source": "di-answers",
     "description": "DI complete answers (Images 11-20) for shadowing practice with phrase-by-phrase breakdown",
@@ -12,1451 +12,541 @@
     {
       "id": "di-image-11",
       "imageNumber": 11,
-      "title": "Net Generation from Coal",
+      "title": "Net Generation from coal and Share of total generation from coal",
       "template": "A",
-      "fullText": "This [LINE graph] | PRESENTS statistical data | COMPARING [net generation and share percentage].\n\nWhen EXAMINING [net generation], | [the NINETEEN ninety period] | LEADS | \nat approximately [TWO point FOUR billion megawatt hours].\n\nConversely, | [the NINETEEN sixty period] | shows the LOWEST value | \nat around [ONE point SIX billion megawatt hours].\n\nSWITCHING to [share percentage], | [the NINETEEN fifty period] | REPRESENTS the highest figure | \nat approximately [FIFTY-five percent].\n\nFurthermore, | [TWO thousand] | and [TWO thousand and TEN] | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between [net generation from coal and share of total generation from coal].",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [net generation from coal and share of total generation].\nLooking at [net generation] [the NINETEEN ninety period] SHOWS the HIGHEST value |\nat around [TWO point FOUR billion megawatt hours] |\nwhile [the NINETEEN sixty period] SHOWS the LOWEST at about [ONE point SIX billion megawatt hours].\nSwitching to [share percentage] [the NINETEEN fifty period] LEADS this group |\nat around [FIFTY-five percent] |\nfollowed by [TWO thousand] at about [FIFTY percent].\nIn CONCLUSION this chart PRESENTS |\nthe COMPARATIVE analysis between [net generation from coal and share of total generation from coal].",
       "phrases": [
         {
           "index": 0,
-          "text": "This [LINE graph]",
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [net generation from coal and share of total generation]. Looking at [net generation] [the NINETEEN ninety period] SHOWS the HIGHEST value",
           "startIndex": 0,
-          "endIndex": 17,
-          "estimatedDuration": 1285.7142857142858
+          "endIndex": 190,
+          "estimatedDuration": 11571.42857142857
         },
         {
           "index": 1,
-          "text": "PRESENTS statistical data",
-          "startIndex": 20,
-          "endIndex": 45,
-          "estimatedDuration": 1285.7142857142858
+          "text": "at around [TWO point FOUR billion megawatt hours]",
+          "startIndex": 193,
+          "endIndex": 242,
+          "estimatedDuration": 3428.5714285714284
         },
         {
           "index": 2,
-          "text": "COMPARING [net generation and share percentage]. When EXAMINING [net generation],",
-          "startIndex": 48,
-          "endIndex": 129,
-          "estimatedDuration": 4285.714285714285
+          "text": "while [the NINETEEN sixty period] SHOWS the LOWEST at about [ONE point SIX billion megawatt hours]. Switching to [share percentage] [the NINETEEN fifty period] LEADS this group",
+          "startIndex": 245,
+          "endIndex": 421,
+          "estimatedDuration": 11571.42857142857
         },
         {
           "index": 3,
-          "text": "[the NINETEEN ninety period]",
-          "startIndex": 132,
-          "endIndex": 160,
+          "text": "at around [FIFTY-five percent]",
+          "startIndex": 424,
+          "endIndex": 454,
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 4,
-          "text": "LEADS",
-          "startIndex": 163,
-          "endIndex": 168,
-          "estimatedDuration": 428.57142857142856
+          "text": "followed by [TWO thousand] at about [FIFTY percent]. In CONCLUSION this chart PRESENTS",
+          "startIndex": 457,
+          "endIndex": 543,
+          "estimatedDuration": 5571.428571428572
         },
         {
           "index": 5,
-          "text": "at approximately [TWO point FOUR billion megawatt hours]. Conversely,",
-          "startIndex": 171,
-          "endIndex": 240,
-          "estimatedDuration": 3857.142857142857
-        },
-        {
-          "index": 6,
-          "text": "[the NINETEEN sixty period]",
-          "startIndex": 243,
-          "endIndex": 270,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 7,
-          "text": "shows the LOWEST value",
-          "startIndex": 273,
-          "endIndex": 295,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 8,
-          "text": "at around [ONE point SIX billion megawatt hours]. SWITCHING to [share percentage],",
-          "startIndex": 298,
-          "endIndex": 380,
-          "estimatedDuration": 5142.857142857143
-        },
-        {
-          "index": 9,
-          "text": "[the NINETEEN fifty period]",
-          "startIndex": 383,
-          "endIndex": 410,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 10,
-          "text": "REPRESENTS the highest figure",
-          "startIndex": 413,
-          "endIndex": 442,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately [FIFTY-five percent]. Furthermore,",
-          "startIndex": 445,
-          "endIndex": 496,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 12,
-          "text": "[TWO thousand]",
-          "startIndex": 499,
-          "endIndex": 513,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 13,
-          "text": "and [TWO thousand and TEN]",
-          "startIndex": 516,
-          "endIndex": 542,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 14,
-          "text": "also DEMONSTRATE notable VALUES",
-          "startIndex": 545,
-          "endIndex": 576,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 15,
-          "text": "across BOTH categories. OVERALL,",
-          "startIndex": 579,
-          "endIndex": 611,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 16,
-          "text": "this data CLEARLY illustrates",
-          "startIndex": 614,
-          "endIndex": 643,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 17,
-          "text": "the COMPARATIVE analysis",
-          "startIndex": 646,
-          "endIndex": 670,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "between [net generation from coal and share of total generation from coal].",
-          "startIndex": 673,
-          "endIndex": 748,
-          "estimatedDuration": 5142.857142857143
+          "text": "the COMPARATIVE analysis between [net generation from coal and share of total generation from coal].",
+          "startIndex": 546,
+          "endIndex": 646,
+          "estimatedDuration": 6428.5714285714275
         }
       ],
-      "wordCount": 0,
-      "duration": 0,
+      "wordCount": 99,
+      "duration": 40,
       "category": "di-shadowing"
     },
     {
       "id": "di-image-12",
       "imageNumber": 12,
-      "title": "Median & Average Sales Prices",
+      "title": "Median & Average Sales Prices of new homes sold in US 1963-2011",
       "template": "A",
-      "fullText": "This [LINE graph] | PRESENTS statistical data | COMPARING [median and average prices].\n\nWhen EXAMINING [median prices], | [the TWO thousand and SEVEN period] | LEADS | \nat approximately [TWO hundred and FIFTY thousand dollars].\n\nConversely, | [the NINETEEN sixty-three period] | shows the LOWEST value | \nat around [TWENTY thousand dollars].\n\nSWITCHING to [average prices], | [the TWO thousand and SEVEN period] | REPRESENTS the highest figure | \nat approximately [THREE hundred thousand dollars].\n\nFurthermore, | [NINETEEN ninety] | and [TWO thousand] | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between [median and average sales prices of new homes sold in US].",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [median and average sales prices of new homes sold in US].\nLooking at [median prices] [the TWO thousand and SEVEN period] SHOWS the HIGHEST value |\nat around [TWO hundred and FIFTY thousand dollars] |\nwhile [the NINETEEN sixty-three period] SHOWS the LOWEST at about [TWENTY thousand dollars].\nSwitching to [average prices] [the TWO thousand and SEVEN period] LEADS this group |\nat around [THREE hundred thousand dollars] |\nfollowed by [NINETEEN ninety] at about [TWO hundred thousand dollars].\nIn CONCLUSION this chart PRESENTS |\nthe COMPARATIVE analysis between [median and average sales prices of new homes sold in US].",
       "phrases": [
         {
           "index": 0,
-          "text": "This [LINE graph]",
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [median and average sales prices of new homes sold in US]. Looking at [median prices] [the TWO thousand and SEVEN period] SHOWS the HIGHEST value",
           "startIndex": 0,
-          "endIndex": 17,
-          "estimatedDuration": 1285.7142857142858
+          "endIndex": 197,
+          "estimatedDuration": 13285.714285714284
         },
         {
           "index": 1,
-          "text": "PRESENTS statistical data",
-          "startIndex": 20,
-          "endIndex": 45,
-          "estimatedDuration": 1285.7142857142858
+          "text": "at around [TWO hundred and FIFTY thousand dollars]",
+          "startIndex": 200,
+          "endIndex": 250,
+          "estimatedDuration": 3428.5714285714284
         },
         {
           "index": 2,
-          "text": "COMPARING [median and average prices]. When EXAMINING [median prices],",
-          "startIndex": 48,
-          "endIndex": 118,
-          "estimatedDuration": 3857.142857142857
+          "text": "while [the NINETEEN sixty-three period] SHOWS the LOWEST at about [TWENTY thousand dollars]. Switching to [average prices] [the TWO thousand and SEVEN period] LEADS this group",
+          "startIndex": 253,
+          "endIndex": 428,
+          "estimatedDuration": 11142.857142857143
         },
         {
           "index": 3,
-          "text": "[the TWO thousand and SEVEN period]",
-          "startIndex": 121,
-          "endIndex": 156,
+          "text": "at around [THREE hundred thousand dollars]",
+          "startIndex": 431,
+          "endIndex": 473,
           "estimatedDuration": 2571.4285714285716
         },
         {
           "index": 4,
-          "text": "LEADS",
-          "startIndex": 159,
-          "endIndex": 164,
-          "estimatedDuration": 428.57142857142856
+          "text": "followed by [NINETEEN ninety] at about [TWO hundred thousand dollars]. In CONCLUSION this chart PRESENTS",
+          "startIndex": 476,
+          "endIndex": 580,
+          "estimatedDuration": 6428.5714285714275
         },
         {
           "index": 5,
-          "text": "at approximately [TWO hundred and FIFTY thousand dollars]. Conversely,",
-          "startIndex": 167,
-          "endIndex": 237,
-          "estimatedDuration": 3857.142857142857
-        },
-        {
-          "index": 6,
-          "text": "[the NINETEEN sixty-three period]",
-          "startIndex": 240,
-          "endIndex": 273,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 7,
-          "text": "shows the LOWEST value",
-          "startIndex": 276,
-          "endIndex": 298,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 8,
-          "text": "at around [TWENTY thousand dollars]. SWITCHING to [average prices],",
-          "startIndex": 301,
-          "endIndex": 368,
-          "estimatedDuration": 3857.142857142857
-        },
-        {
-          "index": 9,
-          "text": "[the TWO thousand and SEVEN period]",
-          "startIndex": 371,
-          "endIndex": 406,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 10,
-          "text": "REPRESENTS the highest figure",
-          "startIndex": 409,
-          "endIndex": 438,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately [THREE hundred thousand dollars]. Furthermore,",
-          "startIndex": 441,
-          "endIndex": 504,
-          "estimatedDuration": 3000
-        },
-        {
-          "index": 12,
-          "text": "[NINETEEN ninety]",
-          "startIndex": 507,
-          "endIndex": 524,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 13,
-          "text": "and [TWO thousand]",
-          "startIndex": 527,
-          "endIndex": 545,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 14,
-          "text": "also DEMONSTRATE notable VALUES",
-          "startIndex": 548,
-          "endIndex": 579,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 15,
-          "text": "across BOTH categories. OVERALL,",
-          "startIndex": 582,
-          "endIndex": 614,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 16,
-          "text": "this data CLEARLY illustrates",
-          "startIndex": 617,
-          "endIndex": 646,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 17,
-          "text": "the COMPARATIVE analysis",
-          "startIndex": 649,
-          "endIndex": 673,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "between [median and average sales prices of new homes sold in US].",
-          "startIndex": 676,
-          "endIndex": 742,
-          "estimatedDuration": 5142.857142857143
+          "text": "the COMPARATIVE analysis between [median and average sales prices of new homes sold in US].",
+          "startIndex": 583,
+          "endIndex": 674,
+          "estimatedDuration": 6428.5714285714275
         }
       ],
-      "wordCount": 0,
-      "duration": 0,
+      "wordCount": 106,
+      "duration": 42,
       "category": "di-shadowing"
     },
     {
       "id": "di-image-13",
       "imageNumber": 13,
-      "title": "Daily Temperature Beijing",
+      "title": "Daily temperature in Beijing China",
       "template": "A",
-      "fullText": "This [AREA chart] | ILLUSTRATES information | REGARDING [daily temperature in Beijing China].\n\nAt the TOP, | [in JULY] | DEMONSTRATES the HIGHEST value, | \nwhich is approximately [THIRTY-two degrees Celsius].\n\nFollowing THAT, | [in JUNE] | SHOWS around [TWENTY-eight degrees Celsius], | \nrepresenting the SECOND-highest figure.\n\nConversely, | [in JANUARY] | INDICATES the LOWEST value | \nat approximately [MINUS five degrees Celsius].\n\nAdditionally, | [APRIL] | and [OCTOBER] | \nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA | \ndemonstrating CLEAR variations | in [daily temperature in Beijing China].",
+      "fullText": "This [AREA chart] ILLUSTRATES information REGARDING [daily temperature in Beijing China].\nAt the TOP [in JULY] SHOWS the HIGHEST value |\nof around [THIRTY-two degrees Celsius].\nFollowing THAT [in JUNE] SHOWS about [TWENTY-eight degrees Celsius] |\nrepresenting the SECOND-highest figure.\nOn the other END [in JANUARY] SHOWS the LOWEST value |\nat around [MINUS five degrees Celsius].\nWorth noting [APRIL] and [OCTOBER] |\nalso contribute to the data ANALYSIS.\nIn CONCLUSION this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations in [daily temperature in Beijing China].",
       "phrases": [
         {
           "index": 0,
-          "text": "This [AREA chart]",
+          "text": "This [AREA chart] ILLUSTRATES information REGARDING [daily temperature in Beijing China]. At the TOP [in JULY] SHOWS the HIGHEST value",
           "startIndex": 0,
-          "endIndex": 17,
-          "estimatedDuration": 1285.7142857142858
+          "endIndex": 134,
+          "estimatedDuration": 8571.42857142857
         },
         {
           "index": 1,
-          "text": "ILLUSTRATES information",
-          "startIndex": 20,
-          "endIndex": 43,
-          "estimatedDuration": 857.1428571428571
+          "text": "of around [THIRTY-two degrees Celsius]. Following THAT [in JUNE] SHOWS about [TWENTY-eight degrees Celsius]",
+          "startIndex": 137,
+          "endIndex": 244,
+          "estimatedDuration": 6000
         },
         {
           "index": 2,
-          "text": "REGARDING [daily temperature in Beijing China]. At the TOP,",
-          "startIndex": 46,
-          "endIndex": 105,
-          "estimatedDuration": 3857.142857142857
+          "text": "representing the SECOND-highest figure. On the other END [in JANUARY] SHOWS the LOWEST value",
+          "startIndex": 247,
+          "endIndex": 339,
+          "estimatedDuration": 6000
         },
         {
           "index": 3,
-          "text": "[in JULY]",
-          "startIndex": 108,
-          "endIndex": 117,
-          "estimatedDuration": 857.1428571428571
+          "text": "at around [MINUS five degrees Celsius]. Worth noting [APRIL] and [OCTOBER]",
+          "startIndex": 342,
+          "endIndex": 416,
+          "estimatedDuration": 4714.285714285715
         },
         {
           "index": 4,
-          "text": "DEMONSTRATES the HIGHEST value,",
-          "startIndex": 120,
-          "endIndex": 151,
-          "estimatedDuration": 1714.2857142857142
+          "text": "also contribute to the data ANALYSIS. In CONCLUSION this chart PRESENTS comprehensive DATA",
+          "startIndex": 419,
+          "endIndex": 509,
+          "estimatedDuration": 5571.428571428572
         },
         {
           "index": 5,
-          "text": "which is approximately [THIRTY-two degrees Celsius]. Following THAT,",
-          "startIndex": 154,
-          "endIndex": 222,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 6,
-          "text": "[in JUNE]",
-          "startIndex": 225,
-          "endIndex": 234,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 7,
-          "text": "SHOWS around [TWENTY-eight degrees Celsius],",
-          "startIndex": 237,
-          "endIndex": 281,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 8,
-          "text": "representing the SECOND-highest figure. Conversely,",
-          "startIndex": 284,
-          "endIndex": 335,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 9,
-          "text": "[in JANUARY]",
-          "startIndex": 338,
-          "endIndex": 350,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 10,
-          "text": "INDICATES the LOWEST value",
-          "startIndex": 353,
-          "endIndex": 379,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately [MINUS five degrees Celsius]. Additionally,",
-          "startIndex": 382,
-          "endIndex": 442,
-          "estimatedDuration": 3000
-        },
-        {
-          "index": 12,
-          "text": "[APRIL]",
-          "startIndex": 445,
-          "endIndex": 452,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 13,
-          "text": "and [OCTOBER]",
-          "startIndex": 455,
-          "endIndex": 468,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 14,
-          "text": "also contribute SIGNIFICANTLY",
-          "startIndex": 471,
-          "endIndex": 500,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 15,
-          "text": "to the data ANALYSIS. In CONCLUSION,",
-          "startIndex": 503,
-          "endIndex": 539,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 16,
-          "text": "this chart PRESENTS comprehensive DATA",
-          "startIndex": 542,
-          "endIndex": 580,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 17,
-          "text": "demonstrating CLEAR variations",
-          "startIndex": 583,
-          "endIndex": 613,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "in [daily temperature in Beijing China].",
-          "startIndex": 616,
-          "endIndex": 656,
-          "estimatedDuration": 2571.4285714285716
+          "text": "demonstrating CLEAR variations in [daily temperature in Beijing China].",
+          "startIndex": 512,
+          "endIndex": 583,
+          "estimatedDuration": 3857.142857142857
         }
       ],
-      "wordCount": 0,
-      "duration": 0,
+      "wordCount": 86,
+      "duration": 34,
       "category": "di-shadowing"
     },
     {
       "id": "di-image-14",
       "imageNumber": 14,
-      "title": "Electricity Generation China",
+      "title": "Electricity Generation in China by Type 1994-2004",
       "template": "A",
-      "fullText": "This [LINE graph] | PRESENTS statistical data | COMPARING [coal, hydro, and other energy types].\n\nWhen EXAMINING [coal], | [the TWO thousand and FOUR period] | LEADS | \nat approximately [ONE thousand NINE hundred billion kilowatt hours].\n\nConversely, | [the NINETEEN ninety-four period] | shows the LOWEST value | \nat around [EIGHT hundred billion kilowatt hours].\n\nSWITCHING to [hydro power], | [the TWO thousand and FOUR period] | REPRESENTS the highest figure | \nat approximately [THREE hundred and FIFTY billion kilowatt hours].\n\nFurthermore, | [oil] | and [nuclear] | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between [electricity generation in China by type].",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [electricity generation in China by type].\nLooking at [coal] [the TWO thousand and FOUR period] SHOWS the HIGHEST value |\nat around [ONE thousand NINE hundred billion kilowatt hours] |\nwhile [the NINETEEN ninety-four period] SHOWS the LOWEST at about [EIGHT hundred billion kilowatt hours].\nSwitching to [hydro power] [the TWO thousand and FOUR period] LEADS this group |\nat around [THREE hundred and FIFTY billion kilowatt hours] |\nfollowed by [oil] at about [ONE hundred billion kilowatt hours].\nIn CONCLUSION this chart PRESENTS |\nthe COMPARATIVE analysis between [electricity generation in China by type].",
       "phrases": [
         {
           "index": 0,
-          "text": "This [LINE graph]",
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [electricity generation in China by type]. Looking at [coal] [the TWO thousand and FOUR period] SHOWS the HIGHEST value",
           "startIndex": 0,
-          "endIndex": 17,
-          "estimatedDuration": 1285.7142857142858
+          "endIndex": 171,
+          "estimatedDuration": 10714.285714285716
         },
         {
           "index": 1,
-          "text": "PRESENTS statistical data",
-          "startIndex": 20,
-          "endIndex": 45,
-          "estimatedDuration": 1285.7142857142858
+          "text": "at around [ONE thousand NINE hundred billion kilowatt hours]",
+          "startIndex": 174,
+          "endIndex": 234,
+          "estimatedDuration": 3857.142857142857
         },
         {
           "index": 2,
-          "text": "COMPARING [coal, hydro, and other energy types]. When EXAMINING [coal],",
-          "startIndex": 48,
-          "endIndex": 119,
-          "estimatedDuration": 4285.714285714285
+          "text": "while [the NINETEEN ninety-four period] SHOWS the LOWEST at about [EIGHT hundred billion kilowatt hours]. Switching to [hydro power] [the TWO thousand and FOUR period] LEADS this group",
+          "startIndex": 237,
+          "endIndex": 421,
+          "estimatedDuration": 12000
         },
         {
           "index": 3,
-          "text": "[the TWO thousand and FOUR period]",
-          "startIndex": 122,
-          "endIndex": 156,
-          "estimatedDuration": 2571.4285714285716
+          "text": "at around [THREE hundred and FIFTY billion kilowatt hours]",
+          "startIndex": 424,
+          "endIndex": 482,
+          "estimatedDuration": 3857.142857142857
         },
         {
           "index": 4,
-          "text": "LEADS",
-          "startIndex": 159,
-          "endIndex": 164,
-          "estimatedDuration": 428.57142857142856
+          "text": "followed by [oil] at about [ONE hundred billion kilowatt hours]. In CONCLUSION this chart PRESENTS",
+          "startIndex": 485,
+          "endIndex": 583,
+          "estimatedDuration": 6428.5714285714275
         },
         {
           "index": 5,
-          "text": "at approximately [ONE thousand NINE hundred billion kilowatt hours]. Conversely,",
-          "startIndex": 167,
-          "endIndex": 247,
+          "text": "the COMPARATIVE analysis between [electricity generation in China by type].",
+          "startIndex": 586,
+          "endIndex": 661,
           "estimatedDuration": 4285.714285714285
-        },
-        {
-          "index": 6,
-          "text": "[the NINETEEN ninety-four period]",
-          "startIndex": 250,
-          "endIndex": 283,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 7,
-          "text": "shows the LOWEST value",
-          "startIndex": 286,
-          "endIndex": 308,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 8,
-          "text": "at around [EIGHT hundred billion kilowatt hours]. SWITCHING to [hydro power],",
-          "startIndex": 311,
-          "endIndex": 388,
-          "estimatedDuration": 4714.285714285715
-        },
-        {
-          "index": 9,
-          "text": "[the TWO thousand and FOUR period]",
-          "startIndex": 391,
-          "endIndex": 425,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 10,
-          "text": "REPRESENTS the highest figure",
-          "startIndex": 428,
-          "endIndex": 457,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately [THREE hundred and FIFTY billion kilowatt hours]. Furthermore,",
-          "startIndex": 460,
-          "endIndex": 539,
-          "estimatedDuration": 4285.714285714285
-        },
-        {
-          "index": 12,
-          "text": "[oil]",
-          "startIndex": 542,
-          "endIndex": 547,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 13,
-          "text": "and [nuclear]",
-          "startIndex": 550,
-          "endIndex": 563,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 14,
-          "text": "also DEMONSTRATE notable VALUES",
-          "startIndex": 566,
-          "endIndex": 597,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 15,
-          "text": "across BOTH categories. OVERALL,",
-          "startIndex": 600,
-          "endIndex": 632,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 16,
-          "text": "this data CLEARLY illustrates",
-          "startIndex": 635,
-          "endIndex": 664,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 17,
-          "text": "the COMPARATIVE analysis",
-          "startIndex": 667,
-          "endIndex": 691,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "between [electricity generation in China by type].",
-          "startIndex": 694,
-          "endIndex": 744,
-          "estimatedDuration": 3000
         }
       ],
-      "wordCount": 0,
-      "duration": 0,
+      "wordCount": 101,
+      "duration": 40,
       "category": "di-shadowing"
     },
     {
       "id": "di-image-15",
       "imageNumber": 15,
-      "title": "University College Students",
+      "title": "University and College Students who did educational activities",
       "template": "A",
-      "fullText": "This [LINE graph] | PRESENTS statistical data | COMPARING [full-time and part-time students].\n\nWhen EXAMINING [full-time students], | [the TWELVE noon period] | LEADS | \nat approximately [THIRTY-five percent].\n\nConversely, | [the FOUR AM period] | shows the LOWEST value | \nat around [THREE percent].\n\nSWITCHING to [part-time students], | [the TWELVE noon period] | REPRESENTS the highest figure | \nat approximately [TWENTY-three percent].\n\nFurthermore, | [EIGHT AM] | and [FOUR PM] | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between [university and college students who did educational activities].",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [university and college students who did educational activities].\nLooking at [full-time students] [the TWELVE noon period] SHOWS the HIGHEST value |\nat around [THIRTY-five percent] |\nwhile [the FOUR AM period] SHOWS the LOWEST at about [THREE percent].\nSwitching to [part-time students] [the TWELVE noon period] LEADS this group |\nat around [TWENTY-three percent] |\nfollowed by [EIGHT AM] at about [EIGHTEEN percent].\nIn CONCLUSION this chart PRESENTS |\nthe COMPARATIVE analysis between [university and college students who did educational activities].",
       "phrases": [
         {
           "index": 0,
-          "text": "This [LINE graph]",
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [university and college students who did educational activities]. Looking at [full-time students] [the TWELVE noon period] SHOWS the HIGHEST value",
           "startIndex": 0,
-          "endIndex": 17,
-          "estimatedDuration": 1285.7142857142858
+          "endIndex": 198,
+          "estimatedDuration": 11142.857142857143
         },
         {
           "index": 1,
-          "text": "PRESENTS statistical data",
-          "startIndex": 20,
-          "endIndex": 45,
-          "estimatedDuration": 1285.7142857142858
+          "text": "at around [THIRTY-five percent]",
+          "startIndex": 201,
+          "endIndex": 232,
+          "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 2,
-          "text": "COMPARING [full-time and part-time students]. When EXAMINING [full-time students],",
-          "startIndex": 48,
-          "endIndex": 130,
-          "estimatedDuration": 3857.142857142857
+          "text": "while [the FOUR AM period] SHOWS the LOWEST at about [THREE percent]. Switching to [part-time students] [the TWELVE noon period] LEADS this group",
+          "startIndex": 235,
+          "endIndex": 380,
+          "estimatedDuration": 9857.142857142857
         },
         {
           "index": 3,
-          "text": "[the TWELVE noon period]",
-          "startIndex": 133,
-          "endIndex": 157,
+          "text": "at around [TWENTY-three percent]",
+          "startIndex": 383,
+          "endIndex": 415,
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 4,
-          "text": "LEADS",
-          "startIndex": 160,
-          "endIndex": 165,
-          "estimatedDuration": 428.57142857142856
+          "text": "followed by [EIGHT AM] at about [EIGHTEEN percent]. In CONCLUSION this chart PRESENTS",
+          "startIndex": 418,
+          "endIndex": 503,
+          "estimatedDuration": 5571.428571428572
         },
         {
           "index": 5,
-          "text": "at approximately [THIRTY-five percent]. Conversely,",
-          "startIndex": 168,
-          "endIndex": 219,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 6,
-          "text": "[the FOUR AM period]",
-          "startIndex": 222,
-          "endIndex": 242,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 7,
-          "text": "shows the LOWEST value",
-          "startIndex": 245,
-          "endIndex": 267,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 8,
-          "text": "at around [THREE percent]. SWITCHING to [part-time students],",
-          "startIndex": 270,
-          "endIndex": 331,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 9,
-          "text": "[the TWELVE noon period]",
-          "startIndex": 334,
-          "endIndex": 358,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 10,
-          "text": "REPRESENTS the highest figure",
-          "startIndex": 361,
-          "endIndex": 390,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately [TWENTY-three percent]. Furthermore,",
-          "startIndex": 393,
-          "endIndex": 446,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 12,
-          "text": "[EIGHT AM]",
-          "startIndex": 449,
-          "endIndex": 459,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 13,
-          "text": "and [FOUR PM]",
-          "startIndex": 462,
-          "endIndex": 475,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 14,
-          "text": "also DEMONSTRATE notable VALUES",
-          "startIndex": 478,
-          "endIndex": 509,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 15,
-          "text": "across BOTH categories. OVERALL,",
-          "startIndex": 512,
-          "endIndex": 544,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 16,
-          "text": "this data CLEARLY illustrates",
-          "startIndex": 547,
-          "endIndex": 576,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 17,
-          "text": "the COMPARATIVE analysis",
-          "startIndex": 579,
-          "endIndex": 603,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "between [university and college students who did educational activities].",
-          "startIndex": 606,
-          "endIndex": 679,
-          "estimatedDuration": 3857.142857142857
+          "text": "the COMPARATIVE analysis between [university and college students who did educational activities].",
+          "startIndex": 506,
+          "endIndex": 604,
+          "estimatedDuration": 5142.857142857143
         }
       ],
-      "wordCount": 0,
-      "duration": 0,
+      "wordCount": 87,
+      "duration": 35,
       "category": "di-shadowing"
     },
     {
       "id": "di-image-16",
       "imageNumber": 16,
-      "title": "Food Price vs Oil Price",
+      "title": "Food price vs oil price",
       "template": "A",
-      "fullText": "This [LINE graph] | PRESENTS statistical data | COMPARING [food price and oil price].\n\nWhen EXAMINING [food price], | [the TWO thousand and EIGHT period] | LEADS | \nat approximately [ONE hundred and FORTY dollars].\n\nConversely, | [the TWO thousand period] | shows the LOWEST value | \nat around [TWENTY dollars].\n\nSWITCHING to [oil price], | [the TWO thousand and EIGHT period] | REPRESENTS the highest figure | \nat approximately [TWO hundred and TEN dollars].\n\nFurthermore, | [TWO thousand and FOUR] | and [TWO thousand and SIX] | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between [food price and oil price].",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [food price versus oil price].\nLooking at [food price] [the TWO thousand and EIGHT period] SHOWS the HIGHEST value |\nat around [ONE hundred and FORTY dollars] |\nwhile [the TWO thousand period] SHOWS the LOWEST at about [TWENTY dollars].\nSwitching to [oil price] [the TWO thousand and EIGHT period] LEADS this group |\nat around [TWO hundred and TEN dollars] |\nfollowed by [TWO thousand and FOUR] at about [ONE hundred dollars].\nIn CONCLUSION this chart PRESENTS |\nthe COMPARATIVE analysis between [food price and oil price].",
       "phrases": [
         {
           "index": 0,
-          "text": "This [LINE graph]",
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [food price versus oil price]. Looking at [food price] [the TWO thousand and EIGHT period] SHOWS the HIGHEST value",
           "startIndex": 0,
-          "endIndex": 17,
-          "estimatedDuration": 1285.7142857142858
+          "endIndex": 166,
+          "estimatedDuration": 10714.285714285716
         },
         {
           "index": 1,
-          "text": "PRESENTS statistical data",
-          "startIndex": 20,
-          "endIndex": 45,
-          "estimatedDuration": 1285.7142857142858
+          "text": "at around [ONE hundred and FORTY dollars]",
+          "startIndex": 169,
+          "endIndex": 210,
+          "estimatedDuration": 3000
         },
         {
           "index": 2,
-          "text": "COMPARING [food price and oil price]. When EXAMINING [food price],",
-          "startIndex": 48,
-          "endIndex": 114,
-          "estimatedDuration": 4285.714285714285
+          "text": "while [the TWO thousand period] SHOWS the LOWEST at about [TWENTY dollars]. Switching to [oil price] [the TWO thousand and EIGHT period] LEADS this group",
+          "startIndex": 213,
+          "endIndex": 366,
+          "estimatedDuration": 10714.285714285716
         },
         {
           "index": 3,
-          "text": "[the TWO thousand and EIGHT period]",
-          "startIndex": 117,
-          "endIndex": 152,
-          "estimatedDuration": 2571.4285714285716
+          "text": "at around [TWO hundred and TEN dollars]",
+          "startIndex": 369,
+          "endIndex": 408,
+          "estimatedDuration": 3000
         },
         {
           "index": 4,
-          "text": "LEADS",
-          "startIndex": 155,
-          "endIndex": 160,
-          "estimatedDuration": 428.57142857142856
+          "text": "followed by [TWO thousand and FOUR] at about [ONE hundred dollars]. In CONCLUSION this chart PRESENTS",
+          "startIndex": 411,
+          "endIndex": 512,
+          "estimatedDuration": 6857.142857142857
         },
         {
           "index": 5,
-          "text": "at approximately [ONE hundred and FORTY dollars]. Conversely,",
-          "startIndex": 163,
-          "endIndex": 224,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 6,
-          "text": "[the TWO thousand period]",
-          "startIndex": 227,
-          "endIndex": 252,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 7,
-          "text": "shows the LOWEST value",
-          "startIndex": 255,
-          "endIndex": 277,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 8,
-          "text": "at around [TWENTY dollars]. SWITCHING to [oil price],",
-          "startIndex": 280,
-          "endIndex": 333,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 9,
-          "text": "[the TWO thousand and EIGHT period]",
-          "startIndex": 336,
-          "endIndex": 371,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 10,
-          "text": "REPRESENTS the highest figure",
-          "startIndex": 374,
-          "endIndex": 403,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately [TWO hundred and TEN dollars]. Furthermore,",
-          "startIndex": 406,
-          "endIndex": 466,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 12,
-          "text": "[TWO thousand and FOUR]",
-          "startIndex": 469,
-          "endIndex": 492,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 13,
-          "text": "and [TWO thousand and SIX]",
-          "startIndex": 495,
-          "endIndex": 521,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 14,
-          "text": "also DEMONSTRATE notable VALUES",
-          "startIndex": 524,
-          "endIndex": 555,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 15,
-          "text": "across BOTH categories. OVERALL,",
-          "startIndex": 558,
-          "endIndex": 590,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 16,
-          "text": "this data CLEARLY illustrates",
-          "startIndex": 593,
-          "endIndex": 622,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 17,
-          "text": "the COMPARATIVE analysis",
-          "startIndex": 625,
-          "endIndex": 649,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "between [food price and oil price].",
-          "startIndex": 652,
-          "endIndex": 687,
-          "estimatedDuration": 2571.4285714285716
+          "text": "the COMPARATIVE analysis between [food price and oil price].",
+          "startIndex": 515,
+          "endIndex": 575,
+          "estimatedDuration": 3857.142857142857
         }
       ],
-      "wordCount": 0,
-      "duration": 0,
+      "wordCount": 94,
+      "duration": 38,
       "category": "di-shadowing"
     },
     {
       "id": "di-image-17",
       "imageNumber": 17,
-      "title": "Top 10 US Cities Population",
+      "title": "Top 10 US Cities Population Increase",
       "template": "A",
-      "fullText": "This [BAR chart] | ILLUSTRATES information | REGARDING [top ten US cities population increase].\n\nAt the TOP, | [Atlanta] | DEMONSTRATES the HIGHEST value, | \nwhich is approximately [TWENTY-one percent].\n\nFollowing THAT, | [Houston] | SHOWS around [NINETEEN percent], | \nrepresenting the SECOND-highest figure.\n\nConversely, | [New York] | INDICATES the LOWEST value | \nat approximately [TWO percent].\n\nAdditionally, | [Dallas] | and [Phoenix] | \nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA | \ndemonstrating CLEAR variations | in [top ten US cities population increase].",
+      "fullText": "This [BAR chart] ILLUSTRATES information REGARDING [top ten US cities population increase].\nAt the TOP [Atlanta] SHOWS the HIGHEST value |\nof around [TWENTY-one percent].\nFollowing THAT [Houston] SHOWS about [NINETEEN percent] |\nrepresenting the SECOND-highest figure.\nOn the other END [New York] SHOWS the LOWEST value |\nat around [TWO percent].\nWorth noting [Dallas] and [Phoenix] |\nalso contribute to the data ANALYSIS.\nIn CONCLUSION this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations in [top ten US cities population increase].",
       "phrases": [
         {
           "index": 0,
-          "text": "This [BAR chart]",
+          "text": "This [BAR chart] ILLUSTRATES information REGARDING [top ten US cities population increase]. At the TOP [Atlanta] SHOWS the HIGHEST value",
           "startIndex": 0,
-          "endIndex": 16,
-          "estimatedDuration": 1285.7142857142858
+          "endIndex": 136,
+          "estimatedDuration": 8571.42857142857
         },
         {
           "index": 1,
-          "text": "ILLUSTRATES information",
-          "startIndex": 19,
-          "endIndex": 42,
-          "estimatedDuration": 857.1428571428571
+          "text": "of around [TWENTY-one percent]. Following THAT [Houston] SHOWS about [NINETEEN percent]",
+          "startIndex": 139,
+          "endIndex": 226,
+          "estimatedDuration": 4714.285714285715
         },
         {
           "index": 2,
-          "text": "REGARDING [top ten US cities population increase]. At the TOP,",
-          "startIndex": 45,
-          "endIndex": 107,
-          "estimatedDuration": 4285.714285714285
+          "text": "representing the SECOND-highest figure. On the other END [New York] SHOWS the LOWEST value",
+          "startIndex": 229,
+          "endIndex": 319,
+          "estimatedDuration": 6000
         },
         {
           "index": 3,
-          "text": "[Atlanta]",
-          "startIndex": 110,
-          "endIndex": 119,
-          "estimatedDuration": 428.57142857142856
+          "text": "at around [TWO percent]. Worth noting [Dallas] and [Phoenix]",
+          "startIndex": 322,
+          "endIndex": 382,
+          "estimatedDuration": 3857.142857142857
         },
         {
           "index": 4,
-          "text": "DEMONSTRATES the HIGHEST value,",
-          "startIndex": 122,
-          "endIndex": 153,
-          "estimatedDuration": 1714.2857142857142
+          "text": "also contribute to the data ANALYSIS. In CONCLUSION this chart PRESENTS comprehensive DATA",
+          "startIndex": 385,
+          "endIndex": 475,
+          "estimatedDuration": 5571.428571428572
         },
         {
           "index": 5,
-          "text": "which is approximately [TWENTY-one percent]. Following THAT,",
-          "startIndex": 156,
-          "endIndex": 216,
-          "estimatedDuration": 3000
-        },
-        {
-          "index": 6,
-          "text": "[Houston]",
-          "startIndex": 219,
-          "endIndex": 228,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 7,
-          "text": "SHOWS around [NINETEEN percent],",
-          "startIndex": 231,
-          "endIndex": 263,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 8,
-          "text": "representing the SECOND-highest figure. Conversely,",
-          "startIndex": 266,
-          "endIndex": 317,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 9,
-          "text": "[New York]",
-          "startIndex": 320,
-          "endIndex": 330,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 10,
-          "text": "INDICATES the LOWEST value",
-          "startIndex": 333,
-          "endIndex": 359,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately [TWO percent]. Additionally,",
-          "startIndex": 362,
-          "endIndex": 407,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 12,
-          "text": "[Dallas]",
-          "startIndex": 410,
-          "endIndex": 418,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 13,
-          "text": "and [Phoenix]",
-          "startIndex": 421,
-          "endIndex": 434,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 14,
-          "text": "also contribute SIGNIFICANTLY",
-          "startIndex": 437,
-          "endIndex": 466,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 15,
-          "text": "to the data ANALYSIS. In CONCLUSION,",
-          "startIndex": 469,
-          "endIndex": 505,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 16,
-          "text": "this chart PRESENTS comprehensive DATA",
-          "startIndex": 508,
-          "endIndex": 546,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 17,
-          "text": "demonstrating CLEAR variations",
-          "startIndex": 549,
-          "endIndex": 579,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "in [top ten US cities population increase].",
-          "startIndex": 582,
-          "endIndex": 625,
-          "estimatedDuration": 3000
+          "text": "demonstrating CLEAR variations in [top ten US cities population increase].",
+          "startIndex": 478,
+          "endIndex": 552,
+          "estimatedDuration": 4285.714285714285
         }
       ],
-      "wordCount": 0,
-      "duration": 0,
+      "wordCount": 82,
+      "duration": 33,
       "category": "di-shadowing"
     },
     {
       "id": "di-image-18",
       "imageNumber": 18,
-      "title": "Drinking Habits by Age",
+      "title": "Drinking Habits by Age in US",
       "template": "A",
-      "fullText": "This [BAR chart] | PRESENTS statistical data | COMPARING [drinking habits across age groups].\n\nWhen EXAMINING [the EIGHTEEN to TWENTY-FOUR age group], | [heavy drinkers] | LEADS | \nat approximately [FIFTEEN percent].\n\nConversely, | [non-drinkers] | shows the LOWEST value | \nat around [TWENTY percent].\n\nSWITCHING to [the SIXTY-FIVE plus age group], | [non-drinkers] | REPRESENTS the highest figure | \nat approximately [FIFTY percent].\n\nFurthermore, | [moderate drinkers] | and [light drinkers] | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between [drinking habits by age in US].",
+      "fullText": "This [BAR chart] ILLUSTRATES information REGARDING [drinking habits by age in US].\nLooking at [the EIGHTEEN to TWENTY-FOUR age group] [heavy drinkers] SHOWS the HIGHEST value |\nat around [FIFTEEN percent] |\nwhile [non-drinkers] SHOWS about [TWENTY percent].\nSwitching to [the SIXTY-FIVE plus age group] [non-drinkers] LEADS this group |\nat around [FIFTY percent] |\nfollowed by [light drinkers] at about [THIRTY-five percent].\nIn CONCLUSION this chart PRESENTS |\nthe COMPARATIVE analysis between [drinking habits by age in US].",
       "phrases": [
         {
           "index": 0,
-          "text": "This [BAR chart]",
+          "text": "This [BAR chart] ILLUSTRATES information REGARDING [drinking habits by age in US]. Looking at [the EIGHTEEN to TWENTY-FOUR age group] [heavy drinkers] SHOWS the HIGHEST value",
           "startIndex": 0,
-          "endIndex": 16,
-          "estimatedDuration": 1285.7142857142858
+          "endIndex": 174,
+          "estimatedDuration": 11142.857142857143
         },
         {
           "index": 1,
-          "text": "PRESENTS statistical data",
-          "startIndex": 19,
-          "endIndex": 44,
-          "estimatedDuration": 1285.7142857142858
+          "text": "at around [FIFTEEN percent]",
+          "startIndex": 177,
+          "endIndex": 204,
+          "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 2,
-          "text": "COMPARING [drinking habits across age groups]. When EXAMINING [the EIGHTEEN to TWENTY-FOUR age group],",
-          "startIndex": 47,
-          "endIndex": 149,
-          "estimatedDuration": 6000
+          "text": "while [non-drinkers] SHOWS about [TWENTY percent]. Switching to [the SIXTY-FIVE plus age group] [non-drinkers] LEADS this group",
+          "startIndex": 207,
+          "endIndex": 334,
+          "estimatedDuration": 7285.714285714285
         },
         {
           "index": 3,
-          "text": "[heavy drinkers]",
-          "startIndex": 152,
-          "endIndex": 168,
-          "estimatedDuration": 857.1428571428571
+          "text": "at around [FIFTY percent]",
+          "startIndex": 337,
+          "endIndex": 362,
+          "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 4,
-          "text": "LEADS",
-          "startIndex": 171,
-          "endIndex": 176,
-          "estimatedDuration": 428.57142857142856
+          "text": "followed by [light drinkers] at about [THIRTY-five percent]. In CONCLUSION this chart PRESENTS",
+          "startIndex": 365,
+          "endIndex": 459,
+          "estimatedDuration": 5571.428571428572
         },
         {
           "index": 5,
-          "text": "at approximately [FIFTEEN percent]. Conversely,",
-          "startIndex": 179,
-          "endIndex": 226,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 6,
-          "text": "[non-drinkers]",
-          "startIndex": 229,
-          "endIndex": 243,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 7,
-          "text": "shows the LOWEST value",
-          "startIndex": 246,
-          "endIndex": 268,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 8,
-          "text": "at around [TWENTY percent]. SWITCHING to [the SIXTY-FIVE plus age group],",
-          "startIndex": 271,
-          "endIndex": 344,
-          "estimatedDuration": 4714.285714285715
-        },
-        {
-          "index": 9,
-          "text": "[non-drinkers]",
-          "startIndex": 347,
-          "endIndex": 361,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 10,
-          "text": "REPRESENTS the highest figure",
-          "startIndex": 364,
-          "endIndex": 393,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately [FIFTY percent]. Furthermore,",
-          "startIndex": 396,
-          "endIndex": 442,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 12,
-          "text": "[moderate drinkers]",
-          "startIndex": 445,
-          "endIndex": 464,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 13,
-          "text": "and [light drinkers]",
-          "startIndex": 467,
-          "endIndex": 487,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 14,
-          "text": "also DEMONSTRATE notable VALUES",
-          "startIndex": 490,
-          "endIndex": 521,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 15,
-          "text": "across BOTH categories. OVERALL,",
-          "startIndex": 524,
-          "endIndex": 556,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 16,
-          "text": "this data CLEARLY illustrates",
-          "startIndex": 559,
-          "endIndex": 588,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 17,
-          "text": "the COMPARATIVE analysis",
-          "startIndex": 591,
-          "endIndex": 615,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "between [drinking habits by age in US].",
-          "startIndex": 618,
-          "endIndex": 657,
-          "estimatedDuration": 3000
+          "text": "the COMPARATIVE analysis between [drinking habits by age in US].",
+          "startIndex": 462,
+          "endIndex": 526,
+          "estimatedDuration": 4285.714285714285
         }
       ],
-      "wordCount": 0,
-      "duration": 0,
+      "wordCount": 79,
+      "duration": 32,
       "category": "di-shadowing"
     },
     {
       "id": "di-image-19",
       "imageNumber": 19,
-      "title": "Pupil Teacher Ratio",
+      "title": "Pupil/Teacher Ratio in Primary Schools, January 1997",
       "template": "A",
-      "fullText": "This [BAR chart] | ILLUSTRATES information | REGARDING [pupil teacher ratio in primary schools].\n\nAt the TOP, | [the TWENTY-THREE to TWENTY-FOUR ratio] | DEMONSTRATES the HIGHEST value, | \nwhich is approximately [FIFTEEN percent].\n\nFollowing THAT, | [the TWENTY-TWO ratio] | SHOWS around [THIRTEEN percent], | \nrepresenting the SECOND-highest figure.\n\nConversely, | [the LESS than sixteen ratio] | INDICATES the LOWEST value | \nat approximately [TWO percent].\n\nAdditionally, | [NINETEEN] | and [TWENTY-ONE] | \nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA | \ndemonstrating CLEAR variations | in [pupil teacher ratio in primary schools].",
+      "fullText": "This [BAR chart] ILLUSTRATES information REGARDING [pupil teacher ratio in primary schools].\nAt the TOP [the TWENTY-THREE to TWENTY-FOUR ratio] SHOWS the HIGHEST value |\nof around [FIFTEEN percent].\nFollowing THAT [the TWENTY-TWO ratio] SHOWS about [THIRTEEN percent] |\nrepresenting the SECOND-highest figure.\nOn the other END [the LESS than sixteen ratio] SHOWS the LOWEST value |\nat around [TWO percent].\nWorth noting [NINETEEN] and [TWENTY-ONE] |\nalso contribute to the data ANALYSIS.\nIn CONCLUSION this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations in [pupil teacher ratio in primary schools].",
       "phrases": [
         {
           "index": 0,
-          "text": "This [BAR chart]",
+          "text": "This [BAR chart] ILLUSTRATES information REGARDING [pupil teacher ratio in primary schools]. At the TOP [the TWENTY-THREE to TWENTY-FOUR ratio] SHOWS the HIGHEST value",
           "startIndex": 0,
-          "endIndex": 16,
-          "estimatedDuration": 1285.7142857142858
+          "endIndex": 167,
+          "estimatedDuration": 10285.714285714286
         },
         {
           "index": 1,
-          "text": "ILLUSTRATES information",
-          "startIndex": 19,
-          "endIndex": 42,
-          "estimatedDuration": 857.1428571428571
+          "text": "of around [FIFTEEN percent]. Following THAT [the TWENTY-TWO ratio] SHOWS about [THIRTEEN percent]",
+          "startIndex": 170,
+          "endIndex": 267,
+          "estimatedDuration": 5571.428571428572
         },
         {
           "index": 2,
-          "text": "REGARDING [pupil teacher ratio in primary schools]. At the TOP,",
-          "startIndex": 45,
-          "endIndex": 108,
-          "estimatedDuration": 4285.714285714285
+          "text": "representing the SECOND-highest figure. On the other END [the LESS than sixteen ratio] SHOWS the LOWEST value",
+          "startIndex": 270,
+          "endIndex": 379,
+          "estimatedDuration": 7285.714285714285
         },
         {
           "index": 3,
-          "text": "[the TWENTY-THREE to TWENTY-FOUR ratio]",
-          "startIndex": 111,
-          "endIndex": 150,
-          "estimatedDuration": 2142.8571428571427
+          "text": "at around [TWO percent]. Worth noting [NINETEEN] and [TWENTY-ONE]",
+          "startIndex": 382,
+          "endIndex": 447,
+          "estimatedDuration": 3857.142857142857
         },
         {
           "index": 4,
-          "text": "DEMONSTRATES the HIGHEST value,",
-          "startIndex": 153,
-          "endIndex": 184,
-          "estimatedDuration": 1714.2857142857142
+          "text": "also contribute to the data ANALYSIS. In CONCLUSION this chart PRESENTS comprehensive DATA",
+          "startIndex": 450,
+          "endIndex": 540,
+          "estimatedDuration": 5571.428571428572
         },
         {
           "index": 5,
-          "text": "which is approximately [FIFTEEN percent]. Following THAT,",
-          "startIndex": 187,
-          "endIndex": 244,
-          "estimatedDuration": 3000
-        },
-        {
-          "index": 6,
-          "text": "[the TWENTY-TWO ratio]",
-          "startIndex": 247,
-          "endIndex": 269,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 7,
-          "text": "SHOWS around [THIRTEEN percent],",
-          "startIndex": 272,
-          "endIndex": 304,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 8,
-          "text": "representing the SECOND-highest figure. Conversely,",
-          "startIndex": 307,
-          "endIndex": 358,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 9,
-          "text": "[the LESS than sixteen ratio]",
-          "startIndex": 361,
-          "endIndex": 390,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 10,
-          "text": "INDICATES the LOWEST value",
-          "startIndex": 393,
-          "endIndex": 419,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately [TWO percent]. Additionally,",
-          "startIndex": 422,
-          "endIndex": 467,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 12,
-          "text": "[NINETEEN]",
-          "startIndex": 470,
-          "endIndex": 480,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 13,
-          "text": "and [TWENTY-ONE]",
-          "startIndex": 483,
-          "endIndex": 499,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 14,
-          "text": "also contribute SIGNIFICANTLY",
-          "startIndex": 502,
-          "endIndex": 531,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 15,
-          "text": "to the data ANALYSIS. In CONCLUSION,",
-          "startIndex": 534,
-          "endIndex": 570,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 16,
-          "text": "this chart PRESENTS comprehensive DATA",
-          "startIndex": 573,
-          "endIndex": 611,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 17,
-          "text": "demonstrating CLEAR variations",
-          "startIndex": 614,
-          "endIndex": 644,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "in [pupil teacher ratio in primary schools].",
-          "startIndex": 647,
-          "endIndex": 691,
-          "estimatedDuration": 3000
+          "text": "demonstrating CLEAR variations in [pupil teacher ratio in primary schools].",
+          "startIndex": 543,
+          "endIndex": 618,
+          "estimatedDuration": 4285.714285714285
         }
       ],
-      "wordCount": 0,
-      "duration": 0,
+      "wordCount": 91,
+      "duration": 36,
       "category": "di-shadowing"
     },
     {
       "id": "di-image-20",
       "imageNumber": 20,
-      "title": "Internet Population",
+      "title": "Internet Population in Millions of Users",
       "template": "A",
-      "fullText": "This [BAR chart] | ILLUSTRATES information | REGARDING [internet population in millions of users].\n\nAt the TOP, | [China] | DEMONSTRATES the HIGHEST value, | \nwhich is approximately [ONE hundred and EIGHTY million users].\n\nFollowing THAT, | [the United States] | SHOWS around [ONE hundred and SIXTY million users], | \nrepresenting the SECOND-highest figure.\n\nConversely, | [the Netherlands] | INDICATES the LOWEST value | \nat approximately [TEN million users].\n\nAdditionally, | [Japan] | and [Germany] | \nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA | \ndemonstrating CLEAR variations | in [internet population in millions of users].",
+      "fullText": "This [BAR chart] ILLUSTRATES information REGARDING [internet population in millions of users].\nAt the TOP [China] SHOWS the HIGHEST value |\nof around [ONE hundred and EIGHTY million users].\nFollowing THAT [the United States] SHOWS about [ONE hundred and SIXTY million users] |\nrepresenting the SECOND-highest figure.\nOn the other END [the Netherlands] SHOWS the LOWEST value |\nat around [TEN million users].\nWorth noting [Japan] and [Germany] |\nalso contribute to the data ANALYSIS.\nIn CONCLUSION this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations in [internet population in millions of users].",
       "phrases": [
         {
           "index": 0,
-          "text": "This [BAR chart]",
+          "text": "This [BAR chart] ILLUSTRATES information REGARDING [internet population in millions of users]. At the TOP [China] SHOWS the HIGHEST value",
           "startIndex": 0,
-          "endIndex": 16,
-          "estimatedDuration": 1285.7142857142858
+          "endIndex": 137,
+          "estimatedDuration": 8571.42857142857
         },
         {
           "index": 1,
-          "text": "ILLUSTRATES information",
-          "startIndex": 19,
-          "endIndex": 42,
-          "estimatedDuration": 857.1428571428571
+          "text": "of around [ONE hundred and EIGHTY million users]. Following THAT [the United States] SHOWS about [ONE hundred and SIXTY million users]",
+          "startIndex": 140,
+          "endIndex": 274,
+          "estimatedDuration": 9000
         },
         {
           "index": 2,
-          "text": "REGARDING [internet population in millions of users]. At the TOP,",
-          "startIndex": 45,
-          "endIndex": 110,
-          "estimatedDuration": 4285.714285714285
+          "text": "representing the SECOND-highest figure. On the other END [the Netherlands] SHOWS the LOWEST value",
+          "startIndex": 277,
+          "endIndex": 374,
+          "estimatedDuration": 6000
         },
         {
           "index": 3,
-          "text": "[China]",
-          "startIndex": 113,
-          "endIndex": 120,
-          "estimatedDuration": 428.57142857142856
+          "text": "at around [TEN million users]. Worth noting [Japan] and [Germany]",
+          "startIndex": 377,
+          "endIndex": 442,
+          "estimatedDuration": 4285.714285714285
         },
         {
           "index": 4,
-          "text": "DEMONSTRATES the HIGHEST value,",
-          "startIndex": 123,
-          "endIndex": 154,
-          "estimatedDuration": 1714.2857142857142
+          "text": "also contribute to the data ANALYSIS. In CONCLUSION this chart PRESENTS comprehensive DATA",
+          "startIndex": 445,
+          "endIndex": 535,
+          "estimatedDuration": 5571.428571428572
         },
         {
           "index": 5,
-          "text": "which is approximately [ONE hundred and EIGHTY million users]. Following THAT,",
-          "startIndex": 157,
-          "endIndex": 235,
-          "estimatedDuration": 4714.285714285715
-        },
-        {
-          "index": 6,
-          "text": "[the United States]",
-          "startIndex": 238,
-          "endIndex": 257,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 7,
-          "text": "SHOWS around [ONE hundred and SIXTY million users],",
-          "startIndex": 260,
-          "endIndex": 311,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 8,
-          "text": "representing the SECOND-highest figure. Conversely,",
-          "startIndex": 314,
-          "endIndex": 365,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 9,
-          "text": "[the Netherlands]",
-          "startIndex": 368,
-          "endIndex": 385,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 10,
-          "text": "INDICATES the LOWEST value",
-          "startIndex": 388,
-          "endIndex": 414,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately [TEN million users]. Additionally,",
-          "startIndex": 417,
-          "endIndex": 468,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 12,
-          "text": "[Japan]",
-          "startIndex": 471,
-          "endIndex": 478,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 13,
-          "text": "and [Germany]",
-          "startIndex": 481,
-          "endIndex": 494,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 14,
-          "text": "also contribute SIGNIFICANTLY",
-          "startIndex": 497,
-          "endIndex": 526,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 15,
-          "text": "to the data ANALYSIS. In CONCLUSION,",
-          "startIndex": 529,
-          "endIndex": 565,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 16,
-          "text": "this chart PRESENTS comprehensive DATA",
-          "startIndex": 568,
-          "endIndex": 606,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 17,
-          "text": "demonstrating CLEAR variations",
-          "startIndex": 609,
-          "endIndex": 639,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "in [internet population in millions of users].",
-          "startIndex": 642,
-          "endIndex": 688,
-          "estimatedDuration": 3000
+          "text": "demonstrating CLEAR variations in [internet population in millions of users].",
+          "startIndex": 538,
+          "endIndex": 615,
+          "estimatedDuration": 4285.714285714285
         }
       ],
-      "wordCount": 0,
-      "duration": 0,
+      "wordCount": 93,
+      "duration": 37,
       "category": "di-shadowing"
     }
   ]

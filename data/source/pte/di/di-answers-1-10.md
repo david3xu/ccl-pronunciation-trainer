@@ -1,261 +1,194 @@
-# DI Shadowing Practice: Images 1-10
+# DI IMAGE #1: Years to Double Population (#031001)
 
-**Purpose**: Complete DI answers for pronunciation shadowing practice
-**Total Answers**: 10
-**Source**: PTE Describe Image practice with template-based responses from raw files
-**Format**: [Brackets] denote variable content (Blue), ALL CAPS = stress words (Red), rest = template (Gray)
+This [LINE graph] ILLUSTRATES information REGARDING [years to double population].
 
----
+At the TOP [in SEVENTEEN hundred] SHOWS the HIGHEST value |
+of around [FIVE hundred and FORTY-four years].
 
-## IMAGE #1: Years to Double Population (#031001)
-**Template**: A (Single Category Data - Line Graph)
-**Duration**: 90 words, 38 seconds
-
-```
-This [LINE graph] | ILLUSTRATES information | REGARDING [years to double population].
-
-At the TOP, | [in SEVENTEEN hundred] | DEMONSTRATES the HIGHEST value, |
-which is approximately [FIVE hundred and FORTY-four years].
-
-Following THAT, | [in EIGHTEEN hundred] | SHOWS around [THREE hundred and NINETY-four years], |
+Following THAT [in EIGHTEEN hundred] SHOWS about [THREE hundred and NINETY-four years] |
 representing the SECOND-highest figure.
 
-Conversely, | [in TWO thousand and TWENTY] | INDICATES the LOWEST value |
-at approximately [SIXTY years].
+On the other END [in TWO thousand and TWENTY] SHOWS the LOWEST value |
+at around [SIXTY years].
 
-Additionally, | [NINETEEN hundred] | and [NINETEEN sixty] |
-also contribute SIGNIFICANTLY | to the data ANALYSIS.
+Worth noting [NINETEEN hundred] and [NINETEEN sixty] |
+also contribute to the data ANALYSIS.
 
-In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [years to double population].
-```
+In CONCLUSION this chart PRESENTS comprehensive DATA |
+demonstrating CLEAR variations in [years to double population].
 
 ---
 
-## IMAGE #2: Dubai Gold Sales in 2002 (#031002)
-**Template**: A (Single Category Data - Line Graph)
-**Duration**: 90 words, 38 seconds
+# DI IMAGE #2: Dubai Gold Sales in 2002 (#031002)
 
-```
-This [LINE graph] | ILLUSTRATES information | REGARDING [Dubai gold sales in TWO thousand and TWO].
+This [LINE graph] ILLUSTRATES information REGARDING [Dubai gold sales in TWO thousand and TWO].
 
-At the TOP, | [in MARCH] | DEMONSTRATES the HIGHEST value, |
-which is approximately [THREE hundred and FIFTY million dirhams].
+At the TOP [in MARCH] SHOWS the HIGHEST value |
+of around [THREE hundred and FIFTY million dirhams].
 
-Following THAT, | [in FEBRUARY] | SHOWS around [THREE hundred million dirhams], |
+Following THAT [in FEBRUARY] SHOWS about [THREE hundred million dirhams] |
 representing the SECOND-highest figure.
 
-Conversely, | [in SEPTEMBER] | INDICATES the LOWEST value |
-at approximately [ONE hundred million dirhams].
+On the other END [in SEPTEMBER] SHOWS the LOWEST value |
+at around [ONE hundred million dirhams].
 
-Additionally, | [JANUARY] | and [DECEMBER] |
-also contribute SIGNIFICANTLY | to the data ANALYSIS.
+Worth noting [JANUARY] and [DECEMBER] |
+also contribute to the data ANALYSIS.
 
-In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [Dubai gold sales].
-```
+In CONCLUSION this chart PRESENTS comprehensive DATA |
+demonstrating CLEAR variations in [Dubai gold sales].
 
 ---
 
-## IMAGE #3: Number of Arrests per Year (#031005)
-**Template**: A (Single Category Data - Line Graph)
-**Duration**: 90 words, 38 seconds
+# DI IMAGE #3: Number of Arrests per Year for Using Illegal Drugs (#031005)
 
-```
-This [LINE graph] | ILLUSTRATES information | REGARDING [arrests for using illegal drugs].
+This [LINE graph] ILLUSTRATES information REGARDING [arrests for using illegal drugs].
 
-At the TOP, | [in TWO thousand and ONE] | DEMONSTRATES the HIGHEST value, |
-which is approximately [SEVENTY arrests].
+At the TOP [in TWO thousand and ONE] SHOWS the HIGHEST value |
+of around [SEVENTY arrests].
 
-Following THAT, | [in NINETEEN ninety-seven] | SHOWS around [SIXTY arrests], |
+Following THAT [in NINETEEN ninety-seven] SHOWS about [SIXTY arrests] |
 representing the SECOND-highest figure.
 
-Conversely, | [in NINETEEN ninety-one] | INDICATES the LOWEST value |
-at approximately [TEN arrests].
+On the other END [in NINETEEN ninety-one] SHOWS the LOWEST value |
+at around [TEN arrests].
 
-Additionally, | [NINETEEN ninety-four] | and [TWO thousand and FIVE] |
-also contribute SIGNIFICANTLY | to the data ANALYSIS.
+Worth noting [NINETEEN ninety-four] and [TWO thousand and FIVE] |
+also contribute to the data ANALYSIS.
 
-In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [arrests for using illegal drugs].
-```
+In CONCLUSION this chart PRESENTS comprehensive DATA |
+demonstrating CLEAR variations in [arrests for using illegal drugs].
 
 ---
 
-## IMAGE #4: Jill's Secondary Math Scores (#031007)
-**Template**: A (Single Category Data - Line Graph)
-**Duration**: 90 words, 38 seconds
+# DI IMAGE #4: Jill's Secondary Math Scores (#031007)
 
-```
-This [LINE graph] | ILLUSTRATES information | REGARDING [Jill's secondary math scores].
+This [LINE graph] ILLUSTRATES information REGARDING [Jill's secondary math scores].
 
-At the TOP, | [in grade TWELVE] | DEMONSTRATES the HIGHEST value, |
-which is approximately [NINETY-one percent].
+At the TOP [in grade TWELVE] SHOWS the HIGHEST value |
+of around [NINETY-one percent].
 
-Following THAT, | [in grade ELEVEN] | SHOWS around [EIGHTY-three percent], |
+Following THAT [in grade ELEVEN] SHOWS about [EIGHTY-three percent] |
 representing the SECOND-highest figure.
 
-Conversely, | [in grade SEVEN] | INDICATES the LOWEST value |
-at approximately [SEVENTY-two percent].
+On the other END [in grade SEVEN] SHOWS the LOWEST value |
+at around [SEVENTY-two percent].
 
-Additionally, | [grade EIGHT] | and [grade NINE] |
-also contribute SIGNIFICANTLY | to the data ANALYSIS.
+Worth noting [grade EIGHT] and [grade NINE] |
+also contribute to the data ANALYSIS.
 
-In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [Jill's secondary math scores].
-```
+In CONCLUSION this chart PRESENTS comprehensive DATA |
+demonstrating CLEAR variations in [Jill's secondary math scores].
 
 ---
 
-## IMAGE #5: Number of Laws in Brazil (#031014)
-**Template**: A (Single Category Data - Line Graph)
-**Duration**: 90 words, 38 seconds
+# DI IMAGE #5: Number of Laws in Brazil 1953-1993 (#031014)
 
-```
-This [LINE graph] | ILLUSTRATES information | REGARDING [the number of laws in Brazil].
+This [LINE graph] ILLUSTRATES information REGARDING [the number of laws in Brazil].
 
-At the TOP, | [in NINETEEN ninety-three] | DEMONSTRATES the HIGHEST value, |
-which is approximately [TWO thousand TWO hundred laws].
+At the TOP [in NINETEEN ninety-three] SHOWS the HIGHEST value |
+of around [TWO thousand TWO hundred laws].
 
-Following THAT, | [in NINETEEN eighty-three] | SHOWS around [ONE thousand laws], |
+Following THAT [in NINETEEN eighty-three] SHOWS about [ONE thousand laws] |
 representing the SECOND-highest figure.
 
-Conversely, | [in NINETEEN fifty-three] | INDICATES the LOWEST value |
-at approximately [ONE hundred laws].
+On the other END [in NINETEEN fifty-three] SHOWS the LOWEST value |
+at around [ONE hundred laws].
 
-Additionally, | [NINETEEN sixty-three] | and [NINETEEN seventy-three] |
-also contribute SIGNIFICANTLY | to the data ANALYSIS.
+Worth noting [NINETEEN sixty-three] and [NINETEEN seventy-three] |
+also contribute to the data ANALYSIS.
 
-In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [the number of laws in Brazil].
-```
+In CONCLUSION this chart PRESENTS comprehensive DATA |
+demonstrating CLEAR variations in [the number of laws in Brazil].
 
 ---
 
-## IMAGE #6: S&P/ASX 200 (#031015)
-**Template**: A (Single Category Data - Line Graph)
-**Duration**: 90 words, 38 seconds
+# DI IMAGE #6: S&P/ASX 200 (#031015)
 
-```
-This [LINE graph] | ILLUSTRATES information | REGARDING [the S and P ASX TWO hundred index].
+This [LINE graph] ILLUSTRATES information REGARDING [the S and P ASX TWO hundred index].
 
-At the TOP, | [at TWELVE o'clock] | DEMONSTRATES the HIGHEST value, |
-which is approximately [THREE thousand FIVE hundred points].
+At the TOP [at TWELVE o'clock] SHOWS the HIGHEST value |
+of around [THREE thousand FIVE hundred points].
 
-Following THAT, | [at ELEVEN thirty] | SHOWS around [THREE thousand FOUR hundred ninety points], |
+Following THAT [at ELEVEN thirty] SHOWS about [THREE thousand FOUR hundred ninety points] |
 representing the SECOND-highest figure.
 
-Conversely, | [at TEN o'clock] | INDICATES the LOWEST value |
-at approximately [THREE thousand FOUR hundred sixty-eight points].
+On the other END [at TEN o'clock] SHOWS the LOWEST value |
+at around [THREE thousand FOUR hundred sixty-eight points].
 
-Additionally, | [ELEVEN o'clock] | and [ONE thirty] |
-also contribute SIGNIFICANTLY | to the data ANALYSIS.
+Worth noting [ELEVEN o'clock] and [ONE thirty] |
+also contribute to the data ANALYSIS.
 
-In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [the S and P ASX TWO hundred].
-```
-
----
-
-## IMAGE #7: Overseas Visitors to Three Areas (#031040)
-**Template**: B (Multiple Categories - Comparison)
-**Duration**: 92 words, 38 seconds
-
-```
-This [LINE graph] | COMPARES data | between [the coast, the mountains, and the lakes].
-
-When EXAMINING [the coast], | [in TWO thousand and SEVEN] | LEADS |
-at approximately [SEVENTY-five thousand visitors].
-
-Conversely, | [in NINETEEN eighty-seven] | shows the LOWEST value |
-at around [FORTY thousand visitors].
-
-SWITCHING to [the mountains], | [in TWO thousand and TWO] | REPRESENTS the highest figure |
-at approximately [SEVENTY-five thousand visitors].
-
-Furthermore, | [the lakes] | and [NINETEEN ninety-two] |
-also DEMONSTRATE notable VALUES | across BOTH categories.
-
-OVERALL, | this data CLEARLY illustrates |
-the COMPARATIVE analysis | between [the three different areas].
-```
+In CONCLUSION this chart PRESENTS comprehensive DATA |
+demonstrating CLEAR variations in [the S and P ASX TWO hundred].
 
 ---
 
-## IMAGE #8: Projected Population Australia (#031046)
-**Template**: B (Multiple Categories - Comparison)
-**Duration**: 92 words, 38 seconds
+# DI IMAGE #7: Overseas Visitors to Three Different Areas in a European Country 1987-2007 (#031040)
 
-```
-This [LINE graph] | COMPARES data | between [Series A, Series B, and Series C].
+This [LINE graph] ILLUSTRATES information REGARDING [overseas visitors to three different areas].
 
-When EXAMINING [Series A], | [in TWENTY-one oh-one] | LEADS |
-at approximately [SEVENTY million people].
+Looking at [the coast] [in TWO thousand and SEVEN] SHOWS the HIGHEST value |
+at around [SEVENTY-five thousand visitors] |
+while [in NINETEEN eighty-seven] SHOWS the LOWEST at about [FORTY thousand visitors].
 
-Conversely, | [in TWENTY oh-one] | shows the LOWEST value |
-at around [TWENTY million people].
+Switching to [the mountains] [in TWO thousand and TWO] LEADS this group |
+at around [SEVENTY-five thousand visitors] |
+followed by [the lakes] at about [SIXTY-five thousand visitors].
 
-SWITCHING to [Series B], | [in TWENTY-one oh-one] | REPRESENTS the highest figure |
-at approximately [FORTY-five million people].
-
-Furthermore, | [Series C] | and [TWENTY forty-one] |
-also DEMONSTRATE notable VALUES | across BOTH categories.
-
-OVERALL, | this data CLEARLY illustrates |
-the COMPARATIVE analysis | between [the projected population series].
-```
+In CONCLUSION this chart PRESENTS |
+the COMPARATIVE analysis between [the three different areas].
 
 ---
 
-## IMAGE #9: Annual Per Capita Meat Consumption (#031049)
-**Template**: B (Multiple Categories - Comparison)
-**Duration**: 92 words, 38 seconds
+# DI IMAGE #8: Projected Population in Australia (#031046)
 
-```
-This [LINE graph] | COMPARES data | between [USA, China, Liberia, Brazil, India, and Ethiopia].
+This [LINE graph] ILLUSTRATES information REGARDING [projected population in Australia].
 
-When EXAMINING [USA], | [in TWO thousand and NINE] | LEADS |
-at approximately [ONE hundred and THIRTY kilograms].
+Looking at [Series A] [in TWENTY-one oh-one] SHOWS the HIGHEST value |
+at around [SEVENTY million people] |
+while [in TWENTY oh-one] SHOWS the LOWEST at about [TWENTY million people].
 
-Conversely, | [in NINETEEN sixty-one] | shows the LOWEST value |
-at around [NINETY kilograms].
+Switching to [Series B] [in TWENTY-one oh-one] LEADS this group |
+at around [FORTY-five million people] |
+followed by [Series C] at about [THIRTY-five million people].
 
-SWITCHING to [India], | [in TWO thousand and NINE] | REPRESENTS the highest figure |
-at approximately [FIVE kilograms].
-
-Furthermore, | [Brazil] | and [Ethiopia] |
-also DEMONSTRATE notable VALUES | across BOTH categories.
-
-OVERALL, | this data CLEARLY illustrates |
-the COMPARATIVE analysis | between [annual per capita meat consumption].
-```
+In CONCLUSION this chart PRESENTS |
+the COMPARATIVE analysis between [the projected population series].
 
 ---
 
-## IMAGE #10: Australian Age Group (#031053)
-**Template**: B (Multiple Categories - Comparison)
-**Duration**: 92 words, 38 seconds
+# DI IMAGE #9: Annual per capita Meat Consumption (kg) (#031049)
 
-```
-This [BAR chart] | COMPARES data | between [males and females].
+This [LINE graph] ILLUSTRATES information REGARDING [annual per capita meat consumption].
 
-When EXAMINING [males], | [age group TWENTY-five to THIRTY-four] | LEADS |
-at approximately [SIXTEEN point TWO percent].
+Looking at [USA] [in TWO thousand and NINE] SHOWS the HIGHEST value |
+at around [ONE hundred and THIRTY kilograms] |
+while [in NINETEEN sixty-one] SHOWS about [NINETY kilograms].
 
-Conversely, | [age group EIGHTY-five plus] | shows the LOWEST value |
-at around [ZERO point SEVEN percent].
+Switching to [India] [in TWO thousand and NINE] LEADS this group |
+at around [FIVE kilograms] |
+followed by [Ethiopia] at about [TEN kilograms].
 
-SWITCHING to [females], | [age group TWENTY-five to THIRTY-four] | REPRESENTS the highest figure |
-at approximately [SIXTEEN point FIVE percent].
-
-Furthermore, | [age group FIFTEEN to TWENTY-four] | and [age group THIRTY-five to FORTY-four] |
-also DEMONSTRATE notable VALUES | across BOTH categories.
-
-OVERALL, | this data CLEARLY illustrates |
-the COMPARATIVE analysis | between [males and females by age group].
-```
+In CONCLUSION this chart PRESENTS |
+the COMPARATIVE analysis between [annual per capita meat consumption].
 
 ---
 
-**End of Dataset**
+# DI IMAGE #10: Australian Age Group (#031053)
+
+This [BAR chart] ILLUSTRATES information REGARDING [Australian age groups].
+
+Looking at [males] [age group TWENTY-five to THIRTY-four] SHOWS the HIGHEST value |
+at around [SIXTEEN point TWO percent] |
+while [age group EIGHTY-five plus] SHOWS the LOWEST at about [ZERO point SEVEN percent].
+
+Switching to [females] [age group TWENTY-five to THIRTY-four] LEADS this group |
+at around [SIXTEEN point FIVE percent] |
+followed by [age group FIFTEEN to TWENTY-four] at about [FOURTEEN percent].
+
+In CONCLUSION this chart PRESENTS |
+the COMPARATIVE analysis between [males and females by age group].
+
+---
 
