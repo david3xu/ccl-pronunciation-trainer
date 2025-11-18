@@ -1,0 +1,358 @@
+# PTE Academic Test Templates - Speaking & Writing
+
+## Usage Guidelines
+- Speak naturally with proper rhythm, pausing, and intonation
+- Avoid mechanical recitation - sound conversational
+- Fill templates with content from the actual test material
+- Prioritize pronunciation ease over complexity
+
+---
+
+## 1. DESCRIBE IMAGE Templates
+
+### Template A: Data Charts - Single Category (Bar/Line/Pie/Table/Map)
+**Transition Style: Comparison Flow**
+
+```
+This [chart type] shows information about [title].
+
+At the top, [largest item] has the highest number, which is around [max value].
+
+Coming in next, [second item] shows about [second value].
+
+On the other end, [smallest item] has the lowest at around [min value].
+
+Worth noting, both [other item 1] and [other item 2] carry weight here too.
+
+In summary, this chart presents real data about [title].
+```
+
+### Template B: Data Charts - Multiple Categories
+**Transition Style: Category Switching**
+
+```
+This [chart type] gives information about [title].
+
+When we check [category 1], [cat1 max item] leads at around [cat1 max value], while [cat1 min item] sits lowest at about [cat1 min value].
+
+Switching to [category 2], [cat2 max item] tops this group at around [cat2 max value].
+
+As for other data, [any item 1] and [any item 2] also play a role in this chart.
+
+Overall, the data compares different groups about [title].
+```
+
+### Template C: Flow Charts/Process Diagrams
+**Transition Style: Sequential Movement**
+
+```
+This flow chart shows the process of [title].
+
+Everything begins with [step 1] as the starting point.
+
+Moving forward, the next stage involves [step 2].
+
+Continuing on, [step 3] comes into play.
+
+To wrap things up, [last step] marks the final stage.
+
+In summary, these steps show how [title] works.
+```
+
+*For循环图: Replace last sentence with: "Once finished, everything loops back to the beginning."*
+
+### Template D: General Images/Photos
+**Transition Style: Spatial Exploration**
+
+```
+This picture shows information about [title].
+
+Right in [area 1/position 1], ___ stands out as the main focus.
+
+Just beside that, ___ and ___ add important context.
+
+If we shift to [area 2/position 2], ___ and ___ bring in more details.
+
+Scattered around, ___ and ___ fill out the scene as well.
+
+Overall, these elements work together to present [title].
+```
+
+### Template E: Maps/Geographic Images
+**Transition Style: Directional Guide**
+
+```
+This map gives details about [title].
+
+Starting from the top, [location 1] appears with [detail].
+
+Heading to the center, [location 2] shows up with [detail].
+
+Down at the bottom, [location 3] sits at around [detail].
+
+Looking at key spots, [feature 1] and [feature 2] mark important locations.
+
+In total, this map displays the layout of [title].
+```
+
+---
+
+## 2. RETELL LECTURE Template
+
+```
+This lecture mainly discusses [topic].
+
+First, the lecture starts by introducing [point] and [point].
+
+Second, [point] and [point] are mentioned, which connects to the topic.
+
+Third, the speaker gives many details about [point] and [point].
+
+Also, the lecture discusses [point] and [point] to support the main idea.
+
+Overall, the lecture covers the topic of [topic].
+```
+
+**Tips:**
+- Note down "phrases" not just single words
+- If you have complete sentences, paraphrase them
+- Each content sentence has 2 blanks - combine points with "and" if needed
+- Repeat points if you don't have enough content
+
+---
+
+## 3. SUMMARIZE GROUP DISCUSSION Template
+
+```
+The conversation involves three speakers discussing [topic].
+
+First, one main aspect discussed is [point].
+• Speaker 1 discusses [point] and [point], connected to [point] and [point].
+• Then, Speaker 2 agrees/disagrees, saying [point] and [point] relates to [point] and [point].
+• Next, Speaker 3 adds [point] and [point], contributing to [point] and [point].
+
+Following that, another key idea is [point].
+• Speaker 1 discusses [point] and [point], tied to [point] and [point].
+• Also, Speaker 2 agrees/disagrees, saying [point] and [point] matters for [point] and [point].
+• Also, Speaker 3 adds [point] and [point], leading to [point] and [point].
+
+Moreover, they discuss [point].
+• Speaker 1 discusses [point] and [point], related to [point] and [point].
+• Later, Speaker 2 agrees/disagrees, saying [point] and [point] is key for [point] and [point].
+• Later, Speaker 3 adds [point] and [point], referring to [point] and [point].
+```
+
+---
+
+## 4. RESPOND TO A SITUATION Template
+
+### Opening (1-2 sentences)
+**Known recipient:** Hi / Excuse me, [name].
+**Unknown recipient:** Hi, excuse me! / Hi, how are you?
+**Phone message:** Hi, this is [your name].
+
+*For formal contexts:* Hope I'm not interrupting! / May I have a moment?
+
+### Body (2-3 sentences)
+Paraphrase the situation in first person, add relevant details
+
+### Closing (1-2 sentences)
+
+**Making suggestions:**
+- Informal: I think it's a good idea if you/we can...
+- Formal: I suggest we consider...
+
+**Seeking advice:**
+- Informal: What do you think about...?
+- Formal: Could you provide some guidance on...?
+
+**Seeking help:**
+- Informal: Would you help me with...? Thanks so much!
+- Formal: Would it be possible for you/me to...? I'd appreciate your help.
+
+**Apologizing:**
+- Informal: Sorry about that!
+- Formal: I sincerely apologize for...
+
+**Thanking:**
+- Informal: Thank you for...!
+- Formal: I'm deeply grateful for your...
+
+---
+
+## 5. SUMMARIZE SPOKEN TEXT Template (50-70 words)
+
+### Full Template (28 words base)
+
+```
+The lecture discusses the topic of [topic]. First, the speaker mentioned that [key point]. Second, the lecturer showed that [key point]. In addition/However, the speaker emphasized that [key point]. Moreover, the talk highlighted that [key point].
+```
+
+### Simplified Template (12 words base)
+*For students who can capture more content*
+
+```
+The lecture discusses the topic of [topic]. First, [key point]. Second, [key point]. In addition/However, [key point]. Moreover, [key point].
+```
+
+**Note:** Must be written as one continuous paragraph (no line breaks)
+
+---
+
+## 6. SUMMARIZE WRITTEN TEXT Template (5-75 words)
+
+```
+______, [connector] _____, [connector] ______, [connector] ______, [connector] ______.
+```
+
+### Common Connectors:
+- **Parallel:** and
+- **Contrast:** but, whereas
+- **Concession:** although
+- **Cause:** because
+- **Result:** so
+- **Accompanying:** while
+- **Explanation:** which means
+
+**Tips:**
+- Select key sentences from each section
+- Focus on first/last sentences and logical markers
+- Paraphrase the original text
+- Use commas and connectors (only ONE period at the very end)
+- Must be one complete sentence within 5-75 words
+
+---
+
+## 7. WRITE ESSAY Templates (200-300 words)
+
+### Option A: Original Template (151 words base) - Safe for 65-79 score
+
+**Paragraph 1**
+```
+There is no doubt that the debate over [keywords] has drawn attention from the general public in the modern world.
+
+Personally speaking, I firmly believe that [your position], which will be supported by the following discussion.
+```
+
+**Paragraph 2**
+```
+First and foremost, when it comes to [keywords], the most important [reason/advantage/feature] is that [keywords] can potentially bring about [keywords].
+
+To be more specific, [keywords] will generate [keywords], which will consequently result in [keywords].
+
+For instance, according to the annual report of [source 1], at least 80% of [relevant subjects] have experienced [keywords] because of [keywords].
+```
+
+**Paragraph 3**
+```
+On the other hand, in terms of [keywords], another/one significant [reason/disadvantage/solution/feature] is that [keywords] can possibly cause [keywords].
+
+To illustrate, [keywords] can give rise to [keywords], thereby leading to [keywords].
+
+To take a recent study from [source 2] as an example, more than 60% of [relevant subjects] have faced [keywords] as a result of [keywords].
+```
+
+**Paragraph 4**
+```
+With all the points above, it can be concluded that [rephrase position], because [keywords] and [keywords] both play a vital role in this case.
+
+Therefore, it is of utmost importance that [relevant subjects] should devote [resources/time/efforts/energy/money] to this.
+```
+
+---
+
+### Option B: 90+ Optimized Template (155 words base) - For Advanced Scores
+
+**Paragraph 1**
+```
+In recent years, the topic of [keywords] has emerged as a prominent subject of public and academic discussion.
+
+I contend that [your position], and the following analysis presents the primary arguments supporting this viewpoint.
+```
+
+**Paragraph 2**
+```
+To begin with, one compelling [reason/advantage/feature] of [keywords] is its potential to facilitate [keywords].
+
+In particular, [keywords] can foster [keywords], ultimately leading to broader outcomes such as [keywords].
+
+For instance, evidence from [source 1] reveals that approximately 80% of [relevant subjects] experienced [keywords] as a direct result of [keywords].
+```
+
+**Paragraph 3**
+```
+However, it is equally important to acknowledge that [keywords] may also give rise to certain challenges.
+
+This is largely because [keywords] are likely to generate [keywords], which may subsequently cause [keywords].
+
+According to research by [source 2], over 60% of [relevant subjects] have been affected by [keywords] stemming from [keywords].
+```
+
+**Paragraph 4**
+```
+Taken together, these considerations demonstrate that [rephrase position], as the influence of [keywords] and [keywords] is substantial and far-reaching.
+
+Thus, it is imperative for [relevant subjects] to dedicate adequate [resources/time/efforts/energy/money] to managing this issue effectively.
+```
+
+**Why Option B scores 90+:**
+- ✅ Advanced vocabulary (contend, facilitate, foster, imperative, substantial)
+- ✅ Complex grammar structures correctly used
+- ✅ "However" connector works for ALL essay types (universal)
+- ✅ Clear logical flow: advantage → disadvantage structure
+- ✅ Academic C1-C2 level writing
+- ✅ All 7 PTE criteria optimized
+
+---
+
+### Option C: Sentence Template (69 words base) - For flexible writing
+
+**Paragraph 1**
+```
+There is no doubt that [paraphrase the topic/phenomenon from prompt].
+
+Personally speaking, I firmly believe that [your position], which will be supported by the following discussion.
+```
+
+**Paragraph 2**
+```
+First and foremost, the most important [reason/advantage/feature] is that [point 1].
+
+To be more specific, [elaborate on point 1].
+
+For instance, according to [source 1], [example supporting point 1].
+```
+
+**Paragraph 3**
+```
+On the other hand, another/one significant [reason/disadvantage/solution/feature] is that [point 2].
+
+To illustrate, [elaborate on point 2].
+
+To take [source 2] as an example, [example supporting point 2].
+```
+
+**Paragraph 4**
+```
+With all the points above, it can be concluded that [rephrase position], because [rephrase point 1] and [rephrase point 2].
+
+Therefore, it is of utmost importance that [provide recommendation].
+```
+
+---
+
+## Key Reminders for Speaking Sections
+
+1. **Natural delivery is crucial** - avoid robotic memorization
+2. **Easy pronunciation** - choose words you can say confidently
+3. **Logical flow** - ensure your content makes sense
+4. **Time management** - fill templates appropriately for the time limit
+5. **First-person perspective** - especially for "Respond to a Situation"
+
+## Key Reminders for Writing Sections
+
+1. **Grammar accuracy** - simple sentences are fine
+2. **Word count** - always verify you're within limits
+3. **Paraphrasing** - don't copy directly from prompts
+4. **Logical connectors** - use appropriate linking words
+5. **Complete sentences** - especially for SWT (one sentence only)
