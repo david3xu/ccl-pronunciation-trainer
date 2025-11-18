@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-11-18T08:01:06.676Z",
+    "generated": "2025-11-18T09:06:29.786Z",
     "totalAnswers": 10,
     "source": "di-answers",
     "description": "DI complete answers (Images 1-10) for shadowing practice with phrase-by-phrase breakdown",
@@ -14,7 +14,7 @@
       "imageNumber": 1,
       "title": "Years to Double Population",
       "template": "A",
-      "fullText": "This [LINE graph] | ILLUSTRATES information | REGARDING [years to DOUBLE population].\n\nAt the TOP, | [in SEVENTEEN hundred] | DEMONSTRATES the HIGHEST value, |\nwhich is approximately [SIX hundred years].\n\nFollowing THAT, | [in EIGHTEEN hundred] | SHOWS around [THREE hundred years], |\nrepresenting the SECOND-highest figure.\n\nConversely, | [in TWO thousand] | INDICATES the LOWEST value |\nat approximately [FORTY-seven years].\n\nAdditionally, | [NINETEEN hundred] | and [NINETEEN fifty] |\nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations | in [population DOUBLING time].",
+      "fullText": "This [LINE graph] | ILLUSTRATES information | REGARDING [years to double population].\n\nAt the TOP, | [in SEVENTEEN hundred] | DEMONSTRATES the HIGHEST value, |\nwhich is approximately [FIVE hundred and FORTY-four years].\n\nFollowing THAT, | [in EIGHTEEN hundred] | SHOWS around [THREE hundred and NINETY-four years], |\nrepresenting the SECOND-highest figure.\n\nConversely, | [in TWO thousand and TWENTY] | INDICATES the LOWEST value |\nat approximately [SIXTY years].\n\nAdditionally, | [NINETEEN hundred] | and [NINETEEN sixty] |\nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations | in [population growth rates].",
       "phrases": [
         {
           "index": 0,
@@ -32,7 +32,7 @@
         },
         {
           "index": 2,
-          "text": "REGARDING [years to DOUBLE population]. At the TOP,",
+          "text": "REGARDING [years to double population]. At the TOP,",
           "startIndex": 46,
           "endIndex": 97,
           "estimatedDuration": 3428.5714285714284
@@ -53,100 +53,100 @@
         },
         {
           "index": 5,
-          "text": "which is approximately [SIX hundred years]. Following THAT,",
+          "text": "which is approximately [FIVE hundred and FORTY-four years]. Following THAT,",
           "startIndex": 159,
-          "endIndex": 218,
-          "estimatedDuration": 3428.5714285714284
+          "endIndex": 234,
+          "estimatedDuration": 4285.714285714285
         },
         {
           "index": 6,
           "text": "[in EIGHTEEN hundred]",
-          "startIndex": 221,
-          "endIndex": 242,
+          "startIndex": 237,
+          "endIndex": 258,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 7,
-          "text": "SHOWS around [THREE hundred years],",
-          "startIndex": 245,
-          "endIndex": 280,
-          "estimatedDuration": 2142.8571428571427
+          "text": "SHOWS around [THREE hundred and NINETY-four years],",
+          "startIndex": 261,
+          "endIndex": 312,
+          "estimatedDuration": 3000
         },
         {
           "index": 8,
           "text": "representing the SECOND-highest figure. Conversely,",
-          "startIndex": 283,
-          "endIndex": 334,
+          "startIndex": 315,
+          "endIndex": 366,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 9,
-          "text": "[in TWO thousand]",
-          "startIndex": 337,
-          "endIndex": 354,
-          "estimatedDuration": 1285.7142857142858
+          "text": "[in TWO thousand and TWENTY]",
+          "startIndex": 369,
+          "endIndex": 397,
+          "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 10,
           "text": "INDICATES the LOWEST value",
-          "startIndex": 357,
-          "endIndex": 383,
+          "startIndex": 400,
+          "endIndex": 426,
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 11,
-          "text": "at approximately [FORTY-seven years]. Additionally,",
-          "startIndex": 386,
-          "endIndex": 437,
+          "text": "at approximately [SIXTY years]. Additionally,",
+          "startIndex": 429,
+          "endIndex": 474,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 12,
           "text": "[NINETEEN hundred]",
-          "startIndex": 440,
-          "endIndex": 458,
+          "startIndex": 477,
+          "endIndex": 495,
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 13,
-          "text": "and [NINETEEN fifty]",
-          "startIndex": 461,
-          "endIndex": 481,
+          "text": "and [NINETEEN sixty]",
+          "startIndex": 498,
+          "endIndex": 518,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 14,
           "text": "also contribute SIGNIFICANTLY",
-          "startIndex": 484,
-          "endIndex": 513,
+          "startIndex": 521,
+          "endIndex": 550,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 15,
           "text": "to the data ANALYSIS. In CONCLUSION,",
-          "startIndex": 516,
-          "endIndex": 552,
+          "startIndex": 553,
+          "endIndex": 589,
           "estimatedDuration": 2571.4285714285716
         },
         {
           "index": 16,
           "text": "this chart PRESENTS comprehensive DATA",
-          "startIndex": 555,
-          "endIndex": 593,
+          "startIndex": 592,
+          "endIndex": 630,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 17,
           "text": "demonstrating CLEAR variations",
-          "startIndex": 596,
-          "endIndex": 626,
+          "startIndex": 633,
+          "endIndex": 663,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 18,
-          "text": "in [population DOUBLING time].",
-          "startIndex": 629,
-          "endIndex": 659,
+          "text": "in [population growth rates].",
+          "startIndex": 666,
+          "endIndex": 695,
           "estimatedDuration": 1714.2857142857142
         }
       ],
@@ -159,7 +159,7 @@
       "imageNumber": 2,
       "title": "Dubai Gold Sales in 2002",
       "template": "A",
-      "fullText": "This [LINE graph] | ILLUSTRATES information | REGARDING [Dubai Gold Sales in TWO thousand and TWO].\n\nAt the TOP, | [in MARCH] | DEMONSTRATES the HIGHEST value, |\nwhich is approximately [THREE hundred and FIFTY million dirhams].\n\nFollowing THAT, | [in JULY] | SHOWS around [ONE hundred and FIFTY million dirhams], |\nrepresenting the SECOND-highest figure.\n\nConversely, | [in SEPTEMBER] | INDICATES the LOWEST value |\nat approximately [ONE hundred million dirhams].\n\nAdditionally, | [JANUARY] | and [DECEMBER] |\nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations | in [gold sales].",
+      "fullText": "This [LINE graph] | ILLUSTRATES information | REGARDING [Dubai gold sales in TWO thousand and TWO].\n\nAt the TOP, | [in MARCH] | DEMONSTRATES the HIGHEST value, |\nwhich is approximately [THREE hundred and FIFTY million dirhams].\n\nFollowing THAT, | [in FEBRUARY] | SHOWS around [THREE hundred million dirhams], |\nrepresenting the SECOND-highest figure.\n\nConversely, | [in SEPTEMBER] | INDICATES the LOWEST value |\nat approximately [ONE hundred million dirhams].\n\nAdditionally, | [JANUARY] | and [DECEMBER] |\nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations | in [gold sales].",
       "phrases": [
         {
           "index": 0,
@@ -177,7 +177,7 @@
         },
         {
           "index": 2,
-          "text": "REGARDING [Dubai Gold Sales in TWO thousand and TWO]. At the TOP,",
+          "text": "REGARDING [Dubai gold sales in TWO thousand and TWO]. At the TOP,",
           "startIndex": 46,
           "endIndex": 111,
           "estimatedDuration": 5142.857142857143
@@ -205,93 +205,93 @@
         },
         {
           "index": 6,
-          "text": "[in JULY]",
+          "text": "[in FEBRUARY]",
           "startIndex": 245,
-          "endIndex": 254,
+          "endIndex": 258,
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 7,
-          "text": "SHOWS around [ONE hundred and FIFTY million dirhams],",
-          "startIndex": 257,
-          "endIndex": 310,
-          "estimatedDuration": 3428.5714285714284
+          "text": "SHOWS around [THREE hundred million dirhams],",
+          "startIndex": 261,
+          "endIndex": 306,
+          "estimatedDuration": 2571.4285714285716
         },
         {
           "index": 8,
           "text": "representing the SECOND-highest figure. Conversely,",
-          "startIndex": 313,
-          "endIndex": 364,
+          "startIndex": 309,
+          "endIndex": 360,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 9,
           "text": "[in SEPTEMBER]",
-          "startIndex": 367,
-          "endIndex": 381,
+          "startIndex": 363,
+          "endIndex": 377,
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 10,
           "text": "INDICATES the LOWEST value",
-          "startIndex": 384,
-          "endIndex": 410,
+          "startIndex": 380,
+          "endIndex": 406,
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 11,
           "text": "at approximately [ONE hundred million dirhams]. Additionally,",
-          "startIndex": 413,
-          "endIndex": 474,
+          "startIndex": 409,
+          "endIndex": 470,
           "estimatedDuration": 3000
         },
         {
           "index": 12,
           "text": "[JANUARY]",
-          "startIndex": 477,
-          "endIndex": 486,
+          "startIndex": 473,
+          "endIndex": 482,
           "estimatedDuration": 428.57142857142856
         },
         {
           "index": 13,
           "text": "and [DECEMBER]",
-          "startIndex": 489,
-          "endIndex": 503,
+          "startIndex": 485,
+          "endIndex": 499,
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 14,
           "text": "also contribute SIGNIFICANTLY",
-          "startIndex": 506,
-          "endIndex": 535,
+          "startIndex": 502,
+          "endIndex": 531,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 15,
           "text": "to the data ANALYSIS. In CONCLUSION,",
-          "startIndex": 538,
-          "endIndex": 574,
+          "startIndex": 534,
+          "endIndex": 570,
           "estimatedDuration": 2571.4285714285716
         },
         {
           "index": 16,
           "text": "this chart PRESENTS comprehensive DATA",
-          "startIndex": 577,
-          "endIndex": 615,
+          "startIndex": 573,
+          "endIndex": 611,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 17,
           "text": "demonstrating CLEAR variations",
-          "startIndex": 618,
-          "endIndex": 648,
+          "startIndex": 614,
+          "endIndex": 644,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 18,
           "text": "in [gold sales].",
-          "startIndex": 651,
-          "endIndex": 667,
+          "startIndex": 647,
+          "endIndex": 663,
           "estimatedDuration": 1285.7142857142858
         }
       ],
@@ -302,141 +302,141 @@
     {
       "id": "di-image-3",
       "imageNumber": 3,
-      "title": "UK University Funding",
+      "title": "Number of Arrests per Year",
       "template": "A",
-      "fullText": "This [BAR chart] | ILLUSTRATES information | REGARDING [UK university funding].\n\nAt the TOP, | [TWO thousand and EIGHT] | DEMONSTRATES the HIGHEST value, |\nwhich is approximately [THIRTY-five billion pounds].\n\nFollowing THAT, | [TWO thousand and SIX] | SHOWS around [THIRTY billion pounds], |\nrepresenting the SECOND-highest figure.\n\nConversely, | [NINETEEN ninety-five] | INDICATES the LOWEST value |\nat approximately [EIGHTEEN billion pounds].\n\nAdditionally, | [TWO thousand] | and [TWO thousand and FOUR] |\nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations | in [university funding].",
+      "fullText": "This [LINE graph] | ILLUSTRATES information | REGARDING [arrests for using illegal drugs].\n\nAt the TOP, | [in TWO thousand and ONE] | DEMONSTRATES the HIGHEST value, |\nwhich is approximately [SEVENTY arrests].\n\nFollowing THAT, | [in NINETEEN ninety-seven] | SHOWS around [SIXTY arrests], |\nrepresenting the SECOND-highest figure.\n\nConversely, | [in NINETEEN ninety-one] | INDICATES the LOWEST value |\nat approximately [TEN arrests].\n\nAdditionally, | [NINETEEN ninety-four] | and [TWO thousand and FIVE] |\nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations | in [arrest patterns].",
       "phrases": [
         {
           "index": 0,
-          "text": "This [BAR chart]",
+          "text": "This [LINE graph]",
           "startIndex": 0,
-          "endIndex": 16,
+          "endIndex": 17,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 1,
           "text": "ILLUSTRATES information",
-          "startIndex": 19,
-          "endIndex": 42,
+          "startIndex": 20,
+          "endIndex": 43,
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 2,
-          "text": "REGARDING [UK university funding]. At the TOP,",
-          "startIndex": 45,
-          "endIndex": 91,
-          "estimatedDuration": 3000
+          "text": "REGARDING [arrests for using illegal drugs]. At the TOP,",
+          "startIndex": 46,
+          "endIndex": 102,
+          "estimatedDuration": 3857.142857142857
         },
         {
           "index": 3,
-          "text": "[TWO thousand and EIGHT]",
-          "startIndex": 94,
-          "endIndex": 118,
-          "estimatedDuration": 1714.2857142857142
+          "text": "[in TWO thousand and ONE]",
+          "startIndex": 105,
+          "endIndex": 130,
+          "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 4,
           "text": "DEMONSTRATES the HIGHEST value,",
-          "startIndex": 121,
-          "endIndex": 152,
+          "startIndex": 133,
+          "endIndex": 164,
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 5,
-          "text": "which is approximately [THIRTY-five billion pounds]. Following THAT,",
-          "startIndex": 155,
-          "endIndex": 223,
-          "estimatedDuration": 3428.5714285714284
+          "text": "which is approximately [SEVENTY arrests]. Following THAT,",
+          "startIndex": 167,
+          "endIndex": 224,
+          "estimatedDuration": 3000
         },
         {
           "index": 6,
-          "text": "[TWO thousand and SIX]",
-          "startIndex": 226,
-          "endIndex": 248,
-          "estimatedDuration": 1714.2857142857142
+          "text": "[in NINETEEN ninety-seven]",
+          "startIndex": 227,
+          "endIndex": 253,
+          "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 7,
-          "text": "SHOWS around [THIRTY billion pounds],",
-          "startIndex": 251,
-          "endIndex": 288,
-          "estimatedDuration": 2142.8571428571427
+          "text": "SHOWS around [SIXTY arrests],",
+          "startIndex": 256,
+          "endIndex": 285,
+          "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 8,
           "text": "representing the SECOND-highest figure. Conversely,",
-          "startIndex": 291,
-          "endIndex": 342,
+          "startIndex": 288,
+          "endIndex": 339,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 9,
-          "text": "[NINETEEN ninety-five]",
-          "startIndex": 345,
-          "endIndex": 367,
-          "estimatedDuration": 857.1428571428571
+          "text": "[in NINETEEN ninety-one]",
+          "startIndex": 342,
+          "endIndex": 366,
+          "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 10,
           "text": "INDICATES the LOWEST value",
-          "startIndex": 370,
-          "endIndex": 396,
+          "startIndex": 369,
+          "endIndex": 395,
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 11,
-          "text": "at approximately [EIGHTEEN billion pounds]. Additionally,",
-          "startIndex": 399,
-          "endIndex": 456,
-          "estimatedDuration": 2571.4285714285716
+          "text": "at approximately [TEN arrests]. Additionally,",
+          "startIndex": 398,
+          "endIndex": 443,
+          "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 12,
-          "text": "[TWO thousand]",
-          "startIndex": 459,
-          "endIndex": 473,
+          "text": "[NINETEEN ninety-four]",
+          "startIndex": 446,
+          "endIndex": 468,
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 13,
-          "text": "and [TWO thousand and FOUR]",
-          "startIndex": 476,
-          "endIndex": 503,
+          "text": "and [TWO thousand and FIVE]",
+          "startIndex": 471,
+          "endIndex": 498,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 14,
           "text": "also contribute SIGNIFICANTLY",
-          "startIndex": 506,
-          "endIndex": 535,
+          "startIndex": 501,
+          "endIndex": 530,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 15,
           "text": "to the data ANALYSIS. In CONCLUSION,",
-          "startIndex": 538,
-          "endIndex": 574,
+          "startIndex": 533,
+          "endIndex": 569,
           "estimatedDuration": 2571.4285714285716
         },
         {
           "index": 16,
           "text": "this chart PRESENTS comprehensive DATA",
-          "startIndex": 577,
-          "endIndex": 615,
+          "startIndex": 572,
+          "endIndex": 610,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 17,
           "text": "demonstrating CLEAR variations",
-          "startIndex": 618,
-          "endIndex": 648,
+          "startIndex": 613,
+          "endIndex": 643,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 18,
-          "text": "in [university funding].",
-          "startIndex": 651,
-          "endIndex": 675,
+          "text": "in [arrest patterns].",
+          "startIndex": 646,
+          "endIndex": 667,
           "estimatedDuration": 1285.7142857142858
         }
       ],
@@ -447,9 +447,9 @@
     {
       "id": "di-image-4",
       "imageNumber": 4,
-      "title": "Australians Completing High School",
+      "title": "Jill's Secondary Math Scores",
       "template": "A",
-      "fullText": "This [LINE graph] | ILLUSTRATES information | REGARDING [Australians completing high school].\n\nAt the TOP, | [in TWO thousand and EIGHT] | DEMONSTRATES the HIGHEST value, |\nwhich is approximately [EIGHTY-five percent].\n\nFollowing THAT, | [in TWO thousand and FOUR] | SHOWS around [SEVENTY-eight percent], |\nrepresenting the SECOND-highest figure.\n\nConversely, | [in NINETEEN eighty-five] | INDICATES the LOWEST value |\nat approximately [THIRTY-eight percent].\n\nAdditionally, | [NINETEEN ninety-five] | and [TWO thousand] |\nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations | in [high school completion rates].",
+      "fullText": "This [LINE graph] | ILLUSTRATES information | REGARDING [Jill's secondary math scores].\n\nAt the TOP, | [in grade TWELVE] | DEMONSTRATES the HIGHEST value, |\nwhich is approximately [NINETY-one percent].\n\nFollowing THAT, | [in grade ELEVEN] | SHOWS around [EIGHTY-three percent], |\nrepresenting the SECOND-highest figure.\n\nConversely, | [in grade SEVEN] | INDICATES the LOWEST value |\nat approximately [SEVENTY-two percent].\n\nAdditionally, | [grade EIGHT] | and [grade NINE] |\nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations | in [academic performance].",
       "phrases": [
         {
           "index": 0,
@@ -467,122 +467,122 @@
         },
         {
           "index": 2,
-          "text": "REGARDING [Australians completing high school]. At the TOP,",
+          "text": "REGARDING [Jill's secondary math scores]. At the TOP,",
           "startIndex": 46,
-          "endIndex": 105,
+          "endIndex": 99,
           "estimatedDuration": 3428.5714285714284
         },
         {
           "index": 3,
-          "text": "[in TWO thousand and EIGHT]",
-          "startIndex": 108,
-          "endIndex": 135,
-          "estimatedDuration": 2142.8571428571427
+          "text": "[in grade TWELVE]",
+          "startIndex": 102,
+          "endIndex": 119,
+          "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 4,
           "text": "DEMONSTRATES the HIGHEST value,",
-          "startIndex": 138,
-          "endIndex": 169,
+          "startIndex": 122,
+          "endIndex": 153,
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 5,
-          "text": "which is approximately [EIGHTY-five percent]. Following THAT,",
-          "startIndex": 172,
-          "endIndex": 233,
+          "text": "which is approximately [NINETY-one percent]. Following THAT,",
+          "startIndex": 156,
+          "endIndex": 216,
           "estimatedDuration": 3000
         },
         {
           "index": 6,
-          "text": "[in TWO thousand and FOUR]",
-          "startIndex": 236,
-          "endIndex": 262,
-          "estimatedDuration": 2142.8571428571427
+          "text": "[in grade ELEVEN]",
+          "startIndex": 219,
+          "endIndex": 236,
+          "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 7,
-          "text": "SHOWS around [SEVENTY-eight percent],",
-          "startIndex": 265,
-          "endIndex": 302,
+          "text": "SHOWS around [EIGHTY-three percent],",
+          "startIndex": 239,
+          "endIndex": 275,
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 8,
           "text": "representing the SECOND-highest figure. Conversely,",
-          "startIndex": 305,
-          "endIndex": 356,
+          "startIndex": 278,
+          "endIndex": 329,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 9,
-          "text": "[in NINETEEN eighty-five]",
-          "startIndex": 359,
-          "endIndex": 384,
+          "text": "[in grade SEVEN]",
+          "startIndex": 332,
+          "endIndex": 348,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 10,
           "text": "INDICATES the LOWEST value",
-          "startIndex": 387,
-          "endIndex": 413,
+          "startIndex": 351,
+          "endIndex": 377,
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 11,
-          "text": "at approximately [THIRTY-eight percent]. Additionally,",
-          "startIndex": 416,
-          "endIndex": 470,
+          "text": "at approximately [SEVENTY-two percent]. Additionally,",
+          "startIndex": 380,
+          "endIndex": 433,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 12,
-          "text": "[NINETEEN ninety-five]",
-          "startIndex": 473,
-          "endIndex": 495,
+          "text": "[grade EIGHT]",
+          "startIndex": 436,
+          "endIndex": 449,
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 13,
-          "text": "and [TWO thousand]",
-          "startIndex": 498,
-          "endIndex": 516,
+          "text": "and [grade NINE]",
+          "startIndex": 452,
+          "endIndex": 468,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 14,
           "text": "also contribute SIGNIFICANTLY",
-          "startIndex": 519,
-          "endIndex": 548,
+          "startIndex": 471,
+          "endIndex": 500,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 15,
           "text": "to the data ANALYSIS. In CONCLUSION,",
-          "startIndex": 551,
-          "endIndex": 587,
+          "startIndex": 503,
+          "endIndex": 539,
           "estimatedDuration": 2571.4285714285716
         },
         {
           "index": 16,
           "text": "this chart PRESENTS comprehensive DATA",
-          "startIndex": 590,
-          "endIndex": 628,
+          "startIndex": 542,
+          "endIndex": 580,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 17,
           "text": "demonstrating CLEAR variations",
-          "startIndex": 631,
-          "endIndex": 661,
+          "startIndex": 583,
+          "endIndex": 613,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 18,
-          "text": "in [high school completion rates].",
-          "startIndex": 664,
-          "endIndex": 698,
-          "estimatedDuration": 2142.8571428571427
+          "text": "in [academic performance].",
+          "startIndex": 616,
+          "endIndex": 642,
+          "estimatedDuration": 1285.7142857142858
         }
       ],
       "wordCount": 0,
@@ -592,154 +592,9 @@
     {
       "id": "di-image-5",
       "imageNumber": 5,
-      "title": "Average Monthly Temperatures in Two Cities",
+      "title": "Number of Laws in Brazil",
       "template": "A",
-      "fullText": "This [LINE graph] | PRESENTS statistical data | COMPARING [average monthly temperatures] in [TWO cities].\n\nWhen EXAMINING [City A], | [the JULY period] | LEADS |\nat approximately [THIRTY degrees Celsius].\n\nConversely, | [the JANUARY period] | shows the LOWEST value |\nat around [FIVE degrees Celsius].\n\nSWITCHING to [City B], | [the JULY period] | REPRESENTS the highest figure |\nat approximately [TWENTY-eight degrees Celsius].\n\nFurthermore, | [APRIL] | and [OCTOBER] |\nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates |\nthe COMPARATIVE analysis | between [the TWO cities' temperatures].",
-      "phrases": [
-        {
-          "index": 0,
-          "text": "This [LINE graph]",
-          "startIndex": 0,
-          "endIndex": 17,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 1,
-          "text": "PRESENTS statistical data",
-          "startIndex": 20,
-          "endIndex": 45,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 2,
-          "text": "COMPARING [average monthly temperatures] in [TWO cities]. When EXAMINING [City A],",
-          "startIndex": 48,
-          "endIndex": 130,
-          "estimatedDuration": 4714.285714285715
-        },
-        {
-          "index": 3,
-          "text": "[the JULY period]",
-          "startIndex": 133,
-          "endIndex": 150,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 4,
-          "text": "LEADS",
-          "startIndex": 153,
-          "endIndex": 158,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 5,
-          "text": "at approximately [THIRTY degrees Celsius]. Conversely,",
-          "startIndex": 161,
-          "endIndex": 215,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 6,
-          "text": "[the JANUARY period]",
-          "startIndex": 218,
-          "endIndex": 238,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 7,
-          "text": "shows the LOWEST value",
-          "startIndex": 241,
-          "endIndex": 263,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 8,
-          "text": "at around [FIVE degrees Celsius]. SWITCHING to [City B],",
-          "startIndex": 266,
-          "endIndex": 322,
-          "estimatedDuration": 3857.142857142857
-        },
-        {
-          "index": 9,
-          "text": "[the JULY period]",
-          "startIndex": 325,
-          "endIndex": 342,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 10,
-          "text": "REPRESENTS the highest figure",
-          "startIndex": 345,
-          "endIndex": 374,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately [TWENTY-eight degrees Celsius]. Furthermore,",
-          "startIndex": 377,
-          "endIndex": 438,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 12,
-          "text": "[APRIL]",
-          "startIndex": 441,
-          "endIndex": 448,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 13,
-          "text": "and [OCTOBER]",
-          "startIndex": 451,
-          "endIndex": 464,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 14,
-          "text": "also DEMONSTRATE notable VALUES",
-          "startIndex": 467,
-          "endIndex": 498,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 15,
-          "text": "across BOTH categories. OVERALL,",
-          "startIndex": 501,
-          "endIndex": 533,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 16,
-          "text": "this data CLEARLY illustrates",
-          "startIndex": 536,
-          "endIndex": 565,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 17,
-          "text": "the COMPARATIVE analysis",
-          "startIndex": 568,
-          "endIndex": 592,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "between [the TWO cities' temperatures].",
-          "startIndex": 595,
-          "endIndex": 634,
-          "estimatedDuration": 2142.8571428571427
-        }
-      ],
-      "wordCount": 0,
-      "duration": 0,
-      "category": "di-shadowing"
-    },
-    {
-      "id": "di-image-6",
-      "imageNumber": 6,
-      "title": "Global Internet Users 1995-2010",
-      "template": "A",
-      "fullText": "This [LINE graph] | ILLUSTRATES information | REGARDING [global Internet users from NINETEEN ninety-five to TWO thousand and TEN].\n\nAt the TOP, | [in TWO thousand and TEN] | DEMONSTRATES the HIGHEST value, |\nwhich is approximately [TWO billion users].\n\nFollowing THAT, | [in TWO thousand and FIVE] | SHOWS around [ONE billion users], |\nrepresenting the SECOND-highest figure.\n\nConversely, | [in NINETEEN ninety-five] | INDICATES the LOWEST value |\nat approximately [FIFTY million users].\n\nAdditionally, | [TWO thousand] | and [TWO thousand and THREE] |\nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations | in [Internet adoption].",
+      "fullText": "This [LINE graph] | ILLUSTRATES information | REGARDING [the number of laws in Brazil].\n\nAt the TOP, | [in NINETEEN ninety-three] | DEMONSTRATES the HIGHEST value, |\nwhich is approximately [TWO thousand TWO hundred laws].\n\nFollowing THAT, | [in NINETEEN eighty-three] | SHOWS around [ONE thousand laws], |\nrepresenting the SECOND-highest figure.\n\nConversely, | [in NINETEEN fifty-three] | INDICATES the LOWEST value |\nat approximately [ONE hundred laws].\n\nAdditionally, | [NINETEEN sixty-three] | and [NINETEEN seventy-three] |\nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations | in [legislative growth].",
       "phrases": [
         {
           "index": 0,
@@ -757,202 +612,57 @@
         },
         {
           "index": 2,
-          "text": "REGARDING [global Internet users from NINETEEN ninety-five to TWO thousand and TEN]. At the TOP,",
+          "text": "REGARDING [the number of laws in Brazil]. At the TOP,",
           "startIndex": 46,
-          "endIndex": 142,
-          "estimatedDuration": 6428.5714285714275
+          "endIndex": 99,
+          "estimatedDuration": 4285.714285714285
         },
         {
           "index": 3,
-          "text": "[in TWO thousand and TEN]",
-          "startIndex": 145,
-          "endIndex": 170,
-          "estimatedDuration": 2142.8571428571427
+          "text": "[in NINETEEN ninety-three]",
+          "startIndex": 102,
+          "endIndex": 128,
+          "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 4,
           "text": "DEMONSTRATES the HIGHEST value,",
-          "startIndex": 173,
-          "endIndex": 204,
+          "startIndex": 131,
+          "endIndex": 162,
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 5,
-          "text": "which is approximately [TWO billion users]. Following THAT,",
-          "startIndex": 207,
-          "endIndex": 266,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 6,
-          "text": "[in TWO thousand and FIVE]",
-          "startIndex": 269,
-          "endIndex": 295,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 7,
-          "text": "SHOWS around [ONE billion users],",
-          "startIndex": 298,
-          "endIndex": 331,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 8,
-          "text": "representing the SECOND-highest figure. Conversely,",
-          "startIndex": 334,
-          "endIndex": 385,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 9,
-          "text": "[in NINETEEN ninety-five]",
-          "startIndex": 388,
-          "endIndex": 413,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 10,
-          "text": "INDICATES the LOWEST value",
-          "startIndex": 416,
-          "endIndex": 442,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately [FIFTY million users]. Additionally,",
-          "startIndex": 445,
-          "endIndex": 498,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 12,
-          "text": "[TWO thousand]",
-          "startIndex": 501,
-          "endIndex": 515,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 13,
-          "text": "and [TWO thousand and THREE]",
-          "startIndex": 518,
-          "endIndex": 546,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 14,
-          "text": "also contribute SIGNIFICANTLY",
-          "startIndex": 549,
-          "endIndex": 578,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 15,
-          "text": "to the data ANALYSIS. In CONCLUSION,",
-          "startIndex": 581,
-          "endIndex": 617,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 16,
-          "text": "this chart PRESENTS comprehensive DATA",
-          "startIndex": 620,
-          "endIndex": 658,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 17,
-          "text": "demonstrating CLEAR variations",
-          "startIndex": 661,
-          "endIndex": 691,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "in [Internet adoption].",
-          "startIndex": 694,
-          "endIndex": 717,
-          "estimatedDuration": 1285.7142857142858
-        }
-      ],
-      "wordCount": 0,
-      "duration": 0,
-      "category": "di-shadowing"
-    },
-    {
-      "id": "di-image-7",
-      "imageNumber": 7,
-      "title": "World Population Growth",
-      "template": "A",
-      "fullText": "This [LINE graph] | ILLUSTRATES information | REGARDING [world population growth].\n\nAt the TOP, | [in TWO thousand and FIFTY] | DEMONSTRATES the HIGHEST value, |\nwhich is approximately [NINE point TWO billion people].\n\nFollowing THAT, | [in TWO thousand and TWENTY-five] | SHOWS around [EIGHT billion people], |\nrepresenting the SECOND-highest figure.\n\nConversely, | [in NINETEEN fifty] | INDICATES the LOWEST value |\nat approximately [TWO point FIVE billion people].\n\nAdditionally, | [TWO thousand] | also contributes SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations | in [population growth].",
-      "phrases": [
-        {
-          "index": 0,
-          "text": "This [LINE graph]",
-          "startIndex": 0,
-          "endIndex": 17,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 1,
-          "text": "ILLUSTRATES information",
-          "startIndex": 20,
-          "endIndex": 43,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 2,
-          "text": "REGARDING [world population growth]. At the TOP,",
-          "startIndex": 46,
-          "endIndex": 94,
-          "estimatedDuration": 3000
-        },
-        {
-          "index": 3,
-          "text": "[in TWO thousand and FIFTY]",
-          "startIndex": 97,
-          "endIndex": 124,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 4,
-          "text": "DEMONSTRATES the HIGHEST value,",
-          "startIndex": 127,
-          "endIndex": 158,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 5,
-          "text": "which is approximately [NINE point TWO billion people]. Following THAT,",
-          "startIndex": 161,
-          "endIndex": 232,
+          "text": "which is approximately [TWO thousand TWO hundred laws]. Following THAT,",
+          "startIndex": 165,
+          "endIndex": 236,
           "estimatedDuration": 4285.714285714285
         },
         {
           "index": 6,
-          "text": "[in TWO thousand and TWENTY-five]",
-          "startIndex": 235,
-          "endIndex": 268,
-          "estimatedDuration": 2142.8571428571427
+          "text": "[in NINETEEN eighty-three]",
+          "startIndex": 239,
+          "endIndex": 265,
+          "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 7,
-          "text": "SHOWS around [EIGHT billion people],",
-          "startIndex": 271,
-          "endIndex": 307,
+          "text": "SHOWS around [ONE thousand laws],",
+          "startIndex": 268,
+          "endIndex": 301,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 8,
           "text": "representing the SECOND-highest figure. Conversely,",
-          "startIndex": 310,
-          "endIndex": 361,
+          "startIndex": 304,
+          "endIndex": 355,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 9,
-          "text": "[in NINETEEN fifty]",
-          "startIndex": 364,
+          "text": "[in NINETEEN fifty-three]",
+          "startIndex": 358,
           "endIndex": 383,
           "estimatedDuration": 1285.7142857142858
         },
@@ -965,335 +675,59 @@
         },
         {
           "index": 11,
-          "text": "at approximately [TWO point FIVE billion people]. Additionally,",
+          "text": "at approximately [ONE hundred laws]. Additionally,",
           "startIndex": 415,
-          "endIndex": 478,
-          "estimatedDuration": 3428.5714285714284
+          "endIndex": 465,
+          "estimatedDuration": 2571.4285714285716
         },
         {
           "index": 12,
-          "text": "[TWO thousand]",
-          "startIndex": 481,
-          "endIndex": 495,
+          "text": "[NINETEEN sixty-three]",
+          "startIndex": 468,
+          "endIndex": 490,
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 13,
-          "text": "also contributes SIGNIFICANTLY",
-          "startIndex": 498,
-          "endIndex": 528,
+          "text": "and [NINETEEN seventy-three]",
+          "startIndex": 493,
+          "endIndex": 521,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 14,
+          "text": "also contribute SIGNIFICANTLY",
+          "startIndex": 524,
+          "endIndex": 553,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 15,
           "text": "to the data ANALYSIS. In CONCLUSION,",
-          "startIndex": 531,
-          "endIndex": 567,
+          "startIndex": 556,
+          "endIndex": 592,
           "estimatedDuration": 2571.4285714285716
         },
         {
-          "index": 15,
+          "index": 16,
           "text": "this chart PRESENTS comprehensive DATA",
-          "startIndex": 570,
-          "endIndex": 608,
+          "startIndex": 595,
+          "endIndex": 633,
           "estimatedDuration": 2142.8571428571427
         },
         {
-          "index": 16,
+          "index": 17,
           "text": "demonstrating CLEAR variations",
-          "startIndex": 611,
-          "endIndex": 641,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 17,
-          "text": "in [population growth].",
-          "startIndex": 644,
-          "endIndex": 667,
-          "estimatedDuration": 1285.7142857142858
-        }
-      ],
-      "wordCount": 0,
-      "duration": 0,
-      "category": "di-shadowing"
-    },
-    {
-      "id": "di-image-8",
-      "imageNumber": 8,
-      "title": "Household Energy Consumption",
-      "template": "A",
-      "fullText": "This [PIE chart] | DISPLAYS the DISTRIBUTION | of [household energy consumption].\n\nThe LARGEST segment, | [HEATING and COOLING], | OCCUPIES approximately [FORTY-five percent] |\nof the total energy usage.\n\nThe SECOND major component, | [WATER heating], | ACCOUNTS FOR around [EIGHTEEN percent], |\nrepresenting a SIGNIFICANT portion.\n\nMeanwhile, | [LIGHTING and APPLIANCES] | COMPRISE approximately [FIFTEEN percent] |\nof the energy consumption.\n\nFurthermore, | [OTHER categories] |\nalso REPRESENT notable PROPORTIONS | of the total usage.\n\nIn SUMMARY, | this chart EFFECTIVELY illustrates |\nthe PRIMARY sources | of [household energy consumption].",
-      "phrases": [
-        {
-          "index": 0,
-          "text": "This [PIE chart]",
-          "startIndex": 0,
-          "endIndex": 16,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 1,
-          "text": "DISPLAYS the DISTRIBUTION",
-          "startIndex": 19,
-          "endIndex": 44,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 2,
-          "text": "of [household energy consumption]. The LARGEST segment,",
-          "startIndex": 47,
-          "endIndex": 102,
-          "estimatedDuration": 3000
-        },
-        {
-          "index": 3,
-          "text": "[HEATING and COOLING],",
-          "startIndex": 105,
-          "endIndex": 127,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 4,
-          "text": "OCCUPIES approximately [FORTY-five percent]",
-          "startIndex": 130,
-          "endIndex": 173,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 5,
-          "text": "of the total energy usage. The SECOND major component,",
-          "startIndex": 176,
-          "endIndex": 230,
-          "estimatedDuration": 3857.142857142857
-        },
-        {
-          "index": 6,
-          "text": "[WATER heating],",
-          "startIndex": 233,
-          "endIndex": 249,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 7,
-          "text": "ACCOUNTS FOR around [EIGHTEEN percent],",
-          "startIndex": 252,
-          "endIndex": 291,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 8,
-          "text": "representing a SIGNIFICANT portion. Meanwhile,",
-          "startIndex": 294,
-          "endIndex": 340,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 9,
-          "text": "[LIGHTING and APPLIANCES]",
-          "startIndex": 343,
-          "endIndex": 368,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 10,
-          "text": "COMPRISE approximately [FIFTEEN percent]",
-          "startIndex": 371,
-          "endIndex": 411,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "of the energy consumption. Furthermore,",
-          "startIndex": 414,
-          "endIndex": 453,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 12,
-          "text": "[OTHER categories]",
-          "startIndex": 456,
-          "endIndex": 474,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 13,
-          "text": "also REPRESENT notable PROPORTIONS",
-          "startIndex": 477,
-          "endIndex": 511,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 14,
-          "text": "of the total usage. In SUMMARY,",
-          "startIndex": 514,
-          "endIndex": 545,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 15,
-          "text": "this chart EFFECTIVELY illustrates",
-          "startIndex": 548,
-          "endIndex": 582,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 16,
-          "text": "the PRIMARY sources",
-          "startIndex": 585,
-          "endIndex": 604,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 17,
-          "text": "of [household energy consumption].",
-          "startIndex": 607,
-          "endIndex": 641,
-          "estimatedDuration": 1714.2857142857142
-        }
-      ],
-      "wordCount": 0,
-      "duration": 0,
-      "category": "di-shadowing"
-    },
-    {
-      "id": "di-image-9",
-      "imageNumber": 9,
-      "title": "Student Performance by Subject",
-      "template": "A",
-      "fullText": "This [BAR chart] | COMPARES [student performance] | ACROSS [different subjects].\n\nEXAMINING the data, | [MATHEMATICS] | LEADS the comparison |\nwith approximately [EIGHTY-five percent].\n\nIn CONTRAST, | [SCIENCE] | FOLLOWS closely |\nat around [EIGHTY percent].\n\nMeanwhile, | [ENGLISH] | DEMONSTRATES moderate performance |\nat approximately [SEVENTY-five percent].\n\nAdditionally, | [HISTORY] | and [GEOGRAPHY] |\nshow COMPARABLE results | at [SEVENTY percent] and [SIXTY-eight percent] RESPECTIVELY.\n\nIn SUMMARY, | this visualization EFFECTIVELY presents |\nthe RELATIVE performance | across MULTIPLE [academic subjects].",
-      "phrases": [
-        {
-          "index": 0,
-          "text": "This [BAR chart]",
-          "startIndex": 0,
-          "endIndex": 16,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 1,
-          "text": "COMPARES [student performance]",
-          "startIndex": 19,
-          "endIndex": 49,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 2,
-          "text": "ACROSS [different subjects]. EXAMINING the data,",
-          "startIndex": 52,
-          "endIndex": 100,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 3,
-          "text": "[MATHEMATICS]",
-          "startIndex": 103,
-          "endIndex": 116,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 4,
-          "text": "LEADS the comparison",
-          "startIndex": 119,
-          "endIndex": 139,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 5,
-          "text": "with approximately [EIGHTY-five percent]. In CONTRAST,",
-          "startIndex": 142,
-          "endIndex": 196,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 6,
-          "text": "[SCIENCE]",
-          "startIndex": 199,
-          "endIndex": 208,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 7,
-          "text": "FOLLOWS closely",
-          "startIndex": 211,
-          "endIndex": 226,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 8,
-          "text": "at around [EIGHTY percent]. Meanwhile,",
-          "startIndex": 229,
-          "endIndex": 267,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 9,
-          "text": "[ENGLISH]",
-          "startIndex": 270,
-          "endIndex": 279,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 10,
-          "text": "DEMONSTRATES moderate performance",
-          "startIndex": 282,
-          "endIndex": 315,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 11,
-          "text": "at approximately [SEVENTY-five percent]. Additionally,",
-          "startIndex": 318,
-          "endIndex": 372,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 12,
-          "text": "[HISTORY]",
-          "startIndex": 375,
-          "endIndex": 384,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 13,
-          "text": "and [GEOGRAPHY]",
-          "startIndex": 387,
-          "endIndex": 402,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 14,
-          "text": "show COMPARABLE results",
-          "startIndex": 405,
-          "endIndex": 428,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 15,
-          "text": "at [SEVENTY percent] and [SIXTY-eight percent] RESPECTIVELY. In SUMMARY,",
-          "startIndex": 431,
-          "endIndex": 503,
-          "estimatedDuration": 3857.142857142857
-        },
-        {
-          "index": 16,
-          "text": "this visualization EFFECTIVELY presents",
-          "startIndex": 506,
-          "endIndex": 545,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 17,
-          "text": "the RELATIVE performance",
-          "startIndex": 548,
-          "endIndex": 572,
+          "startIndex": 636,
+          "endIndex": 666,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 18,
-          "text": "across MULTIPLE [academic subjects].",
-          "startIndex": 575,
-          "endIndex": 611,
-          "estimatedDuration": 1714.2857142857142
+          "text": "in [legislative growth].",
+          "startIndex": 669,
+          "endIndex": 693,
+          "estimatedDuration": 1285.7142857142858
         }
       ],
       "wordCount": 0,
@@ -1301,11 +735,11 @@
       "category": "di-shadowing"
     },
     {
-      "id": "di-image-10",
-      "imageNumber": 10,
-      "title": "Global CO2 Emissions by Region",
+      "id": "di-image-6",
+      "imageNumber": 6,
+      "title": "S&P/ASX 200",
       "template": "A",
-      "fullText": "This [LINE graph] | ILLUSTRATES the TREND | of [global CO2 emissions by region].\n\nInitially, | [in NINETEEN ninety], | [ASIA] showed |\napproximately [THREE billion tons].\n\nSubsequently, | the figure EXPERIENCED steady GROWTH, |\nREACHING [FIVE billion tons] | by [TWO thousand].\n\nFollowing THIS, | the emissions CONTINUED to INCREASE, |\nARRIVING at [EIGHT billion tons] | in [TWO thousand and TEN].\n\nMeanwhile, | [OTHER regions] |\ndemonstrated RELATIVELY stable patterns | throughout the period.\n\nIn CONCLUSION, | this chart CLEARLY indicates |\nSIGNIFICANT upward TRENDS | in [Asian emissions].",
+      "fullText": "This [LINE graph] | ILLUSTRATES information | REGARDING [the S and P ASX TWO hundred index].\n\nAt the TOP, | [at TWELVE o'clock] | DEMONSTRATES the HIGHEST value, |\nwhich is approximately [THREE thousand FIVE hundred points].\n\nFollowing THAT, | [at ELEVEN thirty] | SHOWS around [THREE thousand FOUR hundred ninety points], |\nrepresenting the SECOND-highest figure.\n\nConversely, | [at TEN o'clock] | INDICATES the LOWEST value |\nat approximately [THREE thousand FOUR hundred sixty-eight points].\n\nAdditionally, | [ELEVEN o'clock] | and [ONE thirty] |\nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations | in [stock market performance].",
       "phrases": [
         {
           "index": 0,
@@ -1316,122 +750,709 @@
         },
         {
           "index": 1,
-          "text": "ILLUSTRATES the TREND",
+          "text": "ILLUSTRATES information",
           "startIndex": 20,
-          "endIndex": 41,
-          "estimatedDuration": 1285.7142857142858
+          "endIndex": 43,
+          "estimatedDuration": 857.1428571428571
         },
         {
           "index": 2,
-          "text": "of [global CO2 emissions by region]. Initially,",
-          "startIndex": 44,
-          "endIndex": 91,
-          "estimatedDuration": 3000
+          "text": "REGARDING [the S and P ASX TWO hundred index]. At the TOP,",
+          "startIndex": 46,
+          "endIndex": 104,
+          "estimatedDuration": 5142.857142857143
         },
         {
           "index": 3,
-          "text": "[in NINETEEN ninety],",
-          "startIndex": 94,
-          "endIndex": 115,
+          "text": "[at TWELVE o'clock]",
+          "startIndex": 107,
+          "endIndex": 126,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 4,
-          "text": "[ASIA] showed",
-          "startIndex": 118,
-          "endIndex": 131,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 5,
-          "text": "approximately [THREE billion tons]. Subsequently,",
-          "startIndex": 134,
-          "endIndex": 183,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 6,
-          "text": "the figure EXPERIENCED steady GROWTH,",
-          "startIndex": 186,
-          "endIndex": 223,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 7,
-          "text": "REACHING [FIVE billion tons]",
-          "startIndex": 226,
-          "endIndex": 254,
+          "text": "DEMONSTRATES the HIGHEST value,",
+          "startIndex": 129,
+          "endIndex": 160,
           "estimatedDuration": 1714.2857142857142
         },
         {
+          "index": 5,
+          "text": "which is approximately [THREE thousand FIVE hundred points]. Following THAT,",
+          "startIndex": 163,
+          "endIndex": 239,
+          "estimatedDuration": 4285.714285714285
+        },
+        {
+          "index": 6,
+          "text": "[at ELEVEN thirty]",
+          "startIndex": 242,
+          "endIndex": 260,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 7,
+          "text": "SHOWS around [THREE thousand FOUR hundred ninety points],",
+          "startIndex": 263,
+          "endIndex": 320,
+          "estimatedDuration": 3428.5714285714284
+        },
+        {
           "index": 8,
-          "text": "by [TWO thousand]. Following THIS,",
-          "startIndex": 257,
-          "endIndex": 291,
+          "text": "representing the SECOND-highest figure. Conversely,",
+          "startIndex": 323,
+          "endIndex": 374,
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 9,
-          "text": "the emissions CONTINUED to INCREASE,",
-          "startIndex": 294,
-          "endIndex": 330,
-          "estimatedDuration": 2142.8571428571427
+          "text": "[at TEN o'clock]",
+          "startIndex": 377,
+          "endIndex": 393,
+          "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 10,
-          "text": "ARRIVING at [EIGHT billion tons]",
-          "startIndex": 333,
-          "endIndex": 365,
-          "estimatedDuration": 2142.8571428571427
+          "text": "INDICATES the LOWEST value",
+          "startIndex": 396,
+          "endIndex": 422,
+          "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 11,
-          "text": "in [TWO thousand and TEN]. Meanwhile,",
-          "startIndex": 368,
-          "endIndex": 405,
-          "estimatedDuration": 2571.4285714285716
+          "text": "at approximately [THREE thousand FOUR hundred sixty-eight points]. Additionally,",
+          "startIndex": 425,
+          "endIndex": 505,
+          "estimatedDuration": 3857.142857142857
         },
         {
           "index": 12,
-          "text": "[OTHER regions]",
-          "startIndex": 408,
-          "endIndex": 423,
+          "text": "[ELEVEN o'clock]",
+          "startIndex": 508,
+          "endIndex": 524,
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 13,
-          "text": "demonstrated RELATIVELY stable patterns",
-          "startIndex": 426,
-          "endIndex": 465,
-          "estimatedDuration": 1714.2857142857142
+          "text": "and [ONE thirty]",
+          "startIndex": 527,
+          "endIndex": 543,
+          "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 14,
-          "text": "throughout the period. In CONCLUSION,",
-          "startIndex": 468,
-          "endIndex": 505,
-          "estimatedDuration": 2142.8571428571427
+          "text": "also contribute SIGNIFICANTLY",
+          "startIndex": 546,
+          "endIndex": 575,
+          "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 15,
-          "text": "this chart CLEARLY indicates",
-          "startIndex": 508,
-          "endIndex": 536,
+          "text": "to the data ANALYSIS. In CONCLUSION,",
+          "startIndex": 578,
+          "endIndex": 614,
+          "estimatedDuration": 2571.4285714285716
+        },
+        {
+          "index": 16,
+          "text": "this chart PRESENTS comprehensive DATA",
+          "startIndex": 617,
+          "endIndex": 655,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 17,
+          "text": "demonstrating CLEAR variations",
+          "startIndex": 658,
+          "endIndex": 688,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 18,
+          "text": "in [stock market performance].",
+          "startIndex": 691,
+          "endIndex": 721,
+          "estimatedDuration": 1714.2857142857142
+        }
+      ],
+      "wordCount": 0,
+      "duration": 0,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-7",
+      "imageNumber": 7,
+      "title": "Overseas Visitors to Three Areas",
+      "template": "A",
+      "fullText": "This [LINE graph] | COMPARES data | between [the coast, the mountains, and the lakes].\n\nWhen EXAMINING [the coast], | [in TWO thousand and SEVEN] | LEADS |\nat approximately [SEVENTY-five thousand visitors].\n\nConversely, | [in NINETEEN eighty-seven] | shows the LOWEST value |\nat around [FORTY thousand visitors].\n\nSWITCHING to [the mountains], | [in TWO thousand and TWO] | REPRESENTS the highest figure |\nat approximately [SEVENTY-five thousand visitors].\n\nFurthermore, | [the lakes] | and [NINETEEN ninety-two] |\nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates |\nthe COMPARATIVE analysis | between [the three tourist areas].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [LINE graph]",
+          "startIndex": 0,
+          "endIndex": 17,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 1,
+          "text": "COMPARES data",
+          "startIndex": 20,
+          "endIndex": 33,
+          "estimatedDuration": 857.1428571428571
+        },
+        {
+          "index": 2,
+          "text": "between [the coast, the mountains, and the lakes]. When EXAMINING [the coast],",
+          "startIndex": 36,
+          "endIndex": 114,
+          "estimatedDuration": 5142.857142857143
+        },
+        {
+          "index": 3,
+          "text": "[in TWO thousand and SEVEN]",
+          "startIndex": 117,
+          "endIndex": 144,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 4,
+          "text": "LEADS",
+          "startIndex": 147,
+          "endIndex": 152,
+          "estimatedDuration": 428.57142857142856
+        },
+        {
+          "index": 5,
+          "text": "at approximately [SEVENTY-five thousand visitors]. Conversely,",
+          "startIndex": 155,
+          "endIndex": 217,
+          "estimatedDuration": 2571.4285714285716
+        },
+        {
+          "index": 6,
+          "text": "[in NINETEEN eighty-seven]",
+          "startIndex": 220,
+          "endIndex": 246,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 7,
+          "text": "shows the LOWEST value",
+          "startIndex": 249,
+          "endIndex": 271,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 8,
+          "text": "at around [FORTY thousand visitors]. SWITCHING to [the mountains],",
+          "startIndex": 274,
+          "endIndex": 340,
+          "estimatedDuration": 3857.142857142857
+        },
+        {
+          "index": 9,
+          "text": "[in TWO thousand and TWO]",
+          "startIndex": 343,
+          "endIndex": 368,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 10,
+          "text": "REPRESENTS the highest figure",
+          "startIndex": 371,
+          "endIndex": 400,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 11,
+          "text": "at approximately [SEVENTY-five thousand visitors]. Furthermore,",
+          "startIndex": 403,
+          "endIndex": 466,
+          "estimatedDuration": 2571.4285714285716
+        },
+        {
+          "index": 12,
+          "text": "[the lakes]",
+          "startIndex": 469,
+          "endIndex": 480,
+          "estimatedDuration": 857.1428571428571
+        },
+        {
+          "index": 13,
+          "text": "and [NINETEEN ninety-two]",
+          "startIndex": 483,
+          "endIndex": 508,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 14,
+          "text": "also DEMONSTRATE notable VALUES",
+          "startIndex": 511,
+          "endIndex": 542,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 15,
+          "text": "across BOTH categories. OVERALL,",
+          "startIndex": 545,
+          "endIndex": 577,
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 16,
-          "text": "SIGNIFICANT upward TRENDS",
-          "startIndex": 539,
-          "endIndex": 564,
-          "estimatedDuration": 1285.7142857142858
+          "text": "this data CLEARLY illustrates",
+          "startIndex": 580,
+          "endIndex": 609,
+          "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 17,
-          "text": "in [Asian emissions].",
-          "startIndex": 567,
+          "text": "the COMPARATIVE analysis",
+          "startIndex": 612,
+          "endIndex": 636,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 18,
+          "text": "between [the three tourist areas].",
+          "startIndex": 639,
+          "endIndex": 673,
+          "estimatedDuration": 2142.8571428571427
+        }
+      ],
+      "wordCount": 0,
+      "duration": 0,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-8",
+      "imageNumber": 8,
+      "title": "Projected Population Australia",
+      "template": "A",
+      "fullText": "This [LINE graph] | COMPARES data | between [Series A, Series B, and Series C].\n\nWhen EXAMINING [Series A], | [in TWENTY-one oh-one] | LEADS |\nat approximately [SEVENTY million people].\n\nConversely, | [in TWENTY oh-one] | shows the LOWEST value |\nat around [TWENTY million people].\n\nSWITCHING to [Series B], | [in TWENTY-one oh-one] | REPRESENTS the highest figure |\nat approximately [FORTY-five million people].\n\nFurthermore, | [Series C] | and [TWENTY forty-one] |\nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates |\nthe COMPARATIVE analysis | between [the three population projections].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [LINE graph]",
+          "startIndex": 0,
+          "endIndex": 17,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 1,
+          "text": "COMPARES data",
+          "startIndex": 20,
+          "endIndex": 33,
+          "estimatedDuration": 857.1428571428571
+        },
+        {
+          "index": 2,
+          "text": "between [Series A, Series B, and Series C]. When EXAMINING [Series A],",
+          "startIndex": 36,
+          "endIndex": 106,
+          "estimatedDuration": 5142.857142857143
+        },
+        {
+          "index": 3,
+          "text": "[in TWENTY-one oh-one]",
+          "startIndex": 109,
+          "endIndex": 131,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 4,
+          "text": "LEADS",
+          "startIndex": 134,
+          "endIndex": 139,
+          "estimatedDuration": 428.57142857142856
+        },
+        {
+          "index": 5,
+          "text": "at approximately [SEVENTY million people]. Conversely,",
+          "startIndex": 142,
+          "endIndex": 196,
+          "estimatedDuration": 2571.4285714285716
+        },
+        {
+          "index": 6,
+          "text": "[in TWENTY oh-one]",
+          "startIndex": 199,
+          "endIndex": 217,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 7,
+          "text": "shows the LOWEST value",
+          "startIndex": 220,
+          "endIndex": 242,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 8,
+          "text": "at around [TWENTY million people]. SWITCHING to [Series B],",
+          "startIndex": 245,
+          "endIndex": 304,
+          "estimatedDuration": 3857.142857142857
+        },
+        {
+          "index": 9,
+          "text": "[in TWENTY-one oh-one]",
+          "startIndex": 307,
+          "endIndex": 329,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 10,
+          "text": "REPRESENTS the highest figure",
+          "startIndex": 332,
+          "endIndex": 361,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 11,
+          "text": "at approximately [FORTY-five million people]. Furthermore,",
+          "startIndex": 364,
+          "endIndex": 422,
+          "estimatedDuration": 2571.4285714285716
+        },
+        {
+          "index": 12,
+          "text": "[Series C]",
+          "startIndex": 425,
+          "endIndex": 435,
+          "estimatedDuration": 857.1428571428571
+        },
+        {
+          "index": 13,
+          "text": "and [TWENTY forty-one]",
+          "startIndex": 438,
+          "endIndex": 460,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 14,
+          "text": "also DEMONSTRATE notable VALUES",
+          "startIndex": 463,
+          "endIndex": 494,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 15,
+          "text": "across BOTH categories. OVERALL,",
+          "startIndex": 497,
+          "endIndex": 529,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 16,
+          "text": "this data CLEARLY illustrates",
+          "startIndex": 532,
+          "endIndex": 561,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 17,
+          "text": "the COMPARATIVE analysis",
+          "startIndex": 564,
           "endIndex": 588,
           "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 18,
+          "text": "between [the three population projections].",
+          "startIndex": 591,
+          "endIndex": 634,
+          "estimatedDuration": 2142.8571428571427
+        }
+      ],
+      "wordCount": 0,
+      "duration": 0,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-9",
+      "imageNumber": 9,
+      "title": "Annual Per Capita Meat Consumption",
+      "template": "A",
+      "fullText": "This [LINE graph] | COMPARES data | between [USA, China, Liberia, Brazil, India, and Ethiopia].\n\nWhen EXAMINING [USA], | [in TWO thousand and NINE] | LEADS |\nat approximately [ONE hundred and THIRTY kilograms].\n\nConversely, | [in NINETEEN sixty-one] | shows the LOWEST value |\nat around [NINETY kilograms].\n\nSWITCHING to [India], | [in TWO thousand and NINE] | REPRESENTS the highest figure |\nat approximately [FIVE kilograms].\n\nFurthermore, | [Brazil] | and [Ethiopia] |\nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates |\nthe COMPARATIVE analysis | between [meat consumption patterns globally].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [LINE graph]",
+          "startIndex": 0,
+          "endIndex": 17,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 1,
+          "text": "COMPARES data",
+          "startIndex": 20,
+          "endIndex": 33,
+          "estimatedDuration": 857.1428571428571
+        },
+        {
+          "index": 2,
+          "text": "between [USA, China, Liberia, Brazil, India, and Ethiopia]. When EXAMINING [USA],",
+          "startIndex": 36,
+          "endIndex": 117,
+          "estimatedDuration": 4714.285714285715
+        },
+        {
+          "index": 3,
+          "text": "[in TWO thousand and NINE]",
+          "startIndex": 120,
+          "endIndex": 146,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 4,
+          "text": "LEADS",
+          "startIndex": 149,
+          "endIndex": 154,
+          "estimatedDuration": 428.57142857142856
+        },
+        {
+          "index": 5,
+          "text": "at approximately [ONE hundred and THIRTY kilograms]. Conversely,",
+          "startIndex": 157,
+          "endIndex": 221,
+          "estimatedDuration": 3428.5714285714284
+        },
+        {
+          "index": 6,
+          "text": "[in NINETEEN sixty-one]",
+          "startIndex": 224,
+          "endIndex": 247,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 7,
+          "text": "shows the LOWEST value",
+          "startIndex": 250,
+          "endIndex": 272,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 8,
+          "text": "at around [NINETY kilograms]. SWITCHING to [India],",
+          "startIndex": 275,
+          "endIndex": 326,
+          "estimatedDuration": 3000
+        },
+        {
+          "index": 9,
+          "text": "[in TWO thousand and NINE]",
+          "startIndex": 329,
+          "endIndex": 355,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 10,
+          "text": "REPRESENTS the highest figure",
+          "startIndex": 358,
+          "endIndex": 387,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 11,
+          "text": "at approximately [FIVE kilograms]. Furthermore,",
+          "startIndex": 390,
+          "endIndex": 437,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 12,
+          "text": "[Brazil]",
+          "startIndex": 440,
+          "endIndex": 448,
+          "estimatedDuration": 428.57142857142856
+        },
+        {
+          "index": 13,
+          "text": "and [Ethiopia]",
+          "startIndex": 451,
+          "endIndex": 465,
+          "estimatedDuration": 857.1428571428571
+        },
+        {
+          "index": 14,
+          "text": "also DEMONSTRATE notable VALUES",
+          "startIndex": 468,
+          "endIndex": 499,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 15,
+          "text": "across BOTH categories. OVERALL,",
+          "startIndex": 502,
+          "endIndex": 534,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 16,
+          "text": "this data CLEARLY illustrates",
+          "startIndex": 537,
+          "endIndex": 566,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 17,
+          "text": "the COMPARATIVE analysis",
+          "startIndex": 569,
+          "endIndex": 593,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 18,
+          "text": "between [meat consumption patterns globally].",
+          "startIndex": 596,
+          "endIndex": 641,
+          "estimatedDuration": 2142.8571428571427
+        }
+      ],
+      "wordCount": 0,
+      "duration": 0,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-10",
+      "imageNumber": 10,
+      "title": "Australian Age Group",
+      "template": "A",
+      "fullText": "This [BAR chart] | COMPARES data | between [males and females].\n\nWhen EXAMINING [males], | [age group TWENTY-five to THIRTY-four] | LEADS |\nat approximately [SIXTEEN point TWO percent].\n\nConversely, | [age group EIGHTY-five plus] | shows the LOWEST value |\nat around [ZERO point SEVEN percent].\n\nSWITCHING to [females], | [age group TWENTY-five to THIRTY-four] | REPRESENTS the highest figure |\nat approximately [SIXTEEN point FIVE percent].\n\nFurthermore, | [age group FIFTEEN to TWENTY-four] | and [age group THIRTY-five to FORTY-four] |\nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates |\nthe COMPARATIVE analysis | between [male and female age distribution].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [BAR chart]",
+          "startIndex": 0,
+          "endIndex": 16,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 1,
+          "text": "COMPARES data",
+          "startIndex": 19,
+          "endIndex": 32,
+          "estimatedDuration": 857.1428571428571
+        },
+        {
+          "index": 2,
+          "text": "between [males and females]. When EXAMINING [males],",
+          "startIndex": 35,
+          "endIndex": 87,
+          "estimatedDuration": 3000
+        },
+        {
+          "index": 3,
+          "text": "[age group TWENTY-five to THIRTY-four]",
+          "startIndex": 90,
+          "endIndex": 128,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 4,
+          "text": "LEADS",
+          "startIndex": 131,
+          "endIndex": 136,
+          "estimatedDuration": 428.57142857142856
+        },
+        {
+          "index": 5,
+          "text": "at approximately [SIXTEEN point TWO percent]. Conversely,",
+          "startIndex": 139,
+          "endIndex": 196,
+          "estimatedDuration": 3000
+        },
+        {
+          "index": 6,
+          "text": "[age group EIGHTY-five plus]",
+          "startIndex": 199,
+          "endIndex": 227,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 7,
+          "text": "shows the LOWEST value",
+          "startIndex": 230,
+          "endIndex": 252,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 8,
+          "text": "at around [ZERO point SEVEN percent]. SWITCHING to [females],",
+          "startIndex": 255,
+          "endIndex": 316,
+          "estimatedDuration": 3857.142857142857
+        },
+        {
+          "index": 9,
+          "text": "[age group TWENTY-five to THIRTY-four]",
+          "startIndex": 319,
+          "endIndex": 357,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 10,
+          "text": "REPRESENTS the highest figure",
+          "startIndex": 360,
+          "endIndex": 389,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 11,
+          "text": "at approximately [SIXTEEN point FIVE percent]. Furthermore,",
+          "startIndex": 392,
+          "endIndex": 451,
+          "estimatedDuration": 3000
+        },
+        {
+          "index": 12,
+          "text": "[age group FIFTEEN to TWENTY-four]",
+          "startIndex": 454,
+          "endIndex": 488,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 13,
+          "text": "and [age group THIRTY-five to FORTY-four]",
+          "startIndex": 491,
+          "endIndex": 532,
+          "estimatedDuration": 2571.4285714285716
+        },
+        {
+          "index": 14,
+          "text": "also DEMONSTRATE notable VALUES",
+          "startIndex": 535,
+          "endIndex": 566,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 15,
+          "text": "across BOTH categories. OVERALL,",
+          "startIndex": 569,
+          "endIndex": 601,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 16,
+          "text": "this data CLEARLY illustrates",
+          "startIndex": 604,
+          "endIndex": 633,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 17,
+          "text": "the COMPARATIVE analysis",
+          "startIndex": 636,
+          "endIndex": 660,
+          "estimatedDuration": 1285.7142857142858
+        },
+        {
+          "index": 18,
+          "text": "between [male and female age distribution].",
+          "startIndex": 663,
+          "endIndex": 706,
+          "estimatedDuration": 2571.4285714285716
         }
       ],
       "wordCount": 0,

@@ -2,7 +2,8 @@
 
 **Purpose**: Complete DI answers for pronunciation shadowing practice
 **Total Answers**: 10
-**Source**: PTE Describe Image practice with template-based responses
+**Source**: PTE Describe Image practice with template-based responses from raw files
+**Format**: [Brackets] denote variable content (Blue), ALL CAPS = stress words (Red), rest = template (Gray)
 
 ---
 
@@ -11,22 +12,22 @@
 **Duration**: 90 words, 38 seconds
 
 ```
-This [LINE graph] | ILLUSTRATES information | REGARDING [years to DOUBLE population].
+This [LINE graph] | ILLUSTRATES information | REGARDING [years to double population].
 
 At the TOP, | [in SEVENTEEN hundred] | DEMONSTRATES the HIGHEST value, |
-which is approximately [SIX hundred years].
+which is approximately [FIVE hundred and FORTY-four years].
 
-Following THAT, | [in EIGHTEEN hundred] | SHOWS around [THREE hundred years], |
+Following THAT, | [in EIGHTEEN hundred] | SHOWS around [THREE hundred and NINETY-four years], |
 representing the SECOND-highest figure.
 
-Conversely, | [in TWO thousand] | INDICATES the LOWEST value |
-at approximately [FORTY-seven years].
+Conversely, | [in TWO thousand and TWENTY] | INDICATES the LOWEST value |
+at approximately [SIXTY years].
 
-Additionally, | [NINETEEN hundred] | and [NINETEEN fifty] |
+Additionally, | [NINETEEN hundred] | and [NINETEEN sixty] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [population DOUBLING time].
+demonstrating CLEAR variations | in [population growth rates].
 ```
 
 ---
@@ -36,12 +37,12 @@ demonstrating CLEAR variations | in [population DOUBLING time].
 **Duration**: 90 words, 38 seconds
 
 ```
-This [LINE graph] | ILLUSTRATES information | REGARDING [Dubai Gold Sales in TWO thousand and TWO].
+This [LINE graph] | ILLUSTRATES information | REGARDING [Dubai gold sales in TWO thousand and TWO].
 
 At the TOP, | [in MARCH] | DEMONSTRATES the HIGHEST value, |
 which is approximately [THREE hundred and FIFTY million dirhams].
 
-Following THAT, | [in JULY] | SHOWS around [ONE hundred and FIFTY million dirhams], |
+Following THAT, | [in FEBRUARY] | SHOWS around [THREE hundred million dirhams], |
 representing the SECOND-highest figure.
 
 Conversely, | [in SEPTEMBER] | INDICATES the LOWEST value |
@@ -56,201 +57,202 @@ demonstrating CLEAR variations | in [gold sales].
 
 ---
 
-## IMAGE #3: UK University Funding (#031003)
-**Template**: A (Single Category Data - Bar Chart)
+## IMAGE #3: Number of Arrests per Year (#031005)
+**Template**: A (Single Category Data - Line Graph)
 **Duration**: 90 words, 38 seconds
 
 ```
-This [BAR chart] | ILLUSTRATES information | REGARDING [UK university funding].
+This [LINE graph] | ILLUSTRATES information | REGARDING [arrests for using illegal drugs].
 
-At the TOP, | [TWO thousand and EIGHT] | DEMONSTRATES the HIGHEST value, |
-which is approximately [THIRTY-five billion pounds].
+At the TOP, | [in TWO thousand and ONE] | DEMONSTRATES the HIGHEST value, |
+which is approximately [SEVENTY arrests].
 
-Following THAT, | [TWO thousand and SIX] | SHOWS around [THIRTY billion pounds], |
+Following THAT, | [in NINETEEN ninety-seven] | SHOWS around [SIXTY arrests], |
 representing the SECOND-highest figure.
 
-Conversely, | [NINETEEN ninety-five] | INDICATES the LOWEST value |
-at approximately [EIGHTEEN billion pounds].
+Conversely, | [in NINETEEN ninety-one] | INDICATES the LOWEST value |
+at approximately [TEN arrests].
 
-Additionally, | [TWO thousand] | and [TWO thousand and FOUR] |
+Additionally, | [NINETEEN ninety-four] | and [TWO thousand and FIVE] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [university funding].
+demonstrating CLEAR variations | in [arrest patterns].
 ```
 
 ---
 
-## IMAGE #4: Australians Completing High School (#031004)
+## IMAGE #4: Jill's Secondary Math Scores (#031007)
 **Template**: A (Single Category Data - Line Graph)
-**Duration**: 92 words, 38 seconds
+**Duration**: 90 words, 38 seconds
 
 ```
-This [LINE graph] | ILLUSTRATES information | REGARDING [Australians completing high school].
+This [LINE graph] | ILLUSTRATES information | REGARDING [Jill's secondary math scores].
 
-At the TOP, | [in TWO thousand and EIGHT] | DEMONSTRATES the HIGHEST value, |
-which is approximately [EIGHTY-five percent].
+At the TOP, | [in grade TWELVE] | DEMONSTRATES the HIGHEST value, |
+which is approximately [NINETY-one percent].
 
-Following THAT, | [in TWO thousand and FOUR] | SHOWS around [SEVENTY-eight percent], |
+Following THAT, | [in grade ELEVEN] | SHOWS around [EIGHTY-three percent], |
 representing the SECOND-highest figure.
 
-Conversely, | [in NINETEEN eighty-five] | INDICATES the LOWEST value |
-at approximately [THIRTY-eight percent].
+Conversely, | [in grade SEVEN] | INDICATES the LOWEST value |
+at approximately [SEVENTY-two percent].
 
-Additionally, | [NINETEEN ninety-five] | and [TWO thousand] |
+Additionally, | [grade EIGHT] | and [grade NINE] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [high school completion rates].
+demonstrating CLEAR variations | in [academic performance].
 ```
 
 ---
 
-## IMAGE #5: Average Monthly Temperatures in Two Cities (#031005)
-**Template**: B (Multiple Categories - Comparing Two Lines)
+## IMAGE #5: Number of Laws in Brazil (#031014)
+**Template**: A (Single Category Data - Line Graph)
+**Duration**: 90 words, 38 seconds
+
+```
+This [LINE graph] | ILLUSTRATES information | REGARDING [the number of laws in Brazil].
+
+At the TOP, | [in NINETEEN ninety-three] | DEMONSTRATES the HIGHEST value, |
+which is approximately [TWO thousand TWO hundred laws].
+
+Following THAT, | [in NINETEEN eighty-three] | SHOWS around [ONE thousand laws], |
+representing the SECOND-highest figure.
+
+Conversely, | [in NINETEEN fifty-three] | INDICATES the LOWEST value |
+at approximately [ONE hundred laws].
+
+Additionally, | [NINETEEN sixty-three] | and [NINETEEN seventy-three] |
+also contribute SIGNIFICANTLY | to the data ANALYSIS.
+
+In CONCLUSION, | this chart PRESENTS comprehensive DATA |
+demonstrating CLEAR variations | in [legislative growth].
+```
+
+---
+
+## IMAGE #6: S&P/ASX 200 (#031015)
+**Template**: A (Single Category Data - Line Graph)
+**Duration**: 90 words, 38 seconds
+
+```
+This [LINE graph] | ILLUSTRATES information | REGARDING [the S and P ASX TWO hundred index].
+
+At the TOP, | [at TWELVE o'clock] | DEMONSTRATES the HIGHEST value, |
+which is approximately [THREE thousand FIVE hundred points].
+
+Following THAT, | [at ELEVEN thirty] | SHOWS around [THREE thousand FOUR hundred ninety points], |
+representing the SECOND-highest figure.
+
+Conversely, | [at TEN o'clock] | INDICATES the LOWEST value |
+at approximately [THREE thousand FOUR hundred sixty-eight points].
+
+Additionally, | [ELEVEN o'clock] | and [ONE thirty] |
+also contribute SIGNIFICANTLY | to the data ANALYSIS.
+
+In CONCLUSION, | this chart PRESENTS comprehensive DATA |
+demonstrating CLEAR variations | in [stock market performance].
+```
+
+---
+
+## IMAGE #7: Overseas Visitors to Three Areas (#031040)
+**Template**: B (Multiple Categories - Comparison)
 **Duration**: 92 words, 38 seconds
 
 ```
-This [LINE graph] | PRESENTS statistical data | COMPARING [average monthly temperatures] in [TWO cities].
+This [LINE graph] | COMPARES data | between [the coast, the mountains, and the lakes].
 
-When EXAMINING [City A], | [the JULY period] | LEADS |
-at approximately [THIRTY degrees Celsius].
+When EXAMINING [the coast], | [in TWO thousand and SEVEN] | LEADS |
+at approximately [SEVENTY-five thousand visitors].
 
-Conversely, | [the JANUARY period] | shows the LOWEST value |
-at around [FIVE degrees Celsius].
+Conversely, | [in NINETEEN eighty-seven] | shows the LOWEST value |
+at around [FORTY thousand visitors].
 
-SWITCHING to [City B], | [the JULY period] | REPRESENTS the highest figure |
-at approximately [TWENTY-eight degrees Celsius].
+SWITCHING to [the mountains], | [in TWO thousand and TWO] | REPRESENTS the highest figure |
+at approximately [SEVENTY-five thousand visitors].
 
-Furthermore, | [APRIL] | and [OCTOBER] |
+Furthermore, | [the lakes] | and [NINETEEN ninety-two] |
 also DEMONSTRATE notable VALUES | across BOTH categories.
 
 OVERALL, | this data CLEARLY illustrates |
-the COMPARATIVE analysis | between [the TWO cities' temperatures].
+the COMPARATIVE analysis | between [the three tourist areas].
 ```
 
 ---
 
-## IMAGE #6: Global Internet Users 1995-2010 (#031006)
-**Template**: A (Single Category Data - Line Graph)
-**Duration**: 90 words, 38 seconds
-
-```
-This [LINE graph] | ILLUSTRATES information | REGARDING [global Internet users from NINETEEN ninety-five to TWO thousand and TEN].
-
-At the TOP, | [in TWO thousand and TEN] | DEMONSTRATES the HIGHEST value, |
-which is approximately [TWO billion users].
-
-Following THAT, | [in TWO thousand and FIVE] | SHOWS around [ONE billion users], |
-representing the SECOND-highest figure.
-
-Conversely, | [in NINETEEN ninety-five] | INDICATES the LOWEST value |
-at approximately [FIFTY million users].
-
-Additionally, | [TWO thousand] | and [TWO thousand and THREE] |
-also contribute SIGNIFICANTLY | to the data ANALYSIS.
-
-In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [Internet adoption].
-```
-
----
-
-## IMAGE #7: World Population Growth (#031007)
-**Template**: A (Single Category Data - Line Graph)
-**Duration**: 88 words, 37 seconds
-
-```
-This [LINE graph] | ILLUSTRATES information | REGARDING [world population growth].
-
-At the TOP, | [in TWO thousand and FIFTY] | DEMONSTRATES the HIGHEST value, |
-which is approximately [NINE point TWO billion people].
-
-Following THAT, | [in TWO thousand and TWENTY-five] | SHOWS around [EIGHT billion people], |
-representing the SECOND-highest figure.
-
-Conversely, | [in NINETEEN fifty] | INDICATES the LOWEST value |
-at approximately [TWO point FIVE billion people].
-
-Additionally, | [TWO thousand] | also contributes SIGNIFICANTLY | to the data ANALYSIS.
-
-In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [population growth].
-```
-
----
-
-## IMAGE #8: Household Energy Consumption (#031008)
-**Template**: A (Modified for Pie Chart)
-**Duration**: 90 words, 38 seconds
-
-```
-This [PIE chart] | DISPLAYS the DISTRIBUTION | of [household energy consumption].
-
-The LARGEST segment, | [HEATING and COOLING], | OCCUPIES approximately [FORTY-five percent] |
-of the total energy usage.
-
-The SECOND major component, | [WATER heating], | ACCOUNTS FOR around [EIGHTEEN percent], |
-representing a SIGNIFICANT portion.
-
-Meanwhile, | [LIGHTING and APPLIANCES] | COMPRISE approximately [FIFTEEN percent] |
-of the energy consumption.
-
-Furthermore, | [OTHER categories] |
-also REPRESENT notable PROPORTIONS | of the total usage.
-
-In SUMMARY, | this chart EFFECTIVELY illustrates |
-the PRIMARY sources | of [household energy consumption].
-```
-
----
-
-## IMAGE #9: Student Performance by Subject (#031009)
-**Template**: A (Modified for Multiple Categories)
+## IMAGE #8: Projected Population Australia (#031046)
+**Template**: B (Multiple Categories - Comparison)
 **Duration**: 92 words, 38 seconds
 
 ```
-This [BAR chart] | COMPARES [student performance] | ACROSS [different subjects].
+This [LINE graph] | COMPARES data | between [Series A, Series B, and Series C].
 
-EXAMINING the data, | [MATHEMATICS] | LEADS the comparison |
-with approximately [EIGHTY-five percent].
+When EXAMINING [Series A], | [in TWENTY-one oh-one] | LEADS |
+at approximately [SEVENTY million people].
 
-In CONTRAST, | [SCIENCE] | FOLLOWS closely |
-at around [EIGHTY percent].
+Conversely, | [in TWENTY oh-one] | shows the LOWEST value |
+at around [TWENTY million people].
 
-Meanwhile, | [ENGLISH] | DEMONSTRATES moderate performance |
-at approximately [SEVENTY-five percent].
+SWITCHING to [Series B], | [in TWENTY-one oh-one] | REPRESENTS the highest figure |
+at approximately [FORTY-five million people].
 
-Additionally, | [HISTORY] | and [GEOGRAPHY] |
-show COMPARABLE results | at [SEVENTY percent] and [SIXTY-eight percent] RESPECTIVELY.
+Furthermore, | [Series C] | and [TWENTY forty-one] |
+also DEMONSTRATE notable VALUES | across BOTH categories.
 
-In SUMMARY, | this visualization EFFECTIVELY presents |
-the RELATIVE performance | across MULTIPLE [academic subjects].
+OVERALL, | this data CLEARLY illustrates |
+the COMPARATIVE analysis | between [the three population projections].
 ```
 
 ---
 
-## IMAGE #10: Global CO2 Emissions by Region (#031010)
-**Template**: C (Modified for Trends)
-**Duration**: 90 words, 38 seconds
+## IMAGE #9: Annual Per Capita Meat Consumption (#031049)
+**Template**: B (Multiple Categories - Comparison)
+**Duration**: 92 words, 38 seconds
 
 ```
-This [LINE graph] | ILLUSTRATES the TREND | of [global CO2 emissions by region].
+This [LINE graph] | COMPARES data | between [USA, China, Liberia, Brazil, India, and Ethiopia].
 
-Initially, | [in NINETEEN ninety], | [ASIA] showed |
-approximately [THREE billion tons].
+When EXAMINING [USA], | [in TWO thousand and NINE] | LEADS |
+at approximately [ONE hundred and THIRTY kilograms].
 
-Subsequently, | the figure EXPERIENCED steady GROWTH, |
-REACHING [FIVE billion tons] | by [TWO thousand].
+Conversely, | [in NINETEEN sixty-one] | shows the LOWEST value |
+at around [NINETY kilograms].
 
-Following THIS, | the emissions CONTINUED to INCREASE, |
-ARRIVING at [EIGHT billion tons] | in [TWO thousand and TEN].
+SWITCHING to [India], | [in TWO thousand and NINE] | REPRESENTS the highest figure |
+at approximately [FIVE kilograms].
 
-Meanwhile, | [OTHER regions] |
-demonstrated RELATIVELY stable patterns | throughout the period.
+Furthermore, | [Brazil] | and [Ethiopia] |
+also DEMONSTRATE notable VALUES | across BOTH categories.
 
-In CONCLUSION, | this chart CLEARLY indicates |
-SIGNIFICANT upward TRENDS | in [Asian emissions].
+OVERALL, | this data CLEARLY illustrates |
+the COMPARATIVE analysis | between [meat consumption patterns globally].
+```
+
+---
+
+## IMAGE #10: Australian Age Group (#031053)
+**Template**: B (Multiple Categories - Comparison)
+**Duration**: 92 words, 38 seconds
+
+```
+This [BAR chart] | COMPARES data | between [males and females].
+
+When EXAMINING [males], | [age group TWENTY-five to THIRTY-four] | LEADS |
+at approximately [SIXTEEN point TWO percent].
+
+Conversely, | [age group EIGHTY-five plus] | shows the LOWEST value |
+at around [ZERO point SEVEN percent].
+
+SWITCHING to [females], | [age group TWENTY-five to THIRTY-four] | REPRESENTS the highest figure |
+at approximately [SIXTEEN point FIVE percent].
+
+Furthermore, | [age group FIFTEEN to TWENTY-four] | and [age group THIRTY-five to FORTY-four] |
+also DEMONSTRATE notable VALUES | across BOTH categories.
+
+OVERALL, | this data CLEARLY illustrates |
+the COMPARATIVE analysis | between [male and female age distribution].
 ```
 
 ---
