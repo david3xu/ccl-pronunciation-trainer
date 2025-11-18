@@ -1,14 +1,6 @@
 {
   "metadata": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "generated": "2025-11-18T03:54:10.402Z",
-=======
-    "generated": "2025-11-18T04:11:54.326Z",
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-    "generated": "2025-11-18T04:11:54.326Z",
->>>>>>> claude/fix-ui-vocabulary-books
+    "generated": "2025-11-18T08:01:06.682Z",
     "totalAnswers": 10,
     "source": "di-answers",
     "description": "DI complete answers (Images 11-20) for shadowing practice with phrase-by-phrase breakdown",
@@ -21,15 +13,7 @@
       "id": "di-image-11",
       "imageNumber": 11,
       "title": "Net Generation from Coal and Share of Total Generation",
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "template": "B",
-=======
       "template": "A",
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-      "template": "A",
->>>>>>> claude/fix-ui-vocabulary-books
       "fullText": "This LINE graph | PRESENTS statistical data | COMPARING net generation and share percentage.\n\nWhen EXAMINING net generation, | the NINETEEN ninety period | LEADS | \nat approximately TWO point FOUR billion megawatt hours.\n\nConversely, | the NINETEEN sixty period | shows the LOWEST value | \nat around ONE point SIX billion megawatt hours.\n\nSWITCHING to share percentage, | the NINETEEN fifty period | REPRESENTS the highest figure | \nat approximately FIFTY-five percent.\n\nFurthermore, | TWO thousand | and TWO thousand and TEN | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between generation and market share.",
       "phrases": [
         {
@@ -166,33 +150,15 @@
           "estimatedDuration": 2142.8571428571427
         }
       ],
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "wordCount": 92,
-      "duration": 38,
-=======
       "wordCount": 0,
       "duration": 0,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-      "wordCount": 0,
-      "duration": 0,
->>>>>>> claude/fix-ui-vocabulary-books
       "category": "di-shadowing"
     },
     {
       "id": "di-image-12",
       "imageNumber": 12,
       "title": "Median & Average Sales Prices of New Homes Sold in US 1963-2011",
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "template": "B",
-=======
       "template": "A",
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-      "template": "A",
->>>>>>> claude/fix-ui-vocabulary-books
       "fullText": "This LINE graph | PRESENTS statistical data | COMPARING median and average prices.\n\nWhen EXAMINING median prices, | the TWO thousand and SEVEN period | LEADS | \nat approximately TWO hundred and FIFTY thousand dollars.\n\nConversely, | the NINETEEN sixty-three period | shows the LOWEST value | \nat around TWENTY thousand dollars.\n\nSWITCHING to average prices, | the TWO thousand and SEVEN period | REPRESENTS the highest figure | \nat approximately THREE hundred thousand dollars.\n\nFurthermore, | NINETEEN ninety | and TWO thousand | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between median and average home prices.",
       "phrases": [
         {
@@ -329,37 +295,13 @@
           "estimatedDuration": 2571.4285714285716
         }
       ],
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "wordCount": 90,
-      "duration": 38,
-=======
       "wordCount": 0,
       "duration": 0,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-      "wordCount": 0,
-      "duration": 0,
->>>>>>> claude/fix-ui-vocabulary-books
       "category": "di-shadowing"
     },
     {
       "id": "di-image-13",
       "imageNumber": 13,
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "title": "Daily Temperature in Beijing China",
-      "template": "A",
-      "fullText": "This AREA chart | ILLUSTRATES information | REGARDING daily temperature in Beijing China.\n\nAt the TOP, | in JULY, | DEMONSTRATES the HIGHEST value, | \nwhich is approximately THIRTY-two degrees Celsius.\n\nFollowing THAT, | in JUNE, | SHOWS around TWENTY-eight degrees, | \nrepresenting the SECOND-highest figure.\n\nConversely, | in JANUARY, | INDICATES the LOWEST value | \nat approximately MINUS five degrees Celsius.\n\nAdditionally, | APRIL | and OCTOBER | \nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA | \ndemonstrating CLEAR variations | in temperature patterns.",
-      "phrases": [
-        {
-          "index": 0,
-          "text": "This AREA chart",
-          "startIndex": 0,
-          "endIndex": 15,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
       "title": "Global Energy Consumption by Source",
       "template": "A",
       "fullText": "This STACKED area chart | DISPLAYS the DISTRIBUTION | of global energy consumption by source.\n\nThe LARGEST component, | FOSSIL fuels, | OCCUPIES approximately EIGHTY percent | \nof the total energy consumption.\n\nThe SECOND major category, | RENEWABLE energy, | ACCOUNTS FOR around TWELVE percent, | \nrepresenting a GROWING portion.\n\nMeanwhile, | NUCLEAR energy | COMPRISES approximately EIGHT percent | \nof the energy mix.\n\nFurthermore, | the chart SHOWS | \nINCREASING trends | in renewable energy adoption.\n\nIn SUMMARY, | this visualization EFFECTIVELY illustrates | \nthe PRIMARY sources | of global energy consumption.",
@@ -652,110 +594,38 @@
           "text": "This BAR chart",
           "startIndex": 0,
           "endIndex": 14,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 1,
           "text": "ILLUSTRATES information",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 18,
-          "endIndex": 41,
-=======
           "startIndex": 17,
           "endIndex": 40,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 17,
-          "endIndex": 40,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "REGARDING daily temperature in Beijing China. At the TOP,",
-          "startIndex": 44,
-          "endIndex": 101,
-=======
           "text": "REGARDING annual rainfall in major cities. At the TOP,",
           "startIndex": 43,
           "endIndex": 97,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "text": "REGARDING annual rainfall in major cities. At the TOP,",
-          "startIndex": 43,
-          "endIndex": 97,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 3857.142857142857
         },
         {
           "index": 3,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "in JULY,",
-          "startIndex": 104,
-          "endIndex": 112,
-          "estimatedDuration": 857.1428571428571
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "SINGAPORE",
           "startIndex": 100,
           "endIndex": 109,
           "estimatedDuration": 428.57142857142856
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
         },
         {
           "index": 4,
           "text": "DEMONSTRATES the HIGHEST value,",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 115,
-          "endIndex": 146,
-=======
           "startIndex": 112,
           "endIndex": 143,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 112,
-          "endIndex": 143,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 5,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "which is approximately THIRTY-two degrees Celsius. Following THAT,",
-          "startIndex": 149,
-          "endIndex": 215,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 6,
-          "text": "in JUNE,",
-          "startIndex": 218,
-          "endIndex": 226,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 7,
-          "text": "SHOWS around TWENTY-eight degrees,",
-          "startIndex": 229,
-          "endIndex": 263,
-          "estimatedDuration": 1714.2857142857142
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "which is approximately TWO thousand FOUR hundred millimeters. Following THAT,",
           "startIndex": 146,
           "endIndex": 223,
@@ -774,82 +644,30 @@
           "startIndex": 235,
           "endIndex": 273,
           "estimatedDuration": 2142.8571428571427
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
         },
         {
           "index": 8,
           "text": "representing the SECOND-highest figure. Conversely,",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 266,
-          "endIndex": 317,
-=======
           "startIndex": 276,
           "endIndex": 327,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 276,
-          "endIndex": 327,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 9,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "in JANUARY,",
-          "startIndex": 320,
-          "endIndex": 331,
-          "estimatedDuration": 857.1428571428571
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "DUBAI",
           "startIndex": 330,
           "endIndex": 335,
           "estimatedDuration": 428.57142857142856
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
         },
         {
           "index": 10,
           "text": "INDICATES the LOWEST value",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 334,
-          "endIndex": 360,
-=======
           "startIndex": 338,
           "endIndex": 364,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 338,
-          "endIndex": 364,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 11,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "at approximately MINUS five degrees Celsius. Additionally,",
-          "startIndex": 363,
-          "endIndex": 421,
-          "estimatedDuration": 3000
-        },
-        {
-          "index": 12,
-          "text": "APRIL",
-          "startIndex": 424,
-          "endIndex": 429,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "at approximately ONE hundred millimeters. Additionally,",
           "startIndex": 367,
           "endIndex": 422,
@@ -860,26 +678,12 @@
           "text": "LONDON",
           "startIndex": 425,
           "endIndex": 431,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 428.57142857142856
         },
         {
           "index": 13,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "and OCTOBER",
-          "startIndex": 432,
-=======
           "text": "and TOKYO",
           "startIndex": 434,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "text": "and TOKYO",
-          "startIndex": 434,
->>>>>>> claude/fix-ui-vocabulary-books
           "endIndex": 443,
           "estimatedDuration": 857.1428571428571
         },
@@ -913,309 +717,6 @@
         },
         {
           "index": 18,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "in temperature patterns.",
-          "startIndex": 591,
-          "endIndex": 615,
-          "estimatedDuration": 1285.7142857142858
-        }
-      ],
-      "wordCount": 90,
-      "duration": 38,
-      "category": "di-shadowing"
-    },
-    {
-      "id": "di-image-14",
-      "imageNumber": 14,
-      "title": "Electricity Generation in China by Type 1994-2004",
-      "template": "B",
-      "fullText": "This AREA chart | PRESENTS statistical data | COMPARING conventional thermal and hydroelectric generation.\n\nWhen EXAMINING conventional thermal, | the TWO thousand and FOUR period | LEADS | \nat approximately ONE thousand FIVE hundred billion kilowatt hours.\n\nConversely, | the NINETEEN ninety-four period | shows the LOWEST value | \nat around EIGHT hundred billion kilowatt hours.\n\nSWITCHING to hydroelectric, | values remain RELATIVELY stable | THROUGHOUT the period | \nat approximately TWO hundred billion kilowatt hours.\n\nFurthermore, | TWO thousand | and TWO thousand and TWO | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between energy sources.",
-      "phrases": [
-        {
-          "index": 0,
-          "text": "This AREA chart",
-          "startIndex": 0,
-          "endIndex": 15,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 1,
-          "text": "PRESENTS statistical data",
-          "startIndex": 18,
-          "endIndex": 43,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 2,
-          "text": "COMPARING conventional thermal and hydroelectric generation. When EXAMINING conventional thermal,",
-          "startIndex": 46,
-          "endIndex": 143,
-          "estimatedDuration": 4285.714285714285
-        },
-        {
-          "index": 3,
-          "text": "the TWO thousand and FOUR period",
-          "startIndex": 146,
-          "endIndex": 178,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 4,
-          "text": "LEADS",
-          "startIndex": 181,
-          "endIndex": 186,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 5,
-          "text": "at approximately ONE thousand FIVE hundred billion kilowatt hours. Conversely,",
-          "startIndex": 189,
-          "endIndex": 267,
-          "estimatedDuration": 4285.714285714285
-        },
-        {
-          "index": 6,
-          "text": "the NINETEEN ninety-four period",
-          "startIndex": 270,
-          "endIndex": 301,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 7,
-          "text": "shows the LOWEST value",
-          "startIndex": 304,
-          "endIndex": 326,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 8,
-          "text": "at around EIGHT hundred billion kilowatt hours. SWITCHING to hydroelectric,",
-          "startIndex": 329,
-          "endIndex": 404,
-          "estimatedDuration": 4285.714285714285
-        },
-        {
-          "index": 9,
-          "text": "values remain RELATIVELY stable",
-          "startIndex": 407,
-          "endIndex": 438,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 10,
-          "text": "THROUGHOUT the period",
-          "startIndex": 441,
-          "endIndex": 462,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 11,
-          "text": "at approximately TWO hundred billion kilowatt hours. Furthermore,",
-          "startIndex": 465,
-          "endIndex": 530,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 12,
-          "text": "TWO thousand",
-          "startIndex": 533,
-          "endIndex": 545,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 13,
-          "text": "and TWO thousand and TWO",
-          "startIndex": 548,
-          "endIndex": 572,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 14,
-          "text": "also DEMONSTRATE notable VALUES",
-          "startIndex": 575,
-          "endIndex": 606,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 15,
-          "text": "across BOTH categories. OVERALL,",
-          "startIndex": 609,
-          "endIndex": 641,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 16,
-          "text": "this data CLEARLY illustrates",
-          "startIndex": 644,
-          "endIndex": 673,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 17,
-          "text": "the COMPARATIVE analysis",
-          "startIndex": 676,
-          "endIndex": 700,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "between energy sources.",
-          "startIndex": 703,
-          "endIndex": 726,
-          "estimatedDuration": 1285.7142857142858
-        }
-      ],
-      "wordCount": 92,
-      "duration": 38,
-      "category": "di-shadowing"
-    },
-    {
-      "id": "di-image-15",
-      "imageNumber": 15,
-      "title": "University and College Students Who Did Educational Activities",
-      "template": "B",
-      "fullText": "This LINE graph | PRESENTS statistical data | COMPARING full-time and part-time students.\n\nWhen EXAMINING full-time students, | the TWELVE noon period | LEADS | \nat approximately THIRTY-five percent.\n\nConversely, | the FOUR AM period | shows the LOWEST value | \nat around THREE percent.\n\nSWITCHING to part-time students, | the TWELVE noon period | REPRESENTS the highest figure | \nat approximately TWENTY-three percent.\n\nFurthermore, | EIGHT AM | and FOUR PM | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between full-time and part-time student activities.",
-      "phrases": [
-        {
-          "index": 0,
-          "text": "This LINE graph",
-          "startIndex": 0,
-          "endIndex": 15,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 1,
-          "text": "PRESENTS statistical data",
-          "startIndex": 18,
-          "endIndex": 43,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 2,
-          "text": "COMPARING full-time and part-time students. When EXAMINING full-time students,",
-          "startIndex": 46,
-          "endIndex": 124,
-          "estimatedDuration": 3857.142857142857
-        },
-        {
-          "index": 3,
-          "text": "the TWELVE noon period",
-          "startIndex": 127,
-          "endIndex": 149,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 4,
-          "text": "LEADS",
-          "startIndex": 152,
-          "endIndex": 157,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 5,
-          "text": "at approximately THIRTY-five percent. Conversely,",
-          "startIndex": 160,
-          "endIndex": 209,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 6,
-          "text": "the FOUR AM period",
-          "startIndex": 212,
-          "endIndex": 230,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 7,
-          "text": "shows the LOWEST value",
-          "startIndex": 233,
-          "endIndex": 255,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 8,
-          "text": "at around THREE percent. SWITCHING to part-time students,",
-          "startIndex": 258,
-          "endIndex": 315,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 9,
-          "text": "the TWELVE noon period",
-          "startIndex": 318,
-          "endIndex": 340,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 10,
-          "text": "REPRESENTS the highest figure",
-          "startIndex": 343,
-          "endIndex": 372,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately TWENTY-three percent. Furthermore,",
-          "startIndex": 375,
-          "endIndex": 426,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 12,
-          "text": "EIGHT AM",
-          "startIndex": 429,
-          "endIndex": 437,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 13,
-          "text": "and FOUR PM",
-          "startIndex": 440,
-          "endIndex": 451,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 14,
-          "text": "also DEMONSTRATE notable VALUES",
-          "startIndex": 454,
-          "endIndex": 485,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 15,
-          "text": "across BOTH categories. OVERALL,",
-          "startIndex": 488,
-          "endIndex": 520,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 16,
-          "text": "this data CLEARLY illustrates",
-          "startIndex": 523,
-          "endIndex": 552,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 17,
-          "text": "the COMPARATIVE analysis",
-          "startIndex": 555,
-          "endIndex": 579,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "between full-time and part-time student activities.",
-          "startIndex": 582,
-          "endIndex": 633,
-          "estimatedDuration": 2571.4285714285716
-        }
-      ],
-      "wordCount": 92,
-      "duration": 38,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "in rainfall patterns.",
           "startIndex": 591,
           "endIndex": 612,
@@ -1224,30 +725,14 @@
       ],
       "wordCount": 0,
       "duration": 0,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
       "category": "di-shadowing"
     },
     {
       "id": "di-image-16",
       "imageNumber": 16,
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "title": "Food Price vs Oil Price",
-      "template": "B",
-      "fullText": "This LINE graph | PRESENTS statistical data | COMPARING food price and oil price.\n\nWhen EXAMINING food price, | the TWO thousand and EIGHT period | LEADS | \nat approximately ONE hundred and FORTY dollars.\n\nConversely, | the TWO thousand period | shows the LOWEST value | \nat around TWENTY dollars.\n\nSWITCHING to oil price, | the TWO thousand and EIGHT period | REPRESENTS the highest figure | \nat approximately TWO hundred and TEN dollars.\n\nFurthermore, | TWO thousand and FOUR | and TWO thousand and SIX | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between food and oil prices.",
-=======
       "title": "Corporate Revenue Growth 2015-2020",
       "template": "A",
       "fullText": "This LINE graph | ILLUSTRATES the TREND | of corporate revenue growth.\n\nInitially, | in TWO thousand and FIFTEEN, | the company showed | \napproximately FIFTY million dollars.\n\nSubsequently, | the figure EXPERIENCED steady GROWTH, | \nREACHING SEVENTY-five million dollars | by TWO thousand and SEVENTEEN.\n\nFollowing THIS, | the revenue CONTINUED to INCREASE, | \nARRIVING at ONE hundred million dollars | in TWO thousand and TWENTY.\n\nMeanwhile, | TWO thousand and EIGHTEEN | \ndemonstrated PARTICULARLY strong growth | during this period.\n\nIn CONCLUSION, | this chart CLEARLY indicates | \nCONSISTENT upward TRENDS | in corporate performance.",
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-      "title": "Corporate Revenue Growth 2015-2020",
-      "template": "A",
-      "fullText": "This LINE graph | ILLUSTRATES the TREND | of corporate revenue growth.\n\nInitially, | in TWO thousand and FIFTEEN, | the company showed | \napproximately FIFTY million dollars.\n\nSubsequently, | the figure EXPERIENCED steady GROWTH, | \nREACHING SEVENTY-five million dollars | by TWO thousand and SEVENTEEN.\n\nFollowing THIS, | the revenue CONTINUED to INCREASE, | \nARRIVING at ONE hundred million dollars | in TWO thousand and TWENTY.\n\nMeanwhile, | TWO thousand and EIGHTEEN | \ndemonstrated PARTICULARLY strong growth | during this period.\n\nIn CONCLUSION, | this chart CLEARLY indicates | \nCONSISTENT upward TRENDS | in corporate performance.",
->>>>>>> claude/fix-ui-vocabulary-books
       "phrases": [
         {
           "index": 0,
@@ -1258,68 +743,13 @@
         },
         {
           "index": 1,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "PRESENTS statistical data",
-          "startIndex": 18,
-          "endIndex": 43,
-=======
           "text": "ILLUSTRATES the TREND",
           "startIndex": 18,
           "endIndex": 39,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "text": "ILLUSTRATES the TREND",
-          "startIndex": 18,
-          "endIndex": 39,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "COMPARING food price and oil price. When EXAMINING food price,",
-          "startIndex": 46,
-          "endIndex": 108,
-          "estimatedDuration": 4285.714285714285
-        },
-        {
-          "index": 3,
-          "text": "the TWO thousand and EIGHT period",
-          "startIndex": 111,
-          "endIndex": 144,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 4,
-          "text": "LEADS",
-          "startIndex": 147,
-          "endIndex": 152,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 5,
-          "text": "at approximately ONE hundred and FORTY dollars. Conversely,",
-          "startIndex": 155,
-          "endIndex": 214,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 6,
-          "text": "the TWO thousand period",
-          "startIndex": 217,
-          "endIndex": 240,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 7,
-          "text": "shows the LOWEST value",
-          "startIndex": 243,
-          "endIndex": 265,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "of corporate revenue growth. Initially,",
           "startIndex": 42,
           "endIndex": 81,
@@ -1358,50 +788,10 @@
           "text": "REACHING SEVENTY-five million dollars",
           "startIndex": 229,
           "endIndex": 266,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 8,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "at around TWENTY dollars. SWITCHING to oil price,",
-          "startIndex": 268,
-          "endIndex": 317,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 9,
-          "text": "the TWO thousand and EIGHT period",
-          "startIndex": 320,
-          "endIndex": 353,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 10,
-          "text": "REPRESENTS the highest figure",
-          "startIndex": 356,
-          "endIndex": 385,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately TWO hundred and TEN dollars. Furthermore,",
-          "startIndex": 388,
-          "endIndex": 446,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 12,
-          "text": "TWO thousand and FOUR",
-          "startIndex": 449,
-          "endIndex": 470,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "by TWO thousand and SEVENTEEN. Following THIS,",
           "startIndex": 269,
           "endIndex": 315,
@@ -1433,36 +823,10 @@
           "text": "TWO thousand and EIGHTEEN",
           "startIndex": 438,
           "endIndex": 463,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 13,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "and TWO thousand and SIX",
-          "startIndex": 473,
-          "endIndex": 497,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 14,
-          "text": "also DEMONSTRATE notable VALUES",
-          "startIndex": 500,
-          "endIndex": 531,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 15,
-          "text": "across BOTH categories. OVERALL,",
-          "startIndex": 534,
-          "endIndex": 566,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "demonstrated PARTICULARLY strong growth",
           "startIndex": 466,
           "endIndex": 505,
@@ -1480,41 +844,10 @@
           "text": "this chart CLEARLY indicates",
           "startIndex": 545,
           "endIndex": 573,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 16,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "this data CLEARLY illustrates",
-          "startIndex": 569,
-          "endIndex": 598,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 17,
-          "text": "the COMPARATIVE analysis",
-          "startIndex": 601,
-          "endIndex": 625,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "between food and oil prices.",
-          "startIndex": 628,
-          "endIndex": 656,
-          "estimatedDuration": 2142.8571428571427
-        }
-      ],
-      "wordCount": 92,
-      "duration": 38,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "CONSISTENT upward TRENDS",
           "startIndex": 576,
           "endIndex": 600,
@@ -1530,29 +863,11 @@
       ],
       "wordCount": 0,
       "duration": 0,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
       "category": "di-shadowing"
     },
     {
       "id": "di-image-17",
       "imageNumber": 17,
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "title": "Overseas Visitors to Three Different Areas",
-      "template": "B",
-      "fullText": "This LINE graph | PRESENTS statistical data | COMPARING three different areas.\n\nWhen EXAMINING the coast, | the TWO thousand and SEVEN period | LEADS | \nat approximately SEVENTY-five thousand visitors.\n\nConversely, | the NINETEEN eighty-seven period | shows the LOWEST value | \nat around FORTY thousand visitors.\n\nSWITCHING to the mountains, | the TWO thousand and TWO period | REPRESENTS the highest figure | \nat approximately SEVENTY-five thousand visitors.\n\nFurthermore, | the lakes | and other periods | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between different tourist destinations.",
-      "phrases": [
-        {
-          "index": 0,
-          "text": "This LINE graph",
-          "startIndex": 0,
-          "endIndex": 15,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
       "title": "Market Share of Smartphone Brands",
       "template": "A",
       "fullText": "This PIE chart | DISPLAYS the DISTRIBUTION | of smartphone market share.\n\nThe LARGEST segment, | BRAND A, | OCCUPIES approximately THIRTY-five percent | \nof the total market.\n\nThe SECOND major component, | BRAND B, | ACCOUNTS FOR around TWENTY-eight percent, | \nrepresenting a SIGNIFICANT portion.\n\nMeanwhile, | BRAND C | COMPRISES approximately TWENTY percent | \nof the market share.\n\nFurthermore, | OTHER brands | \nCOLLECTIVELY REPRESENT seventeen percent | of the total market.\n\nIn SUMMARY, | this chart EFFECTIVELY illustrates | \nthe COMPETITIVE landscape | in the smartphone industry.",
@@ -1562,97 +877,17 @@
           "text": "This PIE chart",
           "startIndex": 0,
           "endIndex": 14,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 1,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "PRESENTS statistical data",
-          "startIndex": 18,
-          "endIndex": 43,
-=======
           "text": "DISPLAYS the DISTRIBUTION",
           "startIndex": 17,
           "endIndex": 42,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "text": "DISPLAYS the DISTRIBUTION",
-          "startIndex": 17,
-          "endIndex": 42,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "COMPARING three different areas. When EXAMINING the coast,",
-          "startIndex": 46,
-          "endIndex": 104,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 3,
-          "text": "the TWO thousand and SEVEN period",
-          "startIndex": 107,
-          "endIndex": 140,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 4,
-          "text": "LEADS",
-          "startIndex": 143,
-          "endIndex": 148,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 5,
-          "text": "at approximately SEVENTY-five thousand visitors. Conversely,",
-          "startIndex": 151,
-          "endIndex": 211,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 6,
-          "text": "the NINETEEN eighty-seven period",
-          "startIndex": 214,
-          "endIndex": 246,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 7,
-          "text": "shows the LOWEST value",
-          "startIndex": 249,
-          "endIndex": 271,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 8,
-          "text": "at around FORTY thousand visitors. SWITCHING to the mountains,",
-          "startIndex": 274,
-          "endIndex": 336,
-          "estimatedDuration": 3857.142857142857
-        },
-        {
-          "index": 9,
-          "text": "the TWO thousand and TWO period",
-          "startIndex": 339,
-          "endIndex": 370,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 10,
-          "text": "REPRESENTS the highest figure",
-          "startIndex": 373,
-          "endIndex": 402,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "of smartphone market share. The LARGEST segment,",
           "startIndex": 45,
           "endIndex": 93,
@@ -1712,29 +947,10 @@
           "text": "COMPRISES approximately TWENTY percent",
           "startIndex": 317,
           "endIndex": 355,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 11,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "at approximately SEVENTY-five thousand visitors. Furthermore,",
-          "startIndex": 405,
-          "endIndex": 466,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 12,
-          "text": "the lakes",
-          "startIndex": 469,
-          "endIndex": 478,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "of the market share. Furthermore,",
           "startIndex": 358,
           "endIndex": 391,
@@ -1745,36 +961,10 @@
           "text": "OTHER brands",
           "startIndex": 394,
           "endIndex": 406,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 13,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "and other periods",
-          "startIndex": 481,
-          "endIndex": 498,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 14,
-          "text": "also DEMONSTRATE notable VALUES",
-          "startIndex": 501,
-          "endIndex": 532,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 15,
-          "text": "across BOTH categories. OVERALL,",
-          "startIndex": 535,
-          "endIndex": 567,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "COLLECTIVELY REPRESENT seventeen percent",
           "startIndex": 409,
           "endIndex": 449,
@@ -1792,41 +982,10 @@
           "text": "this chart EFFECTIVELY illustrates",
           "startIndex": 487,
           "endIndex": 521,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 16,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "this data CLEARLY illustrates",
-          "startIndex": 570,
-          "endIndex": 599,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 17,
-          "text": "the COMPARATIVE analysis",
-          "startIndex": 602,
-          "endIndex": 626,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 18,
-          "text": "between different tourist destinations.",
-          "startIndex": 629,
-          "endIndex": 668,
-          "estimatedDuration": 1714.2857142857142
-        }
-      ],
-      "wordCount": 92,
-      "duration": 38,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "the COMPETITIVE landscape",
           "startIndex": 524,
           "endIndex": 549,
@@ -1842,30 +1001,14 @@
       ],
       "wordCount": 0,
       "duration": 0,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
       "category": "di-shadowing"
     },
     {
       "id": "di-image-18",
       "imageNumber": 18,
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "title": "Australian Age Group",
-      "template": "B",
-      "fullText": "This BAR chart | PRESENTS statistical data | COMPARING males and females.\n\nWhen EXAMINING males, | the TWENTY-five to thirty-four age group | LEADS | \nat approximately SIXTEEN point TWO percent.\n\nConversely, | the EIGHTY-five plus age group | shows the LOWEST value | \nat around ZERO point SEVEN percent.\n\nSWITCHING to females, | the TWENTY-five to thirty-four age group | REPRESENTS the highest figure | \nat approximately SIXTEEN point FIVE percent.\n\nFurthermore, | the THIRTY-five to forty-four group | and other age brackets | \nalso DEMONSTRATE notable VALUES | across BOTH categories.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | between males and females.",
-=======
       "title": "University Graduate Employment Rates",
       "template": "A",
       "fullText": "This BAR chart | PRESENTS statistical data | COMPARING graduate employment rates across disciplines.\n\nWhen EXAMINING ENGINEERING, | the employment rate | LEADS | \nat approximately NINETY-five percent.\n\nConversely, | HUMANITIES | shows the LOWEST value | \nat around SEVENTY percent.\n\nSWITCHING to BUSINESS, | the employment rate | REPRESENTS a high figure | \nat approximately EIGHTY-eight percent.\n\nFurthermore, | SCIENCE | and MEDICINE | \nalso DEMONSTRATE notable VALUES | at EIGHTY-five and NINETY-two percent RESPECTIVELY.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | of employment outcomes.",
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-      "title": "University Graduate Employment Rates",
-      "template": "A",
-      "fullText": "This BAR chart | PRESENTS statistical data | COMPARING graduate employment rates across disciplines.\n\nWhen EXAMINING ENGINEERING, | the employment rate | LEADS | \nat approximately NINETY-five percent.\n\nConversely, | HUMANITIES | shows the LOWEST value | \nat around SEVENTY percent.\n\nSWITCHING to BUSINESS, | the employment rate | REPRESENTS a high figure | \nat approximately EIGHTY-eight percent.\n\nFurthermore, | SCIENCE | and MEDICINE | \nalso DEMONSTRATE notable VALUES | at EIGHTY-five and NINETY-two percent RESPECTIVELY.\n\nOVERALL, | this data CLEARLY illustrates | \nthe COMPARATIVE analysis | of employment outcomes.",
->>>>>>> claude/fix-ui-vocabulary-books
       "phrases": [
         {
           "index": 0,
@@ -1883,22 +1026,6 @@
         },
         {
           "index": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "COMPARING males and females. When EXAMINING males,",
-          "startIndex": 45,
-          "endIndex": 95,
-          "estimatedDuration": 3000
-        },
-        {
-          "index": 3,
-          "text": "the TWENTY-five to thirty-four age group",
-          "startIndex": 98,
-          "endIndex": 138,
-          "estimatedDuration": 2571.4285714285716
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "COMPARING graduate employment rates across disciplines. When EXAMINING ENGINEERING,",
           "startIndex": 45,
           "endIndex": 128,
@@ -1910,46 +1037,16 @@
           "startIndex": 131,
           "endIndex": 150,
           "estimatedDuration": 1285.7142857142858
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
         },
         {
           "index": 4,
           "text": "LEADS",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 141,
-          "endIndex": 146,
-=======
           "startIndex": 153,
           "endIndex": 158,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 153,
-          "endIndex": 158,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 428.57142857142856
         },
         {
           "index": 5,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "at approximately SIXTEEN point TWO percent. Conversely,",
-          "startIndex": 149,
-          "endIndex": 204,
-          "estimatedDuration": 3000
-        },
-        {
-          "index": 6,
-          "text": "the EIGHTY-five plus age group",
-          "startIndex": 207,
-          "endIndex": 237,
-          "estimatedDuration": 2142.8571428571427
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "at approximately NINETY-five percent. Conversely,",
           "startIndex": 161,
           "endIndex": 210,
@@ -1961,52 +1058,16 @@
           "startIndex": 213,
           "endIndex": 223,
           "estimatedDuration": 428.57142857142856
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
         },
         {
           "index": 7,
           "text": "shows the LOWEST value",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 240,
-          "endIndex": 262,
-=======
           "startIndex": 226,
           "endIndex": 248,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 226,
-          "endIndex": 248,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 8,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "at around ZERO point SEVEN percent. SWITCHING to females,",
-          "startIndex": 265,
-          "endIndex": 322,
-          "estimatedDuration": 3857.142857142857
-        },
-        {
-          "index": 9,
-          "text": "the TWENTY-five to thirty-four age group",
-          "startIndex": 325,
-          "endIndex": 365,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 10,
-          "text": "REPRESENTS the highest figure",
-          "startIndex": 368,
-          "endIndex": 397,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "at around SEVENTY percent. SWITCHING to BUSINESS,",
           "startIndex": 251,
           "endIndex": 300,
@@ -2024,37 +1085,10 @@
           "text": "REPRESENTS a high figure",
           "startIndex": 325,
           "endIndex": 349,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 11,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "at approximately SIXTEEN point FIVE percent. Furthermore,",
-          "startIndex": 400,
-          "endIndex": 457,
-          "estimatedDuration": 3000
-        },
-        {
-          "index": 12,
-          "text": "the THIRTY-five to forty-four group",
-          "startIndex": 460,
-          "endIndex": 495,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 13,
-          "text": "and other age brackets",
-          "startIndex": 498,
-          "endIndex": 520,
-          "estimatedDuration": 1714.2857142857142
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "at approximately EIGHTY-eight percent. Furthermore,",
           "startIndex": 352,
           "endIndex": 403,
@@ -2073,97 +1107,37 @@
           "startIndex": 416,
           "endIndex": 428,
           "estimatedDuration": 857.1428571428571
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
         },
         {
           "index": 14,
           "text": "also DEMONSTRATE notable VALUES",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 523,
-          "endIndex": 554,
-=======
           "startIndex": 431,
           "endIndex": 462,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 431,
-          "endIndex": 462,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 15,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "across BOTH categories. OVERALL,",
-          "startIndex": 557,
-          "endIndex": 589,
-          "estimatedDuration": 1714.2857142857142
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "at EIGHTY-five and NINETY-two percent RESPECTIVELY. OVERALL,",
           "startIndex": 465,
           "endIndex": 525,
           "estimatedDuration": 3000
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
         },
         {
           "index": 16,
           "text": "this data CLEARLY illustrates",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 592,
-          "endIndex": 621,
-=======
           "startIndex": 528,
           "endIndex": 557,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 528,
-          "endIndex": 557,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 17,
           "text": "the COMPARATIVE analysis",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 624,
-          "endIndex": 648,
-=======
           "startIndex": 560,
           "endIndex": 584,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 560,
-          "endIndex": 584,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 18,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "between males and females.",
-          "startIndex": 651,
-          "endIndex": 677,
-          "estimatedDuration": 1714.2857142857142
-        }
-      ],
-      "wordCount": 92,
-      "duration": 38,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "of employment outcomes.",
           "startIndex": 587,
           "endIndex": 610,
@@ -2172,29 +1146,11 @@
       ],
       "wordCount": 0,
       "duration": 0,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
       "category": "di-shadowing"
     },
     {
       "id": "di-image-19",
       "imageNumber": 19,
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "title": "Pupil/Teacher Ratio in Primary Schools, January 1997",
-      "template": "A",
-      "fullText": "This BAR chart | ILLUSTRATES information | REGARDING pupil teacher ratio in primary schools.\n\nAt the TOP, | the TWENTY-THREE to TWENTY-FOUR ratio | DEMONSTRATES the HIGHEST value, | \nwhich is approximately FIFTEEN percent.\n\nFollowing THAT, | the TWENTY-TWO ratio | SHOWS around THIRTEEN percent, | \nrepresenting the SECOND-highest figure.\n\nConversely, | the LESS than sixteen ratio | INDICATES the LOWEST value | \nat approximately TWO percent.\n\nAdditionally, | NINETEEN | and TWENTY-ONE | \nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA | \ndemonstrating CLEAR variations | in educational ratios.",
-      "phrases": [
-        {
-          "index": 0,
-          "text": "This BAR chart",
-          "startIndex": 0,
-          "endIndex": 14,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
       "title": "Water Consumption Patterns",
       "template": "A",
       "fullText": "This LINE graph | ILLUSTRATES information | REGARDING water consumption patterns.\n\nAt the TOP, | in AUGUST, | DEMONSTRATES the HIGHEST value, | \nwhich is approximately FOUR hundred liters per capita.\n\nFollowing THAT, | in JULY, | SHOWS around THREE hundred and FIFTY liters, | \nrepresenting the SECOND-highest figure.\n\nConversely, | in FEBRUARY, | INDICATES the LOWEST value | \nat approximately TWO hundred liters.\n\nAdditionally, | JUNE | and SEPTEMBER | \nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA | \ndemonstrating CLEAR variations | in seasonal consumption.",
@@ -2204,47 +1160,17 @@
           "text": "This LINE graph",
           "startIndex": 0,
           "endIndex": 15,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 1,
           "text": "ILLUSTRATES information",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 17,
-          "endIndex": 40,
-=======
           "startIndex": 18,
           "endIndex": 41,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 18,
-          "endIndex": 41,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "REGARDING pupil teacher ratio in primary schools. At the TOP,",
-          "startIndex": 43,
-          "endIndex": 104,
-          "estimatedDuration": 4285.714285714285
-        },
-        {
-          "index": 3,
-          "text": "the TWENTY-THREE to TWENTY-FOUR ratio",
-          "startIndex": 107,
-          "endIndex": 144,
-          "estimatedDuration": 2142.8571428571427
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "REGARDING water consumption patterns. At the TOP,",
           "startIndex": 44,
           "endIndex": 93,
@@ -2256,53 +1182,16 @@
           "startIndex": 96,
           "endIndex": 106,
           "estimatedDuration": 857.1428571428571
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
         },
         {
           "index": 4,
           "text": "DEMONSTRATES the HIGHEST value,",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 147,
-          "endIndex": 178,
-=======
           "startIndex": 109,
           "endIndex": 140,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 109,
-          "endIndex": 140,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 5,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "which is approximately FIFTEEN percent. Following THAT,",
-          "startIndex": 181,
-          "endIndex": 236,
-          "estimatedDuration": 3000
-        },
-        {
-          "index": 6,
-          "text": "the TWENTY-TWO ratio",
-          "startIndex": 239,
-          "endIndex": 259,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 7,
-          "text": "SHOWS around THIRTEEN percent,",
-          "startIndex": 262,
-          "endIndex": 292,
-          "estimatedDuration": 1714.2857142857142
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "which is approximately FOUR hundred liters per capita. Following THAT,",
           "startIndex": 143,
           "endIndex": 213,
@@ -2321,82 +1210,30 @@
           "startIndex": 227,
           "endIndex": 271,
           "estimatedDuration": 3000
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
         },
         {
           "index": 8,
           "text": "representing the SECOND-highest figure. Conversely,",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 295,
-          "endIndex": 346,
-=======
           "startIndex": 274,
           "endIndex": 325,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 274,
-          "endIndex": 325,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 9,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "the LESS than sixteen ratio",
-          "startIndex": 349,
-          "endIndex": 376,
-          "estimatedDuration": 2142.8571428571427
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "in FEBRUARY,",
           "startIndex": 328,
           "endIndex": 340,
           "estimatedDuration": 857.1428571428571
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
         },
         {
           "index": 10,
           "text": "INDICATES the LOWEST value",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 379,
-          "endIndex": 405,
-=======
           "startIndex": 343,
           "endIndex": 369,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 343,
-          "endIndex": 369,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1714.2857142857142
         },
         {
           "index": 11,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "at approximately TWO percent. Additionally,",
-          "startIndex": 408,
-          "endIndex": 451,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 12,
-          "text": "NINETEEN",
-          "startIndex": 454,
-          "endIndex": 462,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "at approximately TWO hundred liters. Additionally,",
           "startIndex": 372,
           "endIndex": 422,
@@ -2407,114 +1244,45 @@
           "text": "JUNE",
           "startIndex": 425,
           "endIndex": 429,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 428.57142857142856
         },
         {
           "index": 13,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "and TWENTY-ONE",
-          "startIndex": 465,
-          "endIndex": 479,
-=======
           "text": "and SEPTEMBER",
           "startIndex": 432,
           "endIndex": 445,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "text": "and SEPTEMBER",
-          "startIndex": 432,
-          "endIndex": 445,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 14,
           "text": "also contribute SIGNIFICANTLY",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 482,
-          "endIndex": 511,
-=======
           "startIndex": 448,
           "endIndex": 477,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 448,
-          "endIndex": 477,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 15,
           "text": "to the data ANALYSIS. In CONCLUSION,",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 514,
-          "endIndex": 550,
-=======
           "startIndex": 480,
           "endIndex": 516,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 480,
-          "endIndex": 516,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 2571.4285714285716
         },
         {
           "index": 16,
           "text": "this chart PRESENTS comprehensive DATA",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 553,
-          "endIndex": 591,
-=======
           "startIndex": 519,
           "endIndex": 557,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 519,
-          "endIndex": 557,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 2142.8571428571427
         },
         {
           "index": 17,
           "text": "demonstrating CLEAR variations",
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "startIndex": 594,
-          "endIndex": 624,
-=======
           "startIndex": 560,
           "endIndex": 590,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "startIndex": 560,
-          "endIndex": 590,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 18,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "in educational ratios.",
-          "startIndex": 627,
-          "endIndex": 649,
-          "estimatedDuration": 1285.7142857142858
-        }
-      ],
-      "wordCount": 90,
-      "duration": 38,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "in seasonal consumption.",
           "startIndex": 593,
           "endIndex": 617,
@@ -2523,92 +1291,11 @@
       ],
       "wordCount": 0,
       "duration": 0,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
       "category": "di-shadowing"
     },
     {
       "id": "di-image-20",
       "imageNumber": 20,
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "title": "Internet Population in Millions of Users",
-      "template": "A",
-      "fullText": "This BAR chart | ILLUSTRATES information | REGARDING internet population in millions.\n\nAt the TOP, | China | DEMONSTRATES the HIGHEST value, | \nwhich is approximately ONE hundred and EIGHTY million users.\n\nFollowing THAT, | the United States | SHOWS around ONE hundred and SIXTY million users, | \nrepresenting the SECOND-highest figure.\n\nConversely, | the Netherlands | INDICATES the LOWEST value | \nat approximately TEN million users.\n\nAdditionally, | Japan | and Germany | \nalso contribute SIGNIFICANTLY | to the data ANALYSIS.\n\nIn CONCLUSION, | this chart PRESENTS comprehensive DATA | \ndemonstrating CLEAR variations | in internet usage.",
-      "phrases": [
-        {
-          "index": 0,
-          "text": "This BAR chart",
-          "startIndex": 0,
-          "endIndex": 14,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 1,
-          "text": "ILLUSTRATES information",
-          "startIndex": 17,
-          "endIndex": 40,
-          "estimatedDuration": 857.1428571428571
-        },
-        {
-          "index": 2,
-          "text": "REGARDING internet population in millions. At the TOP,",
-          "startIndex": 43,
-          "endIndex": 97,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 3,
-          "text": "China",
-          "startIndex": 100,
-          "endIndex": 105,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 4,
-          "text": "DEMONSTRATES the HIGHEST value,",
-          "startIndex": 108,
-          "endIndex": 139,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 5,
-          "text": "which is approximately ONE hundred and EIGHTY million users. Following THAT,",
-          "startIndex": 142,
-          "endIndex": 218,
-          "estimatedDuration": 4714.285714285715
-        },
-        {
-          "index": 6,
-          "text": "the United States",
-          "startIndex": 221,
-          "endIndex": 238,
-          "estimatedDuration": 1285.7142857142858
-        },
-        {
-          "index": 7,
-          "text": "SHOWS around ONE hundred and SIXTY million users,",
-          "startIndex": 241,
-          "endIndex": 290,
-          "estimatedDuration": 3428.5714285714284
-        },
-        {
-          "index": 8,
-          "text": "representing the SECOND-highest figure. Conversely,",
-          "startIndex": 293,
-          "endIndex": 344,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 9,
-          "text": "the Netherlands",
-          "startIndex": 347,
-          "endIndex": 362,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
       "title": "Research Funding by Field",
       "template": "A",
       "fullText": "This HORIZONTAL bar chart | COMPARES research funding | ACROSS different fields.\n\nEXAMINING the data, | MEDICAL research | LEADS the comparison | \nwith approximately ONE hundred and TWENTY million dollars.\n\nIn CONTRAST, | TECHNOLOGY | FOLLOWS closely | \nat around ONE hundred million dollars.\n\nMeanwhile, | ENVIRONMENTAL science | DEMONSTRATES substantial funding | \nat approximately EIGHTY million dollars.\n\nAdditionally, | SOCIAL sciences | and PHYSICS | \nshow COMPARABLE allocations | at SIXTY million and FIFTY-five million RESPECTIVELY.\n\nIn SUMMARY, | this visualization EFFECTIVELY presents | \nthe RELATIVE funding | across MULTIPLE research areas.",
@@ -2681,29 +1368,10 @@
           "text": "ENVIRONMENTAL science",
           "startIndex": 302,
           "endIndex": 323,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 10,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "INDICATES the LOWEST value",
-          "startIndex": 365,
-          "endIndex": 391,
-          "estimatedDuration": 1714.2857142857142
-        },
-        {
-          "index": 11,
-          "text": "at approximately TEN million users. Additionally,",
-          "startIndex": 394,
-          "endIndex": 443,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "DEMONSTRATES substantial funding",
           "startIndex": 326,
           "endIndex": 358,
@@ -2714,29 +1382,10 @@
           "text": "at approximately EIGHTY million dollars. Additionally,",
           "startIndex": 361,
           "endIndex": 415,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 2571.4285714285716
         },
         {
           "index": 12,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "Japan",
-          "startIndex": 446,
-          "endIndex": 451,
-          "estimatedDuration": 428.57142857142856
-        },
-        {
-          "index": 13,
-          "text": "and Germany",
-          "startIndex": 454,
-          "endIndex": 465,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "SOCIAL sciences",
           "startIndex": 418,
           "endIndex": 433,
@@ -2747,54 +1396,17 @@
           "text": "and PHYSICS",
           "startIndex": 436,
           "endIndex": 447,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 857.1428571428571
         },
         {
           "index": 14,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "also contribute SIGNIFICANTLY",
-          "startIndex": 468,
-          "endIndex": 497,
-=======
           "text": "show COMPARABLE allocations",
           "startIndex": 450,
           "endIndex": 477,
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-          "text": "show COMPARABLE allocations",
-          "startIndex": 450,
-          "endIndex": 477,
->>>>>>> claude/fix-ui-vocabulary-books
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 15,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "to the data ANALYSIS. In CONCLUSION,",
-          "startIndex": 500,
-          "endIndex": 536,
-          "estimatedDuration": 2571.4285714285716
-        },
-        {
-          "index": 16,
-          "text": "this chart PRESENTS comprehensive DATA",
-          "startIndex": 539,
-          "endIndex": 577,
-          "estimatedDuration": 2142.8571428571427
-        },
-        {
-          "index": 17,
-          "text": "demonstrating CLEAR variations",
-          "startIndex": 580,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "at SIXTY million and FIFTY-five million RESPECTIVELY. In SUMMARY,",
           "startIndex": 480,
           "endIndex": 545,
@@ -2811,28 +1423,11 @@
           "index": 17,
           "text": "the RELATIVE funding",
           "startIndex": 590,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "endIndex": 610,
           "estimatedDuration": 1285.7142857142858
         },
         {
           "index": 18,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "text": "in internet usage.",
-          "startIndex": 613,
-          "endIndex": 631,
-          "estimatedDuration": 1285.7142857142858
-        }
-      ],
-      "wordCount": 90,
-      "duration": 38,
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
           "text": "across MULTIPLE research areas.",
           "startIndex": 613,
           "endIndex": 644,
@@ -2841,10 +1436,6 @@
       ],
       "wordCount": 0,
       "duration": 0,
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
       "category": "di-shadowing"
     }
   ]

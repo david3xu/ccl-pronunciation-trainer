@@ -11,22 +11,22 @@
 **Duration**: 90 words, 38 seconds
 
 ```
-This LINE graph | ILLUSTRATES information | REGARDING years to DOUBLE population.
+This [LINE graph] | ILLUSTRATES information | REGARDING [years to DOUBLE population].
 
-At the TOP, | in SEVENTEEN hundred, | DEMONSTRATES the HIGHEST value, |
-which is approximately SIX hundred years.
+At the TOP, | [in SEVENTEEN hundred] | DEMONSTRATES the HIGHEST value, |
+which is approximately [SIX hundred years].
 
-Following THAT, | in EIGHTEEN hundred, | SHOWS around THREE hundred years, |
+Following THAT, | [in EIGHTEEN hundred] | SHOWS around [THREE hundred years], |
 representing the SECOND-highest figure.
 
-Conversely, | in TWO thousand, | INDICATES the LOWEST value |
-at approximately FORTY-seven years.
+Conversely, | [in TWO thousand] | INDICATES the LOWEST value |
+at approximately [FORTY-seven years].
 
-Additionally, | NINETEEN hundred | and NINETEEN fifty |
+Additionally, | [NINETEEN hundred] | and [NINETEEN fifty] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in population DOUBLING time.
+demonstrating CLEAR variations | in [population DOUBLING time].
 ```
 
 ---
@@ -36,22 +36,22 @@ demonstrating CLEAR variations | in population DOUBLING time.
 **Duration**: 90 words, 38 seconds
 
 ```
-This LINE graph | ILLUSTRATES information | REGARDING Dubai Gold Sales in TWO thousand and TWO.
+This [LINE graph] | ILLUSTRATES information | REGARDING [Dubai Gold Sales in TWO thousand and TWO].
 
-At the TOP, | in MARCH, | DEMONSTRATES the HIGHEST value, |
-which is approximately THREE hundred and FIFTY million dirhams.
+At the TOP, | [in MARCH] | DEMONSTRATES the HIGHEST value, |
+which is approximately [THREE hundred and FIFTY million dirhams].
 
-Following THAT, | in JULY, | SHOWS around ONE hundred and FIFTY million dirhams, |
+Following THAT, | [in JULY] | SHOWS around [ONE hundred and FIFTY million dirhams], |
 representing the SECOND-highest figure.
 
-Conversely, | in SEPTEMBER, | INDICATES the LOWEST value |
-at approximately ONE hundred million dirhams.
+Conversely, | [in SEPTEMBER] | INDICATES the LOWEST value |
+at approximately [ONE hundred million dirhams].
 
-Additionally, | JANUARY | and DECEMBER |
+Additionally, | [JANUARY] | and [DECEMBER] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in gold sales.
+demonstrating CLEAR variations | in [gold sales].
 ```
 
 ---
@@ -61,22 +61,22 @@ demonstrating CLEAR variations | in gold sales.
 **Duration**: 90 words, 38 seconds
 
 ```
-This BAR chart | ILLUSTRATES information | REGARDING UK university funding.
+This [BAR chart] | ILLUSTRATES information | REGARDING [UK university funding].
 
-At the TOP, | TWO thousand and EIGHT | DEMONSTRATES the HIGHEST value, |
-which is approximately THIRTY-five billion pounds.
+At the TOP, | [TWO thousand and EIGHT] | DEMONSTRATES the HIGHEST value, |
+which is approximately [THIRTY-five billion pounds].
 
-Following THAT, | TWO thousand and SIX | SHOWS around THIRTY billion pounds, |
+Following THAT, | [TWO thousand and SIX] | SHOWS around [THIRTY billion pounds], |
 representing the SECOND-highest figure.
 
-Conversely, | NINETEEN ninety-five | INDICATES the LOWEST value |
-at approximately EIGHTEEN billion pounds.
+Conversely, | [NINETEEN ninety-five] | INDICATES the LOWEST value |
+at approximately [EIGHTEEN billion pounds].
 
-Additionally, | TWO thousand | and TWO thousand and FOUR |
+Additionally, | [TWO thousand] | and [TWO thousand and FOUR] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in university funding.
+demonstrating CLEAR variations | in [university funding].
 ```
 
 ---
@@ -86,22 +86,22 @@ demonstrating CLEAR variations | in university funding.
 **Duration**: 92 words, 38 seconds
 
 ```
-This LINE graph | ILLUSTRATES information | REGARDING Australians completing high school.
+This [LINE graph] | ILLUSTRATES information | REGARDING [Australians completing high school].
 
-At the TOP, | in TWO thousand and EIGHT, | DEMONSTRATES the HIGHEST value, |
-which is approximately EIGHTY-five percent.
+At the TOP, | [in TWO thousand and EIGHT] | DEMONSTRATES the HIGHEST value, |
+which is approximately [EIGHTY-five percent].
 
-Following THAT, | in TWO thousand and FOUR, | SHOWS around SEVENTY-eight percent, |
+Following THAT, | [in TWO thousand and FOUR] | SHOWS around [SEVENTY-eight percent], |
 representing the SECOND-highest figure.
 
-Conversely, | in NINETEEN eighty-five, | INDICATES the LOWEST value |
-at approximately THIRTY-eight percent.
+Conversely, | [in NINETEEN eighty-five] | INDICATES the LOWEST value |
+at approximately [THIRTY-eight percent].
 
-Additionally, | NINETEEN ninety-five | and TWO thousand |
+Additionally, | [NINETEEN ninety-five] | and [TWO thousand] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in high school completion rates.
+demonstrating CLEAR variations | in [high school completion rates].
 ```
 
 ---
@@ -111,22 +111,22 @@ demonstrating CLEAR variations | in high school completion rates.
 **Duration**: 92 words, 38 seconds
 
 ```
-This LINE graph | PRESENTS statistical data | COMPARING average monthly temperatures in TWO cities.
+This [LINE graph] | PRESENTS statistical data | COMPARING [average monthly temperatures] in [TWO cities].
 
-When EXAMINING City A, | the JULY period | LEADS |
-at approximately THIRTY degrees Celsius.
+When EXAMINING [City A], | [the JULY period] | LEADS |
+at approximately [THIRTY degrees Celsius].
 
-Conversely, | the JANUARY period | shows the LOWEST value |
-at around FIVE degrees Celsius.
+Conversely, | [the JANUARY period] | shows the LOWEST value |
+at around [FIVE degrees Celsius].
 
-SWITCHING to City B, | the JULY period | REPRESENTS the highest figure |
-at approximately TWENTY-eight degrees Celsius.
+SWITCHING to [City B], | [the JULY period] | REPRESENTS the highest figure |
+at approximately [TWENTY-eight degrees Celsius].
 
-Furthermore, | APRIL | and OCTOBER |
-also DEMONSTRATE notable VALUES | across BOTH cities.
+Furthermore, | [APRIL] | and [OCTOBER] |
+also DEMONSTRATE notable VALUES | across BOTH categories.
 
 OVERALL, | this data CLEARLY illustrates |
-the COMPARATIVE analysis | between the TWO cities' temperatures.
+the COMPARATIVE analysis | between [the TWO cities' temperatures].
 ```
 
 ---
@@ -136,22 +136,22 @@ the COMPARATIVE analysis | between the TWO cities' temperatures.
 **Duration**: 90 words, 38 seconds
 
 ```
-This LINE graph | ILLUSTRATES information | REGARDING global Internet users from NINETEEN ninety-five to TWO thousand and TEN.
+This [LINE graph] | ILLUSTRATES information | REGARDING [global Internet users from NINETEEN ninety-five to TWO thousand and TEN].
 
-At the TOP, | in TWO thousand and TEN, | DEMONSTRATES the HIGHEST value, |
-which is approximately TWO billion users.
+At the TOP, | [in TWO thousand and TEN] | DEMONSTRATES the HIGHEST value, |
+which is approximately [TWO billion users].
 
-Following THAT, | in TWO thousand and FIVE, | SHOWS around ONE billion users, |
+Following THAT, | [in TWO thousand and FIVE] | SHOWS around [ONE billion users], |
 representing the SECOND-highest figure.
 
-Conversely, | in NINETEEN ninety-five, | INDICATES the LOWEST value |
-at approximately FIFTY million users.
+Conversely, | [in NINETEEN ninety-five] | INDICATES the LOWEST value |
+at approximately [FIFTY million users].
 
-Additionally, | TWO thousand | and TWO thousand and THREE |
+Additionally, | [TWO thousand] | and [TWO thousand and THREE] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in Internet adoption.
+demonstrating CLEAR variations | in [Internet adoption].
 ```
 
 ---
@@ -161,96 +161,96 @@ demonstrating CLEAR variations | in Internet adoption.
 **Duration**: 88 words, 37 seconds
 
 ```
-This LINE graph | ILLUSTRATES information | REGARDING world population growth.
+This [LINE graph] | ILLUSTRATES information | REGARDING [world population growth].
 
-At the TOP, | in TWO thousand and FIFTY, | DEMONSTRATES the HIGHEST value, |
-which is approximately NINE point TWO billion people.
+At the TOP, | [in TWO thousand and FIFTY] | DEMONSTRATES the HIGHEST value, |
+which is approximately [NINE point TWO billion people].
 
-Following THAT, | in TWO thousand and TWENTY-five, | SHOWS around EIGHT billion people, |
+Following THAT, | [in TWO thousand and TWENTY-five] | SHOWS around [EIGHT billion people], |
 representing the SECOND-highest figure.
 
-Conversely, | in NINETEEN fifty, | INDICATES the LOWEST value |
-at approximately TWO point FIVE billion people.
+Conversely, | [in NINETEEN fifty] | INDICATES the LOWEST value |
+at approximately [TWO point FIVE billion people].
 
-Additionally, | TWO thousand | also contributes SIGNIFICANTLY | to the data ANALYSIS.
+Additionally, | [TWO thousand] | also contributes SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in population growth.
+demonstrating CLEAR variations | in [population growth].
 ```
 
 ---
 
 ## IMAGE #8: Household Energy Consumption (#031008)
-**Template**: C (Process/Cycle - Pie Chart)
+**Template**: A (Modified for Pie Chart)
 **Duration**: 90 words, 38 seconds
 
 ```
-This PIE chart | DISPLAYS the DISTRIBUTION | of household energy consumption.
+This [PIE chart] | DISPLAYS the DISTRIBUTION | of [household energy consumption].
 
-The LARGEST segment, | HEATING and COOLING, | OCCUPIES approximately FORTY-five percent |
+The LARGEST segment, | [HEATING and COOLING], | OCCUPIES approximately [FORTY-five percent] |
 of the total energy usage.
 
-The SECOND major component, | WATER heating, | ACCOUNTS FOR around EIGHTEEN percent, |
+The SECOND major component, | [WATER heating], | ACCOUNTS FOR around [EIGHTEEN percent], |
 representing a SIGNIFICANT portion.
 
-Meanwhile, | LIGHTING and APPLIANCES | COMPRISE approximately FIFTEEN percent |
+Meanwhile, | [LIGHTING and APPLIANCES] | COMPRISE approximately [FIFTEEN percent] |
 of the energy consumption.
 
-Furthermore, | OTHER categories |
+Furthermore, | [OTHER categories] |
 also REPRESENT notable PROPORTIONS | of the total usage.
 
 In SUMMARY, | this chart EFFECTIVELY illustrates |
-the PRIMARY sources | of household energy consumption.
+the PRIMARY sources | of [household energy consumption].
 ```
 
 ---
 
 ## IMAGE #9: Student Performance by Subject (#031009)
-**Template**: F (Multiple Categories - Bar Chart Comparison)
+**Template**: A (Modified for Multiple Categories)
 **Duration**: 92 words, 38 seconds
 
 ```
-This BAR chart | COMPARES student performance | ACROSS different subjects.
+This [BAR chart] | COMPARES [student performance] | ACROSS [different subjects].
 
-EXAMINING the data, | MATHEMATICS | LEADS the comparison |
-with approximately EIGHTY-five percent.
+EXAMINING the data, | [MATHEMATICS] | LEADS the comparison |
+with approximately [EIGHTY-five percent].
 
-In CONTRAST, | SCIENCE | FOLLOWS closely |
-at around EIGHTY percent.
+In CONTRAST, | [SCIENCE] | FOLLOWS closely |
+at around [EIGHTY percent].
 
-Meanwhile, | ENGLISH | DEMONSTRATES moderate performance |
-at approximately SEVENTY-five percent.
+Meanwhile, | [ENGLISH] | DEMONSTRATES moderate performance |
+at approximately [SEVENTY-five percent].
 
-Additionally, | HISTORY | and GEOGRAPHY |
-show COMPARABLE results | at SEVENTY percent and SIXTY-eight percent RESPECTIVELY.
+Additionally, | [HISTORY] | and [GEOGRAPHY] |
+show COMPARABLE results | at [SEVENTY percent] and [SIXTY-eight percent] RESPECTIVELY.
 
 In SUMMARY, | this visualization EFFECTIVELY presents |
-the RELATIVE performance | across MULTIPLE academic subjects.
+the RELATIVE performance | across MULTIPLE [academic subjects].
 ```
 
 ---
 
 ## IMAGE #10: Global CO2 Emissions by Region (#031010)
-**Template**: D (Trends/Changes - Multiple Lines)
+**Template**: C (Modified for Trends)
 **Duration**: 90 words, 38 seconds
 
 ```
-This LINE graph | ILLUSTRATES the TREND | of global CO2 emissions by region.
+This [LINE graph] | ILLUSTRATES the TREND | of [global CO2 emissions by region].
 
-Initially, | in NINETEEN ninety, | ASIA showed |
-approximately THREE billion tons.
+Initially, | [in NINETEEN ninety], | [ASIA] showed |
+approximately [THREE billion tons].
 
 Subsequently, | the figure EXPERIENCED steady GROWTH, |
-REACHING FIVE billion tons | by TWO thousand.
+REACHING [FIVE billion tons] | by [TWO thousand].
 
 Following THIS, | the emissions CONTINUED to INCREASE, |
-ARRIVING at EIGHT billion tons | in TWO thousand and TEN.
+ARRIVING at [EIGHT billion tons] | in [TWO thousand and TEN].
 
-Meanwhile, | OTHER regions |
+Meanwhile, | [OTHER regions] |
 demonstrated RELATIVELY stable patterns | throughout the period.
 
 In CONCLUSION, | this chart CLEARLY indicates |
-SIGNIFICANT upward TRENDS | in Asian emissions.
+SIGNIFICANT upward TRENDS | in [Asian emissions].
 ```
 
 ---
