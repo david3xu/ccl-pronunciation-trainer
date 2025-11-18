@@ -27,7 +27,7 @@ Additionally, | [NINETEEN hundred] | and [NINETEEN sixty] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [population growth rates].
+demonstrating CLEAR variations | in [years to double population].
 ```
 
 ---
@@ -52,7 +52,7 @@ Additionally, | [JANUARY] | and [DECEMBER] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [gold sales].
+demonstrating CLEAR variations | in [Dubai gold sales].
 ```
 
 ---
@@ -77,7 +77,7 @@ Additionally, | [NINETEEN ninety-four] | and [TWO thousand and FIVE] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [arrest patterns].
+demonstrating CLEAR variations | in [arrests for using illegal drugs].
 ```
 
 ---
@@ -102,7 +102,7 @@ Additionally, | [grade EIGHT] | and [grade NINE] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [academic performance].
+demonstrating CLEAR variations | in [Jill's secondary math scores].
 ```
 
 ---
@@ -127,7 +127,7 @@ Additionally, | [NINETEEN sixty-three] | and [NINETEEN seventy-three] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [legislative growth].
+demonstrating CLEAR variations | in [the number of laws in Brazil].
 ```
 
 ---
@@ -152,7 +152,7 @@ Additionally, | [ELEVEN o'clock] | and [ONE thirty] |
 also contribute SIGNIFICANTLY | to the data ANALYSIS.
 
 In CONCLUSION, | this chart PRESENTS comprehensive DATA |
-demonstrating CLEAR variations | in [stock market performance].
+demonstrating CLEAR variations | in [the S and P ASX TWO hundred].
 ```
 
 ---
@@ -177,7 +177,7 @@ Furthermore, | [the lakes] | and [NINETEEN ninety-two] |
 also DEMONSTRATE notable VALUES | across BOTH categories.
 
 OVERALL, | this data CLEARLY illustrates |
-the COMPARATIVE analysis | between [the three tourist areas].
+the COMPARATIVE analysis | between [the three different areas].
 ```
 
 ---
@@ -202,7 +202,7 @@ Furthermore, | [Series C] | and [TWENTY forty-one] |
 also DEMONSTRATE notable VALUES | across BOTH categories.
 
 OVERALL, | this data CLEARLY illustrates |
-the COMPARATIVE analysis | between [the three population projections].
+the COMPARATIVE analysis | between [the projected population series].
 ```
 
 ---
@@ -227,7 +227,7 @@ Furthermore, | [Brazil] | and [Ethiopia] |
 also DEMONSTRATE notable VALUES | across BOTH categories.
 
 OVERALL, | this data CLEARLY illustrates |
-the COMPARATIVE analysis | between [meat consumption patterns globally].
+the COMPARATIVE analysis | between [annual per capita meat consumption].
 ```
 
 ---
@@ -252,7 +252,7 @@ Furthermore, | [age group FIFTEEN to TWENTY-four] | and [age group THIRTY-five t
 also DEMONSTRATE notable VALUES | across BOTH categories.
 
 OVERALL, | this data CLEARLY illustrates |
-the COMPARATIVE analysis | between [male and female age distribution].
+the COMPARATIVE analysis | between [males and females by age group].
 ```
 
 ---
