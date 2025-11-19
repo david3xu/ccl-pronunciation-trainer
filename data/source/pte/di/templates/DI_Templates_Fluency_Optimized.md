@@ -229,7 +229,10 @@ of around [FIVE hundred and FORTY-four years].
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> claude/fix-ui-vocabulary-books
 =======
 >>>>>>> claude/fix-ui-vocabulary-books
 ## 🔴 Watch Out: Hard Words Alert!
@@ -277,6 +280,9 @@ of around [FIVE hundred and FORTY-four years].
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> claude/fix-ui-vocabulary-books
+=======
 >>>>>>> claude/fix-ui-vocabulary-books
 =======
 >>>>>>> claude/fix-ui-vocabulary-books
