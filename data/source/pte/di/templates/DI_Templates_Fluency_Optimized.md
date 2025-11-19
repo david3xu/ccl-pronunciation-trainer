@@ -227,6 +227,53 @@ of around [FIVE hundred and FORTY-four years].
 
 ---
 
+<<<<<<< HEAD
+=======
+## 🔴 Watch Out: Hard Words Alert!
+
+**Only 6 difficult words** in these templates - master these and you're golden! 🎯
+
+### 1. **ILLUSTRATES** (IL-uh-strayts)
+- ❌ Common mistake: "IL-LUST-rates" (3 syllables too clear)
+- ✅ Correct: IL-uh-strayts (middle syllable very short)
+- **Practice:** Say "IL-uh-strayts information REGARDING" 5 times fast
+
+### 2. **comprehensive** (kahm-prih-HEN-siv)
+- ❌ Common mistake: "COM-preh-HEN-sive" (stress on COM)
+- ✅ Correct: kahm-prih-HEN-siv (stress on HEN, first syllable reduced)
+- **Practice:** "comprehensive DATA" - feel the stress on HEN, not COM
+
+### 3. **demonstrating** (DEM-uhn-stray-ting)
+- ❌ Common mistake: "DEM-on-STRAY-ting" (middle syllable too clear)
+- ✅ Correct: DEM-uhn-stray-ting (say it fast, middle almost disappears)
+- **Practice:** "DEM-un-stray-ting CLEAR variations" - speed it up!
+
+### 4. **representing** (rep-rih-ZEN-ting)
+- ❌ Common mistake: "REP-re-sent-ing" (stress on first)
+- ✅ Correct: rep-rih-ZEN-ting (stress on ZEN!)
+- **Practice:** "rep-rih-ZEN-ting the SECOND-highest figure"
+
+### 5. **COMPARATIVE** (kuhm-PAIR-uh-tiv)
+- ❌ Common mistake: "COM-par-a-tive" (first syllable too strong)
+- ✅ Correct: kuhm-PAIR-uh-tiv (first syllable weak: "kuhm")
+- **Practice:** "the kuhm-PAIR-uh-tiv analysis between"
+
+### 6. **variations** (vair-ee-AY-shuhnz)
+- ❌ Common mistake: "VAIR-ee-ay-shunz" (stress on first)
+- ✅ Correct: vair-ee-AY-shuhnz (stress on AY!)
+- **Practice:** Think "vary" → "vari-AY-shun" → fast: "vair-ee-AY-shuhnz"
+
+**💡 Quick Drill:**
+- Record yourself saying these 6 words
+- Compare with Google Translate or TTS
+- Practice them in template phrases (see examples above)
+- **That's it!** These are the ONLY tricky words - everything else is easy! 🎉
+
+**Pro Tip:** If you mess up one of these during the test, keep going! Fluency matters more than perfect pronunciation of every single syllable.
+
+---
+
+>>>>>>> claude/fix-ui-vocabulary-books
 ## ✅ Template Selection Guide
 
 | Image Type | Template | Key Indicator |
