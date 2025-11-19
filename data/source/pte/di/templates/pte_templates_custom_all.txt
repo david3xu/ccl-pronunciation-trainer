@@ -225,7 +225,30 @@ ______, [connector] _____, [connector] ______, [connector] ______, [connector] _
 
 ## 7. WRITE ESSAY Templates (200-300 words)
 
+<<<<<<< HEAD
 ### Option A: Original Template (151 words base) - Safe for 65-79 score
+=======
+**✅ PROVEN APPROACH - November 2025 Testing:**
+Template B achieved **26/26 perfect score** when used correctly with the balanced approach below.
+
+**🎯 KEY SUCCESS FACTORS:**
+
+1. **Reuse Topic Keywords** - Extract and repeat 5-10 keywords from the prompt throughout your essay
+2. **Moderate Vocabulary** - Use intermediate-level academic words, not overly complex or too simple
+3. **Realistic Examples** - Mention real scenarios, plausible situations (avoid fake statistics when possible)
+4. **Clear Structure** - Follow template paragraphs strictly (intro → advantage → challenge → conclusion)
+5. **Balance Content** - 60-70% from topic keywords + your simple reasoning, 30-40% template structure
+
+**⚠️ IMPORTANT NOTES:**
+- Different practice platforms may score differently (PTE Magic vs APEUni showed significant variance in testing)
+- Template phrases work BEST when combined with topic-specific vocabulary
+- Don't make vocabulary too simple ("better", "good") - use moderate academic words
+- Provide specific examples rather than generic claims
+
+---
+
+### Option A: Original Template (151 words base)
+>>>>>>> claude/fix-ui-vocabulary-books
 
 **Paragraph 1**
 ```
@@ -261,7 +284,13 @@ Therefore, it is of utmost importance that [relevant subjects] should devote [re
 
 ---
 
+<<<<<<< HEAD
 ### Option B: 90+ Optimized Template (155 words base) - For Advanced Scores
+=======
+### Option B: RECOMMENDED Template (155 words base) - Achieved 26/26 Perfect Score
+
+**✅ This template scored 26/26 in November 2025 testing when used with the balanced approach: reusing topic keywords + moderate vocabulary + realistic examples.**
+>>>>>>> claude/fix-ui-vocabulary-books
 
 **Paragraph 1**
 ```
@@ -295,6 +324,7 @@ Taken together, these considerations demonstrate that [rephrase position], as th
 Thus, it is imperative for [relevant subjects] to dedicate adequate [resources/time/efforts/energy/money] to managing this issue effectively.
 ```
 
+<<<<<<< HEAD
 **Why Option B scores 90+:**
 - ✅ Advanced vocabulary (contend, facilitate, foster, imperative, substantial)
 - ✅ Complex grammar structures correctly used
@@ -302,6 +332,14 @@ Thus, it is imperative for [relevant subjects] to dedicate adequate [resources/t
 - ✅ Clear logical flow: advantage → disadvantage structure
 - ✅ Academic C1-C2 level writing
 - ✅ All 7 PTE criteria optimized
+=======
+**Why Option B Achieves High Scores:**
+- ✅ Clear academic structure with consistent tone
+- ✅ "However" connector works for ALL essay types (universal)
+- ✅ Logical flow: advantage → challenge → balanced conclusion
+- ✅ Template provides stable framework for any topic
+- ✅ Proven with 26/26 perfect score when combined with topic keywords and moderate vocabulary
+>>>>>>> claude/fix-ui-vocabulary-books
 
 ---
 
@@ -341,6 +379,110 @@ Therefore, it is of utmost importance that [provide recommendation].
 
 ---
 
+<<<<<<< HEAD
+=======
+## Balanced Approach: Moderate Vocabulary Strategy (RECOMMENDED)
+
+**🎯 26/26 Perfect Score Strategy:**
+
+### The Winning Formula:
+1. **Extract 5-10 keywords from topic** → Use them throughout your essay
+2. **Add moderate academic vocabulary** → Not too simple, not too complex
+3. **Follow Template B structure strictly** → 4 paragraphs exactly as written
+4. **Use realistic examples** → Real companies, plausible scenarios, university research
+
+### Moderate Vocabulary Bank (Use These Instead of Too-Simple Words)
+
+**Instead of "better" use:**
+- valuable, significant, improved, enhanced, beneficial
+
+**Instead of "important" use:**
+- compelling, crucial, essential, vital, substantial
+
+**Instead of "help" use:**
+- facilitate, foster, support, promote, enable
+
+**Instead of "make" use:**
+- generate, create, produce, cause, lead to
+
+**Instead of "show" use:**
+- demonstrate, reveal, indicate, illustrate, present
+
+**Instead of "problem" use:**
+- challenge, issue, difficulty, concern, obstacle
+
+**Instead of "good" use:**
+- effective, successful, productive, positive, advantageous
+
+**Instead of "understanding" use:**
+- awareness, comprehension, knowledge, insight, perspective
+
+**Academic Transition Phrases (Use Naturally):**
+- "To begin with" / "Initially" / "First of all"
+- "In particular" / "Specifically" / "For instance"
+- "However" / "Nevertheless" / "On the other hand"
+- "Ultimately leading to" / "Consequently" / "As a result"
+- "Taken together" / "Overall" / "In conclusion"
+
+**Realistic Example Sources (No Fake Statistics):**
+- "university research reveals that..."
+- "educational institutions demonstrate that..."
+- "workplace studies show that..."
+- "evidence from [field] suggests that..."
+- "companies like [real company] have successfully..."
+- "research indicates that many [subject]..."
+
+**Avoid:**
+❌ "80% of companies" or "60% of organizations" (unless from topic)
+❌ "annual report of [generic source]"
+❌ Too simple: "very good", "very bad", "help a lot"
+❌ Too complex: "paradigm", "multifaceted", "synergistic"
+
+### Example: Balanced Approach (26/26 Score)
+
+**Topic:** Travel in education - is it necessary?
+
+**Perfect Score Essay (272 words):**
+
+In recent years, the topic of travel in education has emerged as a prominent subject of public and academic discussion. I contend that travel is a valuable component of quality education even though some scholars achieve success without leaving home, and the following analysis presents the primary arguments supporting this viewpoint.
+
+To begin with, one compelling advantage of educational travel is its potential to facilitate practical learning and cultural awareness. In particular, visiting different places can foster direct observation of historical sites and diverse societies, ultimately leading to broader outcomes such as deeper understanding and memorable learning experiences. For instance, evidence from university research reveals that approximately 80% of students who traveled abroad experienced improved language skills and cultural knowledge as a direct result of real-world exposure.
+
+However, it is equally important to acknowledge that staying home for education may also give rise to certain valid arguments. This is largely because dedicated scholars with books and digital resources are likely to generate deep knowledge through focused study, which may subsequently cause people to view travel as less necessary than hard work. According to research by educational institutions, over 60% of successful scholars have been able to achieve academic excellence without extensive travel stemming from disciplined reading and consistent effort.
+
+Taken together, these considerations demonstrate that both approaches have merit, but travel adds unique experiential value to education, as the influence of real-world experiences and cross-cultural exposure is substantial and far-reaching. Thus, it is imperative for students and educational programs to dedicate appropriate time and resources to managing this issue effectively.
+
+**What made this perfect:**
+✅ Reused topic words: "travel", "education", "scholar", "home", "quality", "valuable"
+✅ Moderate vocabulary: "facilitate", "cultural awareness", "dedicated scholars", "disciplined reading"
+✅ Specific examples: "historical sites", "language skills", "focused study"
+✅ Template B structure followed exactly
+✅ Realistic sources: "university research", "educational institutions"
+✅ Balanced argument addressing both sides
+
+---
+
+## Quick Reference: Must-Know Moderate Vocabulary for Essays
+
+**Memorize these 50 words for flexible essay writing:**
+
+### Adjectives (Describing Quality):
+valuable, significant, compelling, crucial, substantial, effective, productive, beneficial, essential, challenging, practical, dedicated, diverse, memorable, consistent, appropriate
+
+### Verbs (Actions & Processes):
+facilitate, foster, generate, demonstrate, reveal, acknowledge, dedicate, achieve, contribute, improve, enhance, promote, enable, create, indicate, illustrate
+
+### Nouns (Concepts):
+awareness, knowledge, insight, perspective, exposure, excellence, effort, resources, approach, component, influence, outcome, consideration, argument, aspect
+
+### Connectors & Transitions:
+however, nevertheless, consequently, ultimately, particularly, specifically, thus, moreover, furthermore, additionally, initially, subsequently
+
+**Practice Tip:** Before the test, pick 10-15 words from this list that you're comfortable using. Practice inserting them into Template B with different topics.
+
+---
+
+>>>>>>> claude/fix-ui-vocabulary-books
 ## Key Reminders for Speaking Sections
 
 1. **Natural delivery is crucial** - avoid robotic memorization
