@@ -92,3 +92,21 @@ We can also see some other features like [feature 1] and [feature 2] on the map 
 
 So overall this map gives us some useful information about [topic].
 ```
+
+---
+
+## Template F: Trend/Projection Line Graphs
+
+```
+This line graph clearly shows us the TREND of [topic] over TIME.
+
+Starting from the LEFT side we can see [series 1] STARTS at around [starting value] in [year].
+
+As we move to the RIGHT we can see [series 1] INCREASES over time to around [ending value] by [year].
+
+Looking at [series 2] it also STARTS at around [value] and then GOES UP to around [value].
+
+We can also see [series 3] which STAYS quite STABLE at around [value] over the TIME period.
+
+So overall this graph shows us how [topic] is PROJECTED to CHANGE in the FUTURE.
+```
