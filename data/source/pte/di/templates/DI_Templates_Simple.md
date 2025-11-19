@@ -110,3 +110,21 @@ We can also see [series 3] which STAYS quite STABLE at around [value] over the T
 
 So overall this graph shows us how [topic] is PROJECTED to CHANGE in the FUTURE.
 ```
+
+---
+
+## Template G: Tables with Rows and Columns
+
+```
+This table clearly shows us some DATA about [topic] across different [groups/categories].
+
+Looking at the first ROW we can see [category 1] and the numbers show [observation about the pattern].
+
+Moving down to the next ROW there is [category 2] which has [describe the data pattern].
+
+We can also see [category 3] in another ROW showing [describe values or pattern].
+
+Looking across the COLUMNS we can see [group 1] and [group 2] which helps us COMPARE the DATA.
+
+So overall this table gives us good information to compare [topic] across these different groups.
+```
