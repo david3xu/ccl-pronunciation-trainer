@@ -225,18 +225,6 @@ ______, [connector] _____, [connector] ______, [connector] ______, [connector] _
 
 ## 7. WRITE ESSAY Templates (200-300 words)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-### Option A: Original Template (151 words base) - Safe for 65-79 score
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
 **✅ PROVEN APPROACH - November 2025 Testing:**
 Template B achieved **26/26 perfect score** when used correctly with the balanced approach below.
 
@@ -257,16 +245,6 @@ Template B achieved **26/26 perfect score** when used correctly with the balance
 ---
 
 ### Option A: Original Template (151 words base)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
 
 **Paragraph 1**
 ```
@@ -302,31 +280,9 @@ Therefore, it is of utmost importance that [relevant subjects] should devote [re
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-### Option B: 90+ Optimized Template (155 words base) - For Advanced Scores
-=======
 ### Option B: RECOMMENDED Template (155 words base) - Achieved 26/26 Perfect Score
 
 **✅ This template scored 26/26 in November 2025 testing when used with the balanced approach: reusing topic keywords + moderate vocabulary + realistic examples.**
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-### Option B: RECOMMENDED Template (155 words base) - Achieved 26/26 Perfect Score
-
-**✅ This template scored 26/26 in November 2025 testing when used with the balanced approach: reusing topic keywords + moderate vocabulary + realistic examples.**
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-### Option B: RECOMMENDED Template (155 words base) - Achieved 26/26 Perfect Score
-
-**✅ This template scored 26/26 in November 2025 testing when used with the balanced approach: reusing topic keywords + moderate vocabulary + realistic examples.**
->>>>>>> claude/fix-ui-vocabulary-books
-=======
-### Option B: RECOMMENDED Template (155 words base) - Achieved 26/26 Perfect Score
-
-**✅ This template scored 26/26 in November 2025 testing when used with the balanced approach: reusing topic keywords + moderate vocabulary + realistic examples.**
->>>>>>> claude/fix-ui-vocabulary-books
 
 **Paragraph 1**
 ```
@@ -360,40 +316,12 @@ Taken together, these considerations demonstrate that [rephrase position], as th
 Thus, it is imperative for [relevant subjects] to dedicate adequate [resources/time/efforts/energy/money] to managing this issue effectively.
 ```
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-**Why Option B scores 90+:**
-- ✅ Advanced vocabulary (contend, facilitate, foster, imperative, substantial)
-- ✅ Complex grammar structures correctly used
-- ✅ "However" connector works for ALL essay types (universal)
-- ✅ Clear logical flow: advantage → disadvantage structure
-- ✅ Academic C1-C2 level writing
-- ✅ All 7 PTE criteria optimized
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
 **Why Option B Achieves High Scores:**
 - ✅ Clear academic structure with consistent tone
 - ✅ "However" connector works for ALL essay types (universal)
 - ✅ Logical flow: advantage → challenge → balanced conclusion
 - ✅ Template provides stable framework for any topic
 - ✅ Proven with 26/26 perfect score when combined with topic keywords and moderate vocabulary
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
 
 ---
 
@@ -433,17 +361,6 @@ Therefore, it is of utmost importance that [provide recommendation].
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
 ## Balanced Approach: Moderate Vocabulary Strategy (RECOMMENDED)
 
 **🎯 26/26 Perfect Score Strategy:**
@@ -545,16 +462,6 @@ however, nevertheless, consequently, ultimately, particularly, specifically, thu
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
 ## Key Reminders for Speaking Sections
 
 1. **Natural delivery is crucial** - avoid robotic memorization

@@ -92,8 +92,6 @@ We can also see some other features like [feature 1] and [feature 2] on the map 
 
 So overall this map gives us some useful information about [topic].
 ```
-<<<<<<< HEAD
-=======
 
 ---
 
@@ -112,4 +110,3 @@ We can also see [series 3] which STAYS quite STABLE at around [value] over the T
 
 So overall this graph shows us how [topic] is PROJECTED to CHANGE in the FUTURE.
 ```
->>>>>>> claude/fix-ui-vocabulary-books

@@ -227,14 +227,6 @@ of around [FIVE hundred and FORTY-four years].
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
 ## 🔴 Watch Out: Hard Words Alert!
 
 **Only 6 difficult words** in these templates - master these and you're golden! 🎯
@@ -279,13 +271,6 @@ of around [FIVE hundred and FORTY-four years].
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
-=======
->>>>>>> claude/fix-ui-vocabulary-books
 ## ✅ Template Selection Guide
 
 | Image Type | Template | Key Indicator |
