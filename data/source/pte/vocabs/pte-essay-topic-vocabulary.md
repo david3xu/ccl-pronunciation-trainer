@@ -1,14 +1,16 @@
 # PTE Essay Topic Vocabulary - Term Book
 
-**Purpose:** Quick reference vocabulary organized by topic categories
-**Usage:** Each topic contains 10-15 moderate academic terms (max 5 words each)
-**Strategy:** Memorize 8-10 terms from relevant topic before writing
+**Purpose:** Quick reference vocabulary organized by topic categories for essay writing
+**Total Terms:** 327 terms across 9 sections
+**Format:** Academic phrases (2-3 words average) for Template B essay structure
+**Usage:** Memorize 8-10 terms from relevant topic before writing essays
 
 ---
 
 ## 1. Education & Learning
 
 ### Core Education Terms (15)
+
 1. formal education system
 2. academic excellence
 3. educational institution
@@ -26,6 +28,7 @@
 15. educational policy
 
 ### Teaching Methods (12)
+
 1. experiential learning
 2. learning by doing
 3. traditional teaching methods
@@ -40,6 +43,7 @@
 12. blended learning model
 
 ### Academic Assessment (15)
+
 1. formal written examination
 2. valid assessment method
 3. objective evaluation
@@ -57,6 +61,7 @@
 15. holistic evaluation
 
 ### International & Travel Education (10)
+
 1. travel in education
 2. educational travel experiences
 3. cross-cultural learning
@@ -73,6 +78,7 @@
 ## 2. Work & Employment
 
 ### Work-Life Topics (15)
+
 1. work-life balance
 2. professional responsibilities
 3. personal life aspects
@@ -90,6 +96,7 @@
 15. workplace flexibility
 
 ### Mental Health & Wellbeing (15)
+
 1. stress and anxiety
 2. emotional support
 3. psychological wellbeing
@@ -107,6 +114,7 @@
 15. mental resilience
 
 ### Career & Jobs (12)
+
 1. job creation
 2. employment rate
 3. career goals
@@ -125,6 +133,7 @@
 ## 3. Society & Government
 
 ### Urban & Infrastructure (15)
+
 1. building design effects
 2. architectural features
 3. urban planning studies
@@ -142,6 +151,7 @@
 15. spatial design
 
 ### Historic Preservation (10)
+
 1. historic buildings
 2. cultural heritage
 3. preservation efforts
@@ -154,6 +164,7 @@
 10. cultural monuments
 
 ### International Relations (19)
+
 1. international organizations
 2. global problems
 3. government cooperation
@@ -179,6 +190,7 @@
 ## 4. Tourism & Development
 
 ### Tourism Impact (15)
+
 1. tourism development
 2. less developed countries
 3. economic benefits
@@ -196,6 +208,7 @@
 15. tourism destinations
 
 ### Economic Development (12)
+
 1. economic growth
 2. income generation
 3. job creation
@@ -214,6 +227,7 @@
 ## 5. Culture & Lifestyle
 
 ### Family & Personal (15)
+
 1. getting married
 2. family responsibilities
 3. personal circumstances
@@ -231,6 +245,7 @@
 15. lifestyle choices
 
 ### Social Issues (12)
+
 1. social research
 2. community impact
 3. cultural awareness
@@ -245,6 +260,7 @@
 12. social responsibility
 
 ### Leisure & Entertainment (10)
+
 1. entertainment value
 2. leisure activities
 3. recreational pursuits
@@ -261,6 +277,7 @@
 ## 6. Technology & Innovation
 
 ### Technology Terms (17)
+
 1. technological progress
 2. digital technology
 3. computer technology
@@ -280,6 +297,7 @@
 17. mobile devices
 
 ### Invention & Discovery (10)
+
 1. important inventions
 2. scientific breakthrough
 3. medical advancement
@@ -296,6 +314,7 @@
 ## 7. Environment & Sustainability
 
 ### Environmental Terms (19)
+
 1. environmental damage
 2. natural resources
 3. resource depletion
@@ -317,6 +336,7 @@
 19. human survival
 
 ### Sustainability (10)
+
 1. sustainable development
 2. long-term viability
 3. ecological balance
@@ -333,6 +353,7 @@
 ## 8. Universal Academic Terms
 
 ### Analysis & Reasoning (15)
+
 1. compelling advantage
 2. significant disadvantage
 3. positive effects
@@ -350,6 +371,7 @@
 15. effective approach
 
 ### Research & Evidence (12)
+
 1. evidence reveals that
 2. research demonstrates
 3. studies indicate
@@ -364,6 +386,7 @@
 12. empirical evidence
 
 ### Opinion & Position (15)
+
 1. I contend that
 2. to what extent
 3. agree or disagree
@@ -385,6 +408,7 @@
 ## 9. Common Transition & Structure Terms
 
 ### Paragraph Transitions (15)
+
 1. to begin with
 2. in particular
 3. for instance
@@ -402,6 +426,7 @@
 15. has emerged as
 
 ### Connecting Ideas (12)
+
 1. ultimately leading to
 2. as a direct result
 3. stemming from
@@ -417,86 +442,6 @@
 
 ---
 
-## Quick Reference Guide
-
-### How to Use This Vocabulary:
-
-**Before Writing:**
-1. Identify your essay topic category
-2. Select 8-10 relevant terms
-3. Practice using them in simple sentences
-
-**During Writing:**
-1. Use topic-specific terms (Section 1-7) for content
-2. Use universal terms (Section 8) for analysis
-3. Use transition terms (Section 9) for structure
-
-**Example - Education Essay:**
-- Pick from "Education & Learning" (Section 1)
-- Add from "Universal Academic Terms" (Section 8)
-- Connect with "Transition Terms" (Section 9)
-
-**Example - Technology Essay:**
-- Pick from "Technology & Innovation" (Section 6)
-- Add from "Universal Academic Terms" (Section 8)
-- Connect with "Transition Terms" (Section 9)
-
-### Memorization Tips:
-
-✅ **Focus on verbs & phrases** - "facilitate", "foster", "generate"
-✅ **Learn term pairs** - "compelling advantage" + "significant disadvantage"
-✅ **Practice substitution** - Replace simple words with these terms
-✅ **Use in context** - Write example sentences
-
-### Word Limit Strategy:
-
-- **1-2 words:** facilitate, foster, generate, demonstrate, reveal
-- **3 words:** work-life balance, academic excellence, educational institution
-- **4-5 words:** formal written examination, potential to facilitate, approximately 80% of
-
-Most terms are **2-3 words** for easy memorization and natural usage!
-
----
-
-## Topic Mapping for Common PTE Essay Questions
-
-### Education Questions → Use:
-- Section 1: Education & Learning
-- Section 8: Universal Academic Terms
-
-### Work/Career Questions → Use:
-- Section 2: Work & Employment
-- Section 8: Universal Academic Terms
-
-### Society/Government Questions → Use:
-- Section 3: Society & Government
-- Section 8: Universal Academic Terms
-
-### Tourism/Development Questions → Use:
-- Section 4: Tourism & Development
-- Section 8: Universal Academic Terms
-
-### Lifestyle/Personal Questions → Use:
-- Section 5: Culture & Lifestyle
-- Section 8: Universal Academic Terms
-
-### Technology/Innovation Questions → Use:
-- Section 6: Technology & Innovation
-- Section 8: Universal Academic Terms
-
-### Environment Questions → Use:
-- Section 7: Environment & Sustainability
-- Section 8: Universal Academic Terms
-
-**Section 9 (Transitions) is used in ALL essays!**
-
----
-
-*Based on 16 proven essay examples achieving 25-26/26 scores*
-*Now includes 9 sections with 327 total terms*
-*Section 2: Mental Health & Wellbeing (15 terms)*
-*Section 3: Historic Preservation (10 terms)*
-*Section 5: Leisure & Entertainment (10 terms)*
-*Section 6: Technology & Innovation (27 terms)*
+*Based on 20+ proven essay examples achieving 25-26/26 scores*
+*Total: 327 terms across 9 sections*
 *Last Updated: November 2025*
-
