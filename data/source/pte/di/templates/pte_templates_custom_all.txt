@@ -323,19 +323,32 @@ For instance, evidence from [source 1] reveals that approximately 75% of [releva
 
 **Paragraph 3**
 ```
-However, it is equally important to acknowledge that [keywords] may also give rise to certain [challenges/benefits/opportunities/advantages].
+However, it is equally important to acknowledge that [keywords] may also [bring about/give rise to] certain [benefits/opportunities/advantages/challenges].
 
-This is largely because [keywords] are likely to generate [keywords], which may subsequently cause [keywords].
+This is largely because [keywords] are likely to [foster/develop/generate] [keywords], which may subsequently [lead to/cause] [keywords].
 
-According to research by [source 2], over 58% of [relevant subjects] have been affected by [keywords] resulting from [keywords].
+According to research by [source 2], over 58% of [relevant subjects] have been [affected by/benefited from] [keywords] resulting from [keywords].
 ```
 
-**Note on Paragraph 3 Flexibility:**
-- For **balanced** arguments: Use "benefits/opportunities/advantages" to show positive side
-- For **one-sided negative** arguments: Use "challenges" to show another problem
-- Adjust verbs accordingly:
-  - Positive: "bring about", "lead to", "foster" (benefits)
-  - Negative: "give rise to", "cause", "generate" (challenges)
+**CRITICAL: Verb Choice MUST Match Context**
+
+**For POSITIVE aspects (benefits/opportunities/advantages):**
+- "bring about certain benefits"
+- "likely to foster [positive outcomes]"
+- "subsequently lead to [positive results]"
+- "have benefited from [positive keywords]"
+
+**For NEGATIVE aspects (challenges/problems):**
+- "give rise to certain challenges"
+- "likely to generate [problems]"
+- "may subsequently cause [negative outcomes]"
+- "have been affected by [negative keywords]"
+
+**Why this matters:**
+- ❌ "give rise to benefits" = awkward/unnatural
+- ✅ "bring about benefits" = natural
+- ❌ "foster challenges" = awkward/unnatural
+- ✅ "generate challenges" = natural
 
 **Paragraph 4**
 ```
