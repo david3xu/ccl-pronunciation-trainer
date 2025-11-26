@@ -199,14 +199,22 @@ The lecture discusses the topic of [topic]. First, [key point]. Second, [key poi
 *Absolute minimum - fastest to write*
 
 ```
-The lecture discusses [topic]. First, [key point]. Second, [key point]. Moreover, [key point].
+The lecture discusses [TOPIC NAME]. First, the speaker mentioned [KEY POINT 1]. Second, [KEY POINT 2]. Moreover, [KEY POINT 3].
 ```
+
+**Alternative connectors:**
+- First → "The speaker mentioned" / "The lecturer explained" / "It was stated that"
+- Second → "Additionally" / "Furthermore" / "The speaker also mentioned"
+- Moreover → "Finally" / "Lastly" / "In conclusion"
 
 **Strategy:**
 - **3 key points minimum** (50% of content is enough)
-- **Simple connectors**: First, Second, Moreover
-- **8-word base** = ~55-65 words total (meets 50-70 requirement)
+- **Mix short and long sentences** for natural flow
+- **8-word base + 3 key points** = ~55-65 words total
 - **Fast to memorize** and write under time pressure
+
+**Example:**
+> The lecture discusses climate change. First, the speaker mentioned global temperatures are rising rapidly. Second, polar ice caps are melting at an alarming rate. Moreover, extreme weather events are becoming more frequent.
 
 **Note:** Must be written as one continuous paragraph (no line breaks)
 
