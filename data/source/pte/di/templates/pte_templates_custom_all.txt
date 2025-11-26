@@ -195,6 +195,19 @@ The lecture discusses the topic of [topic]. First, the speaker mentioned that [k
 The lecture discusses the topic of [topic]. First, [key point]. Second, [key point]. In addition/However, [key point]. Moreover, [key point].
 ```
 
+### Minimal Template (8 words base) ⚡
+*Absolute minimum - fastest to write*
+
+```
+The lecture discusses [topic]. First, [key point]. Second, [key point]. Moreover, [key point].
+```
+
+**Strategy:**
+- **3 key points minimum** (50% of content is enough)
+- **Simple connectors**: First, Second, Moreover
+- **8-word base** = ~55-65 words total (meets 50-70 requirement)
+- **Fast to memorize** and write under time pressure
+
 **Note:** Must be written as one continuous paragraph (no line breaks)
 
 ---
