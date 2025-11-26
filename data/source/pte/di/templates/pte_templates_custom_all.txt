@@ -301,54 +301,33 @@ Therefore, it is of utmost importance that [relevant subjects] should devote [re
 
 ---
 
-### Option B: RECOMMENDED Template (155 words base) - Achieved 26/26 Perfect Score
-
-**✅ This template scored 26/26 in November 2025 testing when used with the balanced approach: reusing topic keywords + moderate vocabulary + realistic examples.**
+### Option B1: Positive then Negative (155 words base)
+**Use when:** Discussing benefits first, then challenges
 
 **Paragraph 1**
 ```
 In recent years, the topic of [keywords] has emerged as a significant subject of public and academic discussion.
 
-I contend that [your position] (can present significant challenges), (calling it [keywords] may be too absolute), and the following analysis presents the primary arguments supporting this viewpoint.
+I contend that [your position], and the following analysis presents the primary arguments supporting this viewpoint.
 ```
 
-**Paragraph 2**
+**Paragraph 2 - POSITIVE**
 ```
-To begin with, one compelling [reason/advantage/feature/disadvantage/challenge] of [keywords] (can be problematic) is its potential to [facilitate/create] [keywords].
+To begin with, one compelling advantage of [keywords] is its potential to facilitate [keywords].
 
 In particular, [keywords] can foster [keywords], ultimately leading to broader outcomes such as [keywords].
 
 For instance, evidence from [source 1] reveals that approximately 75% of [relevant subjects] experienced [keywords] as a direct result of [keywords].
 ```
 
-**Paragraph 3**
+**Paragraph 3 - NEGATIVE**
 ```
-However, it is equally important to acknowledge that [keywords] may also [bring about/give rise to] certain [benefits/opportunities/advantages/challenges].
+However, it is equally important to acknowledge that [keywords] may also give rise to certain challenges.
 
-This is largely because [keywords] are likely to [foster/develop/generate] [keywords], which may subsequently [lead to/cause] [keywords].
+This is largely because [keywords] are likely to generate [keywords], which may subsequently cause [keywords].
 
-According to research by [source 2], over 58% of [relevant subjects] have been [affected by/benefited from] [keywords] resulting from [keywords].
+According to research by [source 2], over 58% of [relevant subjects] have been affected by [keywords] resulting from [keywords].
 ```
-
-**CRITICAL: Verb Choice MUST Match Context**
-
-**For POSITIVE aspects (benefits/opportunities/advantages):**
-- "bring about certain benefits"
-- "likely to foster [positive outcomes]"
-- "subsequently lead to [positive results]"
-- "have benefited from [positive keywords]"
-
-**For NEGATIVE aspects (challenges/problems):**
-- "give rise to certain challenges"
-- "likely to generate [problems]"
-- "may subsequently cause [negative outcomes]"
-- "have been affected by [negative keywords]"
-
-**Why this matters:**
-- ❌ "give rise to benefits" = awkward/unnatural
-- ✅ "bring about benefits" = natural
-- ❌ "foster challenges" = awkward/unnatural
-- ✅ "generate challenges" = natural
 
 **Paragraph 4**
 ```
@@ -356,6 +335,60 @@ Taken together, these considerations demonstrate that [rephrase position], as th
 
 Thus, it is essential for [relevant subjects] to dedicate adequate [resources/time/efforts/energy/money] to managing this issue effectively.
 ```
+
+---
+
+### Option B2: Negative then Positive (155 words base) ✅ RECOMMENDED for balanced views
+**Use when:** Discussing challenges first, then benefits (most natural for "to what extent" questions)
+
+**Paragraph 1**
+```
+In recent years, the topic of [keywords] has emerged as a significant subject of public and academic discussion.
+
+I contend that [your position], and the following analysis presents the primary arguments supporting this viewpoint.
+```
+
+**Paragraph 2 - NEGATIVE**
+```
+To begin with, one compelling disadvantage of [keywords] is its potential to create [keywords].
+
+In particular, [keywords] can foster [keywords], ultimately leading to broader outcomes such as [keywords].
+
+For instance, evidence from [source 1] reveals that approximately 75% of [relevant subjects] experienced [keywords] as a direct result of [keywords].
+```
+
+**Paragraph 3 - POSITIVE**
+```
+However, it is equally important to acknowledge that [keywords] may also bring about certain benefits.
+
+This is largely because [keywords] are likely to foster [keywords], which may subsequently lead to [keywords].
+
+According to research by [source 2], over 58% of [relevant subjects] have benefited from [keywords] resulting from [keywords].
+```
+
+**Paragraph 4**
+```
+Taken together, these considerations demonstrate that [rephrase position], as the influence of [keywords] and [keywords] is substantial and meaningful.
+
+Thus, it is essential for [relevant subjects] to dedicate adequate [resources/time/efforts/energy/money] to managing this issue effectively.
+```
+
+---
+
+### Key Differences Between B1 and B2:
+
+| Element | B1 (Positive→Negative) | B2 (Negative→Positive) |
+|---------|----------------------|----------------------|
+| **P2 focus** | advantage/benefit | disadvantage/challenge |
+| **P2 verbs** | facilitate, foster | create, foster |
+| **P3 focus** | challenges | benefits |
+| **P3 opening** | give rise to challenges | bring about benefits |
+| **P3 verbs** | generate, cause | foster, lead to |
+| **P3 result** | affected by (negative) | benefited from (positive) |
+
+**When to use each:**
+- **B1**: When prompt asks "What are the advantages?" or you want to emphasize positives first
+- **B2**: When prompt asks "What are the problems?" or "To what extent do you agree?" (most common)
 
 **Why Option B Achieves High Scores:**
 - ✅ Clear academic structure with consistent tone
