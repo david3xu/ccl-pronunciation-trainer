@@ -185,7 +185,7 @@ Paraphrase the situation in first person, add relevant details
 ### Full Template (28 words base)
 
 ```
-The lecture discusses the topic of [topic]. First, the speaker mentioned that [key point]. Second, the lecturer showed that [key point]. In addition/However, the speaker emphasized that [key point]. Moreover, the talk highlighted that [key point].
+The presentation covers [topic]. To begin with, the speaker explained that [key point]. Next, it was stated that [key point]. Furthermore, the lecturer pointed out that [key point]. Finally, the discussion revealed that [key point].
 ```
 
 ### Simplified Template (12 words base)
