@@ -1,0 +1,553 @@
+{
+  "metadata": {
+    "generated": "2025-11-19T23:30:07.652Z",
+    "totalAnswers": 10,
+    "source": "di-answers",
+    "description": "DI complete answers (Images 1-10) for shadowing practice with phrase-by-phrase breakdown",
+    "version": "1.0",
+    "category": "di-shadowing",
+    "dataType": "shadowing"
+  },
+  "answers": [
+    {
+      "id": "di-image-1",
+      "imageNumber": 1,
+      "title": "Years to Double Population",
+      "template": "A",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [years to double population].\nAt the TOP [in SEVENTEEN hundred] SHOWS the HIGHEST value |\nof around [FIVE hundred and FORTY-four years].\nFollowing THAT [in EIGHTEEN hundred] SHOWS about [THREE hundred and NINETY-four years] |\nrepresenting the SECOND-highest figure.\nOn the other END [in TWO thousand and TWENTY] SHOWS the LOWEST value |\nat around [SIXTY years].\nWorth noting [NINETEEN hundred] and [NINETEEN sixty] |\nalso contribute to the data ANALYSIS.\nIn CONCLUSION this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations in [years to double population].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [years to double population]. At the TOP [in SEVENTEEN hundred] SHOWS the HIGHEST value",
+          "startIndex": 0,
+          "endIndex": 139,
+          "estimatedDuration": 8571.42857142857
+        },
+        {
+          "index": 1,
+          "text": "of around [FIVE hundred and FORTY-four years]. Following THAT [in EIGHTEEN hundred] SHOWS about [THREE hundred and NINETY-four years]",
+          "startIndex": 142,
+          "endIndex": 275,
+          "estimatedDuration": 8142.857142857142
+        },
+        {
+          "index": 2,
+          "text": "representing the SECOND-highest figure. On the other END [in TWO thousand and TWENTY] SHOWS the LOWEST value",
+          "startIndex": 278,
+          "endIndex": 386,
+          "estimatedDuration": 7285.714285714285
+        },
+        {
+          "index": 3,
+          "text": "at around [SIXTY years]. Worth noting [NINETEEN hundred] and [NINETEEN sixty]",
+          "startIndex": 389,
+          "endIndex": 466,
+          "estimatedDuration": 4714.285714285715
+        },
+        {
+          "index": 4,
+          "text": "also contribute to the data ANALYSIS. In CONCLUSION this chart PRESENTS comprehensive DATA",
+          "startIndex": 469,
+          "endIndex": 559,
+          "estimatedDuration": 5571.428571428572
+        },
+        {
+          "index": 5,
+          "text": "demonstrating CLEAR variations in [years to double population].",
+          "startIndex": 562,
+          "endIndex": 625,
+          "estimatedDuration": 3428.5714285714284
+        }
+      ],
+      "wordCount": 93,
+      "duration": 37,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-2",
+      "imageNumber": 2,
+      "title": "Dubai Gold Sales in 2002",
+      "template": "A",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [Dubai gold sales in TWO thousand and TWO].\nAt the TOP [in MARCH] SHOWS the HIGHEST value |\nof around [THREE hundred and FIFTY million dirhams].\nFollowing THAT [in FEBRUARY] SHOWS about [THREE hundred million dirhams] |\nrepresenting the SECOND-highest figure.\nOn the other END [in SEPTEMBER] SHOWS the LOWEST value |\nat around [ONE hundred million dirhams].\nWorth noting [JANUARY] and [DECEMBER] |\nalso contribute to the data ANALYSIS.\nIn CONCLUSION this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations in [Dubai gold sales].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [Dubai gold sales in TWO thousand and TWO]. At the TOP [in MARCH] SHOWS the HIGHEST value",
+          "startIndex": 0,
+          "endIndex": 141,
+          "estimatedDuration": 9857.142857142857
+        },
+        {
+          "index": 1,
+          "text": "of around [THREE hundred and FIFTY million dirhams]. Following THAT [in FEBRUARY] SHOWS about [THREE hundred million dirhams]",
+          "startIndex": 144,
+          "endIndex": 269,
+          "estimatedDuration": 7714.285714285714
+        },
+        {
+          "index": 2,
+          "text": "representing the SECOND-highest figure. On the other END [in SEPTEMBER] SHOWS the LOWEST value",
+          "startIndex": 272,
+          "endIndex": 366,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 3,
+          "text": "at around [ONE hundred million dirhams]. Worth noting [JANUARY] and [DECEMBER]",
+          "startIndex": 369,
+          "endIndex": 447,
+          "estimatedDuration": 4714.285714285715
+        },
+        {
+          "index": 4,
+          "text": "also contribute to the data ANALYSIS. In CONCLUSION this chart PRESENTS comprehensive DATA",
+          "startIndex": 450,
+          "endIndex": 540,
+          "estimatedDuration": 5571.428571428572
+        },
+        {
+          "index": 5,
+          "text": "demonstrating CLEAR variations in [Dubai gold sales].",
+          "startIndex": 543,
+          "endIndex": 596,
+          "estimatedDuration": 3000
+        }
+      ],
+      "wordCount": 91,
+      "duration": 36,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-3",
+      "imageNumber": 3,
+      "title": "Number of Arrests per Year for Using Illegal Drugs",
+      "template": "A",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [arrests for using illegal drugs].\nAt the TOP [in TWO thousand and ONE] SHOWS the HIGHEST value |\nof around [SEVENTY arrests].\nFollowing THAT [in NINETEEN ninety-seven] SHOWS about [SIXTY arrests] |\nrepresenting the SECOND-highest figure.\nOn the other END [in NINETEEN ninety-one] SHOWS the LOWEST value |\nat around [TEN arrests].\nWorth noting [NINETEEN ninety-four] and [TWO thousand and FIVE] |\nalso contribute to the data ANALYSIS.\nIn CONCLUSION this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations in [arrests for using illegal drugs].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [arrests for using illegal drugs]. At the TOP [in TWO thousand and ONE] SHOWS the HIGHEST value",
+          "startIndex": 0,
+          "endIndex": 147,
+          "estimatedDuration": 9857.142857142857
+        },
+        {
+          "index": 1,
+          "text": "of around [SEVENTY arrests]. Following THAT [in NINETEEN ninety-seven] SHOWS about [SIXTY arrests]",
+          "startIndex": 150,
+          "endIndex": 248,
+          "estimatedDuration": 5571.428571428572
+        },
+        {
+          "index": 2,
+          "text": "representing the SECOND-highest figure. On the other END [in NINETEEN ninety-one] SHOWS the LOWEST value",
+          "startIndex": 251,
+          "endIndex": 355,
+          "estimatedDuration": 6428.5714285714275
+        },
+        {
+          "index": 3,
+          "text": "at around [TEN arrests]. Worth noting [NINETEEN ninety-four] and [TWO thousand and FIVE]",
+          "startIndex": 358,
+          "endIndex": 446,
+          "estimatedDuration": 5571.428571428572
+        },
+        {
+          "index": 4,
+          "text": "also contribute to the data ANALYSIS. In CONCLUSION this chart PRESENTS comprehensive DATA",
+          "startIndex": 449,
+          "endIndex": 539,
+          "estimatedDuration": 5571.428571428572
+        },
+        {
+          "index": 5,
+          "text": "demonstrating CLEAR variations in [arrests for using illegal drugs].",
+          "startIndex": 542,
+          "endIndex": 610,
+          "estimatedDuration": 3857.142857142857
+        }
+      ],
+      "wordCount": 91,
+      "duration": 36,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-4",
+      "imageNumber": 4,
+      "title": "Jill's Secondary Math Scores",
+      "template": "A",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [Jill's secondary math scores].\nAt the TOP [in grade TWELVE] SHOWS the HIGHEST value |\nof around [NINETY-one percent].\nFollowing THAT [in grade ELEVEN] SHOWS about [EIGHTY-three percent] |\nrepresenting the SECOND-highest figure.\nOn the other END [in grade SEVEN] SHOWS the LOWEST value |\nat around [SEVENTY-two percent].\nWorth noting [grade EIGHT] and [grade NINE] |\nalso contribute to the data ANALYSIS.\nIn CONCLUSION this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations in [Jill's secondary math scores].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [Jill's secondary math scores]. At the TOP [in grade TWELVE] SHOWS the HIGHEST value",
+          "startIndex": 0,
+          "endIndex": 136,
+          "estimatedDuration": 8571.42857142857
+        },
+        {
+          "index": 1,
+          "text": "of around [NINETY-one percent]. Following THAT [in grade ELEVEN] SHOWS about [EIGHTY-three percent]",
+          "startIndex": 139,
+          "endIndex": 238,
+          "estimatedDuration": 5571.428571428572
+        },
+        {
+          "index": 2,
+          "text": "representing the SECOND-highest figure. On the other END [in grade SEVEN] SHOWS the LOWEST value",
+          "startIndex": 241,
+          "endIndex": 337,
+          "estimatedDuration": 6428.5714285714275
+        },
+        {
+          "index": 3,
+          "text": "at around [SEVENTY-two percent]. Worth noting [grade EIGHT] and [grade NINE]",
+          "startIndex": 340,
+          "endIndex": 416,
+          "estimatedDuration": 4714.285714285715
+        },
+        {
+          "index": 4,
+          "text": "also contribute to the data ANALYSIS. In CONCLUSION this chart PRESENTS comprehensive DATA",
+          "startIndex": 419,
+          "endIndex": 509,
+          "estimatedDuration": 5571.428571428572
+        },
+        {
+          "index": 5,
+          "text": "demonstrating CLEAR variations in [Jill's secondary math scores].",
+          "startIndex": 512,
+          "endIndex": 577,
+          "estimatedDuration": 3428.5714285714284
+        }
+      ],
+      "wordCount": 85,
+      "duration": 34,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-5",
+      "imageNumber": 5,
+      "title": "Number of Laws in Brazil 1953-1993",
+      "template": "A",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [the number of laws in Brazil].\nAt the TOP [in NINETEEN ninety-three] SHOWS the HIGHEST value |\nof around [TWO thousand TWO hundred laws].\nFollowing THAT [in NINETEEN eighty-three] SHOWS about [ONE thousand laws] |\nrepresenting the SECOND-highest figure.\nOn the other END [in NINETEEN fifty-three] SHOWS the LOWEST value |\nat around [ONE hundred laws].\nWorth noting [NINETEEN sixty-three] and [NINETEEN seventy-three] |\nalso contribute to the data ANALYSIS.\nIn CONCLUSION this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations in [the number of laws in Brazil].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [the number of laws in Brazil]. At the TOP [in NINETEEN ninety-three] SHOWS the HIGHEST value",
+          "startIndex": 0,
+          "endIndex": 145,
+          "estimatedDuration": 9428.57142857143
+        },
+        {
+          "index": 1,
+          "text": "of around [TWO thousand TWO hundred laws]. Following THAT [in NINETEEN eighty-three] SHOWS about [ONE thousand laws]",
+          "startIndex": 148,
+          "endIndex": 264,
+          "estimatedDuration": 7285.714285714285
+        },
+        {
+          "index": 2,
+          "text": "representing the SECOND-highest figure. On the other END [in NINETEEN fifty-three] SHOWS the LOWEST value",
+          "startIndex": 267,
+          "endIndex": 372,
+          "estimatedDuration": 6428.5714285714275
+        },
+        {
+          "index": 3,
+          "text": "at around [ONE hundred laws]. Worth noting [NINETEEN sixty-three] and [NINETEEN seventy-three]",
+          "startIndex": 375,
+          "endIndex": 469,
+          "estimatedDuration": 5142.857142857143
+        },
+        {
+          "index": 4,
+          "text": "also contribute to the data ANALYSIS. In CONCLUSION this chart PRESENTS comprehensive DATA",
+          "startIndex": 472,
+          "endIndex": 562,
+          "estimatedDuration": 5571.428571428572
+        },
+        {
+          "index": 5,
+          "text": "demonstrating CLEAR variations in [the number of laws in Brazil].",
+          "startIndex": 565,
+          "endIndex": 630,
+          "estimatedDuration": 4285.714285714285
+        }
+      ],
+      "wordCount": 94,
+      "duration": 38,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-6",
+      "imageNumber": 6,
+      "title": "S&P/ASX 200",
+      "template": "A",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [the S and P ASX TWO hundred index].\nAt the TOP [at TWELVE o'clock] SHOWS the HIGHEST value |\nof around [THREE thousand FIVE hundred points].\nFollowing THAT [at ELEVEN thirty] SHOWS about [THREE thousand FOUR hundred ninety points] |\nrepresenting the SECOND-highest figure.\nOn the other END [at TEN o'clock] SHOWS the LOWEST value |\nat around [THREE thousand FOUR hundred sixty-eight points].\nWorth noting [ELEVEN o'clock] and [ONE thirty] |\nalso contribute to the data ANALYSIS.\nIn CONCLUSION this chart PRESENTS comprehensive DATA |\ndemonstrating CLEAR variations in [the S and P ASX TWO hundred].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [the S and P ASX TWO hundred index]. At the TOP [at TWELVE o'clock] SHOWS the HIGHEST value",
+          "startIndex": 0,
+          "endIndex": 143,
+          "estimatedDuration": 10285.714285714286
+        },
+        {
+          "index": 1,
+          "text": "of around [THREE thousand FIVE hundred points]. Following THAT [at ELEVEN thirty] SHOWS about [THREE thousand FOUR hundred ninety points]",
+          "startIndex": 146,
+          "endIndex": 283,
+          "estimatedDuration": 8571.42857142857
+        },
+        {
+          "index": 2,
+          "text": "representing the SECOND-highest figure. On the other END [at TEN o'clock] SHOWS the LOWEST value",
+          "startIndex": 286,
+          "endIndex": 382,
+          "estimatedDuration": 6428.5714285714275
+        },
+        {
+          "index": 3,
+          "text": "at around [THREE thousand FOUR hundred sixty-eight points]. Worth noting [ELEVEN o'clock] and [ONE thirty]",
+          "startIndex": 385,
+          "endIndex": 491,
+          "estimatedDuration": 6428.5714285714275
+        },
+        {
+          "index": 4,
+          "text": "also contribute to the data ANALYSIS. In CONCLUSION this chart PRESENTS comprehensive DATA",
+          "startIndex": 494,
+          "endIndex": 584,
+          "estimatedDuration": 5571.428571428572
+        },
+        {
+          "index": 5,
+          "text": "demonstrating CLEAR variations in [the S and P ASX TWO hundred].",
+          "startIndex": 587,
+          "endIndex": 651,
+          "estimatedDuration": 4714.285714285715
+        }
+      ],
+      "wordCount": 103,
+      "duration": 41,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-7",
+      "imageNumber": 7,
+      "title": "Overseas Visitors to Three Different Areas in a European Country 1987-2007",
+      "template": "A",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [overseas visitors to three different areas].\nLooking at [the coast] [in TWO thousand and SEVEN] SHOWS the HIGHEST value |\nat around [SEVENTY-five thousand visitors] |\nwhile [in NINETEEN eighty-seven] SHOWS the LOWEST at about [FORTY thousand visitors].\nSwitching to [the mountains] [in TWO thousand and TWO] LEADS this group |\nat around [SEVENTY-five thousand visitors] |\nfollowed by [the lakes] at about [SIXTY-five thousand visitors].\nIn CONCLUSION this chart PRESENTS |\nthe COMPARATIVE analysis between [the three different areas].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [overseas visitors to three different areas]. Looking at [the coast] [in TWO thousand and SEVEN] SHOWS the HIGHEST value",
+          "startIndex": 0,
+          "endIndex": 172,
+          "estimatedDuration": 10714.285714285716
+        },
+        {
+          "index": 1,
+          "text": "at around [SEVENTY-five thousand visitors]",
+          "startIndex": 175,
+          "endIndex": 217,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 2,
+          "text": "while [in NINETEEN eighty-seven] SHOWS the LOWEST at about [FORTY thousand visitors]. Switching to [the mountains] [in TWO thousand and TWO] LEADS this group",
+          "startIndex": 220,
+          "endIndex": 377,
+          "estimatedDuration": 10285.714285714286
+        },
+        {
+          "index": 3,
+          "text": "at around [SEVENTY-five thousand visitors]",
+          "startIndex": 380,
+          "endIndex": 422,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 4,
+          "text": "followed by [the lakes] at about [SIXTY-five thousand visitors]. In CONCLUSION this chart PRESENTS",
+          "startIndex": 425,
+          "endIndex": 523,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 5,
+          "text": "the COMPARATIVE analysis between [the three different areas].",
+          "startIndex": 526,
+          "endIndex": 587,
+          "estimatedDuration": 3428.5714285714284
+        }
+      ],
+      "wordCount": 86,
+      "duration": 34,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-8",
+      "imageNumber": 8,
+      "title": "Projected Population in Australia",
+      "template": "A",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [projected population in Australia].\nLooking at [Series A] [in TWENTY-one oh-one] SHOWS the HIGHEST value |\nat around [SEVENTY million people] |\nwhile [in TWENTY oh-one] SHOWS the LOWEST at about [TWENTY million people].\nSwitching to [Series B] [in TWENTY-one oh-one] LEADS this group |\nat around [FORTY-five million people] |\nfollowed by [Series C] at about [THIRTY-five million people].\nIn CONCLUSION this chart PRESENTS |\nthe COMPARATIVE analysis between [the projected population series].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [projected population in Australia]. Looking at [Series A] [in TWENTY-one oh-one] SHOWS the HIGHEST value",
+          "startIndex": 0,
+          "endIndex": 157,
+          "estimatedDuration": 9000
+        },
+        {
+          "index": 1,
+          "text": "at around [SEVENTY million people]",
+          "startIndex": 160,
+          "endIndex": 194,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 2,
+          "text": "while [in TWENTY oh-one] SHOWS the LOWEST at about [TWENTY million people]. Switching to [Series B] [in TWENTY-one oh-one] LEADS this group",
+          "startIndex": 197,
+          "endIndex": 336,
+          "estimatedDuration": 9428.57142857143
+        },
+        {
+          "index": 3,
+          "text": "at around [FORTY-five million people]",
+          "startIndex": 339,
+          "endIndex": 376,
+          "estimatedDuration": 2142.8571428571427
+        },
+        {
+          "index": 4,
+          "text": "followed by [Series C] at about [THIRTY-five million people]. In CONCLUSION this chart PRESENTS",
+          "startIndex": 379,
+          "endIndex": 474,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 5,
+          "text": "the COMPARATIVE analysis between [the projected population series].",
+          "startIndex": 477,
+          "endIndex": 544,
+          "estimatedDuration": 3428.5714285714284
+        }
+      ],
+      "wordCount": 80,
+      "duration": 32,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-9",
+      "imageNumber": 9,
+      "title": "Annual per capita Meat Consumption (kg)",
+      "template": "A",
+      "fullText": "This [LINE graph] ILLUSTRATES information REGARDING [annual per capita meat consumption].\nLooking at [USA] [in TWO thousand and NINE] SHOWS the HIGHEST value |\nat around [ONE hundred and THIRTY kilograms] |\nwhile [in NINETEEN sixty-one] SHOWS about [NINETY kilograms].\nSwitching to [India] [in TWO thousand and NINE] LEADS this group |\nat around [FIVE kilograms] |\nfollowed by [Ethiopia] at about [TEN kilograms].\nIn CONCLUSION this chart PRESENTS |\nthe COMPARATIVE analysis between [annual per capita meat consumption].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [LINE graph] ILLUSTRATES information REGARDING [annual per capita meat consumption]. Looking at [USA] [in TWO thousand and NINE] SHOWS the HIGHEST value",
+          "startIndex": 0,
+          "endIndex": 157,
+          "estimatedDuration": 9857.142857142857
+        },
+        {
+          "index": 1,
+          "text": "at around [ONE hundred and THIRTY kilograms]",
+          "startIndex": 160,
+          "endIndex": 204,
+          "estimatedDuration": 3000
+        },
+        {
+          "index": 2,
+          "text": "while [in NINETEEN sixty-one] SHOWS about [NINETY kilograms]. Switching to [India] [in TWO thousand and NINE] LEADS this group",
+          "startIndex": 207,
+          "endIndex": 333,
+          "estimatedDuration": 8142.857142857142
+        },
+        {
+          "index": 3,
+          "text": "at around [FIVE kilograms]",
+          "startIndex": 336,
+          "endIndex": 362,
+          "estimatedDuration": 1714.2857142857142
+        },
+        {
+          "index": 4,
+          "text": "followed by [Ethiopia] at about [TEN kilograms]. In CONCLUSION this chart PRESENTS",
+          "startIndex": 365,
+          "endIndex": 447,
+          "estimatedDuration": 5142.857142857143
+        },
+        {
+          "index": 5,
+          "text": "the COMPARATIVE analysis between [annual per capita meat consumption].",
+          "startIndex": 450,
+          "endIndex": 520,
+          "estimatedDuration": 3857.142857142857
+        }
+      ],
+      "wordCount": 79,
+      "duration": 32,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-10",
+      "imageNumber": 10,
+      "title": "Australian Age Group",
+      "template": "A",
+      "fullText": "This [BAR chart] ILLUSTRATES information REGARDING [Australian age groups].\nLooking at [males] [age group TWENTY-five to THIRTY-four] SHOWS the HIGHEST value |\nat around [SIXTEEN point TWO percent] |\nwhile [age group EIGHTY-five plus] SHOWS the LOWEST at about [ZERO point SEVEN percent].\nSwitching to [females] [age group TWENTY-five to THIRTY-four] LEADS this group |\nat around [SIXTEEN point FIVE percent] |\nfollowed by [age group FIFTEEN to TWENTY-four] at about [FOURTEEN percent].\nIn CONCLUSION this chart PRESENTS |\nthe COMPARATIVE analysis between [males and females by age group].",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This [BAR chart] ILLUSTRATES information REGARDING [Australian age groups]. Looking at [males] [age group TWENTY-five to THIRTY-four] SHOWS the HIGHEST value",
+          "startIndex": 0,
+          "endIndex": 157,
+          "estimatedDuration": 9000
+        },
+        {
+          "index": 1,
+          "text": "at around [SIXTEEN point TWO percent]",
+          "startIndex": 160,
+          "endIndex": 197,
+          "estimatedDuration": 2571.4285714285716
+        },
+        {
+          "index": 2,
+          "text": "while [age group EIGHTY-five plus] SHOWS the LOWEST at about [ZERO point SEVEN percent]. Switching to [females] [age group TWENTY-five to THIRTY-four] LEADS this group",
+          "startIndex": 200,
+          "endIndex": 367,
+          "estimatedDuration": 10714.285714285716
+        },
+        {
+          "index": 3,
+          "text": "at around [SIXTEEN point FIVE percent]",
+          "startIndex": 370,
+          "endIndex": 408,
+          "estimatedDuration": 2571.4285714285716
+        },
+        {
+          "index": 4,
+          "text": "followed by [age group FIFTEEN to TWENTY-four] at about [FOURTEEN percent]. In CONCLUSION this chart PRESENTS",
+          "startIndex": 411,
+          "endIndex": 520,
+          "estimatedDuration": 6857.142857142857
+        },
+        {
+          "index": 5,
+          "text": "the COMPARATIVE analysis between [males and females by age group].",
+          "startIndex": 523,
+          "endIndex": 589,
+          "estimatedDuration": 4285.714285714285
+        }
+      ],
+      "wordCount": 89,
+      "duration": 36,
+      "category": "di-shadowing"
+    }
+  ]
+}
