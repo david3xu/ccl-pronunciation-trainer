@@ -1,0 +1,3378 @@
+{
+  "metadata": {
+    "generated": "2025-11-30T10:33:24.849Z",
+    "totalAnswers": 43,
+    "source": "example-answers",
+    "description": "DI natural answers (Images 1-43) for shadowing practice with natural phrase chunking",
+    "version": "2.0",
+    "category": "di-shadowing",
+    "dataType": "shadowing"
+  },
+  "answers": [
+    {
+      "id": "di-image-1",
+      "imageNumber": 1,
+      "title": "Overshot Water Wheel",
+      "template": "Natural",
+      "fullText": "This image shows two types of overshot water wheels. On the left, we can see the standard design, and on the right is the pitchback version. Water flows from the flume at the top and hits the wheel buckets. This makes the wheel turn. The water then falls into the tail race at the bottom. The main difference between the two designs is the direction of water flow and how it hits the wheel. Both designs use gravity and water power to create rotation.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This image shows two types of overshot water wheels. On the left,",
+          "startIndex": 0,
+          "endIndex": 65,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 1,
+          "text": "we can see the standard design, and on the right is the pitchback version.",
+          "startIndex": 67,
+          "endIndex": 141,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "Water flows from the flume at the top and hits the wheel buckets.",
+          "startIndex": 143,
+          "endIndex": 208,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 3,
+          "text": "This makes the wheel turn. The water then falls into the tail race at the bottom.",
+          "startIndex": 210,
+          "endIndex": 291,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 4,
+          "text": "The main difference between the two designs is the direction of water flow and",
+          "startIndex": 293,
+          "endIndex": 371,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 5,
+          "text": "how it hits the wheel. Both designs use gravity and",
+          "startIndex": 373,
+          "endIndex": 424,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 6,
+          "text": "water power to create rotation.",
+          "startIndex": 426,
+          "endIndex": 456,
+          "estimatedDuration": 2000
+        }
+      ],
+      "wordCount": 84,
+      "duration": 34,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-2",
+      "imageNumber": 2,
+      "title": "Projected Population, Australia",
+      "template": "Natural",
+      "fullText": "This graph shows the projected population of Australia from 2001 to 2101. There are three different series. Series A shows the highest growth, reaching about 60 million by 2101. Series B is in the middle, growing to around 45 million. Series C shows the lowest growth, staying at about 33 million. All three series start at roughly the same point in 2001, around 20 million people. Overall, the graph shows that Australia's population will continue to grow, but the rate depends on different factors.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This graph shows the projected population of Australia from 2001 to 2101.",
+          "startIndex": 0,
+          "endIndex": 73,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 1,
+          "text": "There are three different series. Series A shows the highest growth,",
+          "startIndex": 75,
+          "endIndex": 143,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 2,
+          "text": "reaching about 60 million by 2101. Series B is in the middle,",
+          "startIndex": 145,
+          "endIndex": 206,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 3,
+          "text": "growing to around 45 million. Series C shows the lowest growth,",
+          "startIndex": 208,
+          "endIndex": 271,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 4,
+          "text": "staying at about 33 million. All three series start at roughly the same point in 2001,",
+          "startIndex": 273,
+          "endIndex": 359,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 5,
+          "text": "around 20 million people. Overall, the graph shows that",
+          "startIndex": 361,
+          "endIndex": 416,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 6,
+          "text": "Australia's population will continue to grow, but",
+          "startIndex": 418,
+          "endIndex": 467,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 7,
+          "text": "the rate depends on different factors.",
+          "startIndex": 469,
+          "endIndex": 506,
+          "estimatedDuration": 2400
+        }
+      ],
+      "wordCount": 84,
+      "duration": 34,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-3",
+      "imageNumber": 3,
+      "title": "Population Density, Australia (June 2010)",
+      "template": "Natural",
+      "fullText": "This map shows the population density of Australia in June 2010. The colors represent how many people live in each area per square kilometer. We can see that most people live along the coast, especially in the eastern and southeastern areas, which are shown in dark orange and red. These areas have 100 or more people per square kilometer. The center of Australia is very light yellow, which means less than 0.1 people per square kilometer. The map clearly shows that Australia's population is mainly concentrated in coastal cities, while the inland areas are very sparsely populated.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This map shows the population density of Australia in June 2010.",
+          "startIndex": 0,
+          "endIndex": 64,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 1,
+          "text": "The colors represent how many people live in each area per square kilometer.",
+          "startIndex": 66,
+          "endIndex": 142,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 2,
+          "text": "We can see that most people live along the coast, especially in the eastern and",
+          "startIndex": 144,
+          "endIndex": 223,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 3,
+          "text": "southeastern areas, which are shown in dark orange and red.",
+          "startIndex": 225,
+          "endIndex": 284,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "These areas have 100 or more people per square kilometer.",
+          "startIndex": 286,
+          "endIndex": 343,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 5,
+          "text": "The center of Australia is very light yellow, which means less than 0.",
+          "startIndex": 345,
+          "endIndex": 415,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "1 people per square kilometer. The map clearly shows that",
+          "startIndex": 417,
+          "endIndex": 474,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 7,
+          "text": "Australia's population is mainly concentrated in coastal cities,",
+          "startIndex": 476,
+          "endIndex": 540,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 8,
+          "text": "while the inland areas are very sparsely populated.",
+          "startIndex": 542,
+          "endIndex": 592,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 97,
+      "duration": 39,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-4",
+      "imageNumber": 4,
+      "title": "Trading Goods, Ancient Egypt",
+      "template": "Natural",
+      "fullText": "This diagram shows the trading goods of ancient Egypt. On the left side, we can see the imports. Egypt brought in cedar oil and timber from Lebanon, copper and gold from Nubia, and exotic animals from tropical Africa. They also imported horses, fruit, and honey from Mediterranean countries. On the right side, we have the exports. Ancient Egypt sold linen, tools, beads, beer, weapons, and oil to other regions. This shows that ancient Egypt had a strong trading network with many different countries and regions around the Mediterranean and Africa.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows the trading goods of ancient Egypt. On the left side,",
+          "startIndex": 0,
+          "endIndex": 72,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 1,
+          "text": "we can see the imports. Egypt brought in cedar oil and timber from Lebanon,",
+          "startIndex": 74,
+          "endIndex": 149,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "copper and gold from Nubia, and exotic animals from tropical Africa.",
+          "startIndex": 151,
+          "endIndex": 219,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "They also imported horses, fruit, and honey from Mediterranean countries.",
+          "startIndex": 221,
+          "endIndex": 294,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "On the right side, we have the exports. Ancient Egypt sold linen, tools, beads,",
+          "startIndex": 296,
+          "endIndex": 375,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 5,
+          "text": "beer, weapons, and oil to other regions. This shows that",
+          "startIndex": 377,
+          "endIndex": 433,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 6,
+          "text": "ancient Egypt had a strong trading network with many different countries and",
+          "startIndex": 435,
+          "endIndex": 511,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "regions around the Mediterranean and Africa.",
+          "startIndex": 513,
+          "endIndex": 556,
+          "estimatedDuration": 2400
+        }
+      ],
+      "wordCount": 90,
+      "duration": 36,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-5",
+      "imageNumber": 5,
+      "title": "Age Comparison of Male and Female Graduates",
+      "template": "Natural",
+      "fullText": "This chart compares the ages of male and female graduates. The pink bars on the left show female graduates, and the blue bars on the right show male graduates. We can see different age groups from youngest to oldest. The largest group is ages 1 to 15, where females make up 15.5% and males make up 20.5%. This is the maximum for both groups. The smallest group is 85 and above, with only 0.4% for females and 0.8% for males. Overall, the chart shows that most graduates are in the younger age groups, and there are slightly more male graduates than female graduates in almost every age category.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This chart compares the ages of male and female graduates.",
+          "startIndex": 0,
+          "endIndex": 58,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 1,
+          "text": "The pink bars on the left show female graduates, and",
+          "startIndex": 60,
+          "endIndex": 112,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 2,
+          "text": "the blue bars on the right show male graduates.",
+          "startIndex": 114,
+          "endIndex": 161,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 3,
+          "text": "We can see different age groups from youngest to oldest.",
+          "startIndex": 163,
+          "endIndex": 219,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "The largest group is ages 1 to 15, where females make up 15. 5% and",
+          "startIndex": 221,
+          "endIndex": 288,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 5,
+          "text": "males make up 20. 5%. This is the maximum for both groups.",
+          "startIndex": 290,
+          "endIndex": 348,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 6,
+          "text": "The smallest group is 85 and above, with only 0. 4% for females and 0.",
+          "startIndex": 350,
+          "endIndex": 420,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 7,
+          "text": "8% for males. Overall, the chart shows that",
+          "startIndex": 422,
+          "endIndex": 465,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 8,
+          "text": "most graduates are in the younger age groups, and",
+          "startIndex": 467,
+          "endIndex": 516,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 9,
+          "text": "there are slightly more male graduates than female graduates in almost every age category.",
+          "startIndex": 518,
+          "endIndex": 607,
+          "estimatedDuration": 5600
+        }
+      ],
+      "wordCount": 108,
+      "duration": 43,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-6",
+      "imageNumber": 6,
+      "title": "The Eatwell Plate (Nutrition Guide)",
+      "template": "Natural",
+      "fullText": "This diagram shows the eatwell plate, which is a guide for healthy eating. The plate is divided into five food groups. The biggest section in green is for fruit and vegetables, which should make up the largest part of our diet. The yellow section shows bread, rice, potatoes, and pasta - these starchy foods are the second largest group. The smaller sections include milk and dairy foods in blue, and meat, fish, eggs, and beans in pink. The smallest purple section at the bottom represents foods high in fat and sugar, which we should eat less often. This plate helps us understand how to balance our meals for better health.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows the eatwell plate, which is a guide for healthy eating.",
+          "startIndex": 0,
+          "endIndex": 74,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 1,
+          "text": "The plate is divided into five food groups.",
+          "startIndex": 76,
+          "endIndex": 119,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 2,
+          "text": "The biggest section in green is for fruit and vegetables, which",
+          "startIndex": 121,
+          "endIndex": 184,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "should make up the largest part of our diet. The yellow section shows bread,",
+          "startIndex": 186,
+          "endIndex": 262,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 4,
+          "text": "rice, potatoes, and pasta - these starchy foods are the second largest group.",
+          "startIndex": 264,
+          "endIndex": 341,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 5,
+          "text": "The smaller sections include milk and dairy foods in blue, and meat, fish, eggs,",
+          "startIndex": 343,
+          "endIndex": 423,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 6,
+          "text": "and beans in pink. The smallest purple section at the bottom represents foods high in fat and",
+          "startIndex": 425,
+          "endIndex": 518,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 7,
+          "text": "sugar, which we should eat less often. This plate helps us understand",
+          "startIndex": 520,
+          "endIndex": 589,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 8,
+          "text": "how to balance our meals for better health.",
+          "startIndex": 591,
+          "endIndex": 633,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 110,
+      "duration": 44,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-7",
+      "imageNumber": 7,
+      "title": "Bone Structure Comparison (Evolution)",
+      "template": "Natural",
+      "fullText": "This diagram compares the bone structure of four different limbs. At the top, we can see a human arm with the humerus, radius, and ulna bones, plus the hand and wrist bones. Below that is a seal limb, which has the same basic bones but shaped differently for swimming. The third example is a bird wing, where the same bones are present but much lighter and adapted for flying. At the bottom is a bat wing, which also has similar bones but with extended fingers to support the wing. This shows how different animals have the same basic bone structure, but each is adapted for different purposes like swimming, flying, or grasping.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram compares the bone structure of four different limbs. At the top,",
+          "startIndex": 0,
+          "endIndex": 77,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 1,
+          "text": "we can see a human arm with the humerus, radius, and ulna bones, plus the hand",
+          "startIndex": 79,
+          "endIndex": 157,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 2,
+          "text": "and wrist bones. Below that is a seal limb, which has the same basic bones but",
+          "startIndex": 159,
+          "endIndex": 237,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 3,
+          "text": "shaped differently for swimming. The third example is a bird wing, where",
+          "startIndex": 239,
+          "endIndex": 311,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 4,
+          "text": "the same bones are present but much lighter and adapted for flying.",
+          "startIndex": 313,
+          "endIndex": 380,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 5,
+          "text": "At the bottom is a bat wing, which also has similar bones but",
+          "startIndex": 382,
+          "endIndex": 443,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "with extended fingers to support the wing.",
+          "startIndex": 445,
+          "endIndex": 487,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 7,
+          "text": "This shows how different animals have the same basic bone structure, but",
+          "startIndex": 489,
+          "endIndex": 561,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 8,
+          "text": "each is adapted for different purposes like swimming, flying, or grasping.",
+          "startIndex": 563,
+          "endIndex": 636,
+          "estimatedDuration": 4400
+        }
+      ],
+      "wordCount": 112,
+      "duration": 45,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-8",
+      "imageNumber": 8,
+      "title": "Keyboard Ergonomics (Right and Wrong Positions)",
+      "template": "Natural",
+      "fullText": "This diagram shows the right and wrong ways to use a keyboard. At the top left, we can see the correct position. Your wrists should be straight and level with the keyboard. On the top right, there are two wrong positions where the wrists are bent upward or to the sides. At the bottom left, the side view shows the right position again, with a straight wrist and forearm in line with the keyboard. The bottom right shows the wrong position from the side, where the wrist is bent either up or down. This guide helps us avoid injury and type more comfortably by keeping our wrists straight and relaxed.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows the right and wrong ways to use a keyboard. At the top left,",
+          "startIndex": 0,
+          "endIndex": 79,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 1,
+          "text": "we can see the correct position. Your wrists should be straight and",
+          "startIndex": 81,
+          "endIndex": 148,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 2,
+          "text": "level with the keyboard. On the top right, there are two wrong positions where",
+          "startIndex": 150,
+          "endIndex": 228,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "the wrists are bent upward or to the sides. At the bottom left,",
+          "startIndex": 230,
+          "endIndex": 293,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "the side view shows the right position again, with a straight wrist and",
+          "startIndex": 295,
+          "endIndex": 366,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 5,
+          "text": "forearm in line with the keyboard. The bottom right shows the wrong position from the side,",
+          "startIndex": 368,
+          "endIndex": 459,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 6,
+          "text": "where the wrist is bent either up or down. This guide helps us avoid injury and",
+          "startIndex": 461,
+          "endIndex": 540,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 7,
+          "text": "type more comfortably by keeping our wrists straight and relaxed.",
+          "startIndex": 542,
+          "endIndex": 606,
+          "estimatedDuration": 4000
+        }
+      ],
+      "wordCount": 110,
+      "duration": 44,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-9",
+      "imageNumber": 9,
+      "title": "Adding an Article to Wikipedia (Flowchart)",
+      "template": "Natural",
+      "fullText": "This flowchart shows the process of adding an article to Wikipedia. First, you search Wikipedia to see if the topic already exists. If you find it, you should think of another term to search for. If you don't find it, you check if there is a related term. If there is no related term, you can create a new article. If there is a related term, you create a redirect instead. The flowchart uses green for the starting point, blue boxes for questions, and pink circles for the different actions you can take. This makes it easy to follow the decision-making process step by step.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This flowchart shows the process of adding an article to Wikipedia. First,",
+          "startIndex": 0,
+          "endIndex": 74,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 1,
+          "text": "you search Wikipedia to see if the topic already exists. If you find it,",
+          "startIndex": 76,
+          "endIndex": 148,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "you should think of another term to search for. If you don't find it,",
+          "startIndex": 150,
+          "endIndex": 219,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "you check if there is a related term. If there is no related term,",
+          "startIndex": 221,
+          "endIndex": 287,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 4,
+          "text": "you can create a new article. If there is a related term,",
+          "startIndex": 289,
+          "endIndex": 346,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 5,
+          "text": "you create a redirect instead. The flowchart uses green for the starting point,",
+          "startIndex": 348,
+          "endIndex": 427,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "blue boxes for questions, and pink circles for the different actions you can take.",
+          "startIndex": 429,
+          "endIndex": 511,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 7,
+          "text": "This makes it easy to follow the decision-making process step by step.",
+          "startIndex": 513,
+          "endIndex": 582,
+          "estimatedDuration": 4800
+        }
+      ],
+      "wordCount": 105,
+      "duration": 42,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-10",
+      "imageNumber": 10,
+      "title": "Fungus Gnat Lifecycle",
+      "template": "Natural",
+      "fullText": "This diagram shows the lifecycle of a fungus gnat. The cycle starts at the top with the adult stage, which lasts 3 to 6 days. The adult lays eggs, shown on the right side. The eggs take 7 to 10 days to develop. After that, the eggs hatch into larvae at the bottom, which takes 4 to 6 days. Next, the larva becomes a pupa on the left side, and this stage lasts 12 to 14 days. Finally, the pupa turns into an adult, and the cycle starts again. The whole lifecycle takes about 26 to 36 days in total.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows the lifecycle of a fungus gnat.",
+          "startIndex": 0,
+          "endIndex": 50,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 1,
+          "text": "The cycle starts at the top with the adult stage, which lasts 3 to 6 days.",
+          "startIndex": 52,
+          "endIndex": 126,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 2,
+          "text": "The adult lays eggs, shown on the right side.",
+          "startIndex": 128,
+          "endIndex": 173,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 3,
+          "text": "The eggs take 7 to 10 days to develop. After that,",
+          "startIndex": 175,
+          "endIndex": 225,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 4,
+          "text": "the eggs hatch into larvae at the bottom, which takes 4 to 6 days. Next,",
+          "startIndex": 227,
+          "endIndex": 299,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 5,
+          "text": "the larva becomes a pupa on the left side, and this stage lasts 12 to 14 days.",
+          "startIndex": 301,
+          "endIndex": 379,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 6,
+          "text": "Finally, the pupa turns into an adult, and the cycle starts again.",
+          "startIndex": 381,
+          "endIndex": 447,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "The whole lifecycle takes about 26 to 36 days in total.",
+          "startIndex": 449,
+          "endIndex": 503,
+          "estimatedDuration": 4400
+        }
+      ],
+      "wordCount": 100,
+      "duration": 40,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-11",
+      "imageNumber": 11,
+      "title": "Beijing, China Temperature Chart",
+      "template": "Natural",
+      "fullText": "This chart shows the daily high and low temperatures in Beijing, China, throughout the year. The red line shows the daily high temperatures, and the blue line shows the daily low temperatures. The coldest months are January and February, where the low temperature drops to about minus 10 degrees. The temperature starts to rise in spring, reaching its peak in July and August at around 30 degrees for the high. After August, the temperature gradually falls again. The background colors change from blue in winter to green in spring, yellow in summer, and orange in autumn, which makes it easy to see the seasonal changes.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This chart shows the daily high and low temperatures in Beijing, China,",
+          "startIndex": 0,
+          "endIndex": 71,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 1,
+          "text": "throughout the year. The red line shows the daily high temperatures, and",
+          "startIndex": 73,
+          "endIndex": 145,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 2,
+          "text": "the blue line shows the daily low temperatures.",
+          "startIndex": 147,
+          "endIndex": 194,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 3,
+          "text": "The coldest months are January and February, where",
+          "startIndex": 196,
+          "endIndex": 246,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 4,
+          "text": "the low temperature drops to about minus 10 degrees.",
+          "startIndex": 248,
+          "endIndex": 300,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 5,
+          "text": "The temperature starts to rise in spring, reaching its peak in July and",
+          "startIndex": 302,
+          "endIndex": 373,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "August at around 30 degrees for the high. After August,",
+          "startIndex": 375,
+          "endIndex": 430,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 7,
+          "text": "the temperature gradually falls again. The background colors change from blue in winter to green in spring,",
+          "startIndex": 432,
+          "endIndex": 539,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 8,
+          "text": "yellow in summer, and orange in autumn, which",
+          "startIndex": 541,
+          "endIndex": 586,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 9,
+          "text": "makes it easy to see the seasonal changes.",
+          "startIndex": 588,
+          "endIndex": 629,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 105,
+      "duration": 42,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-12",
+      "imageNumber": 12,
+      "title": "Fish Behavior and Moon Phases",
+      "template": "Natural",
+      "fullText": "This diagram shows how fish behavior changes during different moon phases. At the top, we can see four different moon phases from left to right. The blue area below represents the water from surface to bottom. In the first panel with a crescent moon, most fish stay near the bottom. In the second panel with a larger moon, the fish start to spread out in the middle area. In the third panel with a full moon, the fish are scattered at all levels - some at the surface, some in the middle, and some at the bottom. In the last panel, most fish move toward the surface. This shows that the moon phase affects where fish swim in the water.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows how fish behavior changes during different moon phases.",
+          "startIndex": 0,
+          "endIndex": 74,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 1,
+          "text": "At the top, we can see four different moon phases from left to right.",
+          "startIndex": 76,
+          "endIndex": 145,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "The blue area below represents the water from surface to bottom.",
+          "startIndex": 147,
+          "endIndex": 211,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "In the first panel with a crescent moon, most fish stay near the bottom.",
+          "startIndex": 213,
+          "endIndex": 285,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 4,
+          "text": "In the second panel with a larger moon, the fish start to spread out in the middle area.",
+          "startIndex": 287,
+          "endIndex": 375,
+          "estimatedDuration": 7200
+        },
+        {
+          "index": 5,
+          "text": "In the third panel with a full moon, the fish are scattered at all levels - some at the surface,",
+          "startIndex": 377,
+          "endIndex": 473,
+          "estimatedDuration": 8000
+        },
+        {
+          "index": 6,
+          "text": "some in the middle, and some at the bottom. In the last panel,",
+          "startIndex": 475,
+          "endIndex": 537,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "most fish move toward the surface. This shows that the moon phase affects where",
+          "startIndex": 539,
+          "endIndex": 618,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 8,
+          "text": "fish swim in the water.",
+          "startIndex": 620,
+          "endIndex": 642,
+          "estimatedDuration": 2000
+        }
+      ],
+      "wordCount": 120,
+      "duration": 48,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-13",
+      "imageNumber": 13,
+      "title": "Climate Zones for Temperature and Humidity, Australia",
+      "template": "Natural",
+      "fullText": "This map shows the climate zones for temperature and humidity across Australia. The legend on the left shows six different climate types. The northern part of Australia is shown in red, which means hot and humid. The central area is mostly yellow, showing hot dry summers and cold winters. The orange areas near the coast show hot dry summers with warm winters. Along the southern coast, we can see green areas which are temperate zones. Tasmania at the bottom is shown in blue, meaning it has a cool temperate climate. This map clearly shows that Australia has very different climate zones, with tropical conditions in the north and cooler weather in the south.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This map shows the climate zones for temperature and humidity across Australia.",
+          "startIndex": 0,
+          "endIndex": 79,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 1,
+          "text": "The legend on the left shows six different climate types.",
+          "startIndex": 81,
+          "endIndex": 138,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 2,
+          "text": "The northern part of Australia is shown in red, which means hot and humid.",
+          "startIndex": 140,
+          "endIndex": 214,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "The central area is mostly yellow, showing hot dry summers and cold winters.",
+          "startIndex": 216,
+          "endIndex": 292,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "The orange areas near the coast show hot dry summers with warm winters.",
+          "startIndex": 294,
+          "endIndex": 365,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 5,
+          "text": "Along the southern coast, we can see green areas which are temperate zones.",
+          "startIndex": 367,
+          "endIndex": 442,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "Tasmania at the bottom is shown in blue,",
+          "startIndex": 444,
+          "endIndex": 484,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 7,
+          "text": "meaning it has a cool temperate climate. This map clearly shows that",
+          "startIndex": 486,
+          "endIndex": 554,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 8,
+          "text": "Australia has very different climate zones,",
+          "startIndex": 556,
+          "endIndex": 599,
+          "estimatedDuration": 2400
+        },
+        {
+          "index": 9,
+          "text": "with tropical conditions in the north and cooler weather in the south.",
+          "startIndex": 601,
+          "endIndex": 670,
+          "estimatedDuration": 4800
+        }
+      ],
+      "wordCount": 113,
+      "duration": 45,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-14",
+      "imageNumber": 14,
+      "title": "Pet Expenditure in US",
+      "template": "Natural",
+      "fullText": "This pie chart shows how people in the US spend money on their pets. The largest category is vet care and wellbeing in orange, which takes up 47 percent of all pet spending. The second largest is food and litter in blue at 41 percent. Services like grooming and boarding make up 10 percent shown in gray. The smallest category is pet purchase in yellow, which is only 2 percent. This shows that most pet owners spend their money on keeping their pets healthy and well-fed, rather than buying new pets.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This pie chart shows how people in the US spend money on their pets.",
+          "startIndex": 0,
+          "endIndex": 68,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 1,
+          "text": "The largest category is vet care and wellbeing in orange, which",
+          "startIndex": 70,
+          "endIndex": 133,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 2,
+          "text": "takes up 47 percent of all pet spending. The second largest is food and",
+          "startIndex": 135,
+          "endIndex": 206,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "litter in blue at 41 percent. Services like grooming and",
+          "startIndex": 208,
+          "endIndex": 264,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "boarding make up 10 percent shown in gray.",
+          "startIndex": 266,
+          "endIndex": 308,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 5,
+          "text": "The smallest category is pet purchase in yellow, which is only 2 percent.",
+          "startIndex": 310,
+          "endIndex": 383,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "This shows that most pet owners spend their money on keeping their pets healthy and",
+          "startIndex": 385,
+          "endIndex": 468,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 7,
+          "text": "well-fed, rather than buying new pets.",
+          "startIndex": 470,
+          "endIndex": 507,
+          "estimatedDuration": 2400
+        }
+      ],
+      "wordCount": 91,
+      "duration": 36,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-15",
+      "imageNumber": 15,
+      "title": "Adults vs. Teens: Number of Texts on a Typical Day",
+      "template": "Natural",
+      "fullText": "This bar chart compares how many texts adults and teens send on a typical day. The dark blue bars show adults, and the light blue bars show teens. Most adults, 51 percent, send 1 to 10 texts per day. In contrast, only 22 percent of teens send this amount. For people who text more, 29 percent of teens send more than 101 texts daily, while only 8 percent of adults send this many. Very few people send no texts at all - just 9 percent of adults and 2 percent of teens. Overall, this chart shows that teens send much more text messages than adults do each day.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This bar chart compares how many texts adults and teens send on a typical day.",
+          "startIndex": 0,
+          "endIndex": 78,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 1,
+          "text": "The dark blue bars show adults, and the light blue bars show teens. Most adults,",
+          "startIndex": 80,
+          "endIndex": 160,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 2,
+          "text": "51 percent, send 1 to 10 texts per day. In contrast,",
+          "startIndex": 162,
+          "endIndex": 214,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "only 22 percent of teens send this amount. For people who text more,",
+          "startIndex": 216,
+          "endIndex": 284,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "29 percent of teens send more than 101 texts daily,",
+          "startIndex": 286,
+          "endIndex": 337,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 5,
+          "text": "while only 8 percent of adults send this many.",
+          "startIndex": 339,
+          "endIndex": 385,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 6,
+          "text": "Very few people send no texts at all - just 9 percent of adults and",
+          "startIndex": 387,
+          "endIndex": 454,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 7,
+          "text": "2 percent of teens. Overall, this chart shows that",
+          "startIndex": 456,
+          "endIndex": 506,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 8,
+          "text": "teens send much more text messages than adults do each day.",
+          "startIndex": 508,
+          "endIndex": 566,
+          "estimatedDuration": 4400
+        }
+      ],
+      "wordCount": 108,
+      "duration": 43,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-16",
+      "imageNumber": 16,
+      "title": "What is E-Waste?",
+      "template": "Natural",
+      "fullText": "This chart shows what types of items make up e-waste. The chart is divided into two main groups. The top half shows electronic waste in yellow and green colors, which makes up 50 percent. This includes monitors at 10 percent, televisions at 10 percent, computers and printers at 15 percent, and DVD players and radios at 15 percent. The bottom half shows electric waste in blue, which also makes up 50 percent. This includes refrigerators at 20 percent, and washing machines, dryers, and other appliances at 30 percent. Overall, we can see that electric appliances make up the largest part of e-waste.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This chart shows what types of items make up e-waste.",
+          "startIndex": 0,
+          "endIndex": 53,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 1,
+          "text": "The chart is divided into two main groups.",
+          "startIndex": 55,
+          "endIndex": 97,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 2,
+          "text": "The top half shows electronic waste in yellow and green colors, which",
+          "startIndex": 99,
+          "endIndex": 168,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 3,
+          "text": "makes up 50 percent. This includes monitors at 10 percent,",
+          "startIndex": 170,
+          "endIndex": 228,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "televisions at 10 percent, computers and printers at 15 percent, and",
+          "startIndex": 230,
+          "endIndex": 298,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 5,
+          "text": "DVD players and radios at 15 percent. The bottom half shows electric waste in blue,",
+          "startIndex": 300,
+          "endIndex": 383,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 6,
+          "text": "which also makes up 50 percent. This includes refrigerators at 20 percent, and",
+          "startIndex": 385,
+          "endIndex": 463,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "washing machines, dryers, and other appliances at 30 percent. Overall,",
+          "startIndex": 465,
+          "endIndex": 535,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 8,
+          "text": "we can see that electric appliances make up the largest part of e-waste.",
+          "startIndex": 537,
+          "endIndex": 608,
+          "estimatedDuration": 5200
+        }
+      ],
+      "wordCount": 102,
+      "duration": 41,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-17",
+      "imageNumber": 17,
+      "title": "Internet Users Who Accessed via Mobile Phone, GB 2011",
+      "template": "Natural",
+      "fullText": "This bar chart shows the percentage of internet users who accessed the internet via mobile phone in Great Britain in 2011, broken down by age groups. The youngest group, aged 16 to 24, has the highest usage at about 71 percent. The next group, aged 25 to 34, shows around 65 percent. Usage drops to about 49 percent for ages 35 to 44, then continues to fall to 33 percent for ages 45 to 54. The older age groups show much lower usage, with only 21 percent for ages 55 to 64, and just 8 percent for people aged 65 and above. Overall, this chart clearly shows that younger people use mobile internet much more than older people.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This bar chart shows the percentage of internet users who accessed the internet via mobile phone in Great Britain in 2011,",
+          "startIndex": 0,
+          "endIndex": 122,
+          "estimatedDuration": 8400
+        },
+        {
+          "index": 1,
+          "text": "broken down by age groups. The youngest group, aged 16 to 24,",
+          "startIndex": 124,
+          "endIndex": 185,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 2,
+          "text": "has the highest usage at about 71 percent. The next group, aged 25 to 34,",
+          "startIndex": 187,
+          "endIndex": 260,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 3,
+          "text": "shows around 65 percent. Usage drops to about 49 percent for ages 35 to 44,",
+          "startIndex": 262,
+          "endIndex": 337,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 4,
+          "text": "then continues to fall to 33 percent for ages 45 to 54.",
+          "startIndex": 339,
+          "endIndex": 394,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 5,
+          "text": "The older age groups show much lower usage,",
+          "startIndex": 396,
+          "endIndex": 439,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 6,
+          "text": "with only 21 percent for ages 55 to 64, and",
+          "startIndex": 441,
+          "endIndex": 484,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 7,
+          "text": "just 8 percent for people aged 65 and above. Overall,",
+          "startIndex": 486,
+          "endIndex": 539,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 8,
+          "text": "this chart clearly shows that younger people use mobile internet much more than older people.",
+          "startIndex": 541,
+          "endIndex": 633,
+          "estimatedDuration": 6000
+        }
+      ],
+      "wordCount": 118,
+      "duration": 47,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-18",
+      "imageNumber": 18,
+      "title": "Food Pyramid with Daily Serving Recommendations",
+      "template": "Natural",
+      "fullText": "This food pyramid shows the recommended daily servings for different food groups. At the bottom, we should drink 8 servings of water each day. The next level shows rice, pasta, bread, and cereal, with 6 servings recommended. Moving up, the pyramid shows vegetables with 3 servings and fruits with 2 servings. The next level includes the milk group with 3 servings and the meat, fish, and bean group with 2 servings. At the top, fats, oils and sweets should be used sparingly. The pyramid also suggests taking calcium, vitamin D, and vitamin B-12 supplements. This guide helps us understand how to balance our daily food intake.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This food pyramid shows the recommended daily servings for different food groups.",
+          "startIndex": 0,
+          "endIndex": 81,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 1,
+          "text": "At the bottom, we should drink 8 servings of water each day.",
+          "startIndex": 83,
+          "endIndex": 143,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 2,
+          "text": "The next level shows rice, pasta, bread, and cereal,",
+          "startIndex": 145,
+          "endIndex": 197,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 3,
+          "text": "with 6 servings recommended. Moving up, the pyramid shows vegetables with 3 servings and",
+          "startIndex": 199,
+          "endIndex": 287,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 4,
+          "text": "fruits with 2 servings. The next level includes the milk group with 3 servings and",
+          "startIndex": 289,
+          "endIndex": 371,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 5,
+          "text": "the meat, fish, and bean group with 2 servings. At the top, fats, oils and",
+          "startIndex": 373,
+          "endIndex": 447,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 6,
+          "text": "sweets should be used sparingly. The pyramid also suggests taking calcium,",
+          "startIndex": 449,
+          "endIndex": 523,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 7,
+          "text": "vitamin D, and vitamin B-12 supplements. This guide helps us understand",
+          "startIndex": 525,
+          "endIndex": 596,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 8,
+          "text": "how to balance our daily food intake.",
+          "startIndex": 598,
+          "endIndex": 634,
+          "estimatedDuration": 2800
+        }
+      ],
+      "wordCount": 106,
+      "duration": 42,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-20",
+      "imageNumber": 20,
+      "title": "The Iron Age Hut",
+      "template": "Natural",
+      "fullText": "This diagram shows the structure of an Iron Age hut. The hut has a simple triangular shape with a reed thatch roof at the top. The two sides of the roof are labeled as rafter on the left and reed thatch on the right. At ground level, there are turf walls on both sides for support. Inside the hut, we can see seats built into the walls and ashes in the center, which was probably where they made fires for cooking and heating. The structure sits at ground level with a raised floor inside. This shows how people in the Iron Age built simple but effective shelters using natural materials like reeds, turf, and wood.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows the structure of an Iron Age hut.",
+          "startIndex": 0,
+          "endIndex": 52,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 1,
+          "text": "The hut has a simple triangular shape with a reed thatch roof at the top.",
+          "startIndex": 54,
+          "endIndex": 127,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 2,
+          "text": "The two sides of the roof are labeled as rafter on the left and",
+          "startIndex": 129,
+          "endIndex": 192,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "reed thatch on the right. At ground level,",
+          "startIndex": 194,
+          "endIndex": 236,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 4,
+          "text": "there are turf walls on both sides for support. Inside the hut,",
+          "startIndex": 238,
+          "endIndex": 301,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 5,
+          "text": "we can see seats built into the walls and ashes in the center, which",
+          "startIndex": 303,
+          "endIndex": 371,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 6,
+          "text": "was probably where they made fires for cooking and heating.",
+          "startIndex": 373,
+          "endIndex": 432,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 7,
+          "text": "The structure sits at ground level with a raised floor inside.",
+          "startIndex": 434,
+          "endIndex": 496,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 8,
+          "text": "This shows how people in the Iron Age built simple but",
+          "startIndex": 498,
+          "endIndex": 552,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 9,
+          "text": "effective shelters using natural materials like reeds, turf, and wood.",
+          "startIndex": 554,
+          "endIndex": 623,
+          "estimatedDuration": 4000
+        }
+      ],
+      "wordCount": 115,
+      "duration": 46,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-21",
+      "imageNumber": 21,
+      "title": "Two Examples of \"Input-Process-Output\"",
+      "template": "Natural",
+      "fullText": "This diagram shows two examples of the input-process-output model. At the top, we can see the basic concept with three boxes: input, process, and output. The first example shows a factory process. Materials go in as the input, they are processed in a factory, and the output is a finished product. The second example shows a computer process. Data goes in as the input, it is processed by a computer system, and the output is useful information. Both examples follow the same pattern, showing how raw inputs are changed through a process to create something valuable as the output.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows two examples of the input-process-output model. At the top,",
+          "startIndex": 0,
+          "endIndex": 78,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 1,
+          "text": "we can see the basic concept with three boxes: input, process, and output.",
+          "startIndex": 80,
+          "endIndex": 154,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 2,
+          "text": "The first example shows a factory process. Materials go in as the input,",
+          "startIndex": 156,
+          "endIndex": 228,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 3,
+          "text": "they are processed in a factory, and the output is a finished product.",
+          "startIndex": 230,
+          "endIndex": 300,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "The second example shows a computer process. Data goes in as the input,",
+          "startIndex": 302,
+          "endIndex": 373,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 5,
+          "text": "it is processed by a computer system, and the output is useful information.",
+          "startIndex": 375,
+          "endIndex": 450,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "Both examples follow the same pattern, showing how raw inputs are changed through a process to create something valuable as the output.",
+          "startIndex": 452,
+          "endIndex": 586,
+          "estimatedDuration": 8800
+        }
+      ],
+      "wordCount": 99,
+      "duration": 40,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-22",
+      "imageNumber": 22,
+      "title": "Honey Production in Mexico",
+      "template": "Natural",
+      "fullText": "This map shows honey production in Mexico divided into three main zones. The legend on the right shows four production levels using different colors. The southern zone, shown mostly in orange, produces 3 to 10 percent of the total honey. The central zone has the highest production, with some dark brown areas producing 10 to 16 percent. We can also see some orange areas in the east. The northern zone is mostly light beige, which means it produces very little honey, between 0 to 1 percent. Overall, this map shows that central and southern Mexico are the main honey-producing regions, while the north has very low production.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This map shows honey production in Mexico divided into three main zones.",
+          "startIndex": 0,
+          "endIndex": 72,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 1,
+          "text": "The legend on the right shows four production levels using different colors.",
+          "startIndex": 74,
+          "endIndex": 150,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 2,
+          "text": "The southern zone, shown mostly in orange,",
+          "startIndex": 152,
+          "endIndex": 194,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 3,
+          "text": "produces 3 to 10 percent of the total honey.",
+          "startIndex": 196,
+          "endIndex": 240,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 4,
+          "text": "The central zone has the highest production,",
+          "startIndex": 242,
+          "endIndex": 286,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 5,
+          "text": "with some dark brown areas producing 10 to 16 percent.",
+          "startIndex": 288,
+          "endIndex": 342,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 6,
+          "text": "We can also see some orange areas in the east.",
+          "startIndex": 344,
+          "endIndex": 390,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 7,
+          "text": "The northern zone is mostly light beige, which",
+          "startIndex": 392,
+          "endIndex": 438,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 8,
+          "text": "means it produces very little honey, between 0 to 1 percent. Overall,",
+          "startIndex": 440,
+          "endIndex": 509,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 9,
+          "text": "this map shows that central and southern Mexico are the main honey-producing regions,",
+          "startIndex": 511,
+          "endIndex": 596,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 10,
+          "text": "while the north has very low production.",
+          "startIndex": 598,
+          "endIndex": 637,
+          "estimatedDuration": 2800
+        }
+      ],
+      "wordCount": 107,
+      "duration": 43,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-23",
+      "imageNumber": 23,
+      "title": "Distribution of Tropical Rain Forests",
+      "template": "Natural",
+      "fullText": "This world map shows where tropical rain forests are found around the world. The green areas mark the forest locations. We can see three main regions. First, there is a large area in South America. Second, we see forests in central Africa. And third, there are forests in Southeast Asia and nearby islands. All these forests are located near the equator in hot and humid tropical zones. The map also shows all the major continents and oceans. Overall, this shows that tropical rain forests only grow in specific areas close to the equator, where the climate is warm and wet all year round.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This world map shows where tropical rain forests are found around the world.",
+          "startIndex": 0,
+          "endIndex": 76,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 1,
+          "text": "The green areas mark the forest locations. We can see three main regions. First,",
+          "startIndex": 78,
+          "endIndex": 158,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "there is a large area in South America. Second,",
+          "startIndex": 160,
+          "endIndex": 207,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 3,
+          "text": "we see forests in central Africa. And third,",
+          "startIndex": 209,
+          "endIndex": 253,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 4,
+          "text": "there are forests in Southeast Asia and nearby islands.",
+          "startIndex": 255,
+          "endIndex": 310,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 5,
+          "text": "All these forests are located near the equator in hot and humid tropical zones.",
+          "startIndex": 312,
+          "endIndex": 391,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 6,
+          "text": "The map also shows all the major continents and oceans. Overall, this shows that",
+          "startIndex": 393,
+          "endIndex": 473,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 7,
+          "text": "tropical rain forests only grow in specific areas close to the equator, where",
+          "startIndex": 475,
+          "endIndex": 552,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 8,
+          "text": "the climate is warm and wet all year round.",
+          "startIndex": 554,
+          "endIndex": 596,
+          "estimatedDuration": 3600
+        }
+      ],
+      "wordCount": 103,
+      "duration": 41,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-24",
+      "imageNumber": 24,
+      "title": "Annual Mean Temperature",
+      "template": "Natural",
+      "fullText": "This map shows the annual mean temperature around the world using different colors. The color scale at the bottom shows temperatures in both Celsius and Fahrenheit. Red and dark red colors show the hottest areas, which are around the equator, with temperatures reaching up to 30 degrees Celsius. The blue and purple colors show the coldest areas at the North Pole and South Pole, where temperatures drop to minus 50 degrees Celsius or lower. The areas in between show yellow, orange, and light blue, which means moderate temperatures. We can clearly see that the closer to the equator, the hotter it gets, and the closer to the poles, the colder it gets.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This map shows the annual mean temperature around the world using different colors.",
+          "startIndex": 0,
+          "endIndex": 83,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 1,
+          "text": "The color scale at the bottom shows temperatures in both Celsius and Fahrenheit.",
+          "startIndex": 85,
+          "endIndex": 165,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 2,
+          "text": "Red and dark red colors show the hottest areas, which are around the equator,",
+          "startIndex": 167,
+          "endIndex": 244,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "with temperatures reaching up to 30 degrees Celsius. The blue and",
+          "startIndex": 246,
+          "endIndex": 311,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 4,
+          "text": "purple colors show the coldest areas at the North Pole and South Pole, where",
+          "startIndex": 313,
+          "endIndex": 389,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 5,
+          "text": "temperatures drop to minus 50 degrees Celsius or lower.",
+          "startIndex": 391,
+          "endIndex": 446,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 6,
+          "text": "The areas in between show yellow, orange, and light blue, which",
+          "startIndex": 448,
+          "endIndex": 511,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 7,
+          "text": "means moderate temperatures. We can clearly see that the closer to the equator,",
+          "startIndex": 513,
+          "endIndex": 592,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 8,
+          "text": "the hotter it gets, and the closer to the poles, the colder it gets.",
+          "startIndex": 594,
+          "endIndex": 661,
+          "estimatedDuration": 5600
+        }
+      ],
+      "wordCount": 112,
+      "duration": 45,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-25",
+      "imageNumber": 25,
+      "title": "Graduate Laboratory Floor Plan",
+      "template": "Natural",
+      "fullText": "This diagram shows the floor plan of a graduate laboratory. In the top left corner, there are three office rooms stacked on top of each other. Next to them is the entrance with a restroom. On the right side, there is a computer station and some lab workstations with tables and chairs shown as circles. In the center, there is a large open space with a long table. At the bottom, we can see two science areas - Animal Sciences on the left and Plant Sciences on the right. There are also more lab tables on the bottom right. Overall, this floor plan shows how the laboratory space is organized for different research activities.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows the floor plan of a graduate laboratory.",
+          "startIndex": 0,
+          "endIndex": 59,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 1,
+          "text": "In the top left corner, there are three office rooms stacked on top of each other.",
+          "startIndex": 61,
+          "endIndex": 143,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 2,
+          "text": "Next to them is the entrance with a restroom. On the right side,",
+          "startIndex": 145,
+          "endIndex": 209,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 3,
+          "text": "there is a computer station and some lab workstations with tables and",
+          "startIndex": 211,
+          "endIndex": 280,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 4,
+          "text": "chairs shown as circles. In the center, there is a large open space with a long table.",
+          "startIndex": 282,
+          "endIndex": 368,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 5,
+          "text": "At the bottom, we can see two science areas - Animal Sciences on the left and",
+          "startIndex": 370,
+          "endIndex": 447,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 6,
+          "text": "Plant Sciences on the right. There are also more lab tables on the bottom right.",
+          "startIndex": 449,
+          "endIndex": 529,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 7,
+          "text": "Overall, this floor plan shows how the laboratory space is organized for different research activities.",
+          "startIndex": 531,
+          "endIndex": 633,
+          "estimatedDuration": 6000
+        }
+      ],
+      "wordCount": 114,
+      "duration": 46,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-26",
+      "imageNumber": 26,
+      "title": "Luxury Ensuite Room Floor Plan",
+      "template": "Natural",
+      "fullText": "This diagram shows the floor plan of a luxury ensuite bedroom. At the top, there is a large ensuite bathroom area. On the right side, we can see a desk area with a chair. Below that is a bed on the bottom right. On the left side at the bottom, there is a wardrobe for storage. In the middle of the room, there is some open space. The entrance to the room is on the left side with a curved door opening. Overall, this floor plan shows a compact but well-designed room that includes a private bathroom, sleeping area, study space, and storage all in one unit.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows the floor plan of a luxury ensuite bedroom. At the top,",
+          "startIndex": 0,
+          "endIndex": 74,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 1,
+          "text": "there is a large ensuite bathroom area. On the right side,",
+          "startIndex": 76,
+          "endIndex": 134,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 2,
+          "text": "we can see a desk area with a chair. Below that is a bed on the bottom right.",
+          "startIndex": 136,
+          "endIndex": 213,
+          "estimatedDuration": 7200
+        },
+        {
+          "index": 3,
+          "text": "On the left side at the bottom, there is a wardrobe for storage.",
+          "startIndex": 215,
+          "endIndex": 279,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "In the middle of the room, there is some open space.",
+          "startIndex": 281,
+          "endIndex": 333,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 5,
+          "text": "The entrance to the room is on the left side with a curved door opening.",
+          "startIndex": 335,
+          "endIndex": 407,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 6,
+          "text": "Overall, this floor plan shows a compact but well-designed room that",
+          "startIndex": 409,
+          "endIndex": 477,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 7,
+          "text": "includes a private bathroom, sleeping area, study space, and",
+          "startIndex": 479,
+          "endIndex": 539,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 8,
+          "text": "storage all in one unit.",
+          "startIndex": 541,
+          "endIndex": 564,
+          "estimatedDuration": 2000
+        }
+      ],
+      "wordCount": 107,
+      "duration": 43,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-27",
+      "imageNumber": 27,
+      "title": "Population Pyramid by Age Group and Gender",
+      "template": "Natural",
+      "fullText": "This chart shows the population by age group and gender. The dark blue bars on the left show males, and the light blue bars on the right show females. The largest age group is 25 to 34, which makes up about 16 percent for both males and females. The second largest groups are ages 5 to 14 and 35 to 44, both around 13 to 14 percent. The working age groups from 15 to 64 make up the majority of the population. The oldest group, ages 85 and above, is the smallest at less than 1 percent. Overall, we can see that males and females have very similar numbers across all age groups, and the population has a large working-age base.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This chart shows the population by age group and gender.",
+          "startIndex": 0,
+          "endIndex": 56,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 1,
+          "text": "The dark blue bars on the left show males, and",
+          "startIndex": 58,
+          "endIndex": 104,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 2,
+          "text": "the light blue bars on the right show females.",
+          "startIndex": 106,
+          "endIndex": 152,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 3,
+          "text": "The largest age group is 25 to 34, which",
+          "startIndex": 154,
+          "endIndex": 194,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 4,
+          "text": "makes up about 16 percent for both males and females.",
+          "startIndex": 196,
+          "endIndex": 249,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 5,
+          "text": "The second largest groups are ages 5 to 14 and 35 to 44,",
+          "startIndex": 251,
+          "endIndex": 307,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "both around 13 to 14 percent. The working age groups from 15 to 64 make up the majority of the population.",
+          "startIndex": 309,
+          "endIndex": 415,
+          "estimatedDuration": 8400
+        },
+        {
+          "index": 7,
+          "text": "The oldest group, ages 85 and above, is the smallest at less than 1 percent.",
+          "startIndex": 417,
+          "endIndex": 493,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 8,
+          "text": "Overall, we can see that males and females have very similar numbers across all age groups,",
+          "startIndex": 495,
+          "endIndex": 586,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 9,
+          "text": "and the population has a large working-age base.",
+          "startIndex": 588,
+          "endIndex": 635,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 121,
+      "duration": 48,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-28",
+      "imageNumber": 28,
+      "title": "Journeys by Men and Women in the UK 2006",
+      "template": "Natural",
+      "fullText": "This bar chart compares the journeys made by men and women in the United Kingdom in 2006 according to their purpose. The red bars show women and the blue bars show men. Shopping is the biggest reason for women, at about 25 percent, while men only shop around 18 percent of the time. For commuting and business, the pattern is opposite - men make up about 25 percent while women are around 18 percent. Both men and women visit friends at similar levels, around 12 percent each. The school run is higher for women than men. Walking, holiday trips, and sports are the smallest categories for both groups. Overall, this shows that women travel more for shopping and family activities, while men travel more for work.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This bar chart compares the journeys made by men and",
+          "startIndex": 0,
+          "endIndex": 52,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 1,
+          "text": "women in the United Kingdom in 2006 according to their purpose.",
+          "startIndex": 54,
+          "endIndex": 117,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 2,
+          "text": "The red bars show women and the blue bars show men.",
+          "startIndex": 119,
+          "endIndex": 170,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "Shopping is the biggest reason for women, at about 25 percent,",
+          "startIndex": 172,
+          "endIndex": 234,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 4,
+          "text": "while men only shop around 18 percent of the time. For commuting and business,",
+          "startIndex": 236,
+          "endIndex": 314,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 5,
+          "text": "the pattern is opposite - men make up about 25 percent while women are around 18 percent.",
+          "startIndex": 316,
+          "endIndex": 405,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 6,
+          "text": "Both men and women visit friends at similar levels, around 12 percent each.",
+          "startIndex": 407,
+          "endIndex": 482,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "The school run is higher for women than men. Walking, holiday trips, and",
+          "startIndex": 484,
+          "endIndex": 556,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 8,
+          "text": "sports are the smallest categories for both groups. Overall, this shows that",
+          "startIndex": 558,
+          "endIndex": 634,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 9,
+          "text": "women travel more for shopping and family activities,",
+          "startIndex": 636,
+          "endIndex": 689,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 10,
+          "text": "while men travel more for work.",
+          "startIndex": 691,
+          "endIndex": 721,
+          "estimatedDuration": 2400
+        }
+      ],
+      "wordCount": 126,
+      "duration": 50,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-29",
+      "imageNumber": 29,
+      "title": "Office Floor Plan",
+      "template": "Natural",
+      "fullText": "This diagram shows a simple office floor plan. At the top, there is a large main hall that runs across the entire building. Below that, on the left side, there is a big office space. Next to the office is a kitchen at the bottom left. On the right side, there are three smaller rooms. The top one is the male toilet, the middle one is the female toilet, and the bottom one is a handicapped toilet with a wheelchair symbol. This layout shows a basic office setup with work space, a common area, kitchen facilities, and restrooms for everyone.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows a simple office floor plan. At the top,",
+          "startIndex": 0,
+          "endIndex": 58,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 1,
+          "text": "there is a large main hall that runs across the entire building. Below that,",
+          "startIndex": 60,
+          "endIndex": 136,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "on the left side, there is a big office space.",
+          "startIndex": 138,
+          "endIndex": 184,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 3,
+          "text": "Next to the office is a kitchen at the bottom left. On the right side,",
+          "startIndex": 186,
+          "endIndex": 256,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 4,
+          "text": "there are three smaller rooms. The top one is the male toilet,",
+          "startIndex": 258,
+          "endIndex": 320,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 5,
+          "text": "the middle one is the female toilet, and",
+          "startIndex": 322,
+          "endIndex": 362,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 6,
+          "text": "the bottom one is a handicapped toilet with a wheelchair symbol.",
+          "startIndex": 364,
+          "endIndex": 428,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 7,
+          "text": "This layout shows a basic office setup with work space, a common area,",
+          "startIndex": 430,
+          "endIndex": 500,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 8,
+          "text": "kitchen facilities, and restrooms for everyone.",
+          "startIndex": 502,
+          "endIndex": 548,
+          "estimatedDuration": 2400
+        }
+      ],
+      "wordCount": 100,
+      "duration": 40,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-30",
+      "imageNumber": 30,
+      "title": "Language Origins (Language Families)",
+      "template": "Natural",
+      "fullText": "This pie chart shows the origins of different language families. The chart is divided into six parts. The two largest groups are both 26 percent - Germanic Languages shown in green, and French or Celtic shown in blue. Latin makes up 20 percent in red. The smaller sections include Greek at 6 percent in orange, Other Languages Unknown at 6 percent in purple, and Derived from Proper Names at just 3 percent in yellow. Overall, this chart shows that most English words come from Germanic Languages, French or Celtic, and Latin, with smaller amounts from Greek and other sources.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This pie chart shows the origins of different language families.",
+          "startIndex": 0,
+          "endIndex": 64,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 1,
+          "text": "The chart is divided into six parts. The two largest groups are both 26 percent - Germanic Languages shown in green,",
+          "startIndex": 66,
+          "endIndex": 182,
+          "estimatedDuration": 8400
+        },
+        {
+          "index": 2,
+          "text": "and French or Celtic shown in blue. Latin makes up 20 percent in red.",
+          "startIndex": 184,
+          "endIndex": 253,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "The smaller sections include Greek at 6 percent in orange,",
+          "startIndex": 255,
+          "endIndex": 313,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "Other Languages Unknown at 6 percent in purple, and",
+          "startIndex": 315,
+          "endIndex": 366,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 5,
+          "text": "Derived from Proper Names at just 3 percent in yellow. Overall,",
+          "startIndex": 368,
+          "endIndex": 431,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "this chart shows that most English words come from Germanic Languages,",
+          "startIndex": 433,
+          "endIndex": 503,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 7,
+          "text": "French or Celtic, and Latin, with smaller amounts from Greek and other sources.",
+          "startIndex": 505,
+          "endIndex": 583,
+          "estimatedDuration": 5200
+        }
+      ],
+      "wordCount": 99,
+      "duration": 40,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-31",
+      "imageNumber": 31,
+      "title": "Acid Rain Formation",
+      "template": "Natural",
+      "fullText": "This diagram shows how acid rain is formed. On the left, we can see the sun, which drives photochemical reactions. In the center, there is a large cloud labeled oxidation. Below the cloud, we see acid rain falling to the ground. On the right side, there is text showing that acid plus rain equals acidrain. At the bottom, there are buildings on the left, some trees, and a lake in the middle. The diagram shows that pollution from buildings and other sources goes up into the clouds, where oxidation happens, and this creates acid rain that falls back down to earth.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows how acid rain is formed. On the left, we can see the sun,",
+          "startIndex": 0,
+          "endIndex": 76,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 1,
+          "text": "which drives photochemical reactions. In the center,",
+          "startIndex": 78,
+          "endIndex": 130,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 2,
+          "text": "there is a large cloud labeled oxidation. Below the cloud,",
+          "startIndex": 132,
+          "endIndex": 190,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 3,
+          "text": "we see acid rain falling to the ground. On the right side,",
+          "startIndex": 192,
+          "endIndex": 250,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 4,
+          "text": "there is text showing that acid plus rain equals acidrain. At the bottom,",
+          "startIndex": 252,
+          "endIndex": 325,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 5,
+          "text": "there are buildings on the left, some trees, and a lake in the middle.",
+          "startIndex": 327,
+          "endIndex": 397,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 6,
+          "text": "The diagram shows that pollution from buildings and",
+          "startIndex": 399,
+          "endIndex": 450,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 7,
+          "text": "other sources goes up into the clouds, where oxidation happens, and",
+          "startIndex": 452,
+          "endIndex": 519,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 8,
+          "text": "this creates acid rain that falls back down to earth.",
+          "startIndex": 521,
+          "endIndex": 573,
+          "estimatedDuration": 4000
+        }
+      ],
+      "wordCount": 101,
+      "duration": 40,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-32",
+      "imageNumber": 32,
+      "title": "Years to Double Population",
+      "template": "Natural",
+      "fullText": "This line graph shows the years it takes for the world population to double. The vertical line shows years to double, and the horizontal line shows the ending year. The line starts very high on the left and drops down to the right. In the early 1700s, it took over 500 years for the population to double. But over time, this number keeps getting smaller. By 1800, it took about 300 years. Then in 1927, it only took 123 years. The most recent point shows it took less than 50 years in 1974. Overall, this graph shows that the population is doubling much faster now than it did in the past.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows the years it takes for the world population to double.",
+          "startIndex": 0,
+          "endIndex": 76,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 1,
+          "text": "The vertical line shows years to double, and",
+          "startIndex": 78,
+          "endIndex": 122,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 2,
+          "text": "the horizontal line shows the ending year.",
+          "startIndex": 124,
+          "endIndex": 166,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 3,
+          "text": "The line starts very high on the left and drops down to the right.",
+          "startIndex": 168,
+          "endIndex": 234,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 4,
+          "text": "In the early 1700s, it took over 500 years for the population to double.",
+          "startIndex": 236,
+          "endIndex": 308,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 5,
+          "text": "But over time, this number keeps getting smaller. By 1800,",
+          "startIndex": 310,
+          "endIndex": 368,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 6,
+          "text": "it took about 300 years. Then in 1927, it only took 123 years.",
+          "startIndex": 370,
+          "endIndex": 432,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "The most recent point shows it took less than 50 years in 1974. Overall,",
+          "startIndex": 434,
+          "endIndex": 506,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 8,
+          "text": "this graph shows that the population is doubling much faster now than it did in the past.",
+          "startIndex": 508,
+          "endIndex": 596,
+          "estimatedDuration": 6800
+        }
+      ],
+      "wordCount": 111,
+      "duration": 44,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-33",
+      "imageNumber": 33,
+      "title": "Dubai Gold Sales in 2002",
+      "template": "Natural",
+      "fullText": "This line graph shows Dubai gold sales in 2002. The vertical line shows millions of dirhams, and the horizontal line shows the months from January to December. The graph starts at about 200 million in January. It rises sharply to reach the highest point in March at around 350 million. After that, sales drop down to about 200 million in May and June. There is a smaller peak in August, and then sales stay fairly steady for the rest of the year, ending at around 200 million in December. Overall, this graph shows that gold sales in Dubai were highest in March and remained relatively stable for most of the year.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows Dubai gold sales in 2002.",
+          "startIndex": 0,
+          "endIndex": 47,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 1,
+          "text": "The vertical line shows millions of dirhams, and",
+          "startIndex": 49,
+          "endIndex": 97,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 2,
+          "text": "the horizontal line shows the months from January to December.",
+          "startIndex": 99,
+          "endIndex": 161,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 3,
+          "text": "The graph starts at about 200 million in January.",
+          "startIndex": 163,
+          "endIndex": 212,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 4,
+          "text": "It rises sharply to reach the highest point in March at around 350 million.",
+          "startIndex": 214,
+          "endIndex": 289,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 5,
+          "text": "After that, sales drop down to about 200 million in May and June.",
+          "startIndex": 291,
+          "endIndex": 356,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "There is a smaller peak in August, and then sales stay fairly steady for the rest of the year,",
+          "startIndex": 358,
+          "endIndex": 452,
+          "estimatedDuration": 7600
+        },
+        {
+          "index": 7,
+          "text": "ending at around 200 million in December. Overall, this graph shows that",
+          "startIndex": 454,
+          "endIndex": 526,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 8,
+          "text": "gold sales in Dubai were highest in March and",
+          "startIndex": 528,
+          "endIndex": 573,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 9,
+          "text": "remained relatively stable for most of the year.",
+          "startIndex": 575,
+          "endIndex": 622,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 111,
+      "duration": 44,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-34",
+      "imageNumber": 34,
+      "title": "Number of Arrests Per Year for Using Illegal Drugs",
+      "template": "Natural",
+      "fullText": "This line graph shows the number of arrests per year for using illegal drugs from 1991 to 2005. The vertical line shows the number of arrests per year, and the horizontal line shows the years. The graph starts at about 10 arrests in 1991. It rises quickly to reach 60 arrests by 1995 and stays around that level until 1999. In 2001, there is a sharp spike up to 70 arrests, which is the highest point. Then it drops dramatically to about 15 arrests in 2002, which is the lowest point after 1993. After that, arrests go back up to around 55 in 2003 and then decrease slightly to about 40 in 2005. Overall, this graph shows that drug arrests went up and down quite a lot over this 15-year period.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows the number of arrests per year for using illegal drugs from 1991 to 2005.",
+          "startIndex": 0,
+          "endIndex": 95,
+          "estimatedDuration": 7200
+        },
+        {
+          "index": 1,
+          "text": "The vertical line shows the number of arrests per year, and",
+          "startIndex": 97,
+          "endIndex": 156,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 2,
+          "text": "the horizontal line shows the years. The graph starts at about 10 arrests in 1991.",
+          "startIndex": 158,
+          "endIndex": 240,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 3,
+          "text": "It rises quickly to reach 60 arrests by 1995 and stays around that",
+          "startIndex": 242,
+          "endIndex": 308,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "level until 1999. In 2001, there is a sharp spike up to 70 arrests, which",
+          "startIndex": 310,
+          "endIndex": 383,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 5,
+          "text": "is the highest point. Then it drops dramatically to about 15 arrests in 2002,",
+          "startIndex": 385,
+          "endIndex": 462,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 6,
+          "text": "which is the lowest point after 1993. After that,",
+          "startIndex": 464,
+          "endIndex": 513,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 7,
+          "text": "arrests go back up to around 55 in 2003 and",
+          "startIndex": 515,
+          "endIndex": 558,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 8,
+          "text": "then decrease slightly to about 40 in 2005. Overall, this graph shows that",
+          "startIndex": 560,
+          "endIndex": 634,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 9,
+          "text": "drug arrests went up and down quite a lot over this 15-year period.",
+          "startIndex": 636,
+          "endIndex": 702,
+          "estimatedDuration": 5200
+        }
+      ],
+      "wordCount": 131,
+      "duration": 52,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-35",
+      "imageNumber": 35,
+      "title": "Number of Laws in Brazil 1953-1993",
+      "template": "Natural",
+      "fullText": "This line graph shows the number of laws in Brazil from 1953 to 1993. The vertical line shows the number of laws, and the horizontal line shows the years. The graph starts at about 100 laws in 1953. For the first 20 years, the line stays fairly flat and low. Then around 1970, it starts to go up slowly. After 1980, the line rises much more quickly. By 1990, it reaches about 2000 laws, and by 1993, it goes up to around 2300 laws. Overall, this graph shows that the number of laws in Brazil increased slowly at first, but then grew very rapidly in the 1980s and 1990s.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows the number of laws in Brazil from 1953 to 1993.",
+          "startIndex": 0,
+          "endIndex": 69,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 1,
+          "text": "The vertical line shows the number of laws, and",
+          "startIndex": 71,
+          "endIndex": 118,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 2,
+          "text": "the horizontal line shows the years. The graph starts at about 100 laws in 1953.",
+          "startIndex": 120,
+          "endIndex": 200,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 3,
+          "text": "For the first 20 years, the line stays fairly flat and low. Then around 1970,",
+          "startIndex": 202,
+          "endIndex": 279,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 4,
+          "text": "it starts to go up slowly. After 1980, the line rises much more quickly.",
+          "startIndex": 281,
+          "endIndex": 353,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 5,
+          "text": "By 1990, it reaches about 2000 laws, and by 1993,",
+          "startIndex": 355,
+          "endIndex": 404,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 6,
+          "text": "it goes up to around 2300 laws. Overall, this graph shows that",
+          "startIndex": 406,
+          "endIndex": 468,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "the number of laws in Brazil increased slowly at first, but",
+          "startIndex": 470,
+          "endIndex": 529,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 8,
+          "text": "then grew very rapidly in the 1980s and 1990s.",
+          "startIndex": 531,
+          "endIndex": 576,
+          "estimatedDuration": 3600
+        }
+      ],
+      "wordCount": 109,
+      "duration": 44,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-36",
+      "imageNumber": 36,
+      "title": "Electricity Generation in China by Type 1994-2004",
+      "template": "Natural",
+      "fullText": "This stacked area chart shows electricity generation in China by type from 1994 to 2004. The vertical line shows billion kilowatthours, and the horizontal line shows the years. There are two types shown in the legend. The red area represents conventional thermal power, and the blue area represents hydroelectric power. Both types start at relatively low levels in 1994, with the total at about 900 billion kilowatthours. Over the 10-year period, both types increase steadily. The red conventional thermal area grows much larger than the blue hydroelectric area. By 2004, the total reaches about 2000 billion kilowatthours. Overall, this chart shows that China's electricity generation doubled over this period, with most growth coming from conventional thermal power.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This stacked area chart shows electricity generation in China by type from 1994 to 2004.",
+          "startIndex": 0,
+          "endIndex": 88,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 1,
+          "text": "The vertical line shows billion kilowatthours, and",
+          "startIndex": 90,
+          "endIndex": 140,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 2,
+          "text": "the horizontal line shows the years. There are two types shown in the legend.",
+          "startIndex": 142,
+          "endIndex": 219,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "The red area represents conventional thermal power, and",
+          "startIndex": 221,
+          "endIndex": 276,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 4,
+          "text": "the blue area represents hydroelectric power.",
+          "startIndex": 278,
+          "endIndex": 323,
+          "estimatedDuration": 2400
+        },
+        {
+          "index": 5,
+          "text": "Both types start at relatively low levels in 1994,",
+          "startIndex": 325,
+          "endIndex": 375,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 6,
+          "text": "with the total at about 900 billion kilowatthours. Over the 10-year period,",
+          "startIndex": 377,
+          "endIndex": 452,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "both types increase steadily. The red conventional thermal area grows much larger than the blue hydroelectric area.",
+          "startIndex": 454,
+          "endIndex": 569,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 8,
+          "text": "By 2004, the total reaches about 2000 billion kilowatthours. Overall,",
+          "startIndex": 571,
+          "endIndex": 640,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 9,
+          "text": "this chart shows that China's electricity generation doubled over this period,",
+          "startIndex": 642,
+          "endIndex": 720,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 10,
+          "text": "with most growth coming from conventional thermal power.",
+          "startIndex": 722,
+          "endIndex": 777,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 117,
+      "duration": 47,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-37",
+      "imageNumber": 37,
+      "title": "University and College Students who did Educational Activities",
+      "template": "Natural",
+      "fullText": "This line graph shows the percent of university and college students who did educational activities by hour of day on weekdays. The vertical line shows the percent, and the horizontal line shows the hours from 12 am to 11 pm. There are two lines shown in the legend. The blue line represents full-time students, and the green line represents part-time students. Both lines start very low at midnight, around 5 percent for full-time and 1 percent for part-time. The full-time student line rises sharply to reach its peak around 11 am at about 36 percent. The part-time student line also rises but only reaches about 22 percent at its peak around 10 am. After that, both lines drop down in the afternoon and evening. Overall, this shows that full-time students do more educational activities during the day than part-time students.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows the percent of university and",
+          "startIndex": 0,
+          "endIndex": 51,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 1,
+          "text": "college students who did educational activities by hour of day on weekdays.",
+          "startIndex": 53,
+          "endIndex": 128,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 2,
+          "text": "The vertical line shows the percent, and",
+          "startIndex": 130,
+          "endIndex": 170,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 3,
+          "text": "the horizontal line shows the hours from 12 am to 11 pm.",
+          "startIndex": 172,
+          "endIndex": 228,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 4,
+          "text": "There are two lines shown in the legend.",
+          "startIndex": 230,
+          "endIndex": 270,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 5,
+          "text": "The blue line represents full-time students, and",
+          "startIndex": 272,
+          "endIndex": 320,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 6,
+          "text": "the green line represents part-time students.",
+          "startIndex": 322,
+          "endIndex": 367,
+          "estimatedDuration": 2400
+        },
+        {
+          "index": 7,
+          "text": "Both lines start very low at midnight, around 5 percent for full-time and",
+          "startIndex": 369,
+          "endIndex": 442,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 8,
+          "text": "1 percent for part-time. The full-time student line rises sharply to reach its peak around 11 am at about 36 percent.",
+          "startIndex": 444,
+          "endIndex": 561,
+          "estimatedDuration": 8400
+        },
+        {
+          "index": 9,
+          "text": "The part-time student line also rises but",
+          "startIndex": 563,
+          "endIndex": 604,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 10,
+          "text": "only reaches about 22 percent at its peak around 10 am. After that,",
+          "startIndex": 606,
+          "endIndex": 673,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 11,
+          "text": "both lines drop down in the afternoon and evening. Overall, this shows that",
+          "startIndex": 675,
+          "endIndex": 750,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 12,
+          "text": "full-time students do more educational activities during the day than part-time students.",
+          "startIndex": 752,
+          "endIndex": 840,
+          "estimatedDuration": 4800
+        }
+      ],
+      "wordCount": 140,
+      "duration": 56,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-38",
+      "imageNumber": 38,
+      "title": "Food Price vs Oil Price",
+      "template": "Natural",
+      "fullText": "This line graph shows food price versus oil price from 2000 to 2009. There are two vertical lines - the left side shows oil price in dollars, and the right side shows the food price index. The red line represents oil price, and the green line represents food price index. Both lines start relatively low in 2000 and follow a similar pattern. They stay fairly flat until around 2004, then both start to rise steadily. Around 2007, both prices increase sharply and reach their highest points in 2008, with oil at about 140 dollars and food index at about 210. After that, both drop dramatically and then recover slightly by 2009. Overall, this graph shows that food prices and oil prices move together and are closely connected.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows food price versus oil price from 2000 to 2009.",
+          "startIndex": 0,
+          "endIndex": 68,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 1,
+          "text": "There are two vertical lines - the left side shows oil price in dollars, and",
+          "startIndex": 70,
+          "endIndex": 146,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 2,
+          "text": "the right side shows the food price index. The red line represents oil price,",
+          "startIndex": 148,
+          "endIndex": 225,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "and the green line represents food price index.",
+          "startIndex": 227,
+          "endIndex": 274,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 4,
+          "text": "Both lines start relatively low in 2000 and follow a similar pattern.",
+          "startIndex": 276,
+          "endIndex": 345,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 5,
+          "text": "They stay fairly flat until around 2004, then both start to rise steadily.",
+          "startIndex": 347,
+          "endIndex": 421,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "Around 2007, both prices increase sharply and",
+          "startIndex": 423,
+          "endIndex": 468,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 7,
+          "text": "reach their highest points in 2008, with oil at about 140 dollars and",
+          "startIndex": 470,
+          "endIndex": 539,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 8,
+          "text": "food index at about 210. After that, both drop dramatically and",
+          "startIndex": 541,
+          "endIndex": 604,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 9,
+          "text": "then recover slightly by 2009. Overall, this graph shows that food prices and",
+          "startIndex": 606,
+          "endIndex": 683,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 10,
+          "text": "oil prices move together and are closely connected.",
+          "startIndex": 685,
+          "endIndex": 735,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 127,
+      "duration": 51,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-39",
+      "imageNumber": 39,
+      "title": "Overseas Visitors to Three Different Areas in a European Country 1987-2007",
+      "template": "Natural",
+      "fullText": "This line graph shows overseas visitors to three different areas in a European country from 1987 to 2007. The vertical line shows thousands of visitors, and the horizontal line shows the years. There are three lines shown in the legend. The blue line represents the coast, the red line represents the mountains, and the green line represents the lakes. In 1987, the coast started at about 40 thousand visitors, which was the highest. The mountains and lakes both started much lower at around 20 and 10 thousand. Over the years, the coast line keeps rising steadily to reach about 75 thousand in 2007. The lakes line rises sharply and peaks at about 75 thousand in 2002, then drops to around 50 thousand. The mountains line stays fairly flat throughout the period. Overall, this shows that the coast became the most popular destination by 2007.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows overseas visitors to three different areas in a European country from 1987 to 2007.",
+          "startIndex": 0,
+          "endIndex": 105,
+          "estimatedDuration": 7200
+        },
+        {
+          "index": 1,
+          "text": "The vertical line shows thousands of visitors, and",
+          "startIndex": 107,
+          "endIndex": 157,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 2,
+          "text": "the horizontal line shows the years. There are three lines shown in the legend.",
+          "startIndex": 159,
+          "endIndex": 238,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "The blue line represents the coast, the red line represents the mountains, and",
+          "startIndex": 240,
+          "endIndex": 318,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "the green line represents the lakes. In 1987,",
+          "startIndex": 320,
+          "endIndex": 365,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 5,
+          "text": "the coast started at about 40 thousand visitors, which was the highest.",
+          "startIndex": 367,
+          "endIndex": 438,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 6,
+          "text": "The mountains and lakes both started much lower at around 20 and 10 thousand.",
+          "startIndex": 440,
+          "endIndex": 517,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 7,
+          "text": "Over the years, the coast line keeps rising steadily to reach about 75 thousand",
+          "startIndex": 519,
+          "endIndex": 598,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 8,
+          "text": "in 2007. The lakes line rises sharply and peaks at about 75 thousand in 2002,",
+          "startIndex": 600,
+          "endIndex": 677,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 9,
+          "text": "then drops to around 50 thousand. The mountains line stays fairly flat throughout the period.",
+          "startIndex": 679,
+          "endIndex": 772,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 10,
+          "text": "Overall, this shows that the coast became the most popular destination by 2007.",
+          "startIndex": 774,
+          "endIndex": 852,
+          "estimatedDuration": 5200
+        }
+      ],
+      "wordCount": 144,
+      "duration": 58,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-40",
+      "imageNumber": 40,
+      "title": "Annual per capita Meat Consumption (kg)",
+      "template": "Natural",
+      "fullText": "This line graph shows annual per capita meat consumption in kilograms from 1961 to 2009. The vertical line shows kilograms, and the horizontal line shows the years. There are six lines shown in the legend for different countries. The blue line for USA stays the highest throughout the period, starting at about 90 kg and ending at around 120 kg. The red line for China starts very low at about 10 kg but rises sharply after 1980 to reach about 60 kg by 2009. Brazil in light blue also increases from about 30 kg to 85 kg. The other three countries - Liberia, India, and Ethiopia - all stay very low throughout the period at around 10 to 20 kg. Overall, this shows that USA has the highest meat consumption, while China shows the fastest growth over this period.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows annual per capita meat consumption in kilograms from 1961 to 2009.",
+          "startIndex": 0,
+          "endIndex": 88,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 1,
+          "text": "The vertical line shows kilograms, and the horizontal line shows the years.",
+          "startIndex": 90,
+          "endIndex": 165,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 2,
+          "text": "There are six lines shown in the legend for different countries.",
+          "startIndex": 167,
+          "endIndex": 231,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "The blue line for USA stays the highest throughout the period,",
+          "startIndex": 233,
+          "endIndex": 295,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 4,
+          "text": "starting at about 90 kg and ending at around 120 kg.",
+          "startIndex": 297,
+          "endIndex": 349,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 5,
+          "text": "The red line for China starts very low at about 10 kg but",
+          "startIndex": 351,
+          "endIndex": 408,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "rises sharply after 1980 to reach about 60 kg by 2009.",
+          "startIndex": 410,
+          "endIndex": 464,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 7,
+          "text": "Brazil in light blue also increases from about 30 kg to 85 kg.",
+          "startIndex": 466,
+          "endIndex": 528,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 8,
+          "text": "The other three countries - Liberia, India, and",
+          "startIndex": 530,
+          "endIndex": 577,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 9,
+          "text": "Ethiopia - all stay very low throughout the period at around 10 to 20 kg.",
+          "startIndex": 579,
+          "endIndex": 652,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 10,
+          "text": "Overall, this shows that USA has the highest meat consumption,",
+          "startIndex": 654,
+          "endIndex": 716,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 11,
+          "text": "while China shows the fastest growth over this period.",
+          "startIndex": 718,
+          "endIndex": 771,
+          "estimatedDuration": 3600
+        }
+      ],
+      "wordCount": 139,
+      "duration": 56,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-41",
+      "imageNumber": 41,
+      "title": "Internet Population in Millions of Users",
+      "template": "Natural",
+      "fullText": "This bar chart shows internet population in millions of users across different countries. The vertical line shows millions of users, and the horizontal line shows the country names. China has by far the largest internet population at about 185 million users. The US comes in second with around 165 million users. Japan is third at about 60 million. After that, the numbers drop significantly. Germany and UK both have around 35 to 40 million users. France, India, and Russia are all between 25 and 35 million. The remaining countries - Brazil, South Korea, Canada, Italy, Spain, Mexico, and Netherlands - all have less than 30 million users each. Overall, this chart shows that China and the US have much larger internet populations than all other countries.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This bar chart shows internet population in millions of users across different countries.",
+          "startIndex": 0,
+          "endIndex": 89,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 1,
+          "text": "The vertical line shows millions of users, and",
+          "startIndex": 91,
+          "endIndex": 137,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 2,
+          "text": "the horizontal line shows the country names.",
+          "startIndex": 139,
+          "endIndex": 183,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 3,
+          "text": "China has by far the largest internet population at about 185 million users.",
+          "startIndex": 185,
+          "endIndex": 261,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "The US comes in second with around 165 million users.",
+          "startIndex": 263,
+          "endIndex": 316,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 5,
+          "text": "Japan is third at about 60 million. After that, the numbers drop significantly.",
+          "startIndex": 318,
+          "endIndex": 397,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "Germany and UK both have around 35 to 40 million users. France, India, and",
+          "startIndex": 399,
+          "endIndex": 473,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 7,
+          "text": "Russia are all between 25 and 35 million. The remaining countries - Brazil,",
+          "startIndex": 475,
+          "endIndex": 550,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 8,
+          "text": "South Korea, Canada, Italy, Spain, Mexico, and",
+          "startIndex": 552,
+          "endIndex": 598,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 9,
+          "text": "Netherlands - all have less than 30 million users each. Overall,",
+          "startIndex": 600,
+          "endIndex": 664,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 10,
+          "text": "this chart shows that China and the US have much larger internet populations than all other countries.",
+          "startIndex": 666,
+          "endIndex": 767,
+          "estimatedDuration": 6800
+        }
+      ],
+      "wordCount": 126,
+      "duration": 50,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-42",
+      "imageNumber": 42,
+      "title": "Top 10 US Cities with the Largest Population Increase",
+      "template": "Natural",
+      "fullText": "This horizontal bar chart shows the top 10 US cities with the largest population increase from July 1, 2011 to July 1, 2012. The horizontal line shows the population increase in thousands, and the vertical line shows the city names. New York City has by far the largest increase at about 67,000 people. Houston comes in second with around 34,600, and Los Angeles is third with about 34,500. San Antonio and Austin both have around 25,000 people each. Phoenix and Dallas are close together at about 24,000 and 23,000. The remaining three cities - Charlotte, San Diego, and Forth Worth - all have between 15,000 and 19,000 people. Overall, this chart shows that New York City had a much larger population increase than all other cities during this period.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This horizontal bar chart shows the top 10 US cities with the largest population increase from July 1,",
+          "startIndex": 0,
+          "endIndex": 102,
+          "estimatedDuration": 7200
+        },
+        {
+          "index": 1,
+          "text": "2011 to July 1, 2012. The horizontal line shows the population increase in thousands,",
+          "startIndex": 104,
+          "endIndex": 189,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "and the vertical line shows the city names.",
+          "startIndex": 191,
+          "endIndex": 234,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 3,
+          "text": "New York City has by far the largest increase at about 67,000 people.",
+          "startIndex": 236,
+          "endIndex": 305,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "Houston comes in second with around 34,600, and",
+          "startIndex": 307,
+          "endIndex": 354,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 5,
+          "text": "Los Angeles is third with about 34,500. San Antonio and",
+          "startIndex": 356,
+          "endIndex": 411,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 6,
+          "text": "Austin both have around 25,000 people each. Phoenix and",
+          "startIndex": 413,
+          "endIndex": 468,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 7,
+          "text": "Dallas are close together at about 24,000 and 23,000.",
+          "startIndex": 470,
+          "endIndex": 523,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 8,
+          "text": "The remaining three cities - Charlotte, San Diego, and",
+          "startIndex": 525,
+          "endIndex": 579,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 9,
+          "text": "Forth Worth - all have between 15,000 and 19,000 people. Overall,",
+          "startIndex": 581,
+          "endIndex": 646,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 10,
+          "text": "this chart shows that New York City had a much larger population increase than all other cities during this period.",
+          "startIndex": 648,
+          "endIndex": 762,
+          "estimatedDuration": 8000
+        }
+      ],
+      "wordCount": 129,
+      "duration": 52,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-43",
+      "imageNumber": 43,
+      "title": "Drinking Habits by Age in US",
+      "template": "Natural",
+      "fullText": "This stacked bar chart shows drinking habits by age in the US. The vertical line shows percentage, and the horizontal line shows age groups from 16-24 to 65-74. There are four categories shown in the legend. Blue represents never drinker, orange represents ex-drinker, red represents light drinker, and green represents heavy drinker. For all age groups, never drinkers make up the largest portion, staying around 45 to 60 percent. Light drinkers are the second largest group at about 25 to 40 percent. Ex-drinkers make up a small portion, increasing slightly from about 10 percent in younger groups to about 35 percent in the 65-74 group. Heavy drinkers are the smallest category, staying fairly constant at around 5 to 10 percent across all ages. Overall, this chart shows that most people in the US are either never drinkers or light drinkers.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This stacked bar chart shows drinking habits by age in the US.",
+          "startIndex": 0,
+          "endIndex": 62,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 1,
+          "text": "The vertical line shows percentage, and the horizontal line shows age groups from 16-24 to 65-74.",
+          "startIndex": 64,
+          "endIndex": 161,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 2,
+          "text": "There are four categories shown in the legend. Blue represents never drinker,",
+          "startIndex": 163,
+          "endIndex": 240,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 3,
+          "text": "orange represents ex-drinker, red represents light drinker, and",
+          "startIndex": 242,
+          "endIndex": 305,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 4,
+          "text": "green represents heavy drinker. For all age groups,",
+          "startIndex": 307,
+          "endIndex": 358,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 5,
+          "text": "never drinkers make up the largest portion, staying around 45 to 60 percent.",
+          "startIndex": 360,
+          "endIndex": 436,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "Light drinkers are the second largest group at about 25 to 40 percent.",
+          "startIndex": 438,
+          "endIndex": 508,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "Ex-drinkers make up a small portion, increasing slightly from about 10 percent in younger groups to about 35 percent in the 65-74 group.",
+          "startIndex": 510,
+          "endIndex": 646,
+          "estimatedDuration": 9200
+        },
+        {
+          "index": 8,
+          "text": "Heavy drinkers are the smallest category,",
+          "startIndex": 648,
+          "endIndex": 689,
+          "estimatedDuration": 2400
+        },
+        {
+          "index": 9,
+          "text": "staying fairly constant at around 5 to 10 percent across all ages. Overall,",
+          "startIndex": 691,
+          "endIndex": 766,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 10,
+          "text": "this chart shows that most people in the US are either never drinkers or light drinkers.",
+          "startIndex": 768,
+          "endIndex": 855,
+          "estimatedDuration": 6400
+        }
+      ],
+      "wordCount": 140,
+      "duration": 56,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-44",
+      "imageNumber": 44,
+      "title": "Adults Healthy BMI Chart",
+      "template": "Natural",
+      "fullText": "This chart shows the adults healthy BMI chart. The vertical line shows weight in kilos from 50 to 110, and the horizontal line shows height in meters from 1.36 to 2.00. The chart is divided into different colored zones representing BMI categories. The red zone in the top left corner represents extremely obese. Below that, the yellow zone represents obese. The pink and purple zone in the middle represents overweight. The light purple and blue zone represents healthy weight. The green zone in the bottom right corner represents underweight. The chart helps people find their BMI category by looking at where their height and weight meet on the chart. Overall, this is a useful tool for checking if your weight is healthy for your height.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This chart shows the adults healthy BMI chart.",
+          "startIndex": 0,
+          "endIndex": 46,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 1,
+          "text": "The vertical line shows weight in kilos from 50 to 110, and",
+          "startIndex": 48,
+          "endIndex": 107,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 2,
+          "text": "the horizontal line shows height in meters from 1. 36 to 2. 00.",
+          "startIndex": 109,
+          "endIndex": 172,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 3,
+          "text": "The chart is divided into different colored zones representing BMI categories.",
+          "startIndex": 174,
+          "endIndex": 252,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 4,
+          "text": "The red zone in the top left corner represents extremely obese. Below that,",
+          "startIndex": 254,
+          "endIndex": 329,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 5,
+          "text": "the yellow zone represents obese. The pink and",
+          "startIndex": 331,
+          "endIndex": 377,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 6,
+          "text": "purple zone in the middle represents overweight. The light purple and",
+          "startIndex": 379,
+          "endIndex": 448,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 7,
+          "text": "blue zone represents healthy weight. The green zone in the bottom right corner represents underweight.",
+          "startIndex": 450,
+          "endIndex": 552,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 8,
+          "text": "The chart helps people find their BMI category by looking at where",
+          "startIndex": 554,
+          "endIndex": 620,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 9,
+          "text": "their height and weight meet on the chart. Overall,",
+          "startIndex": 622,
+          "endIndex": 673,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 10,
+          "text": "this is a useful tool for checking if your weight is healthy for your height.",
+          "startIndex": 675,
+          "endIndex": 751,
+          "estimatedDuration": 6000
+        }
+      ],
+      "wordCount": 125,
+      "duration": 50,
+      "category": "di-shadowing"
+    }
+  ]
+}
