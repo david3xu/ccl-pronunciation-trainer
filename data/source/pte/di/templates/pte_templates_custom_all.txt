@@ -61,6 +61,36 @@ In summary, these steps show how [title] works.
 
 *For循环图: Replace last sentence with: "Once finished, everything loops back to the beginning."*
 
+### Template C2: Process Diagrams - Natural & Easy Flow 🌟
+**Transition Style: Smooth Sequential - Easy Pronunciation**
+
+```
+Looking at this image, we can see it explains [TOPIC/PROCESS].
+
+It breaks down the process into several main stages.
+
+Starting from [FIRST STEP],
+
+it then goes through [MIDDLE STEPS],
+
+and wraps up with [FINAL STEP].
+
+Each stage is shown in different colors like [LIST COLORS].
+
+So overall, this diagram clearly shows how [TOPIC] works.
+```
+
+**Example:**
+> Looking at this image, we can see it explains the flower growing process. It breaks down the process into several main stages. Starting from education and seeding, it then goes through blooming and irrigation, and wraps up with management. Each stage is shown in different colors like green, orange, and blue. So overall, this diagram clearly shows how flower cultivation works.
+
+**Why use this template:**
+- ✅ Natural conversational flow (sounds less template-like)
+- ✅ Easy pronunciation (no "th" sounds in key transitions)
+- ✅ Smooth sentence connections (every sentence flows naturally into the next)
+- ✅ Flexible structure (works for any process: manufacturing, life cycles, workflows, systems)
+
+*For循环图: Replace last sentence with: "So overall, this shows a continuous cycle that loops back to the beginning."*
+
 ### Template D: General Images/Photos
 **Transition Style: Spatial Exploration**
 
@@ -185,8 +215,13 @@ Paraphrase the situation in first person, add relevant details
 ### Full Template (28 words base)
 
 ```
-The presentation covers [topic]. To begin with, the speaker explained that [key point]. Next, it was stated that [key point]. Furthermore, the lecturer pointed out that [key point]. Finally, the discussion revealed that [key point].
+The lecture primarily discusses [topic]. The speaker began by explaining [key point]. Following this, [key point] was also mentioned. Additionally, the lecture highlighted [key point]. Finally, the speaker concluded with [key point].
 ```
+
+**Alternative openings (choose based on audio type):**
+- The **lecture** primarily discusses [topic]... (most common - use as default)
+- The **presentation** primarily covers [topic]... (if formal presentation)
+- The **speaker** primarily discusses [topic]... (universal - safest choice)
 
 ### Simplified Template (12 words base)
 *For students who can capture more content*
