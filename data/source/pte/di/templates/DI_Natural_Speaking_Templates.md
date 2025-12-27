@@ -99,18 +99,35 @@ After [final step], the cycle returns to [step 1].
 
 ## Template 4: 图片模板
 
-**适用于:** photos, illustrations, diagrams without numbers
+**适用于:** photos, illustrations, diagrams, floor plans, maps
 
 ```
-This picture presents information about [topic].
+This picture shows information about [topic].
 
-On one side, [element] and [element] are visible.
+Looking at the image, [element] is on the top and connects to [element].
 
-Moving across, [element] stands out clearly.
+On the left side, [element] can be found close to [element].
 
-[Element] and [element] also appear in the image.
+On the right side, [element] also appears in the picture.
 
-Altogether, the picture illustrates [topic].
+At the bottom, [element] can also be seen in the picture.
+
+To sum up, the picture tells us about [topic].
+```
+
+**Example - Iron Age Hut:**
+```
+This picture shows information about the Iron Age Hut.
+
+Looking at the image, Rafter is on the top and connects to Reed Thatch.
+
+On the left side, Seat can be found close to the Ashes.
+
+On the right side, Turf Wall also appears in the picture.
+
+At the bottom, Ground Level can also be seen in the picture.
+
+To sum up, the picture tells us about the Iron Age Hut.
 ```
 
 ---
