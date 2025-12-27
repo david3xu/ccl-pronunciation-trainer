@@ -19,7 +19,7 @@ The lowest can be found in [item], at only [value].
 
 [Item] and [item] also feature in this chart.
 
-Overall, the data tells us about [title].
+From this, the data tells us about [title].
 ```
 
 **Example - Why students study foreign languages:**
@@ -34,7 +34,7 @@ The lowest can be found in Other, at only 1 percent.
 
 Use in future career and Future travel also feature in this chart.
 
-Overall, the data tells us about why students study foreign languages.
+From this, the data tells us about why students study foreign languages.
 ```
 
 ---
