@@ -132,7 +132,7 @@ On the right side, / [element] also appears in the picture.
 
 At the bottom, / [element] can also be seen in the picture.
 
-To sum up, / we can conclude that / the picture tells us about [topic].
+To sum up, / the picture tells us about [topic].
 ```
 
 **Example - Iron Age Hut:**
@@ -147,7 +147,7 @@ On the right side, / Turf Wall also appears in the picture.
 
 At the bottom, / Ground Level can also be seen in the picture.
 
-To sum up, / we can conclude that / the picture tells us about the Iron Age Hut.
+To sum up, / the picture tells us about the Iron Age Hut.
 ```
 
 ---
