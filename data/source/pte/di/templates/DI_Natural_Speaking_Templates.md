@@ -79,20 +79,39 @@ In summary, the data tells us about Newspaper Circulation in USA.
 **适用于:** flow chart, cycle diagram, process
 
 ```
-This diagram illustrates the process of [title].
+This diagram shows the process of [title].
 
-It begins with [step 1], which leads to [step 2].
+At the start, [step 1] can be seen at [location].
 
-From there, [step 3] takes place.
+Following that, [step 2] takes place, leading to [step 3].
 
-The process concludes with [final step].
+After that, [step 4] happens at [location].
 
-Together, these steps explain how [title] works.
+The cycle then returns to [step 1].
+
+To conclude, this diagram tells us about [title].
 ```
 
-**循环图结尾替换:**
+**Example - Acid Rain:**
 ```
-After [final step], the cycle returns to [step 1].
+This diagram shows the process of acid rain.
+
+At the start, Emissions to Atmosphere can be seen at the left side.
+
+Following that, Chemical Transformation takes place, leading to Condensation.
+
+After that, Precipitation happens at the right side.
+
+The cycle then returns to Industry.
+
+To conclude, this diagram tells us about acid rain.
+```
+
+**非循环图结尾替换:**
+```
+Finally, [final step] completes the process.
+
+To conclude, this diagram tells us about [title].
 ```
 
 ---
