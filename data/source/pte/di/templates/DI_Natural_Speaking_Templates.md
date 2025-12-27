@@ -151,11 +151,47 @@ To sum up, the picture tells us about the Iron Age Hut.
 
 ---
 
+## Template 5: 多分类对比模板 - 无数值
+
+**适用于:** comparison charts without numbers, category diagrams, trade/flow diagrams with categories
+
+```
+This chart shows information about [title].
+
+Looking at [category 1], the main items include [item] and [item].
+
+The other items can be found in [source], close to [item] and [item].
+
+Moving to [category 2], the main items include [item] and [item].
+
+[Category 1] and [category 2] are both shown in this chart.
+
+In summary, the data tells us about [title].
+```
+
+**Example - Trading Goods:**
+```
+This chart shows information about Trading Goods in ancient Egypt.
+
+Looking at Imports, the main items include Gold and Copper from Nubia.
+
+The other items can be found in Lebanon, close to Cedar oil and Timber.
+
+Moving to Exports, the main items include Linen and Tools.
+
+Imports and Exports are both shown in this chart.
+
+In summary, the data tells us about Trading Goods in ancient Egypt.
+```
+
+---
+
 # 模板选择指南
 
 | 图片类型 | 使用模板 |
 |----------|----------|
-| 单分类图表 (bar/line/pie) | Template 1 |
-| 多分类对比图 | Template 2 |
+| 单分类图表 (bar/line/pie) 有数值 | Template 1 |
+| 多分类对比图 有数值 | Template 2 |
 | 流程图/循环图 | Template 3 |
-| 照片/插图 | Template 4 |
+| 照片/插图/地图 无数值 | Template 4 |
+| 多分类对比图 无数值 | Template 5 |
