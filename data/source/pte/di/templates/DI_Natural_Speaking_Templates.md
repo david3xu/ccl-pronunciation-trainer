@@ -1,6 +1,7 @@
 # PTE Describe Image - Natural Speaking Templates
 
 > **设计原则：** 自然口语，多样化句式，只填名词，~80词/35秒
+> **Pause "/" 标记呼吸点**
 
 ---
 
@@ -11,30 +12,30 @@
 ```
 This [chart type] shows information about [title].
 
-Looking at the data, we can see that the highest number appears in [item], which is close to [value].
+Looking at the data, / we can see that / the highest number appears in [item], / which is close to [value].
 
-Following that, [item] comes second in the chart, with about [value].
+Following that, / [item] comes second in the chart, / with about [value].
 
-On the other hand, the lowest can be found in [item], at only [value].
+On the other hand, / the lowest can be found in [item], / at only [value].
 
-[Item] and [item] also feature in this chart.
+[Item] and [item] / also feature in this chart.
 
-From this, we can conclude that the data tells us about [title].
+From this, / we can conclude that / the data tells us about [title].
 ```
 
 **Example - Why students study foreign languages:**
 ```
 This pie chart shows information about why students choose to study foreign languages.
 
-Looking at the data, we can see that the highest number appears in Personal Interest and enjoyment, which is close to 43 percent.
+Looking at the data, / we can see that / the highest number appears in Personal Interest and enjoyment, / which is close to 43 percent.
 
-Following that, Degree requirement comes second in the chart, with about 24 percent.
+Following that, / Degree requirement comes second in the chart, / with about 24 percent.
 
-On the other hand, the lowest can be found in Other, at only 1 percent.
+On the other hand, / the lowest can be found in Other, / at only 1 percent.
 
-Use in future career and Future travel also feature in this chart.
+Use in future career and Future travel / also feature in this chart.
 
-From this, we can conclude that the data tells us about why students study foreign languages.
+From this, / we can conclude that / the data tells us about why students study foreign languages.
 ```
 
 ---
@@ -46,30 +47,30 @@ From this, we can conclude that the data tells us about why students study forei
 ```
 This [chart type] shows information about [title].
 
-Looking at [category 1], we can see that the highest number appears in [item], which is close to [value].
+Looking at [category 1], / we can see that / the highest number appears in [item], / which is close to [value].
 
-On the other hand, the lowest number can be found in [item], at only [value].
+On the other hand, / the lowest number can be found in [item], / at only [value].
 
-Moving to [category 2], the highest is in [item], at around [value].
+Moving to [category 2], / the highest is in [item], / at around [value].
 
-[Category 1] and [category 2] are both shown in this chart.
+[Category 1] and [category 2] / are both shown in this chart.
 
-In summary, we can conclude that the data tells us about [title].
+In summary, / we can conclude that / the data tells us about [title].
 ```
 
 **Example - Newspaper Circulation USA:**
 ```
 This line graph shows information about Newspaper Circulation in USA.
 
-Looking at Weekday, we can see that the highest number appears in 1960, which is close to 115 percent.
+Looking at Weekday, / we can see that / the highest number appears in 1960, / which is close to 115 percent.
 
-On the other hand, the lowest number can be found in 2017, at only 28 percent.
+On the other hand, / the lowest number can be found in 2017, / at only 28 percent.
 
-Moving to Sunday, the highest is in 1960, at around 90 percent.
+Moving to Sunday, / the highest is in 1960, / at around 90 percent.
 
-Weekday and Sunday are both shown in this chart.
+Weekday and Sunday / are both shown in this chart.
 
-In summary, we can conclude that the data tells us about Newspaper Circulation in USA.
+In summary, / we can conclude that / the data tells us about Newspaper Circulation in USA.
 ```
 
 ---
@@ -81,37 +82,37 @@ In summary, we can conclude that the data tells us about Newspaper Circulation i
 ```
 This diagram shows the process of [title].
 
-At the start, we can see that [step 1] appears at [location].
+At the start, / we can see that / [step 1] appears at [location].
 
-Following that, [step 2] takes place, which leads to [step 3].
+Following that, / [step 2] takes place, / which leads to [step 3].
 
-After that, [step 4] happens at [location] in the diagram.
+After that, / [step 4] happens at [location] / in the diagram.
 
 The cycle then returns to [step 1].
 
-To conclude, we can see that this diagram tells us about [title].
+To conclude, / we can see that / this diagram tells us about [title].
 ```
 
 **Example - Acid Rain:**
 ```
 This diagram shows the process of acid rain.
 
-At the start, we can see that Emissions to Atmosphere appears at the left side.
+At the start, / we can see that / Emissions to Atmosphere appears at the left side.
 
-Following that, Chemical Transformation takes place, which leads to Condensation.
+Following that, / Chemical Transformation takes place, / which leads to Condensation.
 
-After that, Precipitation happens at the right side in the diagram.
+After that, / Precipitation happens at the right side / in the diagram.
 
 The cycle then returns to Industry.
 
-To conclude, we can see that this diagram tells us about acid rain.
+To conclude, / we can see that / this diagram tells us about acid rain.
 ```
 
 **非循环图结尾替换:**
 ```
-Finally, [final step] completes the process.
+Finally, / [final step] completes the process.
 
-To conclude, we can see that this diagram tells us about [title].
+To conclude, / we can see that / this diagram tells us about [title].
 ```
 
 ---
@@ -123,30 +124,30 @@ To conclude, we can see that this diagram tells us about [title].
 ```
 This picture shows information about [topic].
 
-Looking at the image, we can see that [element] is on the top and connects to [element].
+Looking at the image, / we can see that / [element] is on the top / and connects to [element].
 
-On the left side, [element] can be found close to [element].
+On the left side, / [element] can be found / close to [element].
 
-On the right side, [element] also appears in the picture.
+On the right side, / [element] also appears in the picture.
 
-At the bottom, [element] can also be seen in the picture.
+At the bottom, / [element] can also be seen in the picture.
 
-To sum up, we can conclude that the picture tells us about [topic].
+To sum up, / we can conclude that / the picture tells us about [topic].
 ```
 
 **Example - Iron Age Hut:**
 ```
 This picture shows information about the Iron Age Hut.
 
-Looking at the image, we can see that Rafter is on the top and connects to Reed Thatch.
+Looking at the image, / we can see that / Rafter is on the top / and connects to Reed Thatch.
 
-On the left side, Seat can be found close to the Ashes.
+On the left side, / Seat can be found / close to the Ashes.
 
-On the right side, Turf Wall also appears in the picture.
+On the right side, / Turf Wall also appears in the picture.
 
-At the bottom, Ground Level can also be seen in the picture.
+At the bottom, / Ground Level can also be seen in the picture.
 
-To sum up, we can conclude that the picture tells us about the Iron Age Hut.
+To sum up, / we can conclude that / the picture tells us about the Iron Age Hut.
 ```
 
 ---
@@ -158,30 +159,30 @@ To sum up, we can conclude that the picture tells us about the Iron Age Hut.
 ```
 This chart shows information about [title].
 
-Looking at [category 1], we can see that the main items include [item] and [item].
+Looking at [category 1], / we can see that / the main items include [item] and [item].
 
-The other items can be found in [source], which includes [item] and [item].
+The other items can be found in [source], / which includes [item] and [item].
 
-Moving to [category 2], the main items include [item] and [item].
+Moving to [category 2], / the main items include [item] and [item].
 
-[Category 1] and [category 2] are both shown in this chart.
+[Category 1] and [category 2] / are both shown in this chart.
 
-In summary, we can conclude that the data tells us about [title].
+In summary, / we can conclude that / the data tells us about [title].
 ```
 
 **Example - Trading Goods:**
 ```
 This chart shows information about Trading Goods in ancient Egypt.
 
-Looking at Imports, we can see that the main items include Gold and Copper from Nubia.
+Looking at Imports, / we can see that / the main items include Gold and Copper from Nubia.
 
-The other items can be found in Lebanon, which includes Cedar oil and Timber.
+The other items can be found in Lebanon, / which includes Cedar oil and Timber.
 
-Moving to Exports, the main items include Linen and Tools.
+Moving to Exports, / the main items include Linen and Tools.
 
-Imports and Exports are both shown in this chart.
+Imports and Exports / are both shown in this chart.
 
-In summary, we can conclude that the data tells us about Trading Goods in ancient Egypt.
+In summary, / we can conclude that / the data tells us about Trading Goods in ancient Egypt.
 ```
 
 ---
@@ -237,4 +238,3 @@ In conclusion, / the lecture is mainly about linguistic training.
 | 照片/插图/地图 无数值 | DI Template 4 |
 | 多分类对比图 无数值 | DI Template 5 |
 | **Retell Lecture** | **RL Template** |
-
