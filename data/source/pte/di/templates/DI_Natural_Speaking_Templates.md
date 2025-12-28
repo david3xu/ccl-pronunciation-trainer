@@ -80,39 +80,39 @@ To sum up, / this chart tells us about Newspaper Circulation in USA.
 **适用于:** flow chart, cycle diagram, process
 
 ```
-This diagram shows the process of [title].
+This picture shows the process of [title].
 
 At the start, / we can see that / [step 1] appears at [location].
 
 Following that, / [step 2] takes place, / which leads to [step 3].
 
-After that, / [step 4] happens at [location] / in the diagram.
+After that, / [step 4] happens at [location] / in the picture.
 
 The cycle then returns to [step 1].
 
-To sum up, / this diagram tells us about [title].
+To sum up, / this picture tells us about [title].
 ```
 
 **Example - Acid Rain:**
 ```
-This diagram shows the process of acid rain.
+This picture shows the process of acid rain.
 
 At the start, / we can see that / Emissions to Atmosphere appears at the left side.
 
 Following that, / Chemical Transformation takes place, / which leads to Condensation.
 
-After that, / Precipitation happens at the right side / in the diagram.
+After that, / Precipitation happens at the right side / in the picture.
 
 The cycle then returns to Industry.
 
-To sum up, / this diagram tells us about acid rain.
+To sum up, / this picture tells us about acid rain.
 ```
 
 **非循环图结尾替换:**
 ```
 Finally, / [final step] completes the process.
 
-To sum up, / this diagram tells us about [title].
+To sum up, / this picture tells us about [title].
 ```
 
 ---
