@@ -20,7 +20,7 @@ On the other hand, / the lowest can be found in [item], / at only [value].
 
 [Item] and [item] / also feature in this chart.
 
-From this, / the data tells us about [title].
+To sum up, / this chart tells us about [title].
 ```
 
 **Example - Why students study foreign languages:**
@@ -35,7 +35,7 @@ On the other hand, / the lowest can be found in Other, / at only 1 percent.
 
 Use in future career and Future travel / also feature in this chart.
 
-From this, / the data tells us about why students study foreign languages.
+To sum up, / this chart tells us about why students study foreign languages.
 ```
 
 ---
@@ -55,7 +55,7 @@ Moving to [category 2], / the highest is in [item], / at around [value].
 
 [Category 1] and [category 2] / are both shown in this chart.
 
-In summary, / the data tells us about [title].
+To sum up, / this chart tells us about [title].
 ```
 
 **Example - Newspaper Circulation USA:**
@@ -70,7 +70,7 @@ Moving to Sunday, / the highest is in 1960, / at around 90 percent.
 
 Weekday and Sunday / are both shown in this chart.
 
-In summary, / the data tells us about Newspaper Circulation in USA.
+To sum up, / this chart tells us about Newspaper Circulation in USA.
 ```
 
 ---
@@ -90,7 +90,7 @@ After that, / [step 4] happens at [location] / in the diagram.
 
 The cycle then returns to [step 1].
 
-To conclude, / this diagram tells us about [title].
+To sum up, / this diagram tells us about [title].
 ```
 
 **Example - Acid Rain:**
@@ -105,14 +105,14 @@ After that, / Precipitation happens at the right side / in the diagram.
 
 The cycle then returns to Industry.
 
-To conclude, / this diagram tells us about acid rain.
+To sum up, / this diagram tells us about acid rain.
 ```
 
 **非循环图结尾替换:**
 ```
 Finally, / [final step] completes the process.
 
-To conclude, / this diagram tells us about [title].
+To sum up, / this diagram tells us about [title].
 ```
 
 ---
@@ -167,7 +167,7 @@ Moving to [category 2], / the main items include [item] and [item].
 
 [Category 1] and [category 2] / are both shown in this chart.
 
-In summary, / the data tells us about [title].
+To sum up, / this chart tells us about [title].
 ```
 
 **Example - Trading Goods:**
@@ -182,7 +182,7 @@ Moving to Exports, / the main items include Linen and Tools.
 
 Imports and Exports / are both shown in this chart.
 
-In summary, / the data tells us about Trading Goods in ancient Egypt.
+To sum up, / this chart tells us about Trading Goods in ancient Egypt.
 ```
 
 ---
