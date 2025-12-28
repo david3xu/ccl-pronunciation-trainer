@@ -1420,7 +1420,7 @@ This dataset breaks down complete sentences into **thought groups** (sense group
 1389. Don’t hesitate
 1390. to email me
 1391. if you have any questions.
-1392. The oMice
+1392. The office
 1393. opens
 1394. on Wednesday and Thursday.
 1395. The majority of the hardware
