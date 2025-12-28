@@ -90,6 +90,8 @@ This is followed by / [step 4] happening at [location] / in the picture.
 
 The cycle then returns to [step 1].
 
+On the other hand, / [item 2] has a different [aspect] / compared to [item 1].
+
 To sum up, / this picture tells us about [title].
 ```
 
