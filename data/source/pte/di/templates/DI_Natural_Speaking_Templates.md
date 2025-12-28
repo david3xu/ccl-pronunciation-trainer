@@ -53,7 +53,7 @@ Looking at group [group 1], / we can see that / the highest number appears in [i
 
 On the other hand, / the lowest number can be found in [item], / at only [value].
 
-Moving to group [group 2], / the top value is [item], / at around [value].
+Moving to group [group 2], / the top value is in [item], / at around [value].
 
 To sum up, / this picture tells us about [title].
 ```
@@ -68,7 +68,7 @@ Looking at group Weekday, / we can see that / the highest number appears in 1960
 
 On the other hand, / the lowest number can be found in 2017, / at only 28 percent.
 
-Moving to group Sunday, / the top value is 1960, / at around 90 percent.
+Moving to group Sunday, / the top value is in 1960, / at around 90 percent.
 
 To sum up, / this picture tells us about Newspaper Circulation in USA.
 ```
