@@ -47,9 +47,9 @@ To sum up, / this picture tells us about why students study foreign languages.
 ```
 This picture shows information about [title].
 
-[Category 1], [category 2] and [category 3] / are all shown in this picture.
+There are several categories, / including [category 1], [category 2] and [category 3].
 
-Looking at the details, / we can see that / the highest number appears in [item], / which is close to [value].
+Looking at [category 1], / we can see that / the highest number appears in [item], / which is close to [value].
 
 On the other hand, / the lowest number can be found in [item], / at only [value].
 
@@ -62,9 +62,9 @@ To sum up, / this picture tells us about [title].
 ```
 This picture shows information about Newspaper Circulation in USA.
 
-Weekday and Sunday / are both shown in this picture.
+There are several categories, / including Weekday and Sunday.
 
-Looking at the details, / we can see that / the highest number appears in 1960, / which is close to 115 percent.
+Looking at Weekday, / we can see that / the highest number appears in 1960, / which is close to 115 percent.
 
 On the other hand, / the lowest number can be found in 2017, / at only 28 percent.
 
