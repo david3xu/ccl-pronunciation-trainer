@@ -10,32 +10,32 @@
 **适用于:** bar/line/pie chart, table, map
 
 ```
-This [chart type] shows information about [title].
+This picture shows information about [title].
 
 Looking at the data, / we can see that / the highest number appears in [item], / which is close to [value].
 
-Following that, / [item] comes second in the chart, / with about [value].
+Following that, / [item] comes second in the picture, / with about [value].
 
 On the other hand, / the lowest can be found in [item], / at only [value].
 
-[Item] and [item] / also feature in this chart.
+[Item] and [item] / also feature in this picture.
 
-To sum up, / this chart tells us about [title].
+To sum up, / this picture tells us about [title].
 ```
 
 **Example - Why students study foreign languages:**
 ```
-This pie chart shows information about why students choose to study foreign languages.
+This picture shows information about why students choose to study foreign languages.
 
 Looking at the data, / we can see that / the highest number appears in Personal Interest and enjoyment, / which is close to 43 percent.
 
-Following that, / Degree requirement comes second in the chart, / with about 24 percent.
+Following that, / Degree requirement comes second in the picture, / with about 24 percent.
 
 On the other hand, / the lowest can be found in Other, / at only 1 percent.
 
-Use in future career and Future travel / also feature in this chart.
+Use in future career and Future travel / also feature in this picture.
 
-To sum up, / this chart tells us about why students study foreign languages.
+To sum up, / this picture tells us about why students study foreign languages.
 ```
 
 ---
@@ -45,7 +45,7 @@ To sum up, / this chart tells us about why students study foreign languages.
 **适用于:** grouped bar chart, multi-line graph, dual-axis graph
 
 ```
-This [chart type] shows information about [title].
+This picture shows information about [title].
 
 Looking at [category 1], / we can see that / the highest number appears in [item], / which is close to [value].
 
@@ -53,14 +53,14 @@ On the other hand, / the lowest number can be found in [item], / at only [value]
 
 Moving to [category 2], / the highest is in [item], / at around [value].
 
-[Category 1], [category 2] and [category 3] / are all shown in this chart.
+[Category 1], [category 2] and [category 3] / are all shown in this picture.
 
-To sum up, / this chart tells us about [title].
+To sum up, / this picture tells us about [title].
 ```
 
 **Example - Newspaper Circulation USA:**
 ```
-This line graph shows information about Newspaper Circulation in USA.
+This picture shows information about Newspaper Circulation in USA.
 
 Looking at Weekday, / we can see that / the highest number appears in 1960, / which is close to 115 percent.
 
@@ -68,9 +68,9 @@ On the other hand, / the lowest number can be found in 2017, / at only 28 percen
 
 Moving to Sunday, / the highest is in 1960, / at around 90 percent.
 
-Weekday and Sunday / are both shown in this chart.
+Weekday and Sunday / are both shown in this picture.
 
-To sum up, / this chart tells us about Newspaper Circulation in USA.
+To sum up, / this picture tells us about Newspaper Circulation in USA.
 ```
 
 ---
@@ -179,7 +179,7 @@ To sum up, / the picture tells us about the Iron Age Hut.
 **适用于:** comparison charts without numbers, category diagrams, trade/flow diagrams with categories
 
 ```
-This chart shows information about [title].
+This picture shows information about [title].
 
 Looking at [category 1], / we can see that / the main items include [item] and [item].
 
@@ -187,14 +187,14 @@ The other items can be found in [source], / which includes [item] and [item].
 
 Moving to [category 2], / the main items include [item] and [item].
 
-[Category 1], [category 2] and [category 3] / are all shown in this chart.
+[Category 1], [category 2] and [category 3] / are all shown in this picture.
 
-To sum up, / this chart tells us about [title].
+To sum up, / this picture tells us about [title].
 ```
 
 **Example - Trading Goods:**
 ```
-This chart shows information about Trading Goods in ancient Egypt.
+This picture shows information about Trading Goods in ancient Egypt.
 
 Looking at Imports, / we can see that / the main items include Gold and Copper from Nubia.
 
@@ -202,9 +202,9 @@ The other items can be found in Lebanon, / which includes Cedar oil and Timber.
 
 Moving to Exports, / the main items include Linen and Tools.
 
-Imports and Exports / are both shown in this chart.
+Imports and Exports / are both shown in this picture.
 
-To sum up, / this chart tells us about Trading Goods in ancient Egypt.
+To sum up, / this picture tells us about Trading Goods in ancient Egypt.
 ```
 
 ---
