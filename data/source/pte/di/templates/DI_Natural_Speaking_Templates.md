@@ -115,6 +115,26 @@ Finally, / [final step] completes the process.
 To sum up, / this picture tells us about [title].
 ```
 
+**对比图额外句子 (Comparison Option):**
+```
+On the other hand, / [item 2] has a different [aspect] / compared to [item 1].
+```
+
+**Example - Water Wheel Comparison:**
+```
+This picture shows the process of water wheel.
+
+At the start, / we can see that / water flow appears at the top.
+
+Following that, / flume takes place, / which leads to wheel rotation.
+
+After that, / tail race happens at the bottom / in the picture.
+
+On the other hand, / the pitchback wheel has a different direction of rotation / compared to the overshot wheel.
+
+To sum up, / this picture tells us about water wheel.
+```
+
 ---
 
 ## Template 4: 图片模板
