@@ -196,11 +196,11 @@ The lecture talks about [topic] / and its importance.
 
 The speaker mentions that / [content 1] and [content 2] / are related to [topic].
 
-According to the speaker, / [content 3] is important / in this context.
+According to the speaker, / [content 3] and [content 4] / are important in this context.
 
-The lecture also discusses / how [content 4] and [content 5] / play a role.
+The lecture also discusses / how [content 5] and [content 6] / play a role.
 
-Furthermore, / [content 6] and [content 7] / are mentioned as key points.
+Furthermore, / [content 7] / is mentioned as a key point.
 
 Finally, / the speaker talks about [content 8] / and its connection to [topic].
 
@@ -213,15 +213,78 @@ The lecture talks about linguistic training / and its importance.
 
 The speaker mentions that / authorities and communities / are related to linguistic training.
 
-According to the speaker, / language is important / in this context.
+According to the speaker, / language and expertise / are important in this context.
 
-The lecture also discusses / how expertise and languages are lost / play a role.
+The lecture also discusses / how languages are lost and authority / play a role.
 
-Furthermore, / language revival and authority / are mentioned as key points.
+Furthermore, / language revival / is mentioned as a key point.
 
 Finally, / the speaker talks about communities / and its connection to linguistic training.
 
 In conclusion, / the lecture is mainly about linguistic training.
+```
+
+**Note:** "/" marks natural pause points for breathing.
+
+---
+
+## SGD Template: Summarize Group Discussion 总结小组讨论
+
+**适用于:** Summarize Group Discussion (SGD) - 8 terms per speaker × 3 speakers, ~205 words
+
+```
+The discussion is about [topic].
+
+--- SPEAKER 1 ---
+The first speaker talks about [term 1] / and its importance.
+The speaker mentions that / [term 2] and [term 3] / are related to [term 1].
+According to this speaker, / [term 4] and [term 5] / are important in this context.
+However, / [term 6] / is also discussed as a challenge.
+The speaker concludes that / [term 7] and [term 8] / are the key points.
+
+--- SPEAKER 2 ---
+Moving to the second speaker, / who discusses [term 9].
+This speaker mentions that / [term 10] and [term 11] / play a role.
+The speaker also discusses / [term 12] and [term 13] / in this context.
+On the other hand, / [term 14] / is mentioned as a challenge.
+The speaker suggests that / [term 15] and [term 16] / could be solutions.
+
+--- SPEAKER 3 ---
+Similarly, / the third speaker talks about [term 17].
+According to this speaker, / [term 18] and [term 19] / are significant.
+The speaker also mentions / [term 20] and [term 21] / as important aspects.
+At the same time, / [term 22] / needs to be considered.
+The speaker believes that / [term 23] and [term 24] / are the way forward.
+
+--- CLOSING ---
+All speakers agree that / [common 1] and [common 2] / are important.
+In conclusion, / the discussion is mainly about [topic].
+```
+
+**Example - Free Online Courses:**
+```
+The discussion is about free online courses.
+
+The first speaker talks about accessibility / and its importance.
+The speaker mentions that / many courses and well-known universities / are related to accessibility.
+According to this speaker, / financial situation and lifeline / are important in this context.
+However, / few people complete / is also discussed as a challenge.
+The speaker concludes that / gap between offering and uptake / are the key points.
+
+Moving to the second speaker, / who discusses trust and commitment.
+This speaker mentions that / skepticism and too good to be true / play a role.
+The speaker also discusses / accountability and no financial consequence / in this context.
+On the other hand, / dropping out easily / is mentioned as a challenge.
+The speaker suggests that / peer study groups and rewards / could be solutions.
+
+Similarly, / the third speaker talks about flexibility.
+According to this speaker, / time constraints and self-paced / are significant.
+The speaker also mentions / clear goals and community / as important aspects.
+At the same time, / juggling jobs and family / needs to be considered.
+The speaker believes that / supportive pathways and friction-free / are the way forward.
+
+All speakers agree that / flexibility and accountability / are important.
+In conclusion, / the discussion is mainly about free online courses.
 ```
 
 **Note:** "/" marks natural pause points for breathing.
@@ -238,3 +301,5 @@ In conclusion, / the lecture is mainly about linguistic training.
 | 照片/插图/地图 无数值 | DI Template 4 |
 | 多分类对比图 无数值 | DI Template 5 |
 | **Retell Lecture** | **RL Template** |
+| **Summarize Group Discussion** | **SGD Template** |
+
