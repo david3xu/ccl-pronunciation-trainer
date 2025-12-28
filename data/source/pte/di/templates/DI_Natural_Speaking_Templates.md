@@ -90,7 +90,7 @@ After that, / [step 4] happens at [location] / in the diagram.
 
 The cycle then returns to [step 1].
 
-To conclude, / we can see that / this diagram tells us about [title].
+To conclude, / this diagram tells us about [title].
 ```
 
 **Example - Acid Rain:**
@@ -105,14 +105,14 @@ After that, / Precipitation happens at the right side / in the diagram.
 
 The cycle then returns to Industry.
 
-To conclude, / we can see that / this diagram tells us about acid rain.
+To conclude, / this diagram tells us about acid rain.
 ```
 
 **非循环图结尾替换:**
 ```
 Finally, / [final step] completes the process.
 
-To conclude, / we can see that / this diagram tells us about [title].
+To conclude, / this diagram tells us about [title].
 ```
 
 ---
