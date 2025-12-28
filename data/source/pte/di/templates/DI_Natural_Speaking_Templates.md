@@ -12,7 +12,7 @@
 ```
 This picture shows information about [title].
 
-Looking at the data, / we can see that / the highest number appears in [item], / which is close to [value].
+Looking at the image, / we can see that / the highest number appears in [item], / which is close to [value].
 
 Following that, / [item] comes second in the picture, / with about [value].
 
@@ -27,7 +27,7 @@ To sum up, / this picture tells us about [title].
 ```
 This picture shows information about why students choose to study foreign languages.
 
-Looking at the data, / we can see that / the highest number appears in Personal Interest and enjoyment, / which is close to 43 percent.
+Looking at the image, / we can see that / the highest number appears in Personal Interest and enjoyment, / which is close to 43 percent.
 
 Following that, / Degree requirement comes second in the picture, / with about 24 percent.
 
