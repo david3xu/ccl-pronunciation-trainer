@@ -82,11 +82,11 @@ To sum up, / this chart tells us about Newspaper Circulation in USA.
 ```
 This picture shows the process of [title].
 
-At the start, / we can see that / [step 1] appears at [location].
+Looking at the picture, / we can see that / [step 1] appears at [location].
 
-Following that, / [step 2] takes place, / which leads to [step 3].
+As the process continues, / [step 2] takes place, / which leads to [step 3].
 
-After that, / [step 4] happens at [location] / in the picture.
+This is followed by / [step 4] happening at [location] / in the picture.
 
 The cycle then returns to [step 1].
 
@@ -97,11 +97,11 @@ To sum up, / this picture tells us about [title].
 ```
 This picture shows the process of acid rain.
 
-At the start, / we can see that / Emissions to Atmosphere appears at the left side.
+Looking at the picture, / we can see that / Emissions to Atmosphere appears at the left side.
 
-Following that, / Chemical Transformation takes place, / which leads to Condensation.
+As the process continues, / Chemical Transformation takes place, / which leads to Condensation.
 
-After that, / Precipitation happens at the right side / in the picture.
+This is followed by / Precipitation happening at the right side / in the picture.
 
 The cycle then returns to Industry.
 
@@ -124,11 +124,11 @@ On the other hand, / [item 2] has a different [aspect] / compared to [item 1].
 ```
 This picture shows the process of water wheel.
 
-At the start, / we can see that / water flow appears at the top.
+Looking at the picture, / we can see that / water flow appears at the top.
 
-Following that, / flume takes place, / which leads to wheel rotation.
+As the process continues, / flume takes place, / which leads to wheel rotation.
 
-After that, / tail race happens at the bottom / in the picture.
+This is followed by / tail race happening at the bottom / in the picture.
 
 On the other hand, / the pitchback wheel has a different direction of rotation / compared to the overshot wheel.
 
