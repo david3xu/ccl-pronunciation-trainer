@@ -53,7 +53,7 @@ On the other hand, / the lowest number can be found in [item], / at only [value]
 
 Moving to [category 2], / the highest is in [item], / at around [value].
 
-[Category 1] and [category 2] / are both shown in this chart.
+[Category 1], [category 2] and [category 3] / are all shown in this chart.
 
 To sum up, / this chart tells us about [title].
 ```
@@ -187,7 +187,7 @@ The other items can be found in [source], / which includes [item] and [item].
 
 Moving to [category 2], / the main items include [item] and [item].
 
-[Category 1] and [category 2] / are both shown in this chart.
+[Category 1], [category 2] and [category 3] / are all shown in this chart.
 
 To sum up, / this chart tells us about [title].
 ```
