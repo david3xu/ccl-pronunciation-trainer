@@ -2026,6 +2026,10 @@
 | **unproductive** | /ˌʌnprəˈdʌktɪv/ | un-pruh-DUK-tiv |
 | **northeastern** | /ˌnɔrθˈiːstərn/ | north-EE-stuhrn |
 | **valleys** | /ˈvæliz/ | VAL-eez |
+| **represents** | /ˌrɛprɪˈzɛnts/ | rep-rih-ZENTS |
+| **forests** | /ˈfɔrɪsts/ | FOR-ists |
+| **regions** | /ˈriːdʒənz/ | REE-juhnz |
+| **mountains** | /ˈmaʊntənz/ | MOWN-tuhnz |
 
 ---
 
@@ -2054,6 +2058,10 @@
 | **moderate** | /ˈmɒdərət/ | MOD-uh-ruht |
 | **Atlantic** | /ətˈlæntɪk/ | uht-LAN-tik |
 | **sunniest** | /ˈsʌniɪst/ | SUN-ee-ist |
+| **annual** | /ˈænjuəl/ | AN-yoo-uhl |
+| **southern** | /ˈsʌðərn/ | SUH-thuhrn |
+| **northern** | /ˈnɔrðərn/ | NOR-thuhrn |
+| **coast** | /koʊst/ | kohst |
 
 ---
 
@@ -2082,6 +2090,10 @@
 | **tropical** | /ˈtrɒpɪkəl/ | TROP-uh-kuhl |
 | **equator** | /ɪˈkweɪtər/ | ih-KWAY-tuhr |
 | **Arctic** | /ˈɑrktɪk/ | ARK-tik |
+| **warming** | /ˈwɔrmɪŋ/ | WOR-ming |
+| **temperature** | /ˈtɛmpərətʃər/ | TEM-puhr-uh-chur |
+| **degrees** | /dɪˈɡriːz/ | dih-GREEZ |
+| **experience** | /ɪkˈspɪriəns/ | ik-SPEER-ee-uhns |
 
 ---
 
@@ -2110,6 +2122,10 @@
 | **smelting** | /ˈsmɛltɪŋ/ | SMELT-ing |
 | **atmosphere** | /ˈætməsfɪr/ | AT-muh-sfeer |
 | **chemical** | /ˈkɛmɪkəl/ | KEM-uh-kuhl |
+| **generation** | /ˌdʒɛnəˈreɪʃən/ | jen-uh-RAY-shuhn |
+| **nitrogen** | /ˈnaɪtrədʒən/ | NY-truh-juhn |
+| **dioxide** | /daɪˈɒksaɪd/ | dye-OK-syde |
+| **process** | /ˈprɒsɛs/ | PROSS-es |
 
 ---
 
@@ -2138,6 +2154,10 @@
 | **decreases** | /dɪˈkriːsɪz/ | dih-KREE-siz |
 | **earners** | /ˈɜrnərz/ | UR-nuhrz |
 | **compared** | /kəmˈpɛrd/ | kuhm-PAIRD |
+| **vertical** | /ˈvɜrtɪkəl/ | VUR-tuh-kuhl |
+| **percentage** | /pərˈsɛntɪdʒ/ | puhr-SEN-tij |
+| **pattern** | /ˈpætərn/ | PAT-uhrn |
+| **downward** | /ˈdaʊnwərd/ | DOWN-wuhrd |
 
 ---
 
@@ -2166,6 +2186,10 @@
 | **readership** | /ˈriːdərʃɪp/ | REE-duhr-ship |
 | **decline** | /dɪˈklaɪn/ | dih-KLYNE |
 | **significantly** | /sɪɡˈnɪfɪkəntli/ | sig-NIF-ih-kuhnt-lee |
+| **traditional** | /trəˈdɪʃənəl/ | truh-DISH-uh-nuhl |
+| **percentage** | /pərˈsɛntɪdʒ/ | puhr-SEN-tij |
+| **increased** | /ɪnˈkriːst/ | in-KREEST |
+| **stable** | /ˈsteɪbəl/ | STAY-buhl |
 
 ---
 
@@ -2194,6 +2218,10 @@
 | **measured** | /ˈmɛʒərd/ | MEZH-uhrd |
 | **minutes** | /ˈmɪnɪts/ | MIN-its |
 | **Midlands** | /ˈmɪdləndz/ | MID-luhndz |
+| **horizontal** | /ˌhɒrɪˈzɒntəl/ | hor-uh-ZON-tuhl |
+| **longest** | /ˈlɔŋɡɪst/ | LONG-gist |
+| **shortest** | /ˈʃɔrtɪst/ | SHOR-tist |
+| **clearly** | /ˈklɪrli/ | KLEER-lee |
 
 ---
 
@@ -2222,6 +2250,10 @@
 | **mortgage** | /ˈmɔrɡɪdʒ/ | MOR-gij |
 | **categories** | /ˈkætəɡɔriz/ | KAT-uh-gor-eez |
 | **budget** | /ˈbʌdʒɪt/ | BUJ-it |
+| **transport** | /ˈtrænspɔrt/ | TRANS-port |
+| **medical** | /ˈmɛdɪkəl/ | MED-uh-kuhl |
+| **infographic** | /ˌɪnfoʊˈɡræfɪk/ | in-foh-GRAF-ik |
+| **purchases** | /ˈpɜrtʃəsɪz/ | PUR-chuh-siz |
 
 ---
 
@@ -2250,6 +2282,10 @@
 | **Amazon** | /ˈæməzɒn/ | AM-uh-zon |
 | **basin** | /ˈbeɪsən/ | BAY-suhn |
 | **concentrated** | /ˈkɒnsəntreɪtɪd/ | KON-suhn-tray-tid |
+| **tropical** | /ˈtrɒpɪkəl/ | TROP-uh-kuhl |
+| **legend** | /ˈlɛdʒənd/ | LEJ-uhnd |
+| **Pacific** | /pəˈsɪfɪk/ | puh-SIF-ik |
+| **Atlantic** | /ətˈlæntɪk/ | uht-LAN-tik |
 
 ---
 
@@ -2278,6 +2314,10 @@
 | **pupae** | /ˈpjuːpiː/ | PYOO-pee |
 | **emerges** | /ɪˈmɜrdʒɪz/ | ih-MUR-jiz |
 | **stages** | /ˈsteɪdʒɪz/ | STAY-jiz |
+| **diagram** | /ˈdaɪəɡræm/ | DYE-uh-gram |
+| **cycle** | /ˈsaɪkəl/ | SY-kuhl |
+| **develop** | /dɪˈvɛləp/ | dih-VEL-uhp |
+| **duration** | /dʊˈreɪʃən/ | doo-RAY-shuhn |
 
 ---
 
