@@ -1539,6 +1539,342 @@
 
 ---
 
+## Image 61 - Buying School Bags at a Stationery Shop
+
+**Answer:**
+
+"This image shows two photos of buying school bags at a stationery shop. On the left, we can see a mother and daughter looking at a colorful backpack together. The mother is holding the bag while the daughter looks at it with a happy expression. On the right, the same girl is shown holding a different backpack on her own. In the background, we can see shelves with many school supplies. These photos show a typical shopping experience where parents help their children choose school bags before the new school year."
+
+**Time:** ~27-29 seconds
+
+**Key Features:**
+- Clear introduction stating what the image shows
+- Describes both photos (left and right)
+- Notes the people and their actions
+- Easy vocabulary: "looking at," "holding," "happy expression"
+- Natural conclusion about the shopping context
+- Simple description of a real-life scene
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **stationery** | /ˈsteɪʃənəri/ | STAY-shuh-ner-ee |
+| **colorful** | /ˈkʌlərfəl/ | KUL-uhr-fuhl |
+| **backpack** | /ˈbækpæk/ | BAK-pak |
+| **daughter** | /ˈdɔːtər/ | DAW-tuhr |
+| **expression** | /ɪkˈsprɛʃən/ | ik-SPRESH-uhn |
+| **background** | /ˈbækɡraʊnd/ | BAK-grownd |
+| **shelves** | /ʃɛlvz/ | shelvz |
+| **supplies** | /səˈplaɪz/ | suh-PLYZ |
+| **typical** | /ˈtɪpɪkəl/ | TIP-uh-kuhl |
+| **experience** | /ɪkˈspɪriəns/ | ik-SPEER-ee-uhns |
+
+---
+
+## Image 65 - Food Pyramid 1970s vs 2010s
+
+**Answer:**
+
+"This diagram compares the food pyramid from the 1970s with the new food pyramid from the 2010s. On the left, the 1970s pyramid has grains and cereals at the base, with fruits and vegetables in the middle, and fats at the top. On the right, the 2010s pyramid is quite different. It has fruits and vegetables at the base as the largest section. Grains and proteins are in the middle, and fats and sweets are at the very top in the smallest section. This shows that nutrition advice has changed over time, with more focus now on eating fruits and vegetables rather than grains."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction stating the comparison
+- Describes both pyramids (1970s and 2010s)
+- Notes the key differences in structure
+- Easy vocabulary: "at the base," "in the middle," "at the top"
+- Natural conclusion about how advice has changed
+- Simple comparison format
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **pyramid** | /ˈpɪrəmɪd/ | PEER-uh-mid |
+| **compares** | /kəmˈpɛrz/ | kuhm-PAIRZ |
+| **cereals** | /ˈsɪriəlz/ | SEER-ee-uhlz |
+| **vegetables** | /ˈvɛdʒtəbəlz/ | VEJ-tuh-buhlz |
+| **proteins** | /ˈproʊtiːnz/ | PROH-teenz |
+| **nutrition** | /nuːˈtrɪʃən/ | noo-TRISH-uhn |
+| **advice** | /ədˈvaɪs/ | uhd-VYS |
+| **focus** | /ˈfoʊkəs/ | FOH-kuhs |
+| **rather** | /ˈræðər/ | RATH-uhr |
+| **section** | /ˈsɛkʃən/ | SEK-shuhn |
+
+---
+
+## Image 81 - Ontario Manufacturing Employment and Canadian Dollar Exchange
+
+**Answer:**
+
+"This line graph shows Ontario manufacturing employment and the Canadian dollar exchange rate from 1981 to 2013. There are two vertical lines - the left side shows employment in thousands, and the right side shows the dollar value in US dollars. The blue line represents Ontario manufacturing employment, and the red line represents the Canadian dollar value. In the 1980s, employment started at about 900 thousand. It rose to a peak of around 1100 thousand in 2000. After that, it dropped sharply to about 750 thousand by 2009. The Canadian dollar shows the opposite pattern - it was high in 1981, dropped to its lowest around 2002, then rose sharply after that. Overall, this graph shows that when the Canadian dollar got stronger, manufacturing employment went down."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with topic and time period
+- Explains the dual y-axes clearly
+- Describes both lines with colors
+- Notes the inverse relationship
+- Easy vocabulary: "rose to a peak," "dropped sharply," "opposite pattern"
+- Natural conclusion about the correlation
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **Ontario** | /ɒnˈtɛərioʊ/ | on-TAIR-ee-oh |
+| **manufacturing** | /ˌmænjəˈfæktʃərɪŋ/ | man-yuh-FAK-chur-ing |
+| **employment** | /ɪmˈplɔɪmənt/ | im-PLOY-muhnt |
+| **exchange** | /ɪksˈtʃeɪndʒ/ | iks-CHAYNJ |
+| **Canadian** | /kəˈneɪdiən/ | kuh-NAY-dee-uhn |
+| **represents** | /ˌrɛprɪˈzɛnts/ | rep-rih-ZENTS |
+| **opposite** | /ˈɒpəzɪt/ | OP-uh-zit |
+| **pattern** | /ˈpætərn/ | PAT-uhrn |
+| **thousands** | /ˈθaʊzəndz/ | THOW-zuhndz |
+| **correlation** | /ˌkɒrəˈleɪʃən/ | kor-uh-LAY-shuhn |
+
+---
+
+## Image 82 - Nuclear Power Generation in Europe
+
+**Answer:**
+
+"This map shows nuclear power generation across Europe. The colors represent the percentage of electricity that comes from nuclear power in each country. France is shown in dark purple, which means it has the highest nuclear share at more than 55 percent. Some countries in eastern Europe are shown in blue with 45 to 55 percent. Other countries in western and northern Europe are in lighter colors with 10 to 45 percent. The green dots on the map show where nuclear power plants are located. Most plants are in France and in the central part of Europe. Some countries shown in very light gray have no nuclear power at all. Overall, this map shows that France relies the most on nuclear power in Europe, while other countries have much lower shares."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction stating what the map shows
+- Explains the color coding system
+- Uses general regions instead of hard country names
+- Notes the dot markers for power plants
+- Easy vocabulary: "comes from," "relies the most," "much lower"
+- Natural conclusion about France's dominance
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **nuclear** | /ˈnuːkliər/ | NOO-klee-uhr |
+| **generation** | /ˌdʒɛnəˈreɪʃən/ | jen-uh-RAY-shuhn |
+| **Europe** | /ˈjʊərəp/ | YUR-uhp |
+| **percentage** | /pərˈsɛntɪdʒ/ | puhr-SEN-tij |
+| **electricity** | /ɪˌlɛkˈtrɪsəti/ | ih-lek-TRIS-uh-tee |
+| **eastern** | /ˈiːstərn/ | EE-stuhrn |
+| **western** | /ˈwɛstərn/ | WES-tuhrn |
+| **northern** | /ˈnɔrðərn/ | NOR-thuhrn |
+| **central** | /ˈsɛntrəl/ | SEN-truhl |
+| **located** | /ˈloʊkeɪtɪd/ | LOH-kay-tid |
+
+---
+
+## Image 77 - Mean Salary of First-Degree Graduates by Gender
+
+**Answer:**
+
+"This bar chart shows the mean salary of first-degree graduates by gender from 2008 to 2013. The red bars show women's salaries, and the blue bars show men's salaries. In 2008-9, both groups started at around 19,000 to 20,000 pounds. Over the years, men's salaries have stayed higher than women's salaries in every year. By 2012-13, men earned about 21,500 pounds while women earned about 19,500 pounds. The gap between the two groups has stayed fairly constant throughout this period. Overall, this chart shows that male graduates consistently earn more than female graduates, with a pay gap of about 2,000 pounds."
+
+**Time:** ~27-29 seconds
+
+**Key Features:**
+- Clear introduction with topic and time period
+- Identifies both bar colors
+- Compares both groups with specific numbers
+- Easy vocabulary: "stayed higher than," "the gap," "fairly constant"
+- Natural conclusion about the pay gap
+- Simple salary data
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **salary** | /ˈsæləri/ | SAL-uh-ree |
+| **graduates** | /ˈɡrædʒuəts/ | GRAD-joo-uhts |
+| **gender** | /ˈdʒɛndər/ | JEN-duhr |
+| **earned** | /ɜrnd/ | urnd |
+| **pounds** | /paʊndz/ | powndz |
+| **throughout** | /θruˈaʊt/ | throo-OUT |
+| **consistently** | /kənˈsɪstəntli/ | kuhn-SIS-tuhnt-lee |
+| **fairly** | /ˈfɛrli/ | FAIR-lee |
+| **constant** | /ˈkɒnstənt/ | KON-stuhnt |
+| **period** | /ˈpɪriəd/ | PEER-ee-uhd |
+
+---
+
+## Image 79 - Annual Height Increase, Boys vs Girls
+
+**Answer:**
+
+"This line graph shows the annual height increase for boys and girls from age 0 to 18. The vertical line shows centimeters, and the horizontal line shows age. The orange line represents girls, and the blue line represents boys. Both lines start very high at around 23 centimeters at age 0, which is when babies grow the fastest. After that, both lines drop quickly to about 7 centimeters by age 3. The lines then stay fairly flat between ages 4 and 10. Around age 11 to 12, both lines show a small peak - this is the growth spurt. Girls peak slightly earlier than boys, at around age 11. After age 16, both lines drop close to zero. Overall, this shows that children grow fastest when they are babies, and have another growth spurt during their teenage years."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with topic and age range
+- Describes both axes
+- Mentions both lines with colors
+- Easy vocabulary: "grow the fastest," "drop quickly," "small peak"
+- Notes the growth spurt timing
+- Natural conclusion about growth patterns
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **annual** | /ˈænjuəl/ | AN-yoo-uhl |
+| **centimeters** | /ˈsɛntɪmiːtərz/ | SEN-tuh-mee-tuhrz |
+| **represents** | /ˌrɛprɪˈzɛnts/ | rep-rih-ZENTS |
+| **horizontal** | /ˌhɒrɪˈzɒntəl/ | hor-uh-ZON-tuhl |
+| **vertical** | /ˈvɜrtɪkəl/ | VUR-tuh-kuhl |
+| **babies** | /ˈbeɪbiz/ | BAY-beez |
+| **slightly** | /ˈslaɪtli/ | SLYTE-lee |
+| **teenage** | /ˈtiːneɪdʒ/ | TEE-nayj |
+| **spurt** | /spɜrt/ | spurt |
+| **patterns** | /ˈpætərnz/ | PAT-uhrnz |
+
+---
+
+## Image 80 - Volunteer Rate by Age
+
+**Answer:**
+
+"This line graph shows the volunteer rate by age group for males and females. The vertical line shows percentage, and the horizontal line shows age groups from 18-24 to 85 and over. The black line with squares represents males, and the gray line with triangles represents females. Both lines follow a similar pattern. They start at around 25 to 30 percent for the youngest age group. Both lines rise slightly and peak at ages 35 to 44, reaching about 35 percent for males and 40 percent for females. After that, both lines gradually drop. By age 85 and over, the rates fall to about 15 percent for males and 10 percent for females. Overall, this chart shows that middle-aged people volunteer the most, and women volunteer slightly more than men in most age groups."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with topic
+- Describes both axes and line markers
+- Compares both groups throughout
+- Easy vocabulary: "rise slightly," "peak at," "gradually drop"
+- Natural conclusion about age and gender patterns
+- Simple volunteer data
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **volunteer** | /ˌvɒlənˈtɪər/ | vol-uhn-TEER |
+| **percentage** | /pərˈsɛntɪdʒ/ | puhr-SEN-tij |
+| **represents** | /ˌrɛprɪˈzɛnts/ | rep-rih-ZENTS |
+| **triangles** | /ˈtraɪæŋɡəlz/ | TRY-ang-guhlz |
+| **squares** | /skwɛrz/ | skwairz |
+| **gradually** | /ˈɡrædʒuəli/ | GRAD-joo-uh-lee |
+| **middle-aged** | /ˈmɪdəleɪdʒd/ | MID-uhl-ayjd |
+| **slightly** | /ˈslaɪtli/ | SLYTE-lee |
+| **pattern** | /ˈpætərn/ | PAT-uhrn |
+| **females** | /ˈfiːmeɪlz/ | FEE-maylz |
+
+---
+
+## Image 83 - Food Pyramid
+
+**Answer:**
+
+"This diagram shows a food pyramid that guides healthy eating. At the very base, we can see water bottles, which means we should drink plenty of water every day. The next level up is divided into two parts - bread and cereals on the left, and fruits and vegetables on the right. This is the largest food group section. Above that, there is another level with milk, cheese, and eggs on the left, and meat, fish, and chicken on the right. At the very top of the pyramid is junk food, sweets, and sugar drinks. This is the smallest section because we should eat these foods the least. Overall, this pyramid shows that we should eat more foods from the bottom and less from the top."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction stating what it shows
+- Describes from bottom to top (base → peak)
+- Names all food groups in each section
+- Easy vocabulary: "at the base," "the next level up," "at the very top"
+- Natural conclusion about eating habits
+- Simple nutrition concept
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **pyramid** | /ˈpɪrəmɪd/ | PEER-uh-mid |
+| **cereals** | /ˈsɪriəlz/ | SEER-ee-uhlz |
+| **vegetables** | /ˈvɛdʒtəbəlz/ | VEJ-tuh-buhlz |
+| **poultry** | /ˈpoʊltri/ | POHL-tree |
+| **section** | /ˈsɛkʃən/ | SEK-shuhn |
+| **plenty** | /ˈplɛnti/ | PLEN-tee |
+| **divided** | /dɪˈvaɪdɪd/ | dih-VYE-did |
+| **healthy** | /ˈhɛlθi/ | HEL-thee |
+| **guides** | /ɡaɪdz/ | gydz |
+| **sweets** | /swiːts/ | sweets |
+
+---
+
+## Image 18 - Earnings and Unemployment Rates by Educational Attainment
+
+**Answer:**
+
+"This chart shows earnings and unemployment rates by educational level in 2012. On the left side, the purple bars show unemployment rates. On the right side, the green bars show weekly earnings. We can see a clear pattern. People with less than high school have the highest unemployment at 12.4 percent and the lowest earnings at 471 dollars per week. As education level increases, unemployment goes down and earnings go up. People with a doctoral degree have only 2.5 percent unemployment and earn 1,624 dollars per week. The highest earners are people with professional degrees at 1,735 dollars. Overall, this chart clearly shows that more education leads to lower unemployment and higher earnings."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction explaining both sides of the chart
+- Describes the pattern from lowest to highest education
+- Uses specific numbers for key data points
+- Easy vocabulary: "as education level increases," "goes down," "goes up"
+- Natural conclusion about education benefits
+- Simple comparison format
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **unemployment** | /ˌʌnɪmˈplɔɪmənt/ | un-im-PLOY-muhnt |
+| **educational** | /ˌɛdʒuˈkeɪʃənəl/ | ej-oo-KAY-shuh-nuhl |
+| **attainment** | /əˈteɪnmənt/ | uh-TAYN-muhnt |
+| **earnings** | /ˈɜrnɪŋz/ | UR-ningz |
+| **doctoral** | /ˈdɒktərəl/ | DOK-tuh-ruhl |
+| **professional** | /prəˈfɛʃənəl/ | pruh-FESH-uh-nuhl |
+| **diploma** | /dɪˈploʊmə/ | dih-PLOH-muh |
+| **bachelor's** | /ˈbætʃələrz/ | BACH-uh-luhrz |
+| **associate's** | /əˈsoʊsiɪts/ | uh-SOH-see-its |
+| **median** | /ˈmiːdiən/ | MEE-dee-uhn |
+
+---
+
+## Image 84 - Unemployment Rates by Ethnic Group and Sex, UK 2001
+
+**Answer:**
+
+"This horizontal bar chart shows unemployment rates by ethnic group and sex in the UK in 2001. The light blue bars show men, and the dark blue bars show women. The White group has the lowest unemployment rate at about 5 percent for both men and women. The highest unemployment rate is for the Bangladeshi group, where men have about 20 percent unemployment. Indian workers have relatively low rates at around 7 percent. For most ethnic groups, men have higher unemployment than women. However, in some groups like Pakistani, women have slightly higher rates than men. Overall, this chart shows that unemployment rates vary a lot between different ethnic groups, and the White group has the lowest rates."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with topic, location and year
+- Identifies both bar colors
+- Notes the highest and lowest groups
+- Easy vocabulary: "the lowest," "the highest," "vary a lot"
+- Natural comparison between genders
+- Simple conclusion about patterns
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **unemployment** | /ˌʌnɪmˈplɔɪmənt/ | un-im-PLOY-muhnt |
+| **ethnic** | /ˈɛθnɪk/ | ETH-nik |
+| **horizontal** | /ˌhɒrɪˈzɒntəl/ | hor-uh-ZON-tuhl |
+| **relatively** | /ˈrɛlətɪvli/ | REL-uh-tiv-lee |
+| **percent** | /pərˈsɛnt/ | puhr-SENT |
+| **slightly** | /ˈslaɪtli/ | SLYTE-lee |
+| **varies** | /ˈvɛriz/ | VAIR-eez |
+| **Caribbean** | /ˌkærɪˈbiːən/ | kar-uh-BEE-uhn |
+| **African** | /ˈæfrɪkən/ | AF-ruh-kuhn |
+| **statistics** | /stəˈtɪstɪks/ | stuh-TIS-tiks |
+
+---
+
+**🎉 Collection Updated: 54 Example Answers!**
+
+---
+
+---
+
 ## Easy Vocabulary for Describing Data Diagrams
 
 This section lists all the simple, natural phrases used throughout the examples for describing trends and patterns.
