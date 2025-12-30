@@ -2001,7 +2001,287 @@
 
 ---
 
-**🎉 Collection Updated: 58 Example Answers!**
+## Image 89 - Land Use Map of India
+
+**Answer:**
+
+"This map shows the land use in India. Different colors represent different types of land use. Yellow represents arable land, which is used for growing crops. Dark green shows forests, and light green shows plantations. Brown and orange colors show non-agricultural land and scrub land. Purple shows unproductive land. Looking at the map, most of the northern part of India, especially the area near the river valleys, is yellow arable land. The northeastern region and parts of the south have more forest cover shown in dark green. Overall, this map shows that India uses most of its land for farming, while forests are mainly in the hills and mountains."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction stating what the map shows
+- Explains the color legend
+- Describes regional patterns
+- Easy vocabulary: "is used for," "the northern part," "most of"
+- Natural conclusion about land use patterns
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **arable** | /ˈærəbəl/ | AIR-uh-buhl |
+| **agricultural** | /ˌæɡrɪˈkʌltʃərəl/ | ag-ruh-KUL-chuh-ruhl |
+| **plantations** | /plænˈteɪʃənz/ | plan-TAY-shuhnz |
+| **unproductive** | /ˌʌnprəˈdʌktɪv/ | un-pruh-DUK-tiv |
+| **northeastern** | /ˌnɔrθˈiːstərn/ | north-EE-stuhrn |
+| **valleys** | /ˈvæliz/ | VAL-eez |
+
+---
+
+## Image 90 - Annual Sunshine Hours for France
+
+**Answer:**
+
+"This map shows the annual sunshine hours across France. The colors range from dark red to light yellow, with darker colors showing more sunshine hours. The southern part of France, especially along the Mediterranean coast, receives the most sunshine with more than 2750 hours per year, shown in dark red. The central regions have moderate sunshine between 2000 and 2500 hours. The northern parts of France and the Atlantic coast receive less sunshine, around 1750 to 2000 hours per year. Overall, this map clearly shows that southern France is much sunnier than the north, with the Mediterranean coast being the sunniest region."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with topic
+- Explains the color scale
+- Describes patterns from south to north
+- Specific data points mentioned
+- Natural geographical comparison
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **sunshine** | /ˈsʌnʃaɪn/ | SUN-shyne |
+| **Mediterranean** | /ˌmɛdɪtəˈreɪniən/ | med-uh-tuh-RAY-nee-uhn |
+| **receives** | /rɪˈsiːvz/ | rih-SEEVZ |
+| **moderate** | /ˈmɒdərət/ | MOD-uh-ruht |
+| **Atlantic** | /ətˈlæntɪk/ | uht-LAN-tik |
+| **sunniest** | /ˈsʌniɪst/ | SUN-ee-ist |
+
+---
+
+## Image 91 - Global Warming Predictions
+
+**Answer:**
+
+"This map shows global warming predictions for the years 2070 to 2100 compared to the average from 1960 to 1990. The colors show temperature increase in degrees Celsius, ranging from zero to eight degrees. Looking at the map, the areas near the North Pole show the biggest temperature increase, with dark red colors showing seven to eight degrees warming. The continents generally show more warming than the oceans. Most land areas are expected to warm by three to five degrees. The tropical regions near the equator show smaller increases of about one to two degrees. Overall, this map predicts that the Arctic region and northern parts of the world will experience the most warming."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with time period
+- Explains the color scale
+- Highlights key patterns (poles vs equator)
+- Natural comparison language
+- Concludes with main finding
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **predictions** | /prɪˈdɪkʃənz/ | prih-DIK-shuhnz |
+| **Celsius** | /ˈsɛlsiəs/ | SEL-see-uhs |
+| **continents** | /ˈkɒntɪnənts/ | KON-tuh-nuhnts |
+| **tropical** | /ˈtrɒpɪkəl/ | TROP-uh-kuhl |
+| **equator** | /ɪˈkweɪtər/ | ih-KWAY-tuhr |
+| **Arctic** | /ˈɑrktɪk/ | ARK-tik |
+
+---
+
+## Image 92 - Where the Air Pollution Comes From
+
+**Answer:**
+
+"This diagram shows where air pollution comes from and how it creates acid rain. At the bottom, we can see four sources of pollution: industry, transportation, ore smelting, and power generation. These sources release harmful gases like nitrogen oxides and sulfur dioxide into the atmosphere. Once in the air, these gases go through chemical changes. In the clouds, they mix with water to form acid. Finally, the acid falls back to earth as acid rain, which can be rain, fog, snow, or mist. Overall, this diagram shows the process of how pollution from factories and cars leads to acid rain."
+
+**Time:** ~27-29 seconds
+
+**Key Features:**
+- Clear introduction
+- Identifies pollution sources
+- Explains the process step by step
+- Easy vocabulary: "release," "go through," "falls back"
+- Simple conclusion
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **pollution** | /pəˈluːʃən/ | puh-LOO-shuhn |
+| **industry** | /ˈɪndəstri/ | IN-duh-stree |
+| **transportation** | /ˌtrænspɔrˈteɪʃən/ | trans-por-TAY-shuhn |
+| **smelting** | /ˈsmɛltɪŋ/ | SMELT-ing |
+| **atmosphere** | /ˈætməsfɪr/ | AT-muh-sfeer |
+| **chemical** | /ˈkɛmɪkəl/ | KEM-uh-kuhl |
+
+---
+
+## Image 93 - Average Effective Sales Tax by Income Group
+
+**Answer:**
+
+"This bar chart shows the average effective sales tax rate for different income groups in the United States. The horizontal line shows income groups from the lowest 0 to 20 percent to the top 1 percent. The vertical line shows the sales tax rate. The lowest income group pays the highest rate at 2.1 percent. As income increases, the tax rate decreases. The 20 to 40 income group pays 1.8 percent, and this pattern continues downward. The top 1 percent of earners only pays 0.3 percent. Overall, this chart shows that lower income groups pay a higher percentage of their income in sales tax compared to higher income groups."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with topic
+- Describes both axes
+- Notes the downward pattern
+- Uses specific data points
+- Draws conclusion about the pattern
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **effective** | /ɪˈfɛktɪv/ | ih-FEK-tiv |
+| **income** | /ˈɪnkʌm/ | IN-kuhm |
+| **horizontal** | /ˌhɒrɪˈzɒntəl/ | hor-uh-ZON-tuhl |
+| **decreases** | /dɪˈkriːsɪz/ | dih-KREE-siz |
+| **earners** | /ˈɜrnərz/ | UR-nuhrz |
+| **compared** | /kəmˈpɛrd/ | kuhm-PAIRD |
+
+---
+
+## Image 94 - Media in UK (2001-2005)
+
+**Answer:**
+
+"This chart shows media usage trends in the UK from 2001 to 2005, covering four types of media: internet, radio, TV, and newspaper. Each bar shows the percentage of users for that year. Internet usage increased from 40 percent in 2001 to 60 percent in 2005. Radio usage stayed fairly stable between 50 and 65 percent. TV usage dropped slightly from 63 percent to 55 percent over the period. Newspaper readership showed the biggest decline, falling from 20 percent to just 3 percent by 2005. Overall, this chart shows that internet usage grew while traditional media like newspapers declined significantly."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with time period
+- Describes all four media types
+- Shows specific percentages
+- Notes contrasting trends
+- Simple conclusion about change
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **usage** | /ˈjuːsɪdʒ/ | YOO-sij |
+| **covering** | /ˈkʌvərɪŋ/ | KUV-uh-ring |
+| **fairly** | /ˈfɛrli/ | FAIR-lee |
+| **readership** | /ˈriːdərʃɪp/ | REE-duhr-ship |
+| **decline** | /dɪˈklaɪn/ | dih-KLYNE |
+| **significantly** | /sɪɡˈnɪfɪkəntli/ | sig-NIF-ih-kuhnt-lee |
+
+---
+
+## Image 95 - Commuting Time in Different Regions, Britain 2014
+
+**Answer:**
+
+"This horizontal bar chart shows commuting time in different regions of Britain in 2014. The time is measured in minutes. London has the longest commuting time at 107 minutes per day. The East of England is second with 71 minutes. The South East has 70 minutes, which is very close to East of England. Wales and the Humber region have around 64 minutes. The North West has 62 minutes, and East Midlands has 60 minutes. The North East has 58 minutes, and the South West has the shortest commuting time at 56 minutes. Overall, this chart clearly shows that people in London spend almost twice as long commuting as people in other regions."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with year
+- Lists regions from highest to lowest
+- Uses specific numbers
+- Notes comparison at the end
+- Natural conclusion
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **commuting** | /kəˈmjuːtɪŋ/ | kuh-MYOO-ting |
+| **regions** | /ˈriːdʒənz/ | REE-juhnz |
+| **Britain** | /ˈbrɪtən/ | BRIT-uhn |
+| **measured** | /ˈmɛʒərd/ | MEZH-uhrd |
+| **minutes** | /ˈmɪnɪts/ | MIN-its |
+| **Midlands** | /ˈmɪdləndz/ | MID-luhndz |
+
+---
+
+## Image 96 - Weekly Household Spending, Ireland
+
+**Answer:**
+
+"This infographic shows weekly household spending in Ireland for 2015 to 2016. The biggest expense is housing at 164 euros per week, which includes rent and mortgage payments. Transport is the second largest expense at 124 euros, including car purchases and fuel. Food costs 123 euros per week, with most of that being food eaten at home. Medical expenses are 50 euros per week. Holidays cost 33 euros per week. The information is presented using simple icons to represent each category. Overall, this infographic shows that Irish households spend most of their weekly budget on housing, transport, and food."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with time period
+- Lists categories with amounts
+- Explains what each includes
+- Notes the visual style
+- Summarizes main spending areas
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **household** | /ˈhaʊshoʊld/ | HOWS-hohld |
+| **Ireland** | /ˈaɪərlənd/ | EYE-uhr-luhnd |
+| **expense** | /ɪkˈspɛns/ | ik-SPENS |
+| **mortgage** | /ˈmɔrɡɪdʒ/ | MOR-gij |
+| **categories** | /ˈkætəɡɔriz/ | KAT-uh-gor-eez |
+| **budget** | /ˈbʌdʒɪt/ | BUJ-it |
+
+---
+
+## Image 97 - Rainforest in South America
+
+**Answer:**
+
+"This map shows the distribution of rainforest in South America. The green areas on the map represent rainforest regions. There are two types shown in the legend: tropical rainforest and temperate rainforest. The tropical rainforest, shown in light green, covers a very large area, mainly in Brazil, Peru, Colombia, and Ecuador. This area is known as the Amazon rainforest. The temperate rainforest, shown in dark green, is much smaller and located along the southern coast of Chile. The map also shows country names and the Pacific and Atlantic Oceans on either side. Overall, this map shows that most of South America's rainforest is tropical and concentrated in the Amazon basin."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction
+- Explains the legend
+- Names key countries
+- Distinguishes between forest types
+- Mentions famous Amazon region
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **rainforest** | /ˈreɪnˌfɒrɪst/ | RAYN-for-ist |
+| **distribution** | /ˌdɪstrɪˈbjuːʃən/ | dis-truh-BYOO-shuhn |
+| **temperate** | /ˈtɛmpərət/ | TEM-puhr-uht |
+| **Amazon** | /ˈæməzɒn/ | AM-uh-zon |
+| **basin** | /ˈbeɪsən/ | BAY-suhn |
+| **concentrated** | /ˈkɒnsəntreɪtɪd/ | KON-suhn-tray-tid |
+
+---
+
+## Image 98 - Mosquito Life Cycle
+
+**Answer:**
+
+"This diagram shows the life cycle of a mosquito. The cycle has four main stages that go in a circle. It starts with eggs, which are laid on water. After that, the eggs become larvae, which live in the water for about 4 to 6 days. Then the larvae change into pupae, which lasts for about 12 to 14 days. Finally, the adult mosquito emerges from the water and can fly. The whole cycle takes about 28 days to complete. Adult mosquitoes live for 7 to 10 days before they die. Overall, this diagram shows how mosquitoes develop from eggs to adults through four different life stages."
+
+**Time:** ~27-29 seconds
+
+**Key Features:**
+- Clear introduction
+- Names all four stages
+- Includes time for each stage
+- Follows the circular pattern
+- Simple conclusion
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **mosquito** | /məˈskiːtoʊ/ | muh-SKEE-toh |
+| **lifecycle** | /ˈlaɪfˌsʌɪkəl/ | LYFE-sy-kuhl |
+| **larvae** | /ˈlɑrviː/ | LAR-vee |
+| **pupae** | /ˈpjuːpiː/ | PYOO-pee |
+| **emerges** | /ɪˈmɜrdʒɪz/ | ih-MUR-jiz |
+| **stages** | /ˈsteɪdʒɪz/ | STAY-jiz |
+
+---
+
+**🎉 Collection Updated: 68 Example Answers!**
 
 ---
 
