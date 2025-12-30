@@ -1935,7 +1935,73 @@
 
 ---
 
-**🎉 Collection Updated: 56 Example Answers!**
+## Image 87 - Populations of Countries of the European Union in 1998 and 2007
+
+**Answer:**
+
+"This diagram shows two pie charts comparing the populations of European Union countries in 1998 and 2007 by percentage. In 1998, Germany had the largest share at 29.4 percent, followed by France at 17.5 percent. The United Kingdom and Italy each had about 12 percent. Spain and Poland were smaller at around 12 and 9 percent. All other countries together made up 11.8 percent. In 2007, the pattern is very similar. Germany still had the largest share at about 26 percent, and France was second at about 21 percent. The main change is that the shares are slightly more spread out among all countries. Overall, these charts show that Germany and France remained the two largest countries in the EU in both years."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction explaining both charts
+- Describes largest countries with percentages
+- Notes changes between the two years
+- Easy vocabulary: "the largest share," "followed by," "about the same"
+- Natural conclusion about main finding
+- Simple comparison format
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **populations** | /ˌpɒpjəˈleɪʃənz/ | pop-yuh-LAY-shuhnz |
+| **European** | /ˌjʊrəˈpiːən/ | yur-uh-PEE-uhn |
+| **Union** | /ˈjuːnjən/ | YOON-yuhn |
+| **percentage** | /pərˈsɛntɪdʒ/ | puhr-SEN-tij |
+| **Germany** | /ˈdʒɜrməni/ | JUR-muh-nee |
+| **France** | /fræns/ | frans |
+| **Kingdom** | /ˈkɪŋdəm/ | KING-duhm |
+| **Italy** | /ˈɪtəli/ | IT-uh-lee |
+| **Spain** | /speɪn/ | spayn |
+| **Poland** | /ˈpoʊlənd/ | POH-luhnd |
+
+---
+
+## Image 88 - Student Accommodation Floor Plan
+
+**Answer:**
+
+"This diagram shows the floor plan of a student accommodation room. The total size is about 6.2 meters by 3.1 meters. Looking at the layout, on the left side there is a bathroom and a kitchen area. In the center of the room, there is a double bed. On the right side, near the window, there is a wardrobe and a desk. The room also has a window at the top right corner for natural light. This floor plan shows a compact but complete living space for a student, with all the basic needs including sleeping, cooking, washing, and studying areas all in one room."
+
+**Time:** ~27-29 seconds
+
+**Key Features:**
+- Clear introduction stating what it shows
+- Mentions the dimensions
+- Describes layout systematically (left to right)
+- Easy vocabulary: "on the left side," "in the center," "near the window"
+- Names all key areas
+- Natural conclusion about functionality
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **accommodation** | /əˌkɒməˈdeɪʃən/ | uh-kom-uh-DAY-shuhn |
+| **diagram** | /ˈdaɪəɡræm/ | DYE-uh-gram |
+| **meters** | /ˈmiːtərz/ | MEE-tuhrz |
+| **bathroom** | /ˈbæθruːm/ | BATH-room |
+| **kitchen** | /ˈkɪtʃən/ | KICH-uhn |
+| **wardrobe** | /ˈwɔrdroʊb/ | WORD-rohb |
+| **window** | /ˈwɪndoʊ/ | WIN-doh |
+| **compact** | /kəmˈpækt/ | kuhm-PAKT |
+| **complete** | /kəmˈpliːt/ | kuhm-PLEET |
+| **including** | /ɪnˈkluːdɪŋ/ | in-KLOO-ding |
+
+---
+
+**🎉 Collection Updated: 58 Example Answers!**
 
 ---
 
