@@ -1869,7 +1869,73 @@
 
 ---
 
-**🎉 Collection Updated: 54 Example Answers!**
+## Image 85 - Articles Published Per Year by Male and Female University Professors
+
+**Answer:**
+
+"This line graph shows the number of articles published per year by male and female university professors from 2006 to 2012. The blue line represents male professors, and the pink line represents female professors. Male professors started at about 3,500 articles in 2006 and stayed fairly steady around that level, with a small drop to about 3,200 in 2012. Female professors started much lower at around 1,200 articles in 2006 and increased slightly over the years to about 1,400 by 2012. The gap between male and female professors stayed large throughout the whole period. Overall, this chart shows that male professors publish about 2 to 3 times more articles than female professors each year."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with topic and time period
+- Describes both lines with colors
+- Compares starting and ending values
+- Easy vocabulary: "stayed fairly steady," "started much lower," "the gap"
+- Natural conclusion about the main finding
+- Simple publication data
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **articles** | /ˈɑrtɪkəlz/ | AR-tuh-kuhlz |
+| **published** | /ˈpʌblɪʃt/ | PUB-lisht |
+| **university** | /ˌjuːnɪˈvɜrsəti/ | yoo-nuh-VUR-suh-tee |
+| **professors** | /prəˈfɛsərz/ | pruh-FES-uhrz |
+| **represents** | /ˌrɛprɪˈzɛnts/ | rep-rih-ZENTS |
+| **fairly** | /ˈfɛrli/ | FAIR-lee |
+| **steady** | /ˈstɛdi/ | STED-ee |
+| **increased** | /ɪnˈkriːst/ | in-KREEST |
+| **slightly** | /ˈslaɪtli/ | SLYTE-lee |
+| **throughout** | /θruˈaʊt/ | throo-OUT |
+
+---
+
+## Image 86 - Temperature and CO2 for the Last 400,000 Years
+
+**Answer:**
+
+"This line graph shows carbon dioxide levels and temperature change over the last 400,000 years. There are two lines on the graph. The blue line shows CO2 levels measured in parts per million, and the red line shows temperature change in degrees. Looking at the graph, we can see that both lines follow a very similar pattern. When CO2 goes up, temperature also goes up. When CO2 goes down, temperature goes down too. There are several peaks and valleys over this long time period. The most recent data on the right side shows both CO2 and temperature rising. Overall, this graph clearly shows a strong connection between carbon dioxide levels and global temperature changes."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with topic and time period
+- Explains what each line represents
+- Notes the correlation between the two measures
+- Easy vocabulary: "goes up," "goes down," "peaks and valleys"
+- Natural conclusion about the relationship
+- Simple climate science data
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **carbon** | /ˈkɑrbən/ | KAR-buhn |
+| **dioxide** | /daɪˈɒksaɪd/ | dye-OK-syde |
+| **temperature** | /ˈtɛmpərətʃər/ | TEM-puhr-uh-chur |
+| **measured** | /ˈmɛʒərd/ | MEZH-uhrd |
+| **million** | /ˈmɪljən/ | MIL-yuhn |
+| **degrees** | /dɪˈɡriːz/ | dih-GREEZ |
+| **pattern** | /ˈpætərn/ | PAT-uhrn |
+| **valleys** | /ˈvæliz/ | VAL-eez |
+| **connection** | /kəˈnɛkʃən/ | kuh-NEK-shuhn |
+| **global** | /ˈɡloʊbəl/ | GLOH-buhl |
+
+---
+
+**🎉 Collection Updated: 56 Example Answers!**
 
 ---
 
