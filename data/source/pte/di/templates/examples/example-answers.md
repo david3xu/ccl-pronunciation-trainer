@@ -2321,7 +2321,565 @@
 
 ---
 
-**🎉 Collection Updated: 68 Example Answers!**
+**🎉 Collection Updated: 86 Example Answers!**
+
+---
+
+## Image 99 - Pet Ownership in US Households
+
+**Answer:**
+
+"This horizontal bar chart shows the number of US households keeping different types of pets, measured in millions. The total number of pet-owning households is 84.9 million. Dogs are the most popular pet, with 63.4 million households owning at least one dog. Cats come second with 42.7 million households. Freshwater fish are third with 11.5 million households. Birds are owned by 5.7 million households, and reptiles by 4.5 million. Horses are owned by 1.6 million households, the same as saltwater fish. Other pets make up 5.4 million households. Overall, this chart shows that dogs and cats are by far the most common pets in American homes."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with measurement unit
+- Lists pets in order from highest to lowest
+- Uses specific numbers
+- Natural comparison at the end
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **horizontal** | /ˌhɒrɪˈzɒntəl/ | hor-uh-ZON-tuhl |
+| **households** | /ˈhaʊshoʊldz/ | HOWS-hohldz |
+| **measured** | /ˈmɛʒərd/ | MEZH-uhrd |
+| **millions** | /ˈmɪljənz/ | MIL-yuhnz |
+| **popular** | /ˈpɒpjələr/ | POP-yuh-luhr |
+| **freshwater** | /ˈfrɛʃwɔtər/ | FRESH-waw-tuhr |
+| **reptiles** | /ˈrɛptaɪlz/ | REP-tylz |
+| **saltwater** | /ˈsɔltwɔtər/ | SAWLT-waw-tuhr |
+| **common** | /ˈkɒmən/ | KOM-uhn |
+| **American** | /əˈmɛrɪkən/ | uh-MER-uh-kuhn |
+
+---
+
+## Image 100 - New Zealand House Prices
+
+**Answer:**
+
+"This line graph shows house price changes in New Zealand compared to the OECD average from 1990 to 2014. The vertical axis shows the price index with 1990 set as 100. The blue line represents New Zealand and the grey line represents the OECD average. From 1990 to 2000, both lines stayed fairly stable around 100. However, from 2002 onwards, New Zealand house prices increased dramatically. By 2007, they reached about 265, which is more than double the starting point. After a small drop during 2008-2009, prices continued rising to reach about 280 by 2014. The OECD average also rose but much more slowly. Overall, this graph shows that New Zealand house prices have risen much faster than the average in other developed countries."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with time period
+- Explains the baseline
+- Describes both lines
+- Notes key turning points
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **Zealand** | /ˈziːlənd/ | ZEE-luhnd |
+| **compared** | /kəmˈpɛrd/ | kuhm-PAIRD |
+| **average** | /ˈævərɪdʒ/ | AV-uh-rij |
+| **vertical** | /ˈvɜrtɪkəl/ | VUR-tuh-kuhl |
+| **index** | /ˈɪndɛks/ | IN-deks |
+| **represents** | /ˌrɛprɪˈzɛnts/ | rep-rih-ZENTS |
+| **stable** | /ˈsteɪbəl/ | STAY-buhl |
+| **dramatically** | /drəˈmætɪkli/ | druh-MAT-ik-lee |
+| **developed** | /dɪˈvɛləpt/ | dih-VEL-uhpt |
+| **countries** | /ˈkʌntriz/ | KUN-treez |
+
+---
+
+## Image 101 - Australia Inbound Visitors 2005-2006
+
+**Answer:**
+
+"This table shows the number of inbound visitors to Australia in 2005 and 2006, measured in thousands. New Zealand was the largest source of visitors with 1099 thousand in 2005 and 1073 thousand in 2006, showing a slight decrease. The United States increased from 700 to 720 thousand visitors. Japan decreased from 576 to 586 thousand. Germany stayed relatively stable with 430 thousand visitors in 2005 and 410 in 2006. The table also mentions short-time stays but those figures are not shown. Overall, this table shows that New Zealand is Australia's biggest source of tourists, with the United States being the second largest."
+
+**Time:** ~27-29 seconds
+
+**Key Features:**
+- Clear introduction with years
+- Lists main countries with numbers
+- Notes trends (increase/decrease)
+- Simple conclusion
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **inbound** | /ˈɪnbaʊnd/ | IN-bownd |
+| **visitors** | /ˈvɪzɪtərz/ | VIZ-uh-tuhrz |
+| **Australia** | /ɒˈstreɪliə/ | aw-STRAY-lee-uh |
+| **thousands** | /ˈθaʊzəndz/ | THOW-zuhnds |
+| **source** | /sɔrs/ | sors |
+| **decrease** | /dɪˈkriːs/ | dih-KREES |
+| **relatively** | /ˈrɛlətɪvli/ | REL-uh-tiv-lee |
+| **stable** | /ˈsteɪbəl/ | STAY-buhl |
+| **tourists** | /ˈtʊrɪsts/ | TOOR-ists |
+| **figures** | /ˈfɪɡjərz/ | FIG-yuhrz |
+
+---
+
+## Image 102 - Students from Disadvantaged Backgrounds
+
+**Answer:**
+
+"This line graph shows the percentage of students from disadvantaged backgrounds entering university in England from 2006 to 2014. The vertical line shows percentage, and the horizontal line shows years. In 2006, the percentage was around 10 percent. The line shows a steady upward trend over the whole period. By 2014, the percentage had reached about 20 percent. The graph highlights a 60 percent increase overall. This means the proportion of disadvantaged students going to university almost doubled in just eight years. Overall, this graph shows positive progress in helping students from poorer backgrounds access higher education in England."
+
+**Time:** ~27-29 seconds
+
+**Key Features:**
+- Clear introduction with location and time
+- Notes the starting and ending values
+- Highlights the key percentage increase
+- Positive conclusion
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **disadvantaged** | /ˌdɪsədˈvæntɪdʒd/ | dis-uhd-VAN-tijd |
+| **backgrounds** | /ˈbækɡraʊndz/ | BAK-growndz |
+| **percentage** | /pərˈsɛntɪdʒ/ | puhr-SEN-tij |
+| **university** | /ˌjuːnɪˈvɜrsəti/ | yoo-nuh-VUR-suh-tee |
+| **England** | /ˈɪŋɡlənd/ | ING-gluhnd |
+| **upward** | /ˈʌpwərd/ | UP-wuhrd |
+| **proportion** | /prəˈpɔrʃən/ | pruh-POR-shuhn |
+| **doubled** | /ˈdʌbəld/ | DUB-uhld |
+| **progress** | /ˈprɒɡrɛs/ | PROG-res |
+| **education** | /ˌɛdʒuˈkeɪʃən/ | ej-oo-KAY-shuhn |
+
+---
+
+## Image 103 - Wage Growth, Consumption, and Household Debt
+
+**Answer:**
+
+"This bar chart compares three economic measures: wage growth, consumption, and household debt. The vertical line shows percentage values. Wage growth is the smallest bar at around 5 percent. Consumption shows about 15 percent growth. However, household debt shows the highest value at approximately 40 percent, which is much larger than the other two. This means that debt is growing almost eight times faster than wages and nearly three times faster than consumption. Overall, this chart shows a concerning pattern where household debt is increasing much more quickly than people's wages and spending, which could cause financial problems."
+
+**Time:** ~27-29 seconds
+
+**Key Features:**
+- Clear introduction of three measures
+- Compares all three bars
+- Uses specific ratios
+- Draws meaningful conclusion
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **economic** | /ˌiːkəˈnɒmɪk/ | ee-kuh-NOM-ik |
+| **consumption** | /kənˈsʌmpʃən/ | kuhn-SUMP-shuhn |
+| **household** | /ˈhaʊshoʊld/ | HOWS-hohld |
+| **approximately** | /əˈprɒksɪmətli/ | uh-PROK-suh-muht-lee |
+| **values** | /ˈvæljuːz/ | VAL-yooz |
+| **percentage** | /pərˈsɛntɪdʒ/ | puhr-SEN-tij |
+| **financial** | /faɪˈnænʃəl/ | fy-NAN-shuhl |
+| **concerning** | /kənˈsɜrnɪŋ/ | kuhn-SUR-ning |
+| **pattern** | /ˈpætərn/ | PAT-uhrn |
+| **increasing** | /ɪnˈkriːsɪŋ/ | in-KREE-sing |
+
+---
+
+## Image 104 - Pre-tax Profits of the 1,000 Largest Banks
+
+**Answer:**
+
+"This diagram shows two pie charts comparing pre-tax profits of the world's 1000 largest banks in 2007 and 2011. In 2007, the total profits were 786 billion dollars. Western Europe had the largest share at 40.2 percent, followed by North America at 26.8 percent. In 2011, total profits were 762 billion, slightly lower. The biggest change was Asia Pacific, which grew from 18.9 percent to 33.3 percent. Western Europe's share dropped from 40 to about 9 percent. North America increased slightly to 29.4 percent. Overall, this chart shows a major shift in banking profits from Western Europe to Asia Pacific between 2007 and 2011."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Compares two time periods
+- Notes total values
+- Highlights major changes
+- Clear conclusion about shift
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **profits** | /ˈprɒfɪts/ | PROF-its |
+| **largest** | /ˈlɑrdʒɪst/ | LAR-jist |
+| **billion** | /ˈbɪljən/ | BIL-yuhn |
+| **dollars** | /ˈdɒlərz/ | DOL-uhrz |
+| **Western** | /ˈwɛstərn/ | WES-tuhrn |
+| **Europe** | /ˈjʊrəp/ | YOOR-uhp |
+| **Pacific** | /pəˈsɪfɪk/ | puh-SIF-ik |
+| **slightly** | /ˈslaɪtli/ | SLYTE-lee |
+| **banking** | /ˈbæŋkɪŋ/ | BANK-ing |
+| **major** | /ˈmeɪdʒər/ | MAY-juhr |
+
+---
+
+## Image 105 - Households in Millions Who Own Pets
+
+**Answer:**
+
+"This pie chart shows the number of households in millions who own different types of pets. Dogs are the most popular, representing 69 million households or 45 percent of the total. Cats are second with 45.3 million households at 29 percent. Freshwater fish account for 11.8 million at 8 percent. Birds represent 5.7 million at about 4 percent. Smaller segments include horses, saltwater fish, reptiles, and small animals, each making up 2 to 6 percent of the total. Overall, this chart clearly shows that dogs and cats dominate pet ownership, together accounting for about 74 percent of all pet-owning households."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction
+- Lists largest segments first
+- Uses both numbers and percentages
+- Strong summary with combined percentage
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **households** | /ˈhaʊshoʊldz/ | HOWS-hohldz |
+| **millions** | /ˈmɪljənz/ | MIL-yuhnz |
+| **representing** | /ˌrɛprɪˈzɛntɪŋ/ | rep-rih-ZEN-ting |
+| **freshwater** | /ˈfrɛʃwɔtər/ | FRESH-waw-tuhr |
+| **account** | /əˈkaʊnt/ | uh-KOWNT |
+| **segments** | /ˈsɛɡmənts/ | SEG-muhnts |
+| **reptiles** | /ˈrɛptaɪlz/ | REP-tylz |
+| **dominate** | /ˈdɒmɪneɪt/ | DOM-uh-nayt |
+| **ownership** | /ˈoʊnərʃɪp/ | OH-nuhr-ship |
+| **accounting** | /əˈkaʊntɪŋ/ | uh-KOWN-ting |
+
+---
+
+## Image 106 - Market Share of Pet Services and Products
+
+**Answer:**
+
+"This pie chart shows the market share of different pet services and products. Pet food has the largest share at 30 percent, shown in orange. Pet healthcare is second at 25 percent in light green. Pet toys take up 20 percent in yellow. Pet grooming accounts for 15 percent in green. Other services make up the remaining 10 percent in pink. Together, pet food and pet healthcare make up more than half of the total market. Overall, this chart shows that basic needs like food and healthcare are the biggest spending categories in the pet industry."
+
+**Time:** ~26-28 seconds
+
+**Key Features:**
+- Clear introduction
+- Lists all segments with colors
+- Combines top categories
+- Simple conclusion
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **market** | /ˈmɑrkɪt/ | MAR-kit |
+| **services** | /ˈsɜrvɪsɪz/ | SUR-vuh-siz |
+| **products** | /ˈprɒdʌkts/ | PROD-ukts |
+| **healthcare** | /ˈhɛlθkɛr/ | HELTH-kair |
+| **grooming** | /ˈɡruːmɪŋ/ | GROO-ming |
+| **remaining** | /rɪˈmeɪnɪŋ/ | rih-MAY-ning |
+| **categories** | /ˈkætəɡɔriz/ | KAT-uh-gor-eez |
+| **industry** | /ˈɪndəstri/ | IN-duh-stree |
+| **spending** | /ˈspɛndɪŋ/ | SPEN-ding |
+| **basic** | /ˈbeɪsɪk/ | BAY-sik |
+
+---
+
+## Image 107 - Chemical Experiment
+
+**Answer:**
+
+"This photograph shows a chemistry experiment taking place in a laboratory. We can see two people: an older man wearing glasses who appears to be a teacher or scientist, and a young boy in a blue lab coat who looks like a student. The student is carefully pouring a red liquid from one glass container into another. There are several glass containers on the table, including beakers and flasks. The setting appears to be a professional laboratory or science classroom. The student is focused and appears to be learning proper laboratory techniques. Overall, this image shows an educational science activity where a student is being taught how to conduct chemical experiments safely."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Describes the people
+- Notes the action taking place
+- Identifies equipment
+- Concludes with purpose
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **photograph** | /ˈfoʊtəɡræf/ | FOH-tuh-graf |
+| **chemistry** | /ˈkɛmɪstri/ | KEM-uh-stree |
+| **experiment** | /ɪkˈspɛrɪmənt/ | ik-SPER-uh-muhnt |
+| **laboratory** | /ˈlæbrətɔri/ | LAB-ruh-tor-ee |
+| **scientist** | /ˈsaɪəntɪst/ | SY-uhn-tist |
+| **containers** | /kənˈteɪnərz/ | kuhn-TAY-nuhrz |
+| **beakers** | /ˈbiːkərz/ | BEE-kuhrz |
+| **techniques** | /tɛkˈniːks/ | tek-NEEKS |
+| **educational** | /ˌɛdʒuˈkeɪʃənəl/ | ej-oo-KAY-shuh-nuhl |
+| **conduct** | /ˈkɒndʌkt/ | KON-dukt |
+
+---
+
+## Image 108 - Overseas Residents' Visits to UK
+
+**Answer:**
+
+"This line graph shows two trends from 1989 to 2009: UK residents' visits abroad and overseas visits to the UK, both measured in millions. The two lines show different patterns. UK residents' visits abroad started at about 30 million in 1989 and increased steadily to reach about 70 million by 2009. Overseas visits to the UK started at about 15 million and grew more slowly to reach about 30 million by 2009. The gap between the two lines widened over time. This means UK residents travel abroad more than twice as often as foreigners visit the UK. Overall, this graph shows that Britain has a tourism deficit, with more people leaving than arriving."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with both measures
+- Describes both lines
+- Notes the widening gap
+- Draws conclusion about deficit
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **overseas** | /ˌoʊvərˈsiːz/ | oh-vuhr-SEEZ |
+| **residents** | /ˈrɛzɪdənts/ | REZ-uh-duhnts |
+| **abroad** | /əˈbrɔd/ | uh-BRAWD |
+| **measured** | /ˈmɛʒərd/ | MEZH-uhrd |
+| **steadily** | /ˈstɛdɪli/ | STED-uh-lee |
+| **widened** | /ˈwaɪdənd/ | WY-duhnd |
+| **foreigners** | /ˈfɔrɪnərz/ | FOR-uh-nuhrz |
+| **tourism** | /ˈtʊrɪzəm/ | TOOR-iz-uhm |
+| **deficit** | /ˈdɛfɪsɪt/ | DEF-uh-sit |
+| **arriving** | /əˈraɪvɪŋ/ | uh-RY-ving |
+
+---
+
+## Image 109 - Share of Companies by Size
+
+**Answer:**
+
+"This pie chart shows the share of companies in the market by their size, measured by number of employees. Small companies with 3 to 6 employees make up the largest share at 66 percent, shown in purple. Medium-sized companies with 7 to 50 employees account for 28 percent, shown in green. Large companies with more than 50 employees represent only 6 percent of the total, shown in pink. This means that two-thirds of all companies in this market are small businesses. Overall, this chart clearly shows that small companies dominate the market, while large companies make up only a small fraction of the total."
+
+**Time:** ~27-29 seconds
+
+**Key Features:**
+- Clear introduction with size definitions
+- Lists all three segments
+- Uses both percentages and fractions
+- Simple conclusion
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **companies** | /ˈkʌmpəniz/ | KUM-puh-neez |
+| **employees** | /ɪmˈplɔɪiːz/ | em-PLOY-eez |
+| **medium** | /ˈmiːdiəm/ | MEE-dee-uhm |
+| **account** | /əˈkaʊnt/ | uh-KOWNT |
+| **represent** | /ˌrɛprɪˈzɛnt/ | rep-rih-ZENT |
+| **fraction** | /ˈfrækʃən/ | FRAK-shuhn |
+| **businesses** | /ˈbɪznɪsɪz/ | BIZ-nuh-siz |
+| **dominate** | /ˈdɒmɪneɪt/ | DOM-uh-nayt |
+| **measured** | /ˈmɛʒərd/ | MEZH-uhrd |
+| **thirds** | /θɜrdz/ | thurdz |
+
+---
+
+## Image 110 - Inbound Tourists Ecuador
+
+**Answer:**
+
+"This horizontal bar chart shows the percentage of inbound tourists to Ecuador by their country of origin. Colombia is the largest source at 27 percent of total arrivals. The United States is second with 21 percent. Peru is third at 20 percent. All other countries together make up 32 percent of arrivals. Looking at the pattern, Ecuador's three neighboring countries in South America provide most of the tourists. Colombia and Peru together account for 47 percent, which is almost half of all visitors. Overall, this chart shows that most tourists visiting Ecuador come from nearby countries, with Colombia being the single largest source."
+
+**Time:** ~27-29 seconds
+
+**Key Features:**
+- Clear introduction
+- Lists top sources with percentages
+- Notes geographic pattern
+- Combines categories for insight
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **inbound** | /ˈɪnbaʊnd/ | IN-bownd |
+| **tourists** | /ˈtʊrɪsts/ | TOOR-ists |
+| **Ecuador** | /ˈɛkwədɔr/ | EK-wuh-dor |
+| **origin** | /ˈɒrɪdʒɪn/ | OR-uh-jin |
+| **Colombia** | /kəˈlʌmbiə/ | kuh-LUM-bee-uh |
+| **arrivals** | /əˈraɪvəlz/ | uh-RY-vuhlz |
+| **neighboring** | /ˈneɪbərɪŋ/ | NAY-buhr-ing |
+| **provide** | /prəˈvaɪd/ | pruh-VYDE |
+| **account** | /əˈkaʊnt/ | uh-KOWNT |
+| **visiting** | /ˈvɪzɪtɪŋ/ | VIZ-uh-ting |
+
+---
+
+## Image 111 - Top 10 US Cities with Largest Population Increase
+
+**Answer:**
+
+"This horizontal bar chart shows the top 10 US cities with the largest population increase from July 2011 to July 2012. New York City had the biggest increase at about 67,058 people. Houston and Los Angeles were second and third with around 34,000 new residents each. San Antonio, Austin, and Phoenix each gained about 25,000 people. Dallas, Charlotte, San Diego, and Fort Worth complete the top 10 with increases between 16,000 and 23,000. Most of these cities are in the southern and western parts of the United States. Overall, this chart shows that America's biggest population growth is happening in large cities, especially New York and cities in Texas."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with time period
+- Lists cities from highest to lowest
+- Groups cities by similar growth
+- Notes geographic pattern
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **population** | /ˌpɒpjəˈleɪʃən/ | pop-yuh-LAY-shuhn |
+| **increase** | /ˈɪnkriːs/ | IN-krees |
+| **residents** | /ˈrɛzɪdənts/ | REZ-uh-duhnts |
+| **Charlotte** | /ˈʃɑrlət/ | SHAR-luht |
+| **Phoenix** | /ˈfiːnɪks/ | FEE-niks |
+| **southern** | /ˈsʌðərn/ | SUH-thuhrn |
+| **western** | /ˈwɛstərn/ | WES-tuhrn |
+| **growth** | /ɡroʊθ/ | grohth |
+| **especially** | /ɪˈspɛʃəli/ | ih-SPESH-uh-lee |
+| **complete** | /kəmˈpliːt/ | kuhm-PLEET |
+
+---
+
+## Image 112 - Southampton University Student Accommodation
+
+**Answer:**
+
+"This floor plan shows a student accommodation room at Southampton University. The room measures 5.40 meters by 6.80 meters. Looking at the layout, there is a desk on the right side near the corner. The bed is positioned in the middle of the room. There is a bathroom area in one corner and what appears to be storage or closet space. The room also has a window for natural light. The purple walls indicate the fixed structure while the furniture is shown in grey. Overall, this floor plan shows a compact but functional living space designed for a university student, with all basic needs included in one room."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with location
+- Notes dimensions
+- Describes layout systematically
+- Mentions color coding
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **Southampton** | /saʊθˈæmptən/ | sowth-AMP-tuhn |
+| **accommodation** | /əˌkɒməˈdeɪʃən/ | uh-kom-uh-DAY-shuhn |
+| **university** | /ˌjuːnɪˈvɜrsəti/ | yoo-nuh-VUR-suh-tee |
+| **measures** | /ˈmɛʒərz/ | MEZH-uhrz |
+| **positioned** | /pəˈzɪʃənd/ | puh-ZISH-uhnd |
+| **bathroom** | /ˈbæθruːm/ | BATH-room |
+| **storage** | /ˈstɔrɪdʒ/ | STOR-ij |
+| **structure** | /ˈstrʌktʃər/ | STRUK-chur |
+| **functional** | /ˈfʌŋkʃənəl/ | FUNK-shuh-nuhl |
+| **designed** | /dɪˈzaɪnd/ | dih-ZYNED |
+
+---
+
+## Image 113 - Layers of the Earth
+
+**Answer:**
+
+"This diagram shows the different layers of the Earth. The Earth has several main layers from outside to inside. The outermost layer is the atmosphere, which is the air around the Earth. Below that is the crust, which is divided into oceanic crust and continental crust. The oceanic crust is thinner and lies under the oceans, while the continental crust forms the land. Below the crust is the mantle, which has an upper mantle and a lower mantle. The outer core comes next, followed by the inner core at the very center. The diagram also shows the Mohorovicic discontinuity, which is the boundary between the crust and mantle. Overall, this diagram shows how the Earth is made up of different layers from the surface to the center."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction
+- Lists layers from outside to inside
+- Distinguishes between sub-layers
+- Mentions technical term
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **layers** | /ˈleɪərz/ | LAY-uhrz |
+| **atmosphere** | /ˈætməsfɪr/ | AT-muh-sfeer |
+| **crust** | /krʌst/ | krust |
+| **oceanic** | /ˌoʊʃiˈænɪk/ | oh-shee-AN-ik |
+| **continental** | /ˌkɒntɪˈnɛntəl/ | kon-tuh-NEN-tuhl |
+| **mantle** | /ˈmæntəl/ | MAN-tuhl |
+| **core** | /kɔr/ | kor |
+| **boundary** | /ˈbaʊndəri/ | BOWN-duh-ree |
+| **discontinuity** | /ˌdɪskɒntɪˈnjuːəti/ | dis-kon-tuh-NYOO-uh-tee |
+| **surface** | /ˈsɜrfɪs/ | SUR-fis |
+
+---
+
+## Image 114 - Male and Female Volunteers Over the Years
+
+**Answer:**
+
+"This line graph shows the ratio of male and female volunteers changing over the years from 1990 to 2004. The blue line represents male volunteers and the pink line represents female volunteers. In 1990, both lines started at similar levels, with men slightly higher at about 32 percent and women at about 28 percent. Over time, the two lines moved in opposite directions. The male volunteer rate gradually decreased to about 38 percent by 2004. The female volunteer rate increased and became more stable at around 25 to 28 percent. By 2003-2004, more men than women were volunteering. Overall, this graph shows how the gender balance in volunteering has shifted over this 14-year period."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with time period
+- Describes both lines with colors
+- Notes opposite trends
+- Explains the shift
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **ratio** | /ˈreɪʃioʊ/ | RAY-shee-oh |
+| **volunteers** | /ˌvɒlənˈtɪrz/ | vol-uhn-TEERZ |
+| **represents** | /ˌrɛprɪˈzɛnts/ | rep-rih-ZENTS |
+| **similar** | /ˈsɪmɪlər/ | SIM-uh-luhr |
+| **opposite** | /ˈɒpəzɪt/ | OP-uh-zit |
+| **directions** | /dəˈrɛkʃənz/ | duh-REK-shuhnz |
+| **gradually** | /ˈɡrædʒuəli/ | GRAD-joo-uh-lee |
+| **gender** | /ˈdʒɛndər/ | JEN-duhr |
+| **balance** | /ˈbæləns/ | BAL-uhns |
+| **shifted** | /ʃɪftɪd/ | SHIF-tid |
+
+---
+
+## Image 115 - Collapse of Atlantic Cod Stocks
+
+**Answer:**
+
+"This line graph shows the collapse of Atlantic cod stocks on the east coast of Newfoundland from 1850 to 2000. The vertical line shows fish landings in tons, ranging from 0 to 900,000. For most of the period from 1850 to 1950, cod catches stayed relatively low at around 100,000 to 200,000 tons per year. However, starting in the 1950s, catches began to rise dramatically. They peaked in 1968 at about 800,000 tons. After this peak, catches fell dramatically and by 1992 they had collapsed to almost zero. The fish population never recovered. Overall, this graph shows a classic example of overfishing, where too much fishing destroyed a fish population that had existed for centuries."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction with location and time
+- Describes the long-term trend
+- Notes the peak and collapse
+- Draws meaningful conclusion
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **collapse** | /kəˈlæps/ | kuh-LAPS |
+| **Atlantic** | /ətˈlæntɪk/ | uht-LAN-tik |
+| **Newfoundland** | /ˌnjuːfəndˈlænd/ | nyoo-fuhnd-LAND |
+| **landings** | /ˈlændɪŋz/ | LAN-dingz |
+| **catches** | /ˈkætʃɪz/ | KACH-iz |
+| **relatively** | /ˈrɛlətɪvli/ | REL-uh-tiv-lee |
+| **dramatically** | /drəˈmætɪkli/ | druh-MAT-ik-lee |
+| **peaked** | /piːkt/ | peekt |
+| **recovered** | /rɪˈkʌvərd/ | rih-KUV-uhrd |
+| **overfishing** | /ˌoʊvərˈfɪʃɪŋ/ | oh-vuhr-FISH-ing |
+
+---
+
+## Image 116 - Evacuation Route Floor Plan
+
+**Answer:**
+
+"This floor plan shows an evacuation route for a building. The red arrows show the path people should follow to exit during an emergency. Looking at the diagram, there are multiple ways to leave the building. The main entrance is at the bottom of the plan. There are stairs at several locations, shown as zigzag patterns. The evacuation route leads from various rooms through corridors to the nearest exit or staircase. There is also an elevator marked on the plan, but elevators should not be used during emergencies. The plan shows both the ground floor and possibly emergency exits. Overall, this diagram is a safety guide that helps people find the quickest way out of the building in an emergency."
+
+**Time:** ~28-30 seconds
+
+**Key Features:**
+- Clear introduction
+- Describes the arrow paths
+- Notes multiple exit options
+- Mentions elevator warning
+
+**Difficult Words:**
+
+| Word | IPA | Simplified |
+|------|-----|------------|
+| **evacuation** | /ɪˌvækjuˈeɪʃən/ | ih-vak-yoo-AY-shuhn |
+| **route** | /ruːt/ | root |
+| **emergency** | /ɪˈmɜrdʒənsi/ | ih-MUR-juhn-see |
+| **arrows** | /ˈæroʊz/ | AIR-ohz |
+| **entrance** | /ˈɛntrəns/ | EN-truhns |
+| **corridors** | /ˈkɒrɪdɔrz/ | KOR-uh-dorz |
+| **staircase** | /ˈstɛrkeɪs/ | STAIR-kays |
+| **elevator** | /ˈɛləveɪtər/ | EL-uh-vay-tuhr |
+| **diagram** | /ˈdaɪəɡræm/ | DYE-uh-gram |
+| **quickest** | /ˈkwɪkɪst/ | KWIK-ist |
 
 ---
 
