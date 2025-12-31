@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated": "2025-12-28T23:34:12.800Z",
-    "totalAnswers": 43,
+    "generated": "2025-12-31T00:23:07.771Z",
+    "totalAnswers": 85,
     "source": "example-answers",
-    "description": "DI natural answers (Images 1-43) for shadowing practice with natural phrase chunking",
+    "description": "DI natural answers (Images 1-85) for shadowing practice with natural phrase chunking",
     "version": "2.0",
     "category": "di-shadowing",
     "dataType": "shadowing"
@@ -3372,6 +3372,3317 @@
       ],
       "wordCount": 125,
       "duration": 50,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-61",
+      "imageNumber": 61,
+      "title": "Buying School Bags at a Stationery Shop",
+      "template": "Natural",
+      "fullText": "This image shows two photos of buying school bags at a stationery shop. On the left, we can see a mother and daughter looking at a colorful backpack together. The mother is holding the bag while the daughter looks at it with a happy expression. On the right, the same girl is shown holding a different backpack on her own. In the background, we can see shelves with many school supplies. These photos show a typical shopping experience where parents help their children choose school bags before the new school year.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This image shows two photos of buying school bags at a stationery shop.",
+          "startIndex": 0,
+          "endIndex": 71,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 1,
+          "text": "On the left, we can see a mother and daughter looking at a colorful backpack together.",
+          "startIndex": 73,
+          "endIndex": 159,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 2,
+          "text": "The mother is holding the bag while the daughter looks at it with a happy expression.",
+          "startIndex": 161,
+          "endIndex": 246,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 3,
+          "text": "On the right, the same girl is shown holding a different backpack on her own.",
+          "startIndex": 248,
+          "endIndex": 325,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 4,
+          "text": "In the background, we can see shelves with many school supplies.",
+          "startIndex": 327,
+          "endIndex": 391,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 5,
+          "text": "These photos show a typical shopping experience where",
+          "startIndex": 393,
+          "endIndex": 446,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 6,
+          "text": "parents help their children choose school bags before the new school year.",
+          "startIndex": 448,
+          "endIndex": 521,
+          "estimatedDuration": 4800
+        }
+      ],
+      "wordCount": 91,
+      "duration": 36,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-65",
+      "imageNumber": 65,
+      "title": "Food Pyramid 1970s vs 2010s",
+      "template": "Natural",
+      "fullText": "This diagram compares the food pyramid from the 1970s with the new food pyramid from the 2010s. On the left, the 1970s pyramid has grains and cereals at the base, with fruits and vegetables in the middle, and fats at the top. On the right, the 2010s pyramid is quite different. It has fruits and vegetables at the base as the largest section. Grains and proteins are in the middle, and fats and sweets are at the very top in the smallest section. This shows that nutrition advice has changed over time, with more focus now on eating fruits and vegetables rather than grains.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram compares the food pyramid from the 1970s with the new food pyramid from the 2010s.",
+          "startIndex": 0,
+          "endIndex": 95,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 1,
+          "text": "On the left, the 1970s pyramid has grains and cereals at the base,",
+          "startIndex": 97,
+          "endIndex": 163,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 2,
+          "text": "with fruits and vegetables in the middle, and fats at the top. On the right,",
+          "startIndex": 165,
+          "endIndex": 241,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 3,
+          "text": "the 2010s pyramid is quite different. It has fruits and",
+          "startIndex": 243,
+          "endIndex": 298,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "vegetables at the base as the largest section. Grains and",
+          "startIndex": 300,
+          "endIndex": 357,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 5,
+          "text": "proteins are in the middle, and fats and",
+          "startIndex": 359,
+          "endIndex": 399,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 6,
+          "text": "sweets are at the very top in the smallest section. This shows that",
+          "startIndex": 401,
+          "endIndex": 468,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "nutrition advice has changed over time, with more focus now on eating fruits and",
+          "startIndex": 470,
+          "endIndex": 550,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 8,
+          "text": "vegetables rather than grains.",
+          "startIndex": 552,
+          "endIndex": 581,
+          "estimatedDuration": 1600
+        }
+      ],
+      "wordCount": 104,
+      "duration": 42,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-81",
+      "imageNumber": 81,
+      "title": "Ontario Manufacturing Employment and Canadian Dollar Exchange",
+      "template": "Natural",
+      "fullText": "This line graph shows Ontario manufacturing employment and the Canadian dollar exchange rate from 1981 to 2013. There are two vertical lines - the left side shows employment in thousands, and the right side shows the dollar value in US dollars. The blue line represents Ontario manufacturing employment, and the red line represents the Canadian dollar value. In the 1980s, employment started at about 900 thousand. It rose to a peak of around 1100 thousand in 2000. After that, it dropped sharply to about 750 thousand by 2009. The Canadian dollar shows the opposite pattern - it was high in 1981, dropped to its lowest around 2002, then rose sharply after that. Overall, this graph shows that when the Canadian dollar got stronger, manufacturing employment went down.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows Ontario manufacturing employment and",
+          "startIndex": 0,
+          "endIndex": 58,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 1,
+          "text": "the Canadian dollar exchange rate from 1981 to 2013.",
+          "startIndex": 60,
+          "endIndex": 112,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 2,
+          "text": "There are two vertical lines - the left side shows employment in thousands, and",
+          "startIndex": 114,
+          "endIndex": 193,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "the right side shows the dollar value in US dollars.",
+          "startIndex": 195,
+          "endIndex": 247,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "The blue line represents Ontario manufacturing employment, and",
+          "startIndex": 249,
+          "endIndex": 311,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 5,
+          "text": "the red line represents the Canadian dollar value. In the 1980s,",
+          "startIndex": 313,
+          "endIndex": 377,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "employment started at about 900 thousand.",
+          "startIndex": 379,
+          "endIndex": 420,
+          "estimatedDuration": 2400
+        },
+        {
+          "index": 7,
+          "text": "It rose to a peak of around 1100 thousand in 2000. After that,",
+          "startIndex": 422,
+          "endIndex": 484,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 8,
+          "text": "it dropped sharply to about 750 thousand by 2009.",
+          "startIndex": 486,
+          "endIndex": 535,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 9,
+          "text": "The Canadian dollar shows the opposite pattern - it was high in 1981,",
+          "startIndex": 537,
+          "endIndex": 606,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 10,
+          "text": "dropped to its lowest around 2002, then rose sharply after that. Overall,",
+          "startIndex": 608,
+          "endIndex": 681,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 11,
+          "text": "this graph shows that when the Canadian dollar got stronger,",
+          "startIndex": 683,
+          "endIndex": 743,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 12,
+          "text": "manufacturing employment went down.",
+          "startIndex": 745,
+          "endIndex": 779,
+          "estimatedDuration": 1600
+        }
+      ],
+      "wordCount": 127,
+      "duration": 51,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-82",
+      "imageNumber": 82,
+      "title": "Nuclear Power Generation in Europe",
+      "template": "Natural",
+      "fullText": "This map shows nuclear power generation across Europe. The colors represent the percentage of electricity that comes from nuclear power in each country. France is shown in dark purple, which means it has the highest nuclear share at more than 55 percent. Some countries in eastern Europe are shown in blue with 45 to 55 percent. Other countries in western and northern Europe are in lighter colors with 10 to 45 percent. The green dots on the map show where nuclear power plants are located. Most plants are in France and in the central part of Europe. Some countries shown in very light gray have no nuclear power at all. Overall, this map shows that France relies the most on nuclear power in Europe, while other countries have much lower shares.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This map shows nuclear power generation across Europe.",
+          "startIndex": 0,
+          "endIndex": 54,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 1,
+          "text": "The colors represent the percentage of electricity that",
+          "startIndex": 56,
+          "endIndex": 111,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 2,
+          "text": "comes from nuclear power in each country. France is shown in dark purple, which",
+          "startIndex": 113,
+          "endIndex": 192,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "means it has the highest nuclear share at more than 55 percent.",
+          "startIndex": 194,
+          "endIndex": 257,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 4,
+          "text": "Some countries in eastern Europe are shown in blue with 45 to 55 percent.",
+          "startIndex": 259,
+          "endIndex": 332,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 5,
+          "text": "Other countries in western and northern Europe are in lighter colors with 10 to 45 percent.",
+          "startIndex": 334,
+          "endIndex": 425,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 6,
+          "text": "The green dots on the map show where nuclear power plants are located.",
+          "startIndex": 427,
+          "endIndex": 497,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "Most plants are in France and in the central part of Europe.",
+          "startIndex": 499,
+          "endIndex": 559,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 8,
+          "text": "Some countries shown in very light gray have no nuclear power at all. Overall,",
+          "startIndex": 561,
+          "endIndex": 639,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 9,
+          "text": "this map shows that France relies the most on nuclear power in Europe,",
+          "startIndex": 641,
+          "endIndex": 711,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 10,
+          "text": "while other countries have much lower shares.",
+          "startIndex": 713,
+          "endIndex": 757,
+          "estimatedDuration": 2800
+        }
+      ],
+      "wordCount": 131,
+      "duration": 52,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-77",
+      "imageNumber": 77,
+      "title": "Mean Salary of First-Degree Graduates by Gender",
+      "template": "Natural",
+      "fullText": "This bar chart shows the mean salary of first-degree graduates by gender from 2008 to 2013. The red bars show women's salaries, and the blue bars show men's salaries. In 2008-9, both groups started at around 19,000 to 20,000 pounds. Over the years, men's salaries have stayed higher than women's salaries in every year. By 2012-13, men earned about 21,500 pounds while women earned about 19,500 pounds. The gap between the two groups has stayed fairly constant throughout this period. Overall, this chart shows that male graduates consistently earn more than female graduates, with a pay gap of about 2,000 pounds.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This bar chart shows the mean salary of first-degree graduates by gender from 2008 to 2013.",
+          "startIndex": 0,
+          "endIndex": 91,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 1,
+          "text": "The red bars show women's salaries, and the blue bars show men's salaries.",
+          "startIndex": 93,
+          "endIndex": 167,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 2,
+          "text": "In 2008-9, both groups started at around 19,000 to 20,000 pounds.",
+          "startIndex": 169,
+          "endIndex": 234,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "Over the years, men's salaries have stayed higher than women's salaries in every year.",
+          "startIndex": 236,
+          "endIndex": 322,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 4,
+          "text": "By 2012-13, men earned about 21,500 pounds while women earned about 19,500 pounds.",
+          "startIndex": 324,
+          "endIndex": 406,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 5,
+          "text": "The gap between the two groups has stayed fairly constant throughout this period.",
+          "startIndex": 408,
+          "endIndex": 489,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "Overall, this chart shows that male graduates consistently earn more than female graduates,",
+          "startIndex": 491,
+          "endIndex": 582,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "with a pay gap of about 2,000 pounds.",
+          "startIndex": 584,
+          "endIndex": 620,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 101,
+      "duration": 40,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-79",
+      "imageNumber": 79,
+      "title": "Annual Height Increase, Boys vs Girls",
+      "template": "Natural",
+      "fullText": "This line graph shows the annual height increase for boys and girls from age 0 to 18. The vertical line shows centimeters, and the horizontal line shows age. The orange line represents girls, and the blue line represents boys. Both lines start very high at around 23 centimeters at age 0, which is when babies grow the fastest. After that, both lines drop quickly to about 7 centimeters by age 3. The lines then stay fairly flat between ages 4 and 10. Around age 11 to 12, both lines show a small peak - this is the growth spurt. Girls peak slightly earlier than boys, at around age 11. After age 16, both lines drop close to zero. Overall, this shows that children grow fastest when they are babies, and have another growth spurt during their teenage years.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows the annual height increase for boys and",
+          "startIndex": 0,
+          "endIndex": 61,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 1,
+          "text": "girls from age 0 to 18. The vertical line shows centimeters, and",
+          "startIndex": 63,
+          "endIndex": 127,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 2,
+          "text": "the horizontal line shows age. The orange line represents girls, and",
+          "startIndex": 129,
+          "endIndex": 197,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "the blue line represents boys. Both lines start very high at around 23 centimeters at age 0,",
+          "startIndex": 199,
+          "endIndex": 291,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 4,
+          "text": "which is when babies grow the fastest. After that,",
+          "startIndex": 293,
+          "endIndex": 343,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 5,
+          "text": "both lines drop quickly to about 7 centimeters by age 3.",
+          "startIndex": 345,
+          "endIndex": 401,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "The lines then stay fairly flat between ages 4 and 10. Around age 11 to 12,",
+          "startIndex": 403,
+          "endIndex": 478,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 7,
+          "text": "both lines show a small peak - this is the growth spurt.",
+          "startIndex": 480,
+          "endIndex": 536,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 8,
+          "text": "Girls peak slightly earlier than boys, at around age 11. After age 16,",
+          "startIndex": 538,
+          "endIndex": 608,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 9,
+          "text": "both lines drop close to zero. Overall, this shows that",
+          "startIndex": 610,
+          "endIndex": 665,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 10,
+          "text": "children grow fastest when they are babies, and",
+          "startIndex": 667,
+          "endIndex": 714,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 11,
+          "text": "have another growth spurt during their teenage years.",
+          "startIndex": 716,
+          "endIndex": 768,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 138,
+      "duration": 55,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-80",
+      "imageNumber": 80,
+      "title": "Volunteer Rate by Age",
+      "template": "Natural",
+      "fullText": "This line graph shows the volunteer rate by age group for males and females. The vertical line shows percentage, and the horizontal line shows age groups from 18-24 to 85 and over. The black line with squares represents males, and the gray line with triangles represents females. Both lines follow a similar pattern. They start at around 25 to 30 percent for the youngest age group. Both lines rise slightly and peak at ages 35 to 44, reaching about 35 percent for males and 40 percent for females. After that, both lines gradually drop. By age 85 and over, the rates fall to about 15 percent for males and 10 percent for females. Overall, this chart shows that middle-aged people volunteer the most, and women volunteer slightly more than men in most age groups.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows the volunteer rate by age group for males and females.",
+          "startIndex": 0,
+          "endIndex": 76,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 1,
+          "text": "The vertical line shows percentage, and the horizontal line shows age groups from 18-24 to 85 and",
+          "startIndex": 78,
+          "endIndex": 175,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 2,
+          "text": "over. The black line with squares represents males, and",
+          "startIndex": 177,
+          "endIndex": 232,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 3,
+          "text": "the gray line with triangles represents females.",
+          "startIndex": 234,
+          "endIndex": 282,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 4,
+          "text": "Both lines follow a similar pattern. They start at around 25 to 30 percent for the youngest age group.",
+          "startIndex": 284,
+          "endIndex": 386,
+          "estimatedDuration": 7600
+        },
+        {
+          "index": 5,
+          "text": "Both lines rise slightly and peak at ages 35 to 44,",
+          "startIndex": 388,
+          "endIndex": 439,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "reaching about 35 percent for males and 40 percent for females. After that,",
+          "startIndex": 441,
+          "endIndex": 516,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "both lines gradually drop. By age 85 and over,",
+          "startIndex": 518,
+          "endIndex": 564,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 8,
+          "text": "the rates fall to about 15 percent for males and 10 percent for females.",
+          "startIndex": 566,
+          "endIndex": 638,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 9,
+          "text": "Overall, this chart shows that middle-aged people volunteer the most, and",
+          "startIndex": 640,
+          "endIndex": 713,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 10,
+          "text": "women volunteer slightly more than men in most age groups.",
+          "startIndex": 715,
+          "endIndex": 772,
+          "estimatedDuration": 4000
+        }
+      ],
+      "wordCount": 134,
+      "duration": 54,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-83",
+      "imageNumber": 83,
+      "title": "Food Pyramid",
+      "template": "Natural",
+      "fullText": "This diagram shows a food pyramid that guides healthy eating. At the very base, we can see water bottles, which means we should drink plenty of water every day. The next level up is divided into two parts - bread and cereals on the left, and fruits and vegetables on the right. This is the largest food group section. Above that, there is another level with milk, cheese, and eggs on the left, and meat, fish, and chicken on the right. At the very top of the pyramid is junk food, sweets, and sugar drinks. This is the smallest section because we should eat these foods the least. Overall, this pyramid shows that we should eat more foods from the bottom and less from the top.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows a food pyramid that guides healthy eating. At the very base,",
+          "startIndex": 0,
+          "endIndex": 79,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 1,
+          "text": "we can see water bottles, which means we should drink plenty of water every day.",
+          "startIndex": 81,
+          "endIndex": 161,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 2,
+          "text": "The next level up is divided into two parts - bread and cereals on the left, and",
+          "startIndex": 163,
+          "endIndex": 243,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 3,
+          "text": "fruits and vegetables on the right. This is the largest food group section.",
+          "startIndex": 245,
+          "endIndex": 320,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "Above that, there is another level with milk, cheese, and eggs on the left, and",
+          "startIndex": 322,
+          "endIndex": 401,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 5,
+          "text": "meat, fish, and chicken on the right. At the very top of the pyramid is junk food,",
+          "startIndex": 403,
+          "endIndex": 485,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 6,
+          "text": "sweets, and sugar drinks. This is the smallest section because we should eat these foods the least.",
+          "startIndex": 487,
+          "endIndex": 586,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 7,
+          "text": "Overall, this pyramid shows that we should eat more foods from the bottom and",
+          "startIndex": 588,
+          "endIndex": 665,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 8,
+          "text": "less from the top.",
+          "startIndex": 667,
+          "endIndex": 684,
+          "estimatedDuration": 1600
+        }
+      ],
+      "wordCount": 126,
+      "duration": 50,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-18",
+      "imageNumber": 18,
+      "title": "Earnings and Unemployment Rates by Educational Attainment",
+      "template": "Natural",
+      "fullText": "This chart shows earnings and unemployment rates by educational level in 2012. On the left side, the purple bars show unemployment rates. On the right side, the green bars show weekly earnings. We can see a clear pattern. People with less than high school have the highest unemployment at 12.4 percent and the lowest earnings at 471 dollars per week. As education level increases, unemployment goes down and earnings go up. People with a doctoral degree have only 2.5 percent unemployment and earn 1,624 dollars per week. The highest earners are people with professional degrees at 1,735 dollars. Overall, this chart clearly shows that more education leads to lower unemployment and higher earnings.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This chart shows earnings and unemployment rates by educational level in 2012.",
+          "startIndex": 0,
+          "endIndex": 78,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 1,
+          "text": "On the left side, the purple bars show unemployment rates. On the right side,",
+          "startIndex": 80,
+          "endIndex": 157,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "the green bars show weekly earnings. We can see a clear pattern.",
+          "startIndex": 159,
+          "endIndex": 223,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 3,
+          "text": "People with less than high school have the highest unemployment at 12.",
+          "startIndex": 225,
+          "endIndex": 295,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 4,
+          "text": "4 percent and the lowest earnings at 471 dollars per week.",
+          "startIndex": 297,
+          "endIndex": 355,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 5,
+          "text": "As education level increases, unemployment goes down and earnings go up.",
+          "startIndex": 357,
+          "endIndex": 429,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "People with a doctoral degree have only 2. 5 percent unemployment and",
+          "startIndex": 431,
+          "endIndex": 500,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "earn 1,624 dollars per week. The highest earners are people with professional degrees at 1,735 dollars.",
+          "startIndex": 502,
+          "endIndex": 605,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 8,
+          "text": "Overall, this chart clearly shows that more education leads to lower unemployment and",
+          "startIndex": 607,
+          "endIndex": 692,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 9,
+          "text": "higher earnings.",
+          "startIndex": 694,
+          "endIndex": 709,
+          "estimatedDuration": 800
+        }
+      ],
+      "wordCount": 113,
+      "duration": 45,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-84",
+      "imageNumber": 84,
+      "title": "Unemployment Rates by Ethnic Group and Sex, UK 2001",
+      "template": "Natural",
+      "fullText": "This horizontal bar chart shows unemployment rates by ethnic group and sex in the UK in 2001. The light blue bars show men, and the dark blue bars show women. The White group has the lowest unemployment rate at about 5 percent for both men and women. The highest unemployment rate is for the Bangladeshi group, where men have about 20 percent unemployment. Indian workers have relatively low rates at around 7 percent. For most ethnic groups, men have higher unemployment than women. However, in some groups like Pakistani, women have slightly higher rates than men. Overall, this chart shows that unemployment rates vary a lot between different ethnic groups, and the White group has the lowest rates.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This horizontal bar chart shows unemployment rates by ethnic group and",
+          "startIndex": 0,
+          "endIndex": 70,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 1,
+          "text": "sex in the UK in 2001. The light blue bars show men, and",
+          "startIndex": 72,
+          "endIndex": 128,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 2,
+          "text": "the dark blue bars show women. The White group has the lowest unemployment rate at about 5 percent for both men and",
+          "startIndex": 130,
+          "endIndex": 245,
+          "estimatedDuration": 8800
+        },
+        {
+          "index": 3,
+          "text": "women. The highest unemployment rate is for the Bangladeshi group, where",
+          "startIndex": 247,
+          "endIndex": 319,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 4,
+          "text": "men have about 20 percent unemployment. Indian workers have relatively low rates at around 7 percent.",
+          "startIndex": 321,
+          "endIndex": 422,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 5,
+          "text": "For most ethnic groups, men have higher unemployment than women. However,",
+          "startIndex": 424,
+          "endIndex": 497,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "in some groups like Pakistani, women have slightly higher rates than men.",
+          "startIndex": 499,
+          "endIndex": 572,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "Overall, this chart shows that unemployment rates vary a lot between different ethnic groups,",
+          "startIndex": 574,
+          "endIndex": 667,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 8,
+          "text": "and the White group has the lowest rates.",
+          "startIndex": 669,
+          "endIndex": 709,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 118,
+      "duration": 47,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-85",
+      "imageNumber": 85,
+      "title": "Articles Published Per Year by Male and Female University Professors",
+      "template": "Natural",
+      "fullText": "This line graph shows the number of articles published per year by male and female university professors from 2006 to 2012. The blue line represents male professors, and the pink line represents female professors. Male professors started at about 3,500 articles in 2006 and stayed fairly steady around that level, with a small drop to about 3,200 in 2012. Female professors started much lower at around 1,200 articles in 2006 and increased slightly over the years to about 1,400 by 2012. The gap between male and female professors stayed large throughout the whole period. Overall, this chart shows that male professors publish about 2 to 3 times more articles than female professors each year.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows the number of articles published per year by male and",
+          "startIndex": 0,
+          "endIndex": 75,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 1,
+          "text": "female university professors from 2006 to 2012.",
+          "startIndex": 77,
+          "endIndex": 124,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 2,
+          "text": "The blue line represents male professors, and",
+          "startIndex": 126,
+          "endIndex": 171,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 3,
+          "text": "the pink line represents female professors.",
+          "startIndex": 173,
+          "endIndex": 216,
+          "estimatedDuration": 2400
+        },
+        {
+          "index": 4,
+          "text": "Male professors started at about 3,500 articles in 2006 and",
+          "startIndex": 218,
+          "endIndex": 277,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 5,
+          "text": "stayed fairly steady around that level, with a small drop to about 3,200 in 2012.",
+          "startIndex": 279,
+          "endIndex": 360,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 6,
+          "text": "Female professors started much lower at around 1,200 articles in 2006 and",
+          "startIndex": 362,
+          "endIndex": 435,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "increased slightly over the years to about 1,400 by 2012.",
+          "startIndex": 437,
+          "endIndex": 494,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 8,
+          "text": "The gap between male and female professors stayed large throughout the whole period.",
+          "startIndex": 496,
+          "endIndex": 580,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 9,
+          "text": "Overall, this chart shows that male professors publish about 2 to 3 times more articles than female professors each year.",
+          "startIndex": 582,
+          "endIndex": 702,
+          "estimatedDuration": 8000
+        }
+      ],
+      "wordCount": 114,
+      "duration": 46,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-86",
+      "imageNumber": 86,
+      "title": "Temperature and CO2 for the Last 400,000 Years",
+      "template": "Natural",
+      "fullText": "This line graph shows carbon dioxide levels and temperature change over the last 400,000 years. There are two lines on the graph. The blue line shows CO2 levels measured in parts per million, and the red line shows temperature change in degrees. Looking at the graph, we can see that both lines follow a very similar pattern. When CO2 goes up, temperature also goes up. When CO2 goes down, temperature goes down too. There are several peaks and valleys over this long time period. The most recent data on the right side shows both CO2 and temperature rising. Overall, this graph clearly shows a strong connection between carbon dioxide levels and global temperature changes.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows carbon dioxide levels and",
+          "startIndex": 0,
+          "endIndex": 47,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 1,
+          "text": "temperature change over the last 400,000 years.",
+          "startIndex": 49,
+          "endIndex": 96,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 2,
+          "text": "There are two lines on the graph. The blue line shows CO2 levels measured in parts per million,",
+          "startIndex": 98,
+          "endIndex": 193,
+          "estimatedDuration": 7200
+        },
+        {
+          "index": 3,
+          "text": "and the red line shows temperature change in degrees. Looking at the graph,",
+          "startIndex": 195,
+          "endIndex": 270,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "we can see that both lines follow a very similar pattern. When CO2 goes up,",
+          "startIndex": 272,
+          "endIndex": 347,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 5,
+          "text": "temperature also goes up. When CO2 goes down, temperature goes down too.",
+          "startIndex": 349,
+          "endIndex": 421,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 6,
+          "text": "There are several peaks and valleys over this long time period.",
+          "startIndex": 423,
+          "endIndex": 486,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 7,
+          "text": "The most recent data on the right side shows both CO2 and temperature rising.",
+          "startIndex": 488,
+          "endIndex": 565,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 8,
+          "text": "Overall, this graph clearly shows a strong connection between carbon dioxide levels and",
+          "startIndex": 567,
+          "endIndex": 654,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 9,
+          "text": "global temperature changes.",
+          "startIndex": 656,
+          "endIndex": 682,
+          "estimatedDuration": 1200
+        }
+      ],
+      "wordCount": 114,
+      "duration": 46,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-87",
+      "imageNumber": 87,
+      "title": "Populations of Countries of the European Union in 1998 and 2007",
+      "template": "Natural",
+      "fullText": "This diagram shows two pie charts comparing the populations of European Union countries in 1998 and 2007 by percentage. In 1998, Germany had the largest share at 29.4 percent, followed by France at 17.5 percent. The United Kingdom and Italy each had about 12 percent. Spain and Poland were smaller at around 12 and 9 percent. All other countries together made up 11.8 percent. In 2007, the pattern is very similar. Germany still had the largest share at about 26 percent, and France was second at about 21 percent. The main change is that the shares are slightly more spread out among all countries. Overall, these charts show that Germany and France remained the two largest countries in the EU in both years.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows two pie charts comparing the populations of European Union countries in 1998 and",
+          "startIndex": 0,
+          "endIndex": 99,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 1,
+          "text": "2007 by percentage. In 1998, Germany had the largest share at 29. 4 percent,",
+          "startIndex": 101,
+          "endIndex": 177,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "followed by France at 17. 5 percent. The United Kingdom and",
+          "startIndex": 179,
+          "endIndex": 238,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "Italy each had about 12 percent. Spain and Poland were smaller at around 12 and",
+          "startIndex": 240,
+          "endIndex": 319,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 4,
+          "text": "9 percent. All other countries together made up 11. 8 percent. In 2007,",
+          "startIndex": 321,
+          "endIndex": 392,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 5,
+          "text": "the pattern is very similar. Germany still had the largest share at about 26 percent,",
+          "startIndex": 394,
+          "endIndex": 479,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 6,
+          "text": "and France was second at about 21 percent. The main change is that",
+          "startIndex": 481,
+          "endIndex": 547,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "the shares are slightly more spread out among all countries. Overall,",
+          "startIndex": 549,
+          "endIndex": 618,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 8,
+          "text": "these charts show that Germany and France remained the two largest countries in the EU in both years.",
+          "startIndex": 620,
+          "endIndex": 720,
+          "estimatedDuration": 7200
+        }
+      ],
+      "wordCount": 123,
+      "duration": 49,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-88",
+      "imageNumber": 88,
+      "title": "Student Accommodation Floor Plan",
+      "template": "Natural",
+      "fullText": "This diagram shows the floor plan of a student accommodation room. The total size is about 6.2 meters by 3.1 meters. Looking at the layout, on the left side there is a bathroom and a kitchen area. In the center of the room, there is a double bed. On the right side, near the window, there is a wardrobe and a desk. The room also has a window at the top right corner for natural light. This floor plan shows a compact but complete living space for a student, with all the basic needs including sleeping, cooking, washing, and studying areas all in one room.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows the floor plan of a student accommodation room.",
+          "startIndex": 0,
+          "endIndex": 66,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 1,
+          "text": "The total size is about 6. 2 meters by 3. 1 meters. Looking at the layout,",
+          "startIndex": 68,
+          "endIndex": 142,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 2,
+          "text": "on the left side there is a bathroom and a kitchen area.",
+          "startIndex": 144,
+          "endIndex": 200,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 3,
+          "text": "In the center of the room, there is a double bed. On the right side,",
+          "startIndex": 202,
+          "endIndex": 270,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 4,
+          "text": "near the window, there is a wardrobe and a desk.",
+          "startIndex": 272,
+          "endIndex": 320,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 5,
+          "text": "The room also has a window at the top right corner for natural light.",
+          "startIndex": 322,
+          "endIndex": 391,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 6,
+          "text": "This floor plan shows a compact but complete living space for a student,",
+          "startIndex": 393,
+          "endIndex": 465,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "with all the basic needs including sleeping, cooking, washing, and",
+          "startIndex": 467,
+          "endIndex": 533,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 8,
+          "text": "studying areas all in one room.",
+          "startIndex": 535,
+          "endIndex": 565,
+          "estimatedDuration": 2400
+        }
+      ],
+      "wordCount": 105,
+      "duration": 42,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-89",
+      "imageNumber": 89,
+      "title": "Land Use Map of India",
+      "template": "Natural",
+      "fullText": "This map shows the land use in India. Different colors represent different types of land use. Yellow represents arable land, which is used for growing crops. Dark green shows forests, and light green shows plantations. Brown and orange colors show non-agricultural land and scrub land. Purple shows unproductive land. Looking at the map, most of the northern part of India, especially the area near the river valleys, is yellow arable land. The northeastern region and parts of the south have more forest cover shown in dark green. Overall, this map shows that India uses most of its land for farming, while forests are mainly in the hills and mountains.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This map shows the land use in India. Different colors represent different types of land",
+          "startIndex": 0,
+          "endIndex": 88,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 1,
+          "text": "use. Yellow represents arable land, which is used for growing crops.",
+          "startIndex": 90,
+          "endIndex": 158,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 2,
+          "text": "Dark green shows forests, and light green shows plantations. Brown and",
+          "startIndex": 160,
+          "endIndex": 230,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "orange colors show non-agricultural land and scrub land.",
+          "startIndex": 232,
+          "endIndex": 288,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 4,
+          "text": "Purple shows unproductive land. Looking at the map,",
+          "startIndex": 290,
+          "endIndex": 341,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 5,
+          "text": "most of the northern part of India, especially the area near the river valleys,",
+          "startIndex": 343,
+          "endIndex": 422,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 6,
+          "text": "is yellow arable land. The northeastern region and",
+          "startIndex": 424,
+          "endIndex": 474,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 7,
+          "text": "parts of the south have more forest cover shown in dark green. Overall,",
+          "startIndex": 476,
+          "endIndex": 547,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 8,
+          "text": "this map shows that India uses most of its land for farming,",
+          "startIndex": 549,
+          "endIndex": 609,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 9,
+          "text": "while forests are mainly in the hills and mountains.",
+          "startIndex": 611,
+          "endIndex": 662,
+          "estimatedDuration": 3600
+        }
+      ],
+      "wordCount": 109,
+      "duration": 44,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-90",
+      "imageNumber": 90,
+      "title": "Annual Sunshine Hours for France",
+      "template": "Natural",
+      "fullText": "This map shows the annual sunshine hours across France. The colors range from dark red to light yellow, with darker colors showing more sunshine hours. The southern part of France, especially along the Mediterranean coast, receives the most sunshine with more than 2750 hours per year, shown in dark red. The central regions have moderate sunshine between 2000 and 2500 hours. The northern parts of France and the Atlantic coast receive less sunshine, around 1750 to 2000 hours per year. Overall, this map clearly shows that southern France is much sunnier than the north, with the Mediterranean coast being the sunniest region.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This map shows the annual sunshine hours across France.",
+          "startIndex": 0,
+          "endIndex": 55,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 1,
+          "text": "The colors range from dark red to light yellow,",
+          "startIndex": 57,
+          "endIndex": 104,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 2,
+          "text": "with darker colors showing more sunshine hours. The southern part of France,",
+          "startIndex": 106,
+          "endIndex": 182,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 3,
+          "text": "especially along the Mediterranean coast,",
+          "startIndex": 184,
+          "endIndex": 225,
+          "estimatedDuration": 2000
+        },
+        {
+          "index": 4,
+          "text": "receives the most sunshine with more than 2750 hours per year,",
+          "startIndex": 227,
+          "endIndex": 289,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 5,
+          "text": "shown in dark red. The central regions have moderate sunshine between 2000 and",
+          "startIndex": 291,
+          "endIndex": 369,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "2500 hours. The northern parts of France and",
+          "startIndex": 371,
+          "endIndex": 415,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 7,
+          "text": "the Atlantic coast receive less sunshine, around 1750 to 2000 hours per year.",
+          "startIndex": 417,
+          "endIndex": 494,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 8,
+          "text": "Overall, this map clearly shows that southern France is much sunnier than the north,",
+          "startIndex": 496,
+          "endIndex": 580,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 9,
+          "text": "with the Mediterranean coast being the sunniest region.",
+          "startIndex": 582,
+          "endIndex": 636,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 102,
+      "duration": 41,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-91",
+      "imageNumber": 91,
+      "title": "Global Warming Predictions",
+      "template": "Natural",
+      "fullText": "This map shows global warming predictions for the years 2070 to 2100 compared to the average from 1960 to 1990. The colors show temperature increase in degrees Celsius, ranging from zero to eight degrees. Looking at the map, the areas near the North Pole show the biggest temperature increase, with dark red colors showing seven to eight degrees warming. The continents generally show more warming than the oceans. Most land areas are expected to warm by three to five degrees. The tropical regions near the equator show smaller increases of about one to two degrees. Overall, this map predicts that the Arctic region and northern parts of the world will experience the most warming.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This map shows global warming predictions for the years 2070 to 2100 compared to the average from 1960 to 1990.",
+          "startIndex": 0,
+          "endIndex": 111,
+          "estimatedDuration": 8000
+        },
+        {
+          "index": 1,
+          "text": "The colors show temperature increase in degrees Celsius,",
+          "startIndex": 113,
+          "endIndex": 169,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 2,
+          "text": "ranging from zero to eight degrees. Looking at the map,",
+          "startIndex": 171,
+          "endIndex": 226,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 3,
+          "text": "the areas near the North Pole show the biggest temperature increase,",
+          "startIndex": 228,
+          "endIndex": 296,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 4,
+          "text": "with dark red colors showing seven to eight degrees warming.",
+          "startIndex": 298,
+          "endIndex": 358,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 5,
+          "text": "The continents generally show more warming than the oceans. Most land",
+          "startIndex": 360,
+          "endIndex": 429,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "areas are expected to warm by three to five degrees.",
+          "startIndex": 431,
+          "endIndex": 483,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 7,
+          "text": "The tropical regions near the equator show smaller increases of about one to two degrees.",
+          "startIndex": 485,
+          "endIndex": 574,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 8,
+          "text": "Overall, this map predicts that the Arctic region and",
+          "startIndex": 576,
+          "endIndex": 629,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 9,
+          "text": "northern parts of the world will experience the most warming.",
+          "startIndex": 631,
+          "endIndex": 691,
+          "estimatedDuration": 4000
+        }
+      ],
+      "wordCount": 114,
+      "duration": 46,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-92",
+      "imageNumber": 92,
+      "title": "Where the Air Pollution Comes From",
+      "template": "Natural",
+      "fullText": "This diagram shows where air pollution comes from and how it creates acid rain. At the bottom, we can see four sources of pollution: industry, transportation, ore smelting, and power generation. These sources release harmful gases like nitrogen oxides and sulfur dioxide into the atmosphere. Once in the air, these gases go through chemical changes. In the clouds, they mix with water to form acid. Finally, the acid falls back to earth as acid rain, which can be rain, fog, snow, or mist. Overall, this diagram shows the process of how pollution from factories and cars leads to acid rain.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows where air pollution comes from and how it creates acid rain.",
+          "startIndex": 0,
+          "endIndex": 79,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 1,
+          "text": "At the bottom, we can see four sources of pollution: industry, transportation,",
+          "startIndex": 81,
+          "endIndex": 159,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 2,
+          "text": "ore smelting, and power generation. These sources release harmful gases like nitrogen oxides and",
+          "startIndex": 161,
+          "endIndex": 257,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "sulfur dioxide into the atmosphere. Once in the air,",
+          "startIndex": 259,
+          "endIndex": 311,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 4,
+          "text": "these gases go through chemical changes. In the clouds,",
+          "startIndex": 313,
+          "endIndex": 368,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 5,
+          "text": "they mix with water to form acid. Finally,",
+          "startIndex": 370,
+          "endIndex": 412,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 6,
+          "text": "the acid falls back to earth as acid rain, which can be rain, fog, snow,",
+          "startIndex": 414,
+          "endIndex": 486,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 7,
+          "text": "or mist. Overall, this diagram shows the process of how pollution from factories and",
+          "startIndex": 488,
+          "endIndex": 572,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 8,
+          "text": "cars leads to acid rain.",
+          "startIndex": 574,
+          "endIndex": 597,
+          "estimatedDuration": 2000
+        }
+      ],
+      "wordCount": 100,
+      "duration": 40,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-93",
+      "imageNumber": 93,
+      "title": "Average Effective Sales Tax by Income Group",
+      "template": "Natural",
+      "fullText": "This bar chart shows the average effective sales tax rate for different income groups in the United States. The horizontal line shows income groups from the lowest 0 to 20 percent to the top 1 percent. The vertical line shows the sales tax rate. The lowest income group pays the highest rate at 2.1 percent. As income increases, the tax rate decreases. The 20 to 40 income group pays 1.8 percent, and this pattern continues downward. The top 1 percent of earners only pays 0.3 percent. Overall, this chart shows that lower income groups pay a higher percentage of their income in sales tax compared to higher income groups.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This bar chart shows the average effective sales tax rate for different income groups in the United States.",
+          "startIndex": 0,
+          "endIndex": 107,
+          "estimatedDuration": 7200
+        },
+        {
+          "index": 1,
+          "text": "The horizontal line shows income groups from the lowest 0 to 20 percent to the top 1 percent.",
+          "startIndex": 109,
+          "endIndex": 202,
+          "estimatedDuration": 7200
+        },
+        {
+          "index": 2,
+          "text": "The vertical line shows the sales tax rate.",
+          "startIndex": 204,
+          "endIndex": 247,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 3,
+          "text": "The lowest income group pays the highest rate at 2. 1 percent.",
+          "startIndex": 249,
+          "endIndex": 311,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 4,
+          "text": "As income increases, the tax rate decreases. The 20 to 40 income group pays 1.",
+          "startIndex": 313,
+          "endIndex": 391,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 5,
+          "text": "8 percent, and this pattern continues downward.",
+          "startIndex": 393,
+          "endIndex": 440,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 6,
+          "text": "The top 1 percent of earners only pays 0. 3 percent. Overall,",
+          "startIndex": 442,
+          "endIndex": 503,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "this chart shows that lower income groups pay a higher percentage of their income in sales tax compared to higher income groups.",
+          "startIndex": 505,
+          "endIndex": 632,
+          "estimatedDuration": 8800
+        }
+      ],
+      "wordCount": 109,
+      "duration": 44,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-94",
+      "imageNumber": 94,
+      "title": "Media in UK (2001-2005)",
+      "template": "Natural",
+      "fullText": "This chart shows media usage trends in the UK from 2001 to 2005, covering four types of media: internet, radio, TV, and newspaper. Each bar shows the percentage of users for that year. Internet usage increased from 40 percent in 2001 to 60 percent in 2005. Radio usage stayed fairly stable between 50 and 65 percent. TV usage dropped slightly from 63 percent to 55 percent over the period. Newspaper readership showed the biggest decline, falling from 20 percent to just 3 percent by 2005. Overall, this chart shows that internet usage grew while traditional media like newspapers declined significantly.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This chart shows media usage trends in the UK from 2001 to 2005,",
+          "startIndex": 0,
+          "endIndex": 64,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 1,
+          "text": "covering four types of media: internet, radio, TV, and newspaper.",
+          "startIndex": 66,
+          "endIndex": 131,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 2,
+          "text": "Each bar shows the percentage of users for that year.",
+          "startIndex": 133,
+          "endIndex": 186,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 3,
+          "text": "Internet usage increased from 40 percent in 2001 to 60 percent in 2005.",
+          "startIndex": 188,
+          "endIndex": 259,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "Radio usage stayed fairly stable between 50 and 65 percent.",
+          "startIndex": 261,
+          "endIndex": 320,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 5,
+          "text": "TV usage dropped slightly from 63 percent to 55 percent over the period.",
+          "startIndex": 322,
+          "endIndex": 394,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "Newspaper readership showed the biggest decline,",
+          "startIndex": 396,
+          "endIndex": 444,
+          "estimatedDuration": 2400
+        },
+        {
+          "index": 7,
+          "text": "falling from 20 percent to just 3 percent by 2005. Overall,",
+          "startIndex": 446,
+          "endIndex": 505,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 8,
+          "text": "this chart shows that internet usage grew while traditional media like newspapers declined significantly.",
+          "startIndex": 507,
+          "endIndex": 611,
+          "estimatedDuration": 5600
+        }
+      ],
+      "wordCount": 100,
+      "duration": 40,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-95",
+      "imageNumber": 95,
+      "title": "Commuting Time in Different Regions, Britain 2014",
+      "template": "Natural",
+      "fullText": "This horizontal bar chart shows commuting time in different regions of Britain in 2014. The time is measured in minutes. London has the longest commuting time at 107 minutes per day. The East of England is second with 71 minutes. The South East has 70 minutes, which is very close to East of England. Wales and the Humber region have around 64 minutes. The North West has 62 minutes, and East Midlands has 60 minutes. The North East has 58 minutes, and the South West has the shortest commuting time at 56 minutes. Overall, this chart clearly shows that people in London spend almost twice as long commuting as people in other regions.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This horizontal bar chart shows commuting time in different regions of Britain in 2014.",
+          "startIndex": 0,
+          "endIndex": 87,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 1,
+          "text": "The time is measured in minutes. London has the longest commuting time at 107 minutes per day.",
+          "startIndex": 89,
+          "endIndex": 183,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 2,
+          "text": "The East of England is second with 71 minutes. The South East has 70 minutes,",
+          "startIndex": 185,
+          "endIndex": 262,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 3,
+          "text": "which is very close to East of England. Wales and",
+          "startIndex": 264,
+          "endIndex": 313,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "the Humber region have around 64 minutes. The North West has 62 minutes, and",
+          "startIndex": 315,
+          "endIndex": 391,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 5,
+          "text": "East Midlands has 60 minutes. The North East has 58 minutes, and",
+          "startIndex": 393,
+          "endIndex": 457,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 6,
+          "text": "the South West has the shortest commuting time at 56 minutes. Overall,",
+          "startIndex": 459,
+          "endIndex": 529,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "this chart clearly shows that people in London spend almost twice as long commuting as people in other regions.",
+          "startIndex": 531,
+          "endIndex": 641,
+          "estimatedDuration": 7600
+        }
+      ],
+      "wordCount": 113,
+      "duration": 45,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-96",
+      "imageNumber": 96,
+      "title": "Weekly Household Spending, Ireland",
+      "template": "Natural",
+      "fullText": "This infographic shows weekly household spending in Ireland for 2015 to 2016. The biggest expense is housing at 164 euros per week, which includes rent and mortgage payments. Transport is the second largest expense at 124 euros, including car purchases and fuel. Food costs 123 euros per week, with most of that being food eaten at home. Medical expenses are 50 euros per week. Holidays cost 33 euros per week. The information is presented using simple icons to represent each category. Overall, this infographic shows that Irish households spend most of their weekly budget on housing, transport, and food.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This infographic shows weekly household spending in Ireland for 2015 to 2016.",
+          "startIndex": 0,
+          "endIndex": 77,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 1,
+          "text": "The biggest expense is housing at 164 euros per week, which includes rent and",
+          "startIndex": 79,
+          "endIndex": 156,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "mortgage payments. Transport is the second largest expense at 124 euros,",
+          "startIndex": 158,
+          "endIndex": 230,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "including car purchases and fuel. Food costs 123 euros per week,",
+          "startIndex": 232,
+          "endIndex": 296,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 4,
+          "text": "with most of that being food eaten at home.",
+          "startIndex": 298,
+          "endIndex": 341,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 5,
+          "text": "Medical expenses are 50 euros per week. Holidays cost 33 euros per week.",
+          "startIndex": 343,
+          "endIndex": 415,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 6,
+          "text": "The information is presented using simple icons to represent each category.",
+          "startIndex": 417,
+          "endIndex": 492,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 7,
+          "text": "Overall, this infographic shows that Irish households spend most of their weekly budget on housing,",
+          "startIndex": 494,
+          "endIndex": 593,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 8,
+          "text": "transport, and food.",
+          "startIndex": 595,
+          "endIndex": 614,
+          "estimatedDuration": 1200
+        }
+      ],
+      "wordCount": 99,
+      "duration": 40,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-97",
+      "imageNumber": 97,
+      "title": "Rainforest in South America",
+      "template": "Natural",
+      "fullText": "This map shows the distribution of rainforest in South America. The green areas on the map represent rainforest regions. There are two types shown in the legend: tropical rainforest and temperate rainforest. The tropical rainforest, shown in light green, covers a very large area, mainly in Brazil, Peru, Colombia, and Ecuador. This area is known as the Amazon rainforest. The temperate rainforest, shown in dark green, is much smaller and located along the southern coast of Chile. The map also shows country names and the Pacific and Atlantic Oceans on either side. Overall, this map shows that most of South America's rainforest is tropical and concentrated in the Amazon basin.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This map shows the distribution of rainforest in South America.",
+          "startIndex": 0,
+          "endIndex": 63,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 1,
+          "text": "The green areas on the map represent rainforest regions.",
+          "startIndex": 65,
+          "endIndex": 121,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 2,
+          "text": "There are two types shown in the legend: tropical rainforest and",
+          "startIndex": 123,
+          "endIndex": 187,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "temperate rainforest. The tropical rainforest, shown in light green,",
+          "startIndex": 189,
+          "endIndex": 257,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 4,
+          "text": "covers a very large area, mainly in Brazil, Peru, Colombia, and Ecuador.",
+          "startIndex": 259,
+          "endIndex": 331,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 5,
+          "text": "This area is known as the Amazon rainforest. The temperate rainforest,",
+          "startIndex": 333,
+          "endIndex": 403,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "shown in dark green, is much smaller and",
+          "startIndex": 405,
+          "endIndex": 445,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 7,
+          "text": "located along the southern coast of Chile. The map also shows country names and",
+          "startIndex": 447,
+          "endIndex": 526,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 8,
+          "text": "the Pacific and Atlantic Oceans on either side. Overall, this map shows that",
+          "startIndex": 528,
+          "endIndex": 604,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 9,
+          "text": "most of South America's rainforest is tropical and",
+          "startIndex": 606,
+          "endIndex": 656,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 10,
+          "text": "concentrated in the Amazon basin.",
+          "startIndex": 658,
+          "endIndex": 690,
+          "estimatedDuration": 2000
+        }
+      ],
+      "wordCount": 110,
+      "duration": 44,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-98",
+      "imageNumber": 98,
+      "title": "Mosquito Life Cycle",
+      "template": "Natural",
+      "fullText": "This diagram shows the life cycle of a mosquito. The cycle has four main stages that go in a circle. It starts with eggs, which are laid on water. After that, the eggs become larvae, which live in the water for about 4 to 6 days. Then the larvae change into pupae, which lasts for about 12 to 14 days. Finally, the adult mosquito emerges from the water and can fly. The whole cycle takes about 28 days to complete. Adult mosquitoes live for 7 to 10 days before they die. Overall, this diagram shows how mosquitoes develop from eggs to adults through four different life stages.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows the life cycle of a mosquito.",
+          "startIndex": 0,
+          "endIndex": 48,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 1,
+          "text": "The cycle has four main stages that go in a circle. It starts with eggs, which",
+          "startIndex": 50,
+          "endIndex": 128,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 2,
+          "text": "are laid on water. After that, the eggs become larvae, which",
+          "startIndex": 130,
+          "endIndex": 190,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "live in the water for about 4 to 6 days. Then the larvae change into pupae,",
+          "startIndex": 192,
+          "endIndex": 267,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 4,
+          "text": "which lasts for about 12 to 14 days. Finally,",
+          "startIndex": 269,
+          "endIndex": 314,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 5,
+          "text": "the adult mosquito emerges from the water and can fly.",
+          "startIndex": 316,
+          "endIndex": 370,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 6,
+          "text": "The whole cycle takes about 28 days to complete.",
+          "startIndex": 372,
+          "endIndex": 420,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 7,
+          "text": "Adult mosquitoes live for 7 to 10 days before they die. Overall,",
+          "startIndex": 422,
+          "endIndex": 486,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 8,
+          "text": "this diagram shows how mosquitoes develop from eggs to adults through four different life stages.",
+          "startIndex": 488,
+          "endIndex": 584,
+          "estimatedDuration": 6000
+        }
+      ],
+      "wordCount": 107,
+      "duration": 43,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-99",
+      "imageNumber": 99,
+      "title": "Pet Ownership in US Households",
+      "template": "Natural",
+      "fullText": "This horizontal bar chart shows the number of US households keeping different types of pets, measured in millions. The total number of pet-owning households is 84.9 million. Dogs are the most popular pet, with 63.4 million households owning at least one dog. Cats come second with 42.7 million households. Freshwater fish are third with 11.5 million households. Birds are owned by 5.7 million households, and reptiles by 4.5 million. Horses are owned by 1.6 million households, the same as saltwater fish. Other pets make up 5.4 million households. Overall, this chart shows that dogs and cats are by far the most common pets in American homes.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This horizontal bar chart shows the number of US households keeping different types of pets,",
+          "startIndex": 0,
+          "endIndex": 92,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 1,
+          "text": "measured in millions. The total number of pet-owning households is 84.",
+          "startIndex": 94,
+          "endIndex": 164,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 2,
+          "text": "9 million. Dogs are the most popular pet, with 63.",
+          "startIndex": 166,
+          "endIndex": 216,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 3,
+          "text": "4 million households owning at least one dog. Cats come second with 42.",
+          "startIndex": 218,
+          "endIndex": 289,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "7 million households. Freshwater fish are third with 11. 5 million households.",
+          "startIndex": 291,
+          "endIndex": 369,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 5,
+          "text": "Birds are owned by 5. 7 million households, and reptiles by 4. 5 million.",
+          "startIndex": 371,
+          "endIndex": 444,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 6,
+          "text": "Horses are owned by 1. 6 million households, the same as saltwater fish.",
+          "startIndex": 446,
+          "endIndex": 518,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "Other pets make up 5. 4 million households. Overall, this chart shows that",
+          "startIndex": 520,
+          "endIndex": 594,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 8,
+          "text": "dogs and cats are by far the most common pets in American homes.",
+          "startIndex": 596,
+          "endIndex": 659,
+          "estimatedDuration": 5200
+        }
+      ],
+      "wordCount": 106,
+      "duration": 42,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-100",
+      "imageNumber": 100,
+      "title": "New Zealand House Prices",
+      "template": "Natural",
+      "fullText": "This line graph shows house price changes in New Zealand compared to the OECD average from 1990 to 2014. The vertical axis shows the price index with 1990 set as 100. The blue line represents New Zealand and the grey line represents the OECD average. From 1990 to 2000, both lines stayed fairly stable around 100. However, from 2002 onwards, New Zealand house prices increased dramatically. By 2007, they reached about 265, which is more than double the starting point. After a small drop during 2008-2009, prices continued rising to reach about 280 by 2014. The OECD average also rose but much more slowly. Overall, this graph shows that New Zealand house prices have risen much faster than the average in other developed countries.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows house price changes in New Zealand",
+          "startIndex": 0,
+          "endIndex": 56,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 1,
+          "text": "compared to the OECD average from 1990 to 2014.",
+          "startIndex": 58,
+          "endIndex": 105,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 2,
+          "text": "The vertical axis shows the price index with 1990 set as 100.",
+          "startIndex": 107,
+          "endIndex": 168,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 3,
+          "text": "The blue line represents New Zealand and",
+          "startIndex": 170,
+          "endIndex": 210,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 4,
+          "text": "the grey line represents the OECD average. From 1990 to 2000,",
+          "startIndex": 212,
+          "endIndex": 273,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 5,
+          "text": "both lines stayed fairly stable around 100. However, from 2002 onwards,",
+          "startIndex": 275,
+          "endIndex": 346,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "New Zealand house prices increased dramatically. By 2007,",
+          "startIndex": 348,
+          "endIndex": 405,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 7,
+          "text": "they reached about 265, which is more than double the starting point.",
+          "startIndex": 407,
+          "endIndex": 476,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 8,
+          "text": "After a small drop during 2008-2009, prices continued rising to reach about 280 by 2014.",
+          "startIndex": 478,
+          "endIndex": 566,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 9,
+          "text": "The OECD average also rose but much more slowly. Overall, this graph shows that",
+          "startIndex": 568,
+          "endIndex": 647,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 10,
+          "text": "New Zealand house prices have risen much faster than the average in other developed countries.",
+          "startIndex": 649,
+          "endIndex": 742,
+          "estimatedDuration": 6000
+        }
+      ],
+      "wordCount": 124,
+      "duration": 50,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-101",
+      "imageNumber": 101,
+      "title": "Australia Inbound Visitors 2005-2006",
+      "template": "Natural",
+      "fullText": "This table shows the number of inbound visitors to Australia in 2005 and 2006, measured in thousands. New Zealand was the largest source of visitors with 1099 thousand in 2005 and 1073 thousand in 2006, showing a slight decrease. The United States increased from 700 to 720 thousand visitors. Japan decreased from 576 to 586 thousand. Germany stayed relatively stable with 430 thousand visitors in 2005 and 410 in 2006. The table also mentions short-time stays but those figures are not shown. Overall, this table shows that New Zealand is Australia's biggest source of tourists, with the United States being the second largest.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This table shows the number of inbound visitors to Australia in 2005 and 2006,",
+          "startIndex": 0,
+          "endIndex": 78,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 1,
+          "text": "measured in thousands. New Zealand was the largest source of visitors with 1099 thousand",
+          "startIndex": 80,
+          "endIndex": 168,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "in 2005 and 1073 thousand in 2006, showing a slight decrease.",
+          "startIndex": 170,
+          "endIndex": 231,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "The United States increased from 700 to 720 thousand visitors.",
+          "startIndex": 233,
+          "endIndex": 295,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "Japan decreased from 576 to 586 thousand.",
+          "startIndex": 297,
+          "endIndex": 338,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 5,
+          "text": "Germany stayed relatively stable with 430 thousand visitors in 2005 and",
+          "startIndex": 340,
+          "endIndex": 411,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "410 in 2006. The table also mentions short-time stays but",
+          "startIndex": 413,
+          "endIndex": 470,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 7,
+          "text": "those figures are not shown. Overall, this table shows that New Zealand",
+          "startIndex": 472,
+          "endIndex": 543,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 8,
+          "text": "is Australia's biggest source of tourists,",
+          "startIndex": 545,
+          "endIndex": 587,
+          "estimatedDuration": 2400
+        },
+        {
+          "index": 9,
+          "text": "with the United States being the second largest.",
+          "startIndex": 589,
+          "endIndex": 636,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 103,
+      "duration": 41,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-102",
+      "imageNumber": 102,
+      "title": "Students from Disadvantaged Backgrounds",
+      "template": "Natural",
+      "fullText": "This line graph shows the percentage of students from disadvantaged backgrounds entering university in England from 2006 to 2014. The vertical line shows percentage, and the horizontal line shows years. In 2006, the percentage was around 10 percent. The line shows a steady upward trend over the whole period. By 2014, the percentage had reached about 20 percent. The graph highlights a 60 percent increase overall. This means the proportion of disadvantaged students going to university almost doubled in just eight years. Overall, this graph shows positive progress in helping students from poorer backgrounds access higher education in England.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows the percentage of students from disadvantaged backgrounds entering university in England",
+          "startIndex": 0,
+          "endIndex": 110,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 1,
+          "text": "from 2006 to 2014. The vertical line shows percentage, and",
+          "startIndex": 112,
+          "endIndex": 170,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 2,
+          "text": "the horizontal line shows years. In 2006, the percentage was around 10 percent.",
+          "startIndex": 172,
+          "endIndex": 251,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 3,
+          "text": "The line shows a steady upward trend over the whole period. By 2014,",
+          "startIndex": 253,
+          "endIndex": 321,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "the percentage had reached about 20 percent.",
+          "startIndex": 323,
+          "endIndex": 367,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 5,
+          "text": "The graph highlights a 60 percent increase overall.",
+          "startIndex": 369,
+          "endIndex": 420,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 6,
+          "text": "This means the proportion of disadvantaged students going to university almost doubled in just eight years.",
+          "startIndex": 422,
+          "endIndex": 529,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 7,
+          "text": "Overall, this graph shows positive progress in helping students from poorer backgrounds access higher education in England.",
+          "startIndex": 531,
+          "endIndex": 653,
+          "estimatedDuration": 6800
+        }
+      ],
+      "wordCount": 99,
+      "duration": 40,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-103",
+      "imageNumber": 103,
+      "title": "Wage Growth, Consumption, and Household Debt",
+      "template": "Natural",
+      "fullText": "This bar chart compares three economic measures: wage growth, consumption, and household debt. The vertical line shows percentage values. Wage growth is the smallest bar at around 5 percent. Consumption shows about 15 percent growth. However, household debt shows the highest value at approximately 40 percent, which is much larger than the other two. This means that debt is growing almost eight times faster than wages and nearly three times faster than consumption. Overall, this chart shows a concerning pattern where household debt is increasing much more quickly than people's wages and spending, which could cause financial problems.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This bar chart compares three economic measures: wage growth, consumption, and",
+          "startIndex": 0,
+          "endIndex": 78,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 1,
+          "text": "household debt. The vertical line shows percentage values.",
+          "startIndex": 80,
+          "endIndex": 138,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 2,
+          "text": "Wage growth is the smallest bar at around 5 percent.",
+          "startIndex": 140,
+          "endIndex": 192,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 3,
+          "text": "Consumption shows about 15 percent growth. However,",
+          "startIndex": 194,
+          "endIndex": 245,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 4,
+          "text": "household debt shows the highest value at approximately 40 percent, which",
+          "startIndex": 247,
+          "endIndex": 320,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 5,
+          "text": "is much larger than the other two. This means that",
+          "startIndex": 322,
+          "endIndex": 372,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 6,
+          "text": "debt is growing almost eight times faster than wages and",
+          "startIndex": 374,
+          "endIndex": 430,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 7,
+          "text": "nearly three times faster than consumption. Overall,",
+          "startIndex": 432,
+          "endIndex": 484,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 8,
+          "text": "this chart shows a concerning pattern where",
+          "startIndex": 486,
+          "endIndex": 529,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 9,
+          "text": "household debt is increasing much more quickly than people's wages and spending,",
+          "startIndex": 531,
+          "endIndex": 611,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 10,
+          "text": "which could cause financial problems.",
+          "startIndex": 613,
+          "endIndex": 649,
+          "estimatedDuration": 2000
+        }
+      ],
+      "wordCount": 98,
+      "duration": 39,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-104",
+      "imageNumber": 104,
+      "title": "Pre-tax Profits of the 1,000 Largest Banks",
+      "template": "Natural",
+      "fullText": "This diagram shows two pie charts comparing pre-tax profits of the world's 1000 largest banks in 2007 and 2011. In 2007, the total profits were 786 billion dollars. Western Europe had the largest share at 40.2 percent, followed by North America at 26.8 percent. In 2011, total profits were 762 billion, slightly lower. The biggest change was Asia Pacific, which grew from 18.9 percent to 33.3 percent. Western Europe's share dropped from 40 to about 9 percent. North America increased slightly to 29.4 percent. Overall, this chart shows a major shift in banking profits from Western Europe to Asia Pacific between 2007 and 2011.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows two pie charts comparing pre-tax profits of the world's 1000 largest banks in 2007 and",
+          "startIndex": 0,
+          "endIndex": 105,
+          "estimatedDuration": 7200
+        },
+        {
+          "index": 1,
+          "text": "2011. In 2007, the total profits were 786 billion dollars.",
+          "startIndex": 107,
+          "endIndex": 165,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 2,
+          "text": "Western Europe had the largest share at 40. 2 percent,",
+          "startIndex": 167,
+          "endIndex": 221,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 3,
+          "text": "followed by North America at 26. 8 percent. In 2011,",
+          "startIndex": 223,
+          "endIndex": 275,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "total profits were 762 billion, slightly lower.",
+          "startIndex": 277,
+          "endIndex": 324,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 5,
+          "text": "The biggest change was Asia Pacific, which grew from 18. 9 percent to 33.",
+          "startIndex": 326,
+          "endIndex": 399,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 6,
+          "text": "3 percent. Western Europe's share dropped from 40 to about 9 percent.",
+          "startIndex": 401,
+          "endIndex": 470,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "North America increased slightly to 29. 4 percent. Overall,",
+          "startIndex": 472,
+          "endIndex": 531,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 8,
+          "text": "this chart shows a major shift in banking profits from Western Europe to Asia Pacific between 2007 and",
+          "startIndex": 533,
+          "endIndex": 635,
+          "estimatedDuration": 7200
+        },
+        {
+          "index": 9,
+          "text": "2011.",
+          "startIndex": 637,
+          "endIndex": 641,
+          "estimatedDuration": 400
+        }
+      ],
+      "wordCount": 104,
+      "duration": 42,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-105",
+      "imageNumber": 105,
+      "title": "Households in Millions Who Own Pets",
+      "template": "Natural",
+      "fullText": "This pie chart shows the number of households in millions who own different types of pets. Dogs are the most popular, representing 69 million households or 45 percent of the total. Cats are second with 45.3 million households at 29 percent. Freshwater fish account for 11.8 million at 8 percent. Birds represent 5.7 million at about 4 percent. Smaller segments include horses, saltwater fish, reptiles, and small animals, each making up 2 to 6 percent of the total. Overall, this chart clearly shows that dogs and cats dominate pet ownership, together accounting for about 74 percent of all pet-owning households.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This pie chart shows the number of households in millions who own different types of pets.",
+          "startIndex": 0,
+          "endIndex": 90,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 1,
+          "text": "Dogs are the most popular, representing 69 million households or 45 percent of the total.",
+          "startIndex": 92,
+          "endIndex": 181,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 2,
+          "text": "Cats are second with 45. 3 million households at 29 percent.",
+          "startIndex": 183,
+          "endIndex": 243,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "Freshwater fish account for 11. 8 million at 8 percent. Birds represent 5.",
+          "startIndex": 245,
+          "endIndex": 319,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "7 million at about 4 percent. Smaller segments include horses, saltwater fish,",
+          "startIndex": 321,
+          "endIndex": 399,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 5,
+          "text": "reptiles, and small animals, each making up 2 to 6 percent of the total.",
+          "startIndex": 401,
+          "endIndex": 473,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 6,
+          "text": "Overall, this chart clearly shows that dogs and cats dominate pet ownership,",
+          "startIndex": 475,
+          "endIndex": 551,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "together accounting for about 74 percent of all pet-owning households.",
+          "startIndex": 553,
+          "endIndex": 622,
+          "estimatedDuration": 4000
+        }
+      ],
+      "wordCount": 100,
+      "duration": 40,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-106",
+      "imageNumber": 106,
+      "title": "Market Share of Pet Services and Products",
+      "template": "Natural",
+      "fullText": "This pie chart shows the market share of different pet services and products. Pet food has the largest share at 30 percent, shown in orange. Pet healthcare is second at 25 percent in light green. Pet toys take up 20 percent in yellow. Pet grooming accounts for 15 percent in green. Other services make up the remaining 10 percent in pink. Together, pet food and pet healthcare make up more than half of the total market. Overall, this chart shows that basic needs like food and healthcare are the biggest spending categories in the pet industry.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This pie chart shows the market share of different pet services and products.",
+          "startIndex": 0,
+          "endIndex": 77,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 1,
+          "text": "Pet food has the largest share at 30 percent, shown in orange.",
+          "startIndex": 79,
+          "endIndex": 141,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 2,
+          "text": "Pet healthcare is second at 25 percent in light green.",
+          "startIndex": 143,
+          "endIndex": 197,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 3,
+          "text": "Pet toys take up 20 percent in yellow. Pet grooming accounts for 15 percent in green.",
+          "startIndex": 199,
+          "endIndex": 284,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 4,
+          "text": "Other services make up the remaining 10 percent in pink. Together, pet food and",
+          "startIndex": 286,
+          "endIndex": 365,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 5,
+          "text": "pet healthcare make up more than half of the total market. Overall,",
+          "startIndex": 367,
+          "endIndex": 434,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 6,
+          "text": "this chart shows that basic needs like food and",
+          "startIndex": 436,
+          "endIndex": 483,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 7,
+          "text": "healthcare are the biggest spending categories in the pet industry.",
+          "startIndex": 485,
+          "endIndex": 551,
+          "estimatedDuration": 4000
+        }
+      ],
+      "wordCount": 96,
+      "duration": 38,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-107",
+      "imageNumber": 107,
+      "title": "Chemical Experiment",
+      "template": "Natural",
+      "fullText": "This photograph shows a chemistry experiment taking place in a laboratory. We can see two people: an older man wearing glasses who appears to be a teacher or scientist, and a young boy in a blue lab coat who looks like a student. The student is carefully pouring a red liquid from one glass container into another. There are several glass containers on the table, including beakers and flasks. The setting appears to be a professional laboratory or science classroom. The student is focused and appears to be learning proper laboratory techniques. Overall, this image shows an educational science activity where a student is being taught how to conduct chemical experiments safely.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This photograph shows a chemistry experiment taking place in a laboratory.",
+          "startIndex": 0,
+          "endIndex": 74,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 1,
+          "text": "We can see two people: an older man wearing glasses who appears to be a teacher or scientist,",
+          "startIndex": 76,
+          "endIndex": 169,
+          "estimatedDuration": 7200
+        },
+        {
+          "index": 2,
+          "text": "and a young boy in a blue lab coat who looks like a student.",
+          "startIndex": 171,
+          "endIndex": 231,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "The student is carefully pouring a red liquid from one glass container into another.",
+          "startIndex": 233,
+          "endIndex": 317,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 4,
+          "text": "There are several glass containers on the table, including beakers and flasks.",
+          "startIndex": 319,
+          "endIndex": 397,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 5,
+          "text": "The setting appears to be a professional laboratory or science classroom.",
+          "startIndex": 399,
+          "endIndex": 472,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "The student is focused and appears to be learning proper laboratory techniques.",
+          "startIndex": 474,
+          "endIndex": 553,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "Overall, this image shows an educational science activity where",
+          "startIndex": 555,
+          "endIndex": 618,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 8,
+          "text": "a student is being taught how to conduct chemical experiments safely.",
+          "startIndex": 620,
+          "endIndex": 688,
+          "estimatedDuration": 4400
+        }
+      ],
+      "wordCount": 112,
+      "duration": 45,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-108",
+      "imageNumber": 108,
+      "title": "Overseas Residents' Visits to UK",
+      "template": "Natural",
+      "fullText": "This line graph shows two trends from 1989 to 2009: UK residents' visits abroad and overseas visits to the UK, both measured in millions. The two lines show different patterns. UK residents' visits abroad started at about 30 million in 1989 and increased steadily to reach about 70 million by 2009. Overseas visits to the UK started at about 15 million and grew more slowly to reach about 30 million by 2009. The gap between the two lines widened over time. This means UK residents travel abroad more than twice as often as foreigners visit the UK. Overall, this graph shows that Britain has a tourism deficit, with more people leaving than arriving.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows two trends from 1989 to 2009: UK residents' visits abroad and",
+          "startIndex": 0,
+          "endIndex": 83,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 1,
+          "text": "overseas visits to the UK, both measured in millions.",
+          "startIndex": 85,
+          "endIndex": 138,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 2,
+          "text": "The two lines show different patterns. UK residents' visits abroad started at about 30 million in 1989 and",
+          "startIndex": 140,
+          "endIndex": 246,
+          "estimatedDuration": 7200
+        },
+        {
+          "index": 3,
+          "text": "increased steadily to reach about 70 million by 2009.",
+          "startIndex": 248,
+          "endIndex": 301,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 4,
+          "text": "Overseas visits to the UK started at about 15 million and",
+          "startIndex": 303,
+          "endIndex": 360,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 5,
+          "text": "grew more slowly to reach about 30 million by 2009.",
+          "startIndex": 362,
+          "endIndex": 413,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 6,
+          "text": "The gap between the two lines widened over time.",
+          "startIndex": 415,
+          "endIndex": 463,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 7,
+          "text": "This means UK residents travel abroad more than twice as often as foreigners visit the UK.",
+          "startIndex": 465,
+          "endIndex": 555,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 8,
+          "text": "Overall, this graph shows that Britain has a tourism deficit,",
+          "startIndex": 557,
+          "endIndex": 618,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 9,
+          "text": "with more people leaving than arriving.",
+          "startIndex": 620,
+          "endIndex": 658,
+          "estimatedDuration": 2400
+        }
+      ],
+      "wordCount": 113,
+      "duration": 45,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-109",
+      "imageNumber": 109,
+      "title": "Share of Companies by Size",
+      "template": "Natural",
+      "fullText": "This pie chart shows the share of companies in the market by their size, measured by number of employees. Small companies with 3 to 6 employees make up the largest share at 66 percent, shown in purple. Medium-sized companies with 7 to 50 employees account for 28 percent, shown in green. Large companies with more than 50 employees represent only 6 percent of the total, shown in pink. This means that two-thirds of all companies in this market are small businesses. Overall, this chart clearly shows that small companies dominate the market, while large companies make up only a small fraction of the total.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This pie chart shows the share of companies in the market by their size,",
+          "startIndex": 0,
+          "endIndex": 72,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 1,
+          "text": "measured by number of employees. Small companies with 3 to 6 employees make up the largest share at 66 percent,",
+          "startIndex": 74,
+          "endIndex": 185,
+          "estimatedDuration": 8000
+        },
+        {
+          "index": 2,
+          "text": "shown in purple. Medium-sized companies with 7 to 50 employees account for 28 percent,",
+          "startIndex": 187,
+          "endIndex": 273,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "shown in green. Large companies with more than 50 employees represent only 6 percent of the total,",
+          "startIndex": 275,
+          "endIndex": 373,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 4,
+          "text": "shown in pink. This means that two-thirds of all companies in this market are small businesses.",
+          "startIndex": 375,
+          "endIndex": 470,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 5,
+          "text": "Overall, this chart clearly shows that small companies dominate the market,",
+          "startIndex": 472,
+          "endIndex": 547,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "while large companies make up only a small fraction of the total.",
+          "startIndex": 549,
+          "endIndex": 613,
+          "estimatedDuration": 4800
+        }
+      ],
+      "wordCount": 104,
+      "duration": 42,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-110",
+      "imageNumber": 110,
+      "title": "Inbound Tourists Ecuador",
+      "template": "Natural",
+      "fullText": "This horizontal bar chart shows the percentage of inbound tourists to Ecuador by their country of origin. Colombia is the largest source at 27 percent of total arrivals. The United States is second with 21 percent. Peru is third at 20 percent. All other countries together make up 32 percent of arrivals. Looking at the pattern, Ecuador's three neighboring countries in South America provide most of the tourists. Colombia and Peru together account for 47 percent, which is almost half of all visitors. Overall, this chart shows that most tourists visiting Ecuador come from nearby countries, with Colombia being the single largest source.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This horizontal bar chart shows the percentage of inbound tourists to Ecuador by their country of origin.",
+          "startIndex": 0,
+          "endIndex": 105,
+          "estimatedDuration": 6800
+        },
+        {
+          "index": 1,
+          "text": "Colombia is the largest source at 27 percent of total arrivals.",
+          "startIndex": 107,
+          "endIndex": 170,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 2,
+          "text": "The United States is second with 21 percent. Peru is third at 20 percent.",
+          "startIndex": 172,
+          "endIndex": 245,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "All other countries together make up 32 percent of arrivals.",
+          "startIndex": 247,
+          "endIndex": 307,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "Looking at the pattern, Ecuador's three neighboring countries in South America provide most of the tourists.",
+          "startIndex": 309,
+          "endIndex": 417,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 5,
+          "text": "Colombia and Peru together account for 47 percent, which",
+          "startIndex": 419,
+          "endIndex": 475,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 6,
+          "text": "is almost half of all visitors. Overall, this chart shows that",
+          "startIndex": 477,
+          "endIndex": 539,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 7,
+          "text": "most tourists visiting Ecuador come from nearby countries,",
+          "startIndex": 541,
+          "endIndex": 599,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 8,
+          "text": "with Colombia being the single largest source.",
+          "startIndex": 601,
+          "endIndex": 646,
+          "estimatedDuration": 2800
+        }
+      ],
+      "wordCount": 103,
+      "duration": 41,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-111",
+      "imageNumber": 111,
+      "title": "Top 10 US Cities with Largest Population Increase",
+      "template": "Natural",
+      "fullText": "This horizontal bar chart shows the top 10 US cities with the largest population increase from July 2011 to July 2012. New York City had the biggest increase at about 67,058 people. Houston and Los Angeles were second and third with around 34,000 new residents each. San Antonio, Austin, and Phoenix each gained about 25,000 people. Dallas, Charlotte, San Diego, and Fort Worth complete the top 10 with increases between 16,000 and 23,000. Most of these cities are in the southern and western parts of the United States. Overall, this chart shows that America's biggest population growth is happening in large cities, especially New York and cities in Texas.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This horizontal bar chart shows the top 10 US cities with the largest population increase from July 2011 to July 2012.",
+          "startIndex": 0,
+          "endIndex": 118,
+          "estimatedDuration": 8400
+        },
+        {
+          "index": 1,
+          "text": "New York City had the biggest increase at about 67,058 people. Houston and",
+          "startIndex": 120,
+          "endIndex": 194,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 2,
+          "text": "Los Angeles were second and third with around 34,000 new residents each.",
+          "startIndex": 196,
+          "endIndex": 268,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 3,
+          "text": "San Antonio, Austin, and Phoenix each gained about 25,000 people. Dallas,",
+          "startIndex": 270,
+          "endIndex": 343,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 4,
+          "text": "Charlotte, San Diego, and Fort Worth complete the top 10 with increases between 16,000 and",
+          "startIndex": 345,
+          "endIndex": 435,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 5,
+          "text": "23,000. Most of these cities are in the southern and",
+          "startIndex": 437,
+          "endIndex": 489,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 6,
+          "text": "western parts of the United States. Overall, this chart shows that",
+          "startIndex": 491,
+          "endIndex": 557,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 7,
+          "text": "America's biggest population growth is happening in large cities,",
+          "startIndex": 559,
+          "endIndex": 624,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 8,
+          "text": "especially New York and cities in Texas.",
+          "startIndex": 626,
+          "endIndex": 665,
+          "estimatedDuration": 2800
+        }
+      ],
+      "wordCount": 109,
+      "duration": 44,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-112",
+      "imageNumber": 112,
+      "title": "Southampton University Student Accommodation",
+      "template": "Natural",
+      "fullText": "This floor plan shows a student accommodation room at Southampton University. The room measures 5.40 meters by 6.80 meters. Looking at the layout, there is a desk on the right side near the corner. The bed is positioned in the middle of the room. There is a bathroom area in one corner and what appears to be storage or closet space. The room also has a window for natural light. The purple walls indicate the fixed structure while the furniture is shown in grey. Overall, this floor plan shows a compact but functional living space designed for a university student, with all basic needs included in one room.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This floor plan shows a student accommodation room at Southampton University.",
+          "startIndex": 0,
+          "endIndex": 77,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 1,
+          "text": "The room measures 5. 40 meters by 6. 80 meters. Looking at the layout,",
+          "startIndex": 79,
+          "endIndex": 149,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "there is a desk on the right side near the corner.",
+          "startIndex": 151,
+          "endIndex": 201,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 3,
+          "text": "The bed is positioned in the middle of the room.",
+          "startIndex": 203,
+          "endIndex": 251,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "There is a bathroom area in one corner and",
+          "startIndex": 253,
+          "endIndex": 295,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 5,
+          "text": "what appears to be storage or closet space.",
+          "startIndex": 297,
+          "endIndex": 340,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 6,
+          "text": "The room also has a window for natural light.",
+          "startIndex": 342,
+          "endIndex": 387,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 7,
+          "text": "The purple walls indicate the fixed structure while the furniture is shown in grey.",
+          "startIndex": 389,
+          "endIndex": 472,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 8,
+          "text": "Overall, this floor plan shows a compact but",
+          "startIndex": 474,
+          "endIndex": 518,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 9,
+          "text": "functional living space designed for a university student,",
+          "startIndex": 520,
+          "endIndex": 578,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 10,
+          "text": "with all basic needs included in one room.",
+          "startIndex": 580,
+          "endIndex": 621,
+          "estimatedDuration": 3200
+        }
+      ],
+      "wordCount": 108,
+      "duration": 43,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-113",
+      "imageNumber": 113,
+      "title": "Layers of the Earth",
+      "template": "Natural",
+      "fullText": "This diagram shows the different layers of the Earth. The Earth has several main layers from outside to inside. The outermost layer is the atmosphere, which is the air around the Earth. Below that is the crust, which is divided into oceanic crust and continental crust. The oceanic crust is thinner and lies under the oceans, while the continental crust forms the land. Below the crust is the mantle, which has an upper mantle and a lower mantle. The outer core comes next, followed by the inner core at the very center. The diagram also shows the Mohorovicic discontinuity, which is the boundary between the crust and mantle. Overall, this diagram shows how the Earth is made up of different layers from the surface to the center.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This diagram shows the different layers of the Earth.",
+          "startIndex": 0,
+          "endIndex": 53,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 1,
+          "text": "The Earth has several main layers from outside to inside.",
+          "startIndex": 55,
+          "endIndex": 112,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 2,
+          "text": "The outermost layer is the atmosphere, which is the air around the Earth.",
+          "startIndex": 114,
+          "endIndex": 187,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 3,
+          "text": "Below that is the crust, which is divided into oceanic crust and",
+          "startIndex": 189,
+          "endIndex": 253,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 4,
+          "text": "continental crust. The oceanic crust is thinner and lies under the oceans,",
+          "startIndex": 255,
+          "endIndex": 329,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 5,
+          "text": "while the continental crust forms the land. Below the crust is the mantle, which",
+          "startIndex": 331,
+          "endIndex": 411,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 6,
+          "text": "has an upper mantle and a lower mantle. The outer core comes next,",
+          "startIndex": 413,
+          "endIndex": 479,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 7,
+          "text": "followed by the inner core at the very center.",
+          "startIndex": 481,
+          "endIndex": 527,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 8,
+          "text": "The diagram also shows the Mohorovicic discontinuity, which",
+          "startIndex": 529,
+          "endIndex": 588,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 9,
+          "text": "is the boundary between the crust and mantle. Overall,",
+          "startIndex": 590,
+          "endIndex": 644,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 10,
+          "text": "this diagram shows how the Earth is made up of different layers from the surface to the center.",
+          "startIndex": 646,
+          "endIndex": 740,
+          "estimatedDuration": 7200
+        }
+      ],
+      "wordCount": 127,
+      "duration": 51,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-114",
+      "imageNumber": 114,
+      "title": "Male and Female Volunteers Over the Years",
+      "template": "Natural",
+      "fullText": "This line graph shows the ratio of male and female volunteers changing over the years from 1990 to 2004. The blue line represents male volunteers and the pink line represents female volunteers. In 1990, both lines started at similar levels, with men slightly higher at about 32 percent and women at about 28 percent. Over time, the two lines moved in opposite directions. The male volunteer rate gradually decreased to about 38 percent by 2004. The female volunteer rate increased and became more stable at around 25 to 28 percent. By 2003-2004, more men than women were volunteering. Overall, this graph shows how the gender balance in volunteering has shifted over this 14-year period.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows the ratio of male and",
+          "startIndex": 0,
+          "endIndex": 43,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 1,
+          "text": "female volunteers changing over the years from 1990 to 2004.",
+          "startIndex": 45,
+          "endIndex": 105,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 2,
+          "text": "The blue line represents male volunteers and",
+          "startIndex": 107,
+          "endIndex": 151,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 3,
+          "text": "the pink line represents female volunteers. In 1990,",
+          "startIndex": 153,
+          "endIndex": 205,
+          "estimatedDuration": 3200
+        },
+        {
+          "index": 4,
+          "text": "both lines started at similar levels, with men slightly higher at about 32 percent and",
+          "startIndex": 207,
+          "endIndex": 293,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 5,
+          "text": "women at about 28 percent. Over time, the two lines moved in opposite directions.",
+          "startIndex": 295,
+          "endIndex": 376,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 6,
+          "text": "The male volunteer rate gradually decreased to about 38 percent by 2004.",
+          "startIndex": 378,
+          "endIndex": 450,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "The female volunteer rate increased and became more stable at around 25 to 28 percent.",
+          "startIndex": 452,
+          "endIndex": 538,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 8,
+          "text": "By 2003-2004, more men than women were volunteering. Overall,",
+          "startIndex": 540,
+          "endIndex": 601,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 9,
+          "text": "this graph shows how the gender balance in volunteering has shifted over this 14-year period.",
+          "startIndex": 603,
+          "endIndex": 695,
+          "estimatedDuration": 6000
+        }
+      ],
+      "wordCount": 114,
+      "duration": 46,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-115",
+      "imageNumber": 115,
+      "title": "Collapse of Atlantic Cod Stocks",
+      "template": "Natural",
+      "fullText": "This line graph shows the collapse of Atlantic cod stocks on the east coast of Newfoundland from 1850 to 2000. The vertical line shows fish landings in tons, ranging from 0 to 900,000. For most of the period from 1850 to 1950, cod catches stayed relatively low at around 100,000 to 200,000 tons per year. However, starting in the 1950s, catches began to rise dramatically. They peaked in 1968 at about 800,000 tons. After this peak, catches fell dramatically and by 1992 they had collapsed to almost zero. The fish population never recovered. Overall, this graph shows a classic example of overfishing, where too much fishing destroyed a fish population that had existed for centuries.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This line graph shows the collapse of Atlantic cod stocks on the east coast of Newfoundland",
+          "startIndex": 0,
+          "endIndex": 91,
+          "estimatedDuration": 6400
+        },
+        {
+          "index": 1,
+          "text": "from 1850 to 2000. The vertical line shows fish landings in tons,",
+          "startIndex": 93,
+          "endIndex": 158,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 2,
+          "text": "ranging from 0 to 900,000. For most of the period from 1850 to 1950,",
+          "startIndex": 160,
+          "endIndex": 228,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 3,
+          "text": "cod catches stayed relatively low at around 100,000 to 200,000 tons per year.",
+          "startIndex": 230,
+          "endIndex": 307,
+          "estimatedDuration": 5200
+        },
+        {
+          "index": 4,
+          "text": "However, starting in the 1950s, catches began to rise dramatically.",
+          "startIndex": 309,
+          "endIndex": 376,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 5,
+          "text": "They peaked in 1968 at about 800,000 tons. After this peak,",
+          "startIndex": 378,
+          "endIndex": 437,
+          "estimatedDuration": 4400
+        },
+        {
+          "index": 6,
+          "text": "catches fell dramatically and by 1992 they had collapsed to almost zero.",
+          "startIndex": 439,
+          "endIndex": 511,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 7,
+          "text": "The fish population never recovered. Overall,",
+          "startIndex": 513,
+          "endIndex": 558,
+          "estimatedDuration": 2400
+        },
+        {
+          "index": 8,
+          "text": "this graph shows a classic example of overfishing, where",
+          "startIndex": 560,
+          "endIndex": 616,
+          "estimatedDuration": 3600
+        },
+        {
+          "index": 9,
+          "text": "too much fishing destroyed a fish population that had existed for centuries.",
+          "startIndex": 618,
+          "endIndex": 693,
+          "estimatedDuration": 4800
+        }
+      ],
+      "wordCount": 115,
+      "duration": 46,
+      "category": "di-shadowing"
+    },
+    {
+      "id": "di-image-116",
+      "imageNumber": 116,
+      "title": "Evacuation Route Floor Plan",
+      "template": "Natural",
+      "fullText": "This floor plan shows an evacuation route for a building. The red arrows show the path people should follow to exit during an emergency. Looking at the diagram, there are multiple ways to leave the building. The main entrance is at the bottom of the plan. There are stairs at several locations, shown as zigzag patterns. The evacuation route leads from various rooms through corridors to the nearest exit or staircase. There is also an elevator marked on the plan, but elevators should not be used during emergencies. The plan shows both the ground floor and possibly emergency exits. Overall, this diagram is a safety guide that helps people find the quickest way out of the building in an emergency.",
+      "phrases": [
+        {
+          "index": 0,
+          "text": "This floor plan shows an evacuation route for a building.",
+          "startIndex": 0,
+          "endIndex": 57,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 1,
+          "text": "The red arrows show the path people should follow to exit during an emergency.",
+          "startIndex": 59,
+          "endIndex": 137,
+          "estimatedDuration": 5600
+        },
+        {
+          "index": 2,
+          "text": "Looking at the diagram, there are multiple ways to leave the building.",
+          "startIndex": 139,
+          "endIndex": 209,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 3,
+          "text": "The main entrance is at the bottom of the plan.",
+          "startIndex": 211,
+          "endIndex": 258,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 4,
+          "text": "There are stairs at several locations, shown as zigzag patterns.",
+          "startIndex": 260,
+          "endIndex": 324,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 5,
+          "text": "The evacuation route leads from various rooms through corridors to the nearest exit or staircase.",
+          "startIndex": 326,
+          "endIndex": 423,
+          "estimatedDuration": 6000
+        },
+        {
+          "index": 6,
+          "text": "There is also an elevator marked on the plan, but",
+          "startIndex": 425,
+          "endIndex": 474,
+          "estimatedDuration": 4000
+        },
+        {
+          "index": 7,
+          "text": "elevators should not be used during emergencies.",
+          "startIndex": 476,
+          "endIndex": 524,
+          "estimatedDuration": 2800
+        },
+        {
+          "index": 8,
+          "text": "The plan shows both the ground floor and possibly emergency exits. Overall,",
+          "startIndex": 526,
+          "endIndex": 601,
+          "estimatedDuration": 4800
+        },
+        {
+          "index": 9,
+          "text": "this diagram is a safety guide that helps people find the quickest way out of the building in an emergency.",
+          "startIndex": 603,
+          "endIndex": 709,
+          "estimatedDuration": 8000
+        }
+      ],
+      "wordCount": 120,
+      "duration": 48,
       "category": "di-shadowing"
     }
   ]
