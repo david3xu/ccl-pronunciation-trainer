@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Playback Speed Test</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+      background: #1a1a1a;
+      color: #fff;
+    }
+    .test-section {
+      background: #2a2a2a;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 8px;
+      border: 1px solid #444;
+    }
+    button {
+      background: #4a90e2;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      margin: 5px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    button:hover {
+      background: #357abd;
+    }
+    input[type="range"] {
+      width: 300px;
+      margin: 10px 0;
+    }
+    .log {
+      background: #1a1a1a;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 4px;
+      font-family: monospace;
+      font-size: 12px;
+      max-height: 400px;
+      overflow-y: auto;
+    }
+    .log-entry {
+      padding: 2px 0;
+      border-bottom: 1px solid #333;
+    }
+    .success { color: #4ade80; }
+    .info { color: #60a5fa; }
+    .warning { color: #fbbf24; }
+  </style>
+</head>
+<body>
+  <h1>🎤 Playback Speed Test</h1>
+  
+  <div class="test-section">
+    <h2>Test Instructions</h2>
+    <ol>
+      <li>Adjust the playback speed slider below</li>
+      <li>Click "Test Speech" to hear the word at the selected speed</li>
+      <li>Verify the console shows the correct rate value</li>
+      <li>Change speed again and test to ensure it updates properly</li>
+    </ol>
+  </div>
+
+  <div class="test-section">
+    <h3>Playback Speed Control</h3>
+    <label>
+      Speed: <span id="speedDisplay">1.0x</span>
+      <input 
+        type="range" 
+        id="speedSlider" 
+        min="0.5" 
+        max="2.0" 
+        step="0.1" 
+        value="1.0"
+      >
+    </label>
+    <div>
+      <button onclick="testSpeech()">🔊 Test Speech</button>
+      <button onclick="resetSpeed()">🔄 Reset to 1.0x</button>
+      <button onclick="clearLogs()">🗑️ Clear Logs</button>
+    </div>
+  </div>
+
+  <div class="test-section">
+    <h3>Test Results</h3>
+    <div id="logContainer" class="log"></div>
+  </div>
+
+  <script>
+    let currentSpeed = 1.0;
+    const slider = document.getElementById('speedSlider');
+    const speedDisplay = document.getElementById('speedDisplay');
+    const logContainer = document.getElementById('logContainer');
+
+    // Update display when slider changes
+    slider.addEventListener('input', (e) => {
+      currentSpeed = parseFloat(e.target.value);
+      speedDisplay.textContent = currentSpeed.toFixed(1) + 'x';
+      addLog('info', `Speed slider changed to ${currentSpeed.toFixed(1)}x`);
+    });
+
+    function addLog(type, message) {
+      const entry = document.createElement('div');
+      entry.className = `log-entry ${type}`;
+      const timestamp = new Date().toLocaleTimeString();
+      entry.textContent = `[${timestamp}] ${message}`;
+      logContainer.appendChild(entry);
+      logContainer.scrollTop = logContainer.scrollHeight;
+    }
+
+    function testSpeech() {
+      addLog('info', `🎤 Testing speech at ${currentSpeed.toFixed(1)}x speed...`);
+      
+      if (!('speechSynthesis' in window)) {
+        addLog('warning', '❌ Speech synthesis not available in this browser');
+        return;
+      }
+
+      const utterance = new SpeechSynthesisUtterance('legitimate');
+      utterance.rate = currentSpeed;
+      utterance.lang = 'en-GB';
+
+      addLog('success', `✅ Speaking "legitimate" at rate: ${currentSpeed.toFixed(1)}`);
+      
+      utterance.onstart = () => {
+        addLog('info', `🎯 Speech started with rate: ${utterance.rate.toFixed(1)}`);
+      };
+
+      utterance.onend = () => {
+        addLog('success', `✅ Speech completed at ${currentSpeed.toFixed(1)}x speed`);
+      };
+
+      utterance.onerror = (e) => {
+        addLog('warning', `⚠️ Speech error: ${e.error}`);
+      };
+
+      window.speechSynthesis.speak(utterance);
+    }
+
+    function resetSpeed() {
+      currentSpeed = 1.0;
+      slider.value = 1.0;
+      speedDisplay.textContent = '1.0x';
+      addLog('info', '🔄 Speed reset to 1.0x');
+    }
+
+    function clearLogs() {
+      logContainer.innerHTML = '';
+      addLog('info', '🗑️ Logs cleared');
+    }
+
+    // Initial log
+    addLog('success', '✅ Playback Speed Test initialized');
+    addLog('info', `📊 Current speed: ${currentSpeed.toFixed(1)}x`);
+  </script>
+</body>
+</html>

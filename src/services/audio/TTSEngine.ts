@@ -112,6 +112,10 @@ export class TTSEngine {
   private _setupStoreSubscriptions(): void {
     if (typeof window === 'undefined') return;
 
+    // Initialize with current store value
+    this.speechRate = useAppStore.getState().settings.ttsRate;
+    console.log(`[TTSEngine] Initialized with speed: ${this.speechRate}`);
+
     // Subscribe to TTS rate changes
     const unsubTtsRate = useAppStore.subscribe(
       (state: AppState) => state.settings.ttsRate,
