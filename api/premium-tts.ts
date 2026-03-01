@@ -53,7 +53,10 @@ export default async function handler(
   console.log('[Polly API] AWS_SECRET_ACCESS_KEY exists:', !!process.env['AWS_SECRET_ACCESS_KEY']);
 
   // Set CORS headers
-  res.setHeader('Access-Control-Allow-Origin', '*');
+  const allowedOrigin = process.env['CORS_ALLOWED_ORIGIN'] || process.env['VERCEL_URL']
+    ? `https://${process.env['VERCEL_URL']}`
+    : '*';
+  res.setHeader('Access-Control-Allow-Origin', allowedOrigin);
   res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
 

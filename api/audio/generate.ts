@@ -178,7 +178,10 @@ export default async function handler(
 ): Promise<void> {
   // Handle CORS preflight
   if (req.method === 'OPTIONS') {
-    res.status(200).setHeader('Access-Control-Allow-Origin', '*').end();
+    const allowedOrigin = process.env['CORS_ALLOWED_ORIGIN'] || process.env['VERCEL_URL']
+      ? `https://${process.env['VERCEL_URL']}`
+      : '*';
+    res.status(200).setHeader('Access-Control-Allow-Origin', allowedOrigin).end();
     return;
   }
 
