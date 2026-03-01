@@ -17,15 +17,9 @@ import { wakeLockService } from '../services/device/WakeLockService';
 import { getSessionManager } from '../services/session/sessionManager';
 import { useAudioState, useAuth, useProgress, useSettings, useVocabulary } from '../stores';
 import type { TaskType } from '../types/database';
-import AISidebar from './ai/AISidebar';
-import AITutorChat from './ai/AITutorChat';
-import InterventionModal from './ai/InterventionModal';
-import PronunciationScoring from './ai/PronunciationScoring';
-import WeakAreasDashboard from './ai/WeakAreasDashboard';
 import AudioControls from './audio/AudioControls';
 import DataMigrationModal from './migration/DataMigrationModal';
 import {
-  ProgressDashboard,
   WordCard,
 } from './practice';
 import LearnerProfileModal from './profile/LearnerProfileModal';
@@ -38,6 +32,12 @@ const RSInterface = lazy(() => import('./practice/RSInterface'));
 const ASQInterface = lazy(() => import('./practice/ASQInterface'));
 const WFDInterface = lazy(() => import('./practice/WFDInterface'));
 const VocabTypingInterface = lazy(() => import('./practice/VocabTypingInterface'));
+const AISidebar = lazy(() => import('./ai/AISidebar'));
+const AITutorChat = lazy(() => import('./ai/AITutorChat'));
+const InterventionModal = lazy(() => import('./ai/InterventionModal'));
+const PronunciationScoring = lazy(() => import('./ai/PronunciationScoring'));
+const WeakAreasDashboard = lazy(() => import('./ai/WeakAreasDashboard'));
+const ProgressDashboard = lazy(() => import('./practice/ProgressDashboard'));
 
 export const AppContent: React.FC = () => {
   // Access Zustand store using selector pattern for proper re-renders
@@ -383,12 +383,13 @@ export const AppContent: React.FC = () => {
               <h1 className="text-2xl font-bold text-white">
                 🎯 PTE Pronunciation
               </h1>
-              <Flex gap="2">
+              <Flex gap="2" role="navigation" aria-label="App controls">
                 <Button
                   variant="soft"
                   size="2"
                   onClick={() => setShowProgress(!showProgress)}
                   title="View your progress and statistics"
+                  aria-label="View progress and statistics"
                 >
                   <BarChartIcon width="16" height="16" />
                   <span className="ml-1 hidden md:inline">Progress</span>
@@ -398,6 +399,7 @@ export const AppContent: React.FC = () => {
                   size="2"
                   onClick={() => setShowAITutor(!showAITutor)}
                   title="Chat with AI for pronunciation help (Free with Gemini)"
+                  aria-label="Open AI tutor chat"
                 >
                   <ChatBubbleIcon width="16" height="16" />
                   <span className="ml-1 hidden md:inline">AI Tutor</span>
@@ -407,6 +409,7 @@ export const AppContent: React.FC = () => {
                   size="2"
                   onClick={() => setShowWeakAreas(!showWeakAreas)}
                   title="View AI insights and personalized recommendations"
+                  aria-label="View AI insights and recommendations"
                 >
                   <LightningBoltIcon width="16" height="16" />
                   <span className="ml-1 hidden md:inline">Insights</span>
@@ -416,6 +419,7 @@ export const AppContent: React.FC = () => {
                   size="2"
                   onClick={() => setShowPronunciationScoring(!showPronunciationScoring)}
                   title="Record and get AI feedback on your pronunciation"
+                  aria-label="Record and score pronunciation"
                 >
                   <SpeakerLoudIcon width="16" height="16" />
                   <span className="ml-1 hidden md:inline">Score</span>
@@ -425,6 +429,7 @@ export const AppContent: React.FC = () => {
                   size="2"
                   onClick={() => setShowSettings(!showSettings)}
                   title="Change mode, difficulty, and voice settings"
+                  aria-label="Open settings panel"
                 >
                   <GearIcon width="16" height="16" />
                   <span className="ml-1 hidden md:inline">Settings</span>
@@ -455,24 +460,30 @@ export const AppContent: React.FC = () => {
             }}
           />
           <SettingsPanel isOpen={showSettings} onClose={() => setShowSettings(false)} />
-          <AITutorChat
-            isOpen={showAITutor}
-            onClose={() => setShowAITutor(false)}
-            taskType={interfaceType as TaskType}
-            sessionId={currentSessionId || undefined}
-            useEnhancedContext={auth.isAuthenticated}
-          />
-          <WeakAreasDashboard isOpen={showWeakAreas} onClose={() => setShowWeakAreas(false)} />
+          <Suspense fallback={null}>
+            <AITutorChat
+              isOpen={showAITutor}
+              onClose={() => setShowAITutor(false)}
+              taskType={interfaceType as TaskType}
+              sessionId={currentSessionId || undefined}
+              useEnhancedContext={auth.isAuthenticated}
+            />
+          </Suspense>
+          <Suspense fallback={null}>
+            <WeakAreasDashboard isOpen={showWeakAreas} onClose={() => setShowWeakAreas(false)} />
+          </Suspense>
           <PronunciationScoring
             isOpen={showPronunciationScoring}
             onClose={() => setShowPronunciationScoring(false)}
           />
-          <InterventionModal
-            intervention={currentIntervention}
-            onAccept={handleInterventionAccept}
-            onDecline={handleInterventionDecline}
-            onDismiss={handleInterventionDismiss}
-          />
+          <Suspense fallback={null}>
+            <InterventionModal
+              intervention={currentIntervention}
+              onAccept={handleInterventionAccept}
+              onDecline={handleInterventionDecline}
+              onDismiss={handleInterventionDismiss}
+            />
+          </Suspense>
           {showProgress && (
             <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 animate-in p-4">
               <div className="w-full max-w-6xl max-h-[95vh] overflow-y-auto bg-slate-800 rounded-lg p-6">
@@ -482,26 +493,30 @@ export const AppContent: React.FC = () => {
                     ✕
                   </Button>
                 </Flex>
-                <ProgressDashboard />
+                <Suspense fallback={<Spinner size="3" />}>
+                  <ProgressDashboard />
+                </Suspense>
               </div>
             </div>
           )}
 
           {/* AI Sidebar - Always visible */}
-          <AISidebar
-            onOpenChat={() => setShowAITutor(true)}
-            onOpenScoring={() => setShowPronunciationScoring(true)}
-            onOpenInsights={() => setShowWeakAreas(true)}
-            sessionStats={{
-              itemsCompleted: progress.itemsCompleted,
-              accuracy: progress.accuracy,
-              currentStreak: 0, // TODO: Add currentStreak to progress store
-            }}
-          />
+          <Suspense fallback={null}>
+            <AISidebar
+              onOpenChat={() => setShowAITutor(true)}
+              onOpenScoring={() => setShowPronunciationScoring(true)}
+              onOpenInsights={() => setShowWeakAreas(true)}
+              sessionStats={{
+                itemsCompleted: progress.itemsCompleted,
+                accuracy: progress.accuracy,
+                currentStreak: 0, // TODO: Add currentStreak to progress store
+              }}
+            />
+          </Suspense>
 
           {/* Main Content - Single Page, No Tabs */}
           {/* 80/20 Layout: 80% learning area, 20% controls */}
-          <div className="space-y-4">
+          <main className="space-y-4" role="main" aria-label="Learning area">
 
             {/* Learning Area - 80% of focus */}
             <div className="min-h-[60vh]">
@@ -565,6 +580,8 @@ export const AppContent: React.FC = () => {
                   direction="column"
                   gap="3"
                   p="8"
+                  role="status"
+                  aria-label="Loading vocabulary"
                   style={{
                     backgroundColor: 'var(--gray-a2)',
                     borderRadius: 'var(--radius-4)',
@@ -579,7 +596,7 @@ export const AppContent: React.FC = () => {
 
             {/* Audio Controls - 20% essential controls (only for vocabulary mode) */}
             {interfaceType === 'vocabulary' && <AudioControls />}
-          </div>
+          </main>
 
           {/* Footer - Minimal */}
           <footer className="mt-8 text-center text-slate-500 text-xs">
