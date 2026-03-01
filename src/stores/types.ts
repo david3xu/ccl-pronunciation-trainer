@@ -6,6 +6,7 @@
  */
 
 import type { Difficulty, PracticeItem, VocabularyItem } from '../types/dataset.types';
+import type { Session } from '@supabase/supabase-js';
 
 // Type alias for backward compatibility
 // VocabularyItem is now imported directly from dataset.types
@@ -207,14 +208,14 @@ export interface User {
 export interface AuthState {
   // Authentication state
   user: User | null;
-  session: any | null; // Supabase Session type
+  session: Session | null;
   isAuthenticated: boolean;
   isLoading: boolean;
   error: string | null;
 
   // Actions
   setUser: (user: User | null) => void;
-  setSession: (session: any | null) => void;
+  setSession: (session: Session | null) => void;
   setLoading: (isLoading: boolean) => void;
   setError: (error: string | null) => void;
   signOut: () => void;

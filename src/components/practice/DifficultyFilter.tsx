@@ -30,14 +30,14 @@ const DifficultyFilter: React.FC = () => {
   // Count items for each difficulty
   const counts = {
     all: vocabulary.currentDataset.length,
-    easy: vocabulary.currentDataset.filter((item: any) =>
-      (item.difficulty || item.metadata?.difficulty) === 'easy'
+    easy: vocabulary.currentDataset.filter((item) =>
+      ('difficulty' in item ? item.difficulty : item.metadata?.difficulty) === 'easy'
     ).length,
-    normal: vocabulary.currentDataset.filter((item: any) =>
-      (item.difficulty || item.metadata?.difficulty) === 'normal'
+    normal: vocabulary.currentDataset.filter((item) =>
+      ('difficulty' in item ? item.difficulty : item.metadata?.difficulty) === 'normal'
     ).length,
-    hard: vocabulary.currentDataset.filter((item: any) =>
-      (item.difficulty || item.metadata?.difficulty) === 'hard'
+    hard: vocabulary.currentDataset.filter((item) =>
+      ('difficulty' in item ? item.difficulty : item.metadata?.difficulty) === 'hard'
     ).length,
   };
 
@@ -55,14 +55,14 @@ const DifficultyFilter: React.FC = () => {
               <Button
                 key={diff.value}
                 variant={isActive ? 'solid' : 'soft'}
-                color={diff.color as any}
+                color={diff.color as "gray" | "green" | "blue" | "red"}
                 size="2"
                 onClick={() => handleDifficultyChange(diff.value)}
               >
                 <Flex align="center" gap="2">
                   <span>{diff.emoji}</span>
                   <Text>{diff.label}</Text>
-                  <Badge color={diff.color as any} variant="soft">
+                    <Badge color={diff.color as "gray" | "green" | "blue" | "red"} variant="soft">
                     {count}
                   </Badge>
                 </Flex>

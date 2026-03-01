@@ -19,12 +19,12 @@ const VocabularyList: React.FC = () => {
   const isLoading = vocabulary.isLoading;
 
   // Filter items by search query
-  const filteredItems = vocabulary.filteredDataset.filter((item: any) => {
+  const filteredItems = vocabulary.filteredDataset.filter((item) => {
     if (!searchQuery) return true;
 
     const searchLower = searchQuery.toLowerCase();
-    const word = item.word || item.sentence || item.question || '';
-    return word.toLowerCase().includes(searchLower);
+    const text = 'word' in item ? item.word : 'sentence' in item ? item.sentence : 'question' in item ? item.question : '';
+    return text.toLowerCase().includes(searchLower);
   });
 
   // Check if item is completed
@@ -89,9 +89,9 @@ const VocabularyList: React.FC = () => {
                   </Text>
                 </Flex>
               ) : (
-              filteredItems.map((item: any, index: number) => {
-                const displayText = item.word || item.sentence || item.question;
-                const difficulty = item.difficulty || item.metadata?.difficulty || 'normal';
+              filteredItems.map((item, index) => {
+                const displayText = 'word' in item ? item.word : 'sentence' in item ? item.sentence : 'question' in item ? item.question : '';
+                const difficulty = 'difficulty' in item ? item.difficulty : 'metadata' in item ? item.metadata?.difficulty : 'normal';
                 const isCurrentItem = vocabulary.currentItem === item;
                 const completed = isCompleted(index);
 

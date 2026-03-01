@@ -37,7 +37,7 @@ export function isVocabularyTerm(item: unknown): item is VocabularyTerm {
 /**
  * Type guard for alternative vocabulary format (uses 'english' instead of 'word')
  */
-export function isAlternativeVocabularyTerm(item: unknown): item is { english: string; pronunciation: any; difficulty: string } {
+export function isAlternativeVocabularyTerm(item: unknown): item is { english: string; pronunciation: Record<string, unknown>; difficulty: string } {
   if (typeof item !== 'object' || item === null) return false;
 
   const obj = item as Record<string, unknown>;
