@@ -23,6 +23,7 @@
 
 import { create } from 'zustand';
 import { devtools, persist, subscribeWithSelector } from 'zustand/middleware';
+import logger from '../utils/logger';
 
 import { authService } from '../services/supabase/authService';
 import { syncService } from '../services/supabase/syncService';
@@ -572,7 +573,7 @@ export const useAppStore = create<AppState>()(
             if (state?.settings?.vocabularyBook) {
               const oldBook = state.settings.vocabularyBook;
               if (oldBook === 'di-shadowing-1-10' || oldBook === 'di-shadowing-11-20') {
-                console.log(`[Migration] Converting old DI shadowing ID "${oldBook}" to "di-shadowing"`);
+                logger.log(`[Migration] Converting old DI shadowing ID "${oldBook}" to "di-shadowing"`);
                 state.settings.vocabularyBook = 'di-shadowing';
                 state.settings.datasetId = 'di-shadowing';
               }

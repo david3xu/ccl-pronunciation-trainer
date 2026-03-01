@@ -6,6 +6,7 @@
  */
 
 import { AppConfig as AppConfigType, ConfigPath } from '../types';
+import logger from '../utils/logger';
 
 /**
  * Application Configuration Class
@@ -579,5 +580,5 @@ declare global {
 // Attach to window for vanilla JS compatibility (Phase 2 migration)
 if (typeof window !== 'undefined') {
   window.appConfig = appConfig;
-  console.log('✅ Config.js loaded - window.appConfig attached:', typeof window.appConfig);
+  logger.log('✅ Config.js loaded - window.appConfig attached:', typeof window.appConfig);
 }

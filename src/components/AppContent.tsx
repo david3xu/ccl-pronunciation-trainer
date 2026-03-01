@@ -9,6 +9,7 @@ import { Button, Flex, Spinner, Theme } from '@radix-ui/themes';
 import React, { lazy, Suspense, useEffect, useState } from 'react';
 import { appConfig } from '../config/AppConfig';
 import { useMigration } from '../hooks/useMigration';
+import logger from '../utils/logger';
 import { useOnboarding } from '../hooks/useOnboarding';
 import { useSwipeGesture } from '../hooks/useSwipeGesture';
 import { logIntervention, monitorSession, type Intervention } from '../services/ai/interventionEngine';
@@ -68,7 +69,7 @@ export const AppContent: React.FC = () => {
 
   // Initialize app on mount
   useEffect(() => {
-    console.log('React App mounted');
+    logger.log('React App mounted');
 
     // AbortController for fetch cancellation on unmount
     const abortController = new AbortController();
@@ -76,7 +77,7 @@ export const AppContent: React.FC = () => {
     // Load vocabulary data on startup
     const loadInitialVocabulary = async () => {
       const { vocabularyBook } = settings;
-      console.log('Loading vocabulary book:', vocabularyBook);
+      logger.log('Loading vocabulary book:', vocabularyBook);
 
       vocabulary.setLoading(true);
 
@@ -88,7 +89,7 @@ export const AppContent: React.FC = () => {
         const timestamp = new Date().getTime();
         const basePath = dataPathMap[vocabularyBook] || `/${processedPath}/${vocabularyBook}-vocabulary.json`;
         const dataPath = `${basePath}?t=${timestamp}`;
-        console.log('Fetching from:', dataPath);
+        logger.log('Fetching from:', dataPath);
 
         const response = await fetch(dataPath, { signal: abortController.signal });
         if (!response.ok) {
@@ -131,7 +132,7 @@ export const AppContent: React.FC = () => {
           }));
         }
 
-        console.log(`Loaded ${items.length} items (${data.vocabulary ? 'vocabulary' : 'shadowing'})`);
+        logger.log(`Loaded ${items.length} items (${data.vocabulary ? 'vocabulary' : 'shadowing'})`);
         vocabulary.setDataset(items, vocabularyBook); // Atomically sets currentItem and resets index
         
         // Preserve persisted progress index after refresh (if within bounds)
@@ -145,9 +146,9 @@ export const AppContent: React.FC = () => {
         if (validPersistedIndex && items[startIndex]) {
           vocabulary.setCurrentItem(items[startIndex]);
           audio.setCurrentIndex(startIndex); // Sync audio index
-          console.log(`[App] Restored progress to item ${startIndex + 1}/${items.length}`);
+          logger.log(`[App] Restored progress to item ${startIndex + 1}/${items.length}`);
         } else {
-          console.log(`[App] Starting fresh at item 1/${items.length}`);
+          logger.log(`[App] Starting fresh at item 1/${items.length}`);
         }
 
         // Start practice session for tracking
@@ -163,21 +164,21 @@ export const AppContent: React.FC = () => {
             }
           );
           setCurrentSessionId(sessionId);
-          console.log('[App] Started practice session:', sessionId);
+          logger.log('[App] Started practice session:', sessionId);
 
           // Don't auto-start on initial load - browser blocks audio without user interaction
           // User must click Play button first to enable audio
           // Future navigations will auto-play if settings.autoPlay is enabled
         } catch (error) {
-          console.error('[App] Failed to start session:', error);
+          logger.error('[App] Failed to start session:', error);
           // Non-blocking: app continues to work even if session tracking fails
         }
       } catch (error) {
-        console.error('Error loading vocabulary:', error);
+        logger.error('Error loading vocabulary:', error);
         vocabulary.setLoading(false);
         // Don't show error if aborted (component unmounted)
         if ((error as Error).name === 'AbortError') {
-          console.log('[App] Vocabulary loading cancelled');
+          logger.log('[App] Vocabulary loading cancelled');
           return;
         }
         const errorMessage = error instanceof Error ? error.message : 'Unknown error';
@@ -190,7 +191,7 @@ export const AppContent: React.FC = () => {
     // Enable wake lock to keep screen on during practice (mobile)
     wakeLockService.request().then((acquired) => {
       if (acquired) {
-        console.log('[App] Screen will stay on during practice');
+        logger.log('[App] Screen will stay on during practice');
       }
     });
 
@@ -200,9 +201,9 @@ export const AppContent: React.FC = () => {
       abortController.abort();
       
       if (currentSessionId) {
-        console.log('[App] Completing session on unmount:', currentSessionId);
+        logger.log('[App] Completing session on unmount:', currentSessionId);
         sessionManager.completeSession().catch((err: any) => {
-          console.error('[App] Failed to complete session:', err);
+          logger.error('[App] Failed to complete session:', err);
         });
       }
       // Release wake lock
@@ -252,10 +253,10 @@ export const AppContent: React.FC = () => {
     if (currentIntervention.type === 'difficulty_increase' || currentIntervention.type === 'difficulty_decrease') {
       // User would need to manually change difficulty in settings
       // Could auto-apply here if we had difficulty in global state
-      console.log('[App] User accepted difficulty change:', currentIntervention.metadata?.suggestedDifficulty);
+      logger.log('[App] User accepted difficulty change:', currentIntervention.metadata?.suggestedDifficulty);
     } else if (currentIntervention.type === 'break_reminder' || currentIntervention.type === 'fatigue_warning') {
       // Pause practice (could pause TTS autoplay)
-      console.log('[App] User accepted break');
+      logger.log('[App] User accepted break');
     } else if (currentIntervention.type === 'help_offer') {
       // Open AI Tutor
       setShowAITutor(true);
@@ -438,7 +439,7 @@ export const AppContent: React.FC = () => {
             onClose={() => setShowMigration(false)}
             onComplete={() => {
               setShowMigration(false);
-              console.log('Migration completed successfully');
+              logger.log('Migration completed successfully');
             }}
           />
           <LearnerProfileModal
@@ -446,11 +447,11 @@ export const AppContent: React.FC = () => {
             userId={auth.user?.id || ''}
             onComplete={() => {
               setShowProfileOnboarding(false);
-              console.log('[App] Profile onboarding completed');
+              logger.log('[App] Profile onboarding completed');
             }}
             onSkip={() => {
               setShowProfileOnboarding(false);
-              console.log('[App] Profile onboarding skipped');
+              logger.log('[App] Profile onboarding skipped');
             }}
           />
           <SettingsPanel isOpen={showSettings} onClose={() => setShowSettings(false)} />
