@@ -18,6 +18,8 @@ import React, { useEffect, useRef } from 'react';
 import { appConfig } from '../../config/AppConfig';
 import { ttsEngine } from '../../services/audio/TTSEngine';
 import { useAudioState, useSettings, useVocabulary } from '../../stores';
+import logger from '../../utils/logger';
+import type { PracticeItem, VocabularyTerm } from '../../types/dataset.types';
 import { cleanText } from '../../utils/textUtils';
 
 // Vocabulary books in order for auto-switch feature
@@ -39,6 +41,13 @@ const VOCABULARY_BOOKS = [
   'pte-essay-90plus-filled-terms',
 ];
 
+function getItemText(item: VocabularyTerm | PracticeItem): string {
+  if ('word' in item) return item.word;
+  if ('sentence' in item) return item.sentence;
+  if ('question' in item) return item.question;
+  return 'unknown';
+}
+
 const AudioControls: React.FC = () => {
   const audio = useAudioState();
   const vocabulary = useVocabulary();
@@ -50,7 +59,7 @@ const AudioControls: React.FC = () => {
 
   // Helper function to load next vocabulary book
   const loadNextBook = async (bookId: string) => {
-    console.log('[AudioControls] Loading next book:', bookId);
+    logger.log('[AudioControls] Loading next book:', bookId);
     vocabulary.setLoading(true);
 
     try {
@@ -84,15 +93,15 @@ const AudioControls: React.FC = () => {
       if (filteredDataset.length > 0) {
         audio.setCurrentIndex(0);
         vocabulary.setCurrentItem(filteredDataset[0]);
-        console.log(`[AudioControls] Loaded ${filteredDataset.length} items from ${bookId}`);
+        logger.log(`[AudioControls] Loaded ${filteredDataset.length} items from ${bookId}`);
       } else {
-        console.warn(`[AudioControls] No items in ${bookId} after filtering`);
+        logger.warn(`[AudioControls] No items in ${bookId} after filtering`);
         audio.stopAutoPlay();
       }
 
       vocabulary.setLoading(false);
     } catch (error) {
-      console.error('[AudioControls] Error loading next book:', error);
+      logger.error('[AudioControls] Error loading next book:', error);
       vocabulary.setLoading(false);
       audio.stopAutoPlay();
     }
@@ -103,17 +112,17 @@ const AudioControls: React.FC = () => {
     const effectId = Date.now();
     currentEffectIdRef.current = effectId; // Mark this as the current effect
     
-    console.log(`[AudioControls #${effectId}] 🔄 useEffect TRIGGERED`);
-    console.log(`[AudioControls #${effectId}] 📊 Dependencies:`, {
+    logger.log(`[AudioControls #${effectId}] 🔄 useEffect TRIGGERED`);
+    logger.log(`[AudioControls #${effectId}] 📊 Dependencies:`, {
       isAutoPlaying: audio.isAutoPlaying,
       isPaused: audio.isPaused,
-      currentItem: currentItem ? `"${(currentItem as any).word || (currentItem as any).sentence || (currentItem as any).question || 'unknown'}".substring(0, 30)` : null,
+      currentItem: currentItem ? getItemText(currentItem).substring(0, 30) : null,
       currentIndex: audio.currentIndex
     });
     
     const runAutoPlay = async () => {
       if (!audio.isAutoPlaying || audio.isPaused || !currentItem) {
-        console.log(`[AudioControls #${effectId}] ⏭️ Skipping auto-play:`, {
+        logger.log(`[AudioControls #${effectId}] ⏭️ Skipping auto-play:`, {
           isAutoPlaying: audio.isAutoPlaying,
           isPaused: audio.isPaused,
           hasCurrentItem: !!currentItem
@@ -126,24 +135,23 @@ const AudioControls: React.FC = () => {
       // CRITICAL FIX: Add delay to ensure previous TTS is fully stopped
       // This prevents race condition where new speech starts before old speech stops
       // Even though handleNext/handlePrev now await stopSpeaking(), we add extra safety
-      console.log(`[AudioControls #${effectId}] ⏳ Waiting 200ms before speaking...`);
+      logger.log(`[AudioControls #${effectId}] ⏳ Waiting 200ms before speaking...`);
       await new Promise(resolve => setTimeout(resolve, 200));
       
       // Check if this effect is still the current one (not superseded by a new effect)
       if (currentEffectIdRef.current !== effectId) {
-        console.log(`[AudioControls #${effectId}] ❌ CANCELLED - newer effect #${currentEffectIdRef.current} has taken over`);
+        logger.log(`[AudioControls #${effectId}] ❌ CANCELLED - newer effect #${currentEffectIdRef.current} has taken over`);
         return;
       }
       
-      console.log(`[AudioControls #${effectId}] ✅ 200ms delay complete, proceeding...`);
+      logger.log(`[AudioControls #${effectId}] ✅ 200ms delay complete, proceeding...`);
 
       // Get the word/text to speak
       // For shadowing items, use fullText for natural continuous speech
-      const isShadowingItem = !!(currentItem as any).fullText;
+      const isShadowingItem = 'fullText' in currentItem;
       const textToSpeak = isShadowingItem
-        ? (currentItem as any).fullText.replace(/\|/g, ' ')  // Remove | separators for natural speech
-        : ((currentItem as any).word || (currentItem as any).english ||
-           (currentItem as any).sentence || (currentItem as any).question);
+        ? (currentItem as { fullText: string }).fullText.replace(/\|/g, ' ')
+        : getItemText(currentItem);
 
       if (textToSpeak) {
         // Use filtered dataset if filter is active, otherwise use current dataset
@@ -153,7 +161,7 @@ const AudioControls: React.FC = () => {
 
         // Strip markdown syntax (**, __, etc.) before speaking
         const cleanedText = cleanText(textToSpeak);
-        console.log(`[AudioControls #${effectId}] 🎤 Preparing to speak:`, cleanedText.substring(0, 30), `(${audio.currentIndex + 1}/${dataset?.length || 0})`);
+        logger.log(`[AudioControls #${effectId}] 🎤 Preparing to speak:`, cleanedText.substring(0, 30), `(${audio.currentIndex + 1}/${dataset?.length || 0})`);
 
         try {
           if (appConfig.get('tts.autoSpeak')) {
@@ -162,19 +170,19 @@ const AudioControls: React.FC = () => {
             for (let i = 0; i < repeatCount; i++) {
               // Check if still playing before each repeat
               if (!audio.isAutoPlaying || audio.isPaused || !autoPlayRef.current) {
-                console.log(`[AudioControls #${effectId}] ⏹️ Stopped during repeat ${i + 1}/${repeatCount}`);
+                logger.log(`[AudioControls #${effectId}] ⏹️ Stopped during repeat ${i + 1}/${repeatCount}`);
                 break;
               }
               
               // Check if this effect is still current
               if (currentEffectIdRef.current !== effectId) {
-                console.log(`[AudioControls #${effectId}] ❌ CANCELLED during repeat ${i + 1}/${repeatCount} - superseded by effect #${currentEffectIdRef.current}`);
+                logger.log(`[AudioControls #${effectId}] ❌ CANCELLED during repeat ${i + 1}/${repeatCount} - superseded by effect #${currentEffectIdRef.current}`);
                 break;
               }
               
-              console.log(`[AudioControls #${effectId}] 🔊 Speaking repeat ${i + 1}/${repeatCount}...`);
+              logger.log(`[AudioControls #${effectId}] 🔊 Speaking repeat ${i + 1}/${repeatCount}...`);
               await ttsEngine.speak(cleanedText, null, settings.ttsRate);
-              console.log(`[AudioControls #${effectId}] ✅ Speak complete for repeat ${i + 1}/${repeatCount}`);
+              logger.log(`[AudioControls #${effectId}] ✅ Speak complete for repeat ${i + 1}/${repeatCount}`);
 
               // Small delay between repeats (only if not the last repeat)
               if (i < repeatCount - 1) {
@@ -186,7 +194,7 @@ const AudioControls: React.FC = () => {
           // After speaking, move to next if auto-play is still active
           if (audio.isAutoPlaying && !audio.isPaused && autoPlayRef.current && currentEffectIdRef.current === effectId) {
             const nextIndex = audio.currentIndex + 1;
-            console.log(`[AudioControls #${effectId}] 🔄 Checking if should move to next (current: ${audio.currentIndex}, next: ${nextIndex})`);
+            logger.log(`[AudioControls #${effectId}] 🔄 Checking if should move to next (current: ${audio.currentIndex}, next: ${nextIndex})`);
 
             if (dataset && nextIndex < dataset.length) {
               const nextItem = dataset[nextIndex];
@@ -195,14 +203,14 @@ const AudioControls: React.FC = () => {
                 await new Promise(resolve => setTimeout(resolve, appConfig.get('delays.autoPlayBetweenWords')));
 
                 if (audio.isAutoPlaying && !audio.isPaused && autoPlayRef.current && currentEffectIdRef.current === effectId) {
-                  console.log(`[AudioControls #${effectId}] ⏩ AUTO-NAVIGATING to next item:`, nextIndex + 1);
+                  logger.log(`[AudioControls #${effectId}] ⏩ AUTO-NAVIGATING to next item:`, nextIndex + 1);
                   audio.navigateNext();
                   vocabulary.setCurrentItem(nextItem);
                 } else {
-                  console.log(`[AudioControls #${effectId}] ⏹️ Auto-play stopped or superseded, not navigating`);
+                  logger.log(`[AudioControls #${effectId}] ⏹️ Auto-play stopped or superseded, not navigating`);
                 }
               } else {
-                console.warn(`[AudioControls #${effectId}] ❌ Next item is null at index:`, nextIndex);
+                logger.warn(`[AudioControls #${effectId}] ❌ Next item is null at index:`, nextIndex);
                 audio.stopAutoPlay();
               }
             } else {
@@ -222,7 +230,7 @@ const AudioControls: React.FC = () => {
                     // Load next book in sequence
                     const nextBookId = VOCABULARY_BOOKS[nextIndex];
                     if (nextBookId) {
-                      console.log(`[AudioControls] Auto-switching from ${currentBookId} to ${nextBookId}`);
+                      logger.log(`[AudioControls] Auto-switching from ${currentBookId} to ${nextBookId}`);
 
                       // Pause before switching
                       await new Promise(resolve => setTimeout(resolve, appConfig.get('delays.autoPlayRestartPause')));
@@ -236,7 +244,7 @@ const AudioControls: React.FC = () => {
                     // Reached last book
                     if (audio.repeatMode) {
                       // Loop back to first book
-                      console.log('[AudioControls] Reached last book - looping back to first book');
+                      logger.log('[AudioControls] Reached last book - looping back to first book');
                       const firstBookId = VOCABULARY_BOOKS[0];
 
                       if (firstBookId) {
@@ -248,17 +256,17 @@ const AudioControls: React.FC = () => {
                       }
                     } else {
                       // Stop at end of last book
-                      console.log('[AudioControls] Auto-switch finished - reached end of all books');
+                      logger.log('[AudioControls] Auto-switch finished - reached end of all books');
                       audio.stopAutoPlay();
                     }
                   }
                 } else {
-                  console.error('[AudioControls] Current book not found in book list:', currentBookId);
+                  logger.error('[AudioControls] Current book not found in book list:', currentBookId);
                   audio.stopAutoPlay();
                 }
               } else if (audio.repeatMode) {
                 // Standard repeat mode: loop back to start of current book
-                console.log('[AudioControls] Repeat mode ON - looping back to start of current book');
+                logger.log('[AudioControls] Repeat mode ON - looping back to start of current book');
                 const firstItem = dataset?.[0];
                 if (firstItem && dataset) {
                   // Pause before restarting (from config)
@@ -266,28 +274,28 @@ const AudioControls: React.FC = () => {
                   if (audio.isAutoPlaying && !audio.isPaused && autoPlayRef.current) {
                     audio.setCurrentIndex(0);
                     vocabulary.setCurrentItem(firstItem);
-                    console.log('[AudioControls] Restarted from beginning (item 1/' + dataset.length + ')');
+                    logger.log('[AudioControls] Restarted from beginning (item 1/' + dataset.length + ')');
                   }
                 } else {
-                  console.error('[AudioControls] Cannot restart - no first item');
+                  logger.error('[AudioControls] Cannot restart - no first item');
                   audio.stopAutoPlay();
                 }
               } else {
                 // Repeat mode disabled: stop at end of current book
-                console.log('[AudioControls] Auto-play finished - reached end of dataset');
+                logger.log('[AudioControls] Auto-play finished - reached end of dataset');
                 audio.stopAutoPlay();
               }
             }
           } else {
-            console.log('[AudioControls] Auto-play stopped by user or paused');
+            logger.log('[AudioControls] Auto-play stopped by user or paused');
           }
         } catch (error) {
-          console.error('[AudioControls] Auto-play error:', error);
+          logger.error('[AudioControls] Auto-play error:', error);
           audio.stopAutoPlay();
         }
       } else {
         // Silently skip if no item - happens during initial load
-        console.debug('[AudioControls] Waiting for current item to load...');
+        logger.debug('[AudioControls] Waiting for current item to load...');
       }
     };
 
@@ -303,7 +311,7 @@ const AudioControls: React.FC = () => {
   // Handle play button click
   const handlePlay = () => {
     if (!currentItem) {
-      console.warn('[AudioControls] No current item to play');
+      logger.warn('[AudioControls] No current item to play');
       return;
     }
 
@@ -312,7 +320,7 @@ const AudioControls: React.FC = () => {
 
   // Handle pause button click
   const handlePause = () => {
-    console.log('[AudioControls] ⏸️ handlePause() called');
+    logger.log('[AudioControls] ⏸️ handlePause() called');
     audio.pauseAutoPlay();
     // Stop any currently playing TTS (fire-and-forget since this is pause)
     ttsEngine.stopSpeaking();
@@ -321,13 +329,13 @@ const AudioControls: React.FC = () => {
   // Handle next button
   const handleNext = async () => {
     const timestamp = Date.now();
-    console.log(`[AudioControls @${timestamp}] ⏩ handleNext() called`);
-    console.log(`[AudioControls @${timestamp}] 📊 Current state: index=${audio.currentIndex}, isAutoPlaying=${audio.isAutoPlaying}`);
+    logger.log(`[AudioControls @${timestamp}] ⏩ handleNext() called`);
+    logger.log(`[AudioControls @${timestamp}] 📊 Current state: index=${audio.currentIndex}, isAutoPlaying=${audio.isAutoPlaying}`);
     
     // CRITICAL FIX: Await stopSpeaking to ensure speech fully stops
-    console.log(`[AudioControls @${timestamp}] 🛑 Calling stopSpeaking()...`);
+    logger.log(`[AudioControls @${timestamp}] 🛑 Calling stopSpeaking()...`);
     await ttsEngine.stopSpeaking();
-    console.log(`[AudioControls @${timestamp}] ✅ stopSpeaking() complete`);
+    logger.log(`[AudioControls @${timestamp}] ✅ stopSpeaking() complete`);
     
     // Use filtered dataset if filter is active
     const dataset = difficultyFilter !== 'all'
@@ -338,10 +346,10 @@ const AudioControls: React.FC = () => {
       if (nextIndex < dataset.length) {
         const nextItem = dataset[nextIndex];
         if (nextItem) {
-          console.log(`[AudioControls @${timestamp}] 📝 Updating to index ${nextIndex}: "${(nextItem as any).word || (nextItem as any).sentence || 'unknown'}".substring(0, 30)`);
+          logger.log(`[AudioControls @${timestamp}] 📝 Updating to index ${nextIndex}: "${getItemText(nextItem)}".substring(0, 30)`);
           audio.navigateNext();
           vocabulary.setCurrentItem(nextItem);
-          console.log(`[AudioControls @${timestamp}] ✅ State updated, useEffect should trigger now`);
+          logger.log(`[AudioControls @${timestamp}] ✅ State updated, useEffect should trigger now`);
         }
       }
     }
@@ -350,13 +358,13 @@ const AudioControls: React.FC = () => {
   // Handle previous button
   const handlePrev = async () => {
     const timestamp = Date.now();
-    console.log(`[AudioControls @${timestamp}] ⏪ handlePrev() called`);
-    console.log(`[AudioControls @${timestamp}] 📊 Current state: index=${audio.currentIndex}, isAutoPlaying=${audio.isAutoPlaying}`);
+    logger.log(`[AudioControls @${timestamp}] ⏪ handlePrev() called`);
+    logger.log(`[AudioControls @${timestamp}] 📊 Current state: index=${audio.currentIndex}, isAutoPlaying=${audio.isAutoPlaying}`);
     
     // CRITICAL FIX: Await stopSpeaking to ensure speech fully stops
-    console.log(`[AudioControls @${timestamp}] 🛑 Calling stopSpeaking()...`);
+    logger.log(`[AudioControls @${timestamp}] 🛑 Calling stopSpeaking()...`);
     await ttsEngine.stopSpeaking();
-    console.log(`[AudioControls @${timestamp}] ✅ stopSpeaking() complete`);
+    logger.log(`[AudioControls @${timestamp}] ✅ stopSpeaking() complete`);
     
     // Use filtered dataset if filter is active
     const dataset = difficultyFilter !== 'all'

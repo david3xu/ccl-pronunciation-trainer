@@ -15,13 +15,21 @@ import { isPremiumTTSAvailable } from '../../services/audio/pollyService';
 import { ttsEngine } from '../../services/audio/TTSEngine';
 import type { SessionManager } from '../../services/session/sessionManager';
 import { useTTSState } from '../../stores';
+import logger from '../../utils/logger';
 import type { ItemType } from '../../types/database';
 import type { PracticeItem, VocabularyTerm } from '../../types/dataset.types';
 import { parseAnswerForDisplay } from '../../utils/templateParser';
 import { cleanText } from '../../utils/textUtils';
 
+interface ShadowingItem {
+  fullText: string;
+  phrases?: string[];
+  template?: string;
+  id?: string;
+}
+
 interface WordCardProps {
-  item: VocabularyTerm | PracticeItem;
+  item: VocabularyTerm | PracticeItem | ShadowingItem;
   sessionManager?: SessionManager;
   onItemComplete?: () => void;
 }
@@ -46,45 +54,29 @@ const WordCard: React.FC<WordCardProps> = ({ item, sessionManager, onItemComplet
 
   // Extract relevant fields - support both old and new field names
   const displayText = isVocabularyTerm
-    ? ((item as any).word || (item as any).english)
+    ? ('word' in item ? item.word : '')
     : isPracticeSentence
-    ? 'sentence' in item ? item.sentence : ''
-    : 'question' in item ? item.question : '';
+    ? ('sentence' in item ? item.sentence : '')
+    : ('question' in item ? item.question : '');
 
   const difficulty = 'difficulty' in item
     ? item.difficulty
     : ('metadata' in item && item.metadata?.difficulty) || 'normal';
 
   // Check if this is a shadowing item (has fullText or phrases)
-  const isShadowingItem = (item as any).fullText || (item as any).phrases;
-  const fullAnswerText = (item as any).fullText;
+  const isShadowingItem = 'fullText' in item;
+  const fullAnswerText = isShadowingItem ? (item as ShadowingItem).fullText : undefined;
 
   // Handle both 'ipa' and 'pronunciation' field names
   // JSON format: pronunciation.british.ipa vs type format: ipa.british
   // Also handle single IPA format: pronunciation.ipa (not nested)
-  const rawItem = item as any;
-  const ipa = isVocabularyTerm
-    ? (rawItem.ipa || (rawItem.pronunciation ? {
-        // If pronunciation has direct ipa/phonetic (single format), use as single
-        // Otherwise check for british/american nested format
-        british: rawItem.pronunciation.british?.ipa,
-        american: rawItem.pronunciation.american?.ipa,
-        single: rawItem.pronunciation.ipa || rawItem.pronunciation.single?.ipa
-      } : null))
-    : null;
-
-  // Extract phonetic spelling
-  const phonetic = isVocabularyTerm
-    ? (rawItem.phonetic || (rawItem.pronunciation ? {
-        british: rawItem.pronunciation.british?.phonetic,
-        american: rawItem.pronunciation.american?.phonetic,
-        single: rawItem.pronunciation.phonetic || rawItem.pronunciation.single?.phonetic
-      } : null))
-    : null;
+  const vocabItem = isVocabularyTerm ? (item as VocabularyTerm) : null;
+  const ipa = vocabItem?.ipa ?? null;
+  const phonetic = vocabItem?.phonetic ?? null;
 
   // Handle TTS playback
   const handleSpeak = async (_mode: 'word' | 'sentence' | 'question' = 'word', accent?: 'british' | 'american') => {
-    console.log('[WordCard] handleSpeak called:', { displayText, accent, usePremiumTTS, premiumAvailable });
+    logger.log('[WordCard] handleSpeak called:', { displayText, accent, usePremiumTTS, premiumAvailable });
 
     // Track play count for session
     const newPlayCount = playCount + 1;
@@ -97,12 +89,12 @@ const WordCard: React.FC<WordCardProps> = ({ item, sessionManager, onItemComplet
       // Use free browser TTS via TTSEngine
       // Strip markdown syntax before speaking
       const cleanedText = cleanText(displayText);
-      console.log('[WordCard] Calling ttsEngine.pronounceText with:', cleanedText);
+      logger.log('[WordCard] Calling ttsEngine.pronounceText with:', cleanedText);
       try {
         await ttsEngine.pronounceText(cleanedText, 'en-US', null);
-        console.log('[WordCard] ttsEngine.pronounceText completed');
+        logger.log('[WordCard] ttsEngine.pronounceText completed');
       } catch (error) {
-        console.error('[WordCard] TTS error:', error);
+        logger.error('[WordCard] TTS error:', error);
       }
     }
 
@@ -113,20 +105,20 @@ const WordCard: React.FC<WordCardProps> = ({ item, sessionManager, onItemComplet
         const itemType: ItemType = isVocabularyTerm ? 'word' : isPracticeSentence ? 'sentence' : 'question';
 
         await sessionManager.recordItem({
-          item_id: (item as any).id || `${displayText}-${Date.now()}`,
+          item_id: ('id' in item && typeof item.id === 'string') ? item.id : `${displayText}-${Date.now()}`,
           item_type: itemType,
           item_text: displayText,
           attempts: newPlayCount,
           time_spent_sec: timeSpent,
         });
-        console.log('[WordCard] Recorded item interaction');
+        logger.log('[WordCard] Recorded item interaction');
 
         // Notify parent component that item was completed (for intervention monitoring)
         if (onItemComplete) {
           onItemComplete();
         }
       } catch (error) {
-        console.error('[WordCard] Failed to record item:', error);
+        logger.error('[WordCard] Failed to record item:', error);
       }
     }
   };
@@ -192,7 +184,7 @@ const WordCard: React.FC<WordCardProps> = ({ item, sessionManager, onItemComplet
         audio.removeEventListener('error', handleError);
       }
     } catch (error) {
-      console.error('Premium TTS playback failed:', error);
+      logger.error('Premium TTS playback failed:', error);
       setIsPlayingPremium(false);
       // Fallback to browser TTS (cleanText)
       const cleanedText = cleanText(displayText);
@@ -205,7 +197,7 @@ const WordCard: React.FC<WordCardProps> = ({ item, sessionManager, onItemComplet
     easy: 'green',
     normal: 'blue',
     hard: 'red',
-  }[difficulty as string] || 'gray';
+  }[difficulty] || 'gray';
 
   const isSpeaking = usePremiumTTS ? isPlayingPremium : ttsState.isSpeaking;
 
@@ -214,12 +206,12 @@ const WordCard: React.FC<WordCardProps> = ({ item, sessionManager, onItemComplet
       {/* Header with difficulty badge */}
       <Flex justify="between" align="center" mb="4" wrap="wrap" gap="2">
         <Flex gap="2" align="center">
-          <Badge color={difficultyColor as any} size="2">
+          <Badge color={difficultyColor as "green" | "blue" | "red" | "gray"} size="2">
             {difficulty}
           </Badge>
-          {isVocabularyTerm && (item as any).category && (
+          {vocabItem?.category && (
             <Badge color="gray" size="2" variant="soft">
-              {(item as any).category}
+              {vocabItem.category}
             </Badge>
           )}
         </Flex>
@@ -414,25 +406,25 @@ const WordCard: React.FC<WordCardProps> = ({ item, sessionManager, onItemComplet
         )}
 
         {/* Additional metadata */}
-        {isVocabularyTerm && (item as any).definition && (
+        {vocabItem?.definition && (
           <Flex direction="column" gap="2" mt="2">
             <Text size="2" color="gray" weight="medium">
               Definition
             </Text>
             <Text size="3" color="gray">
-              {(item as any).definition}
+              {vocabItem.definition}
             </Text>
           </Flex>
         )}
 
         {/* Full DI Answer Display (for shadowing mode) */}
         {isShadowingItem && fullAnswerText && (() => {
-          const template = (item as any).template || 'A';
+          const template = isShadowingItem ? ((item as ShadowingItem).template || 'A') : 'A';
           const parsed = parseAnswerForDisplay(fullAnswerText, template);
 
-          console.log('[WordCard] Template:', template);
-          console.log('[WordCard] Parsed sentences:', parsed.sentences.length);
-          console.log('[WordCard] First sentence segments:', parsed.sentences[0]?.segments);
+          logger.log('[WordCard] Template:', template);
+          logger.log('[WordCard] Parsed sentences:', parsed.sentences.length);
+          logger.log('[WordCard] First sentence segments:', parsed.sentences[0]?.segments);
 
           return (
             <Flex direction="column" gap="3" mt="4" className="bg-app-bg-card p-4 rounded-lg border border-app-border">
@@ -482,7 +474,7 @@ const WordCard: React.FC<WordCardProps> = ({ item, sessionManager, onItemComplet
 
                       // Debug log for first sentence
                       if (sentenceIdx === 0 && segmentIdx < 3) {
-                        console.log(`[WordCard] Segment ${segmentIdx}:`, {
+                        logger.log(`[WordCard] Segment ${segmentIdx}:`, {
                           text: segment.text,
                           type: segment.type,
                           words: words.length
