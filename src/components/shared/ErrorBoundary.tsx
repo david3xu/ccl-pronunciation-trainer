@@ -66,8 +66,17 @@ export class ErrorBoundary extends Component<Props, State> {
       this.props.onError(error, errorInfo);
     }
 
-    // TODO: Send error to analytics/monitoring service
-    // Example: Sentry.captureException(error, { contexts: { react: { componentStack: errorInfo.componentStack } } });
+    // Send error to analytics if available
+    if (typeof window !== 'undefined' && (window as any).analyticsService) {
+      try {
+        (window as any).analyticsService.track('error_boundary_caught', {
+          error: error.message,
+          componentStack: errorInfo.componentStack?.substring(0, 500),
+        });
+      } catch {
+        // Analytics failure should not block error handling
+      }
+    }
   }
 
   /**

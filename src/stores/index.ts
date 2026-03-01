@@ -310,6 +310,7 @@ export const useAppStore = create<AppState>()(
             sessionDuration: 0,
             itemsCompleted: 0,
             itemsCorrect: 0,
+            currentStreak: 0,
             markItemCompleted: (itemId, isCorrect) => {
               const state = get().progress;
               const newCompleted = new Set(state.completedItems);
@@ -317,6 +318,7 @@ export const useAppStore = create<AppState>()(
               const newItemsCompleted = state.itemsCompleted + 1;
               const newItemsCorrect = isCorrect ? state.itemsCorrect + 1 : state.itemsCorrect;
               const accuracy = newItemsCompleted > 0 ? Math.round((newItemsCorrect / newItemsCompleted) * 10000) / 100 : 0;
+              const currentStreak = isCorrect ? state.currentStreak + 1 : 0;
               set((s) => ({
                 progress: {
                   ...s.progress,
@@ -324,6 +326,7 @@ export const useAppStore = create<AppState>()(
                   itemsCompleted: newItemsCompleted,
                   itemsCorrect: newItemsCorrect,
                   accuracy,
+                  currentStreak,
                 }
               }));
             },
@@ -337,6 +340,7 @@ export const useAppStore = create<AppState>()(
                 sessionDuration: 0,
                 itemsCompleted: 0,
                 itemsCorrect: 0,
+                currentStreak: 0,
                 completedItems: new Set(),
               }
             })),
@@ -381,6 +385,7 @@ export const useAppStore = create<AppState>()(
                 sessionDuration: 0,
                 itemsCompleted: 0,
                 itemsCorrect: 0,
+                currentStreak: 0,
               }
             })),
             calculateAccuracy: () => {

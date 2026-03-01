@@ -156,6 +156,7 @@ export interface ProgressState {
   sessionDuration: number;
   itemsCompleted: number;
   itemsCorrect: number;
+  currentStreak: number;
 
   // Actions
   markItemCompleted: (itemId: string, isCorrect: boolean) => void;

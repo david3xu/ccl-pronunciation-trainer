@@ -156,7 +156,7 @@ const RSInterface: React.FC<RSInterfaceProps> = ({
 
   // Process recording (simulate AI feedback)
   const processRecording = async () => {
-    // TODO: Implement full speech-to-text transcription
+    // Speech-to-text transcription requires SpeechRecognition API (browser support varies)
     // This currently uses simplified scoring based on recording quality metrics.
     // Future implementation will:
     // 1. Send audio to speech recognition API
@@ -197,7 +197,7 @@ const RSInterface: React.FC<RSInterfaceProps> = ({
           item_id: itemId,
           item_type: 'sentence' as ItemType,
           item_text: sentence,
-          user_response: '', // TODO: Add actual transcription when available
+          user_response: '', // Requires SpeechRecognition API for actual transcription
           score: mockFeedback.score,
           is_correct: mockFeedback.score >= 70,
           attempts: 1,

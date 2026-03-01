@@ -509,7 +509,7 @@ export const AppContent: React.FC = () => {
               sessionStats={{
                 itemsCompleted: progress.itemsCompleted,
                 accuracy: progress.accuracy,
-                currentStreak: 0, // TODO: Add currentStreak to progress store
+                currentStreak: progress.currentStreak,
               }}
             />
           </Suspense>

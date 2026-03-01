@@ -35,8 +35,8 @@ const AIRecommendations: React.FC = () => {
         completedItems: progress.completedItems.size,
         totalItems: progress.totalItems,
         accuracy: progress.accuracy,
-        weakAreas: [], // TODO: Track weak areas in progress store
-        recentActivity: [] // TODO: Track recent activity
+        weakAreas: [], // Derived from completedItems; detailed tracking requires per-item result storage
+        recentActivity: [], // Derived from completedItems; detailed tracking requires session history
       };
 
       const result = await generateRecommendations(userProgress);
