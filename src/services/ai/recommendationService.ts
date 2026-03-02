@@ -33,6 +33,14 @@ export interface Recommendation {
   estimatedTime?: string;
 }
 
+function mapDifficultyToPriority(difficulty: string | undefined): 'high' | 'medium' | 'low' {
+  switch (difficulty) {
+    case 'hard': return 'high';
+    case 'easy': return 'low';
+    default: return 'medium';
+  }
+}
+
 /**
  * Generate personalized recommendations via the server-side API.
  * The server holds the Gemini API key — nothing is exposed to the client.
@@ -61,12 +69,12 @@ export async function generateRecommendations(
     if (result.success && Array.isArray(result.data)) {
       return result.data.map((item: Record<string, unknown>) => ({
         type: (item['type'] as string) || 'vocabulary',
-        priority: (item['priority'] as string) || 'medium',
+        priority: mapDifficultyToPriority(item['difficulty'] as string),
         category: (item['category'] as string) || 'pte-intermediate',
         practiceMode: item['practiceMode'] as string | undefined,
         reason: (item['reason'] as string) || 'Recommended for your progress level',
-        specificItems: item['specificItems'] as string[] | undefined,
-        estimatedTime: item['estimatedTime'] as string | undefined,
+        specificItems: item['word'] ? [item['word'] as string] : (item['specificItems'] as string[] | undefined),
+        estimatedTime: (item['estimatedTime'] as string) || '10 minutes',
       }));
     }
 

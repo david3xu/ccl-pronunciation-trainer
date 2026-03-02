@@ -34,6 +34,15 @@ root.render(
 
 logger.log('✅ React app mounted successfully');
 
+// Initialize analytics (PostHog) if API key is configured
+import { analyticsService } from './services/analytics/analyticsService';
+const posthogKey = import.meta.env['VITE_POSTHOG_API_KEY'];
+if (posthogKey && posthogKey !== 'phc_your-api-key-here') {
+  analyticsService.initialize(posthogKey, {
+    api_host: import.meta.env['VITE_POSTHOG_HOST'] || 'https://app.posthog.com',
+  });
+}
+
 // Register service worker for offline caching and PWA functionality
 // Using vite-plugin-pwa for automatic updates
 import { registerSW } from 'virtual:pwa-register';

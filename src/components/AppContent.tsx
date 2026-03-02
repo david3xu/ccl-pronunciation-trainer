@@ -72,6 +72,11 @@ export const AppContent: React.FC = () => {
   useEffect(() => {
     logger.log('React App mounted');
 
+    // Restore Supabase auth session if available
+    auth.initialize().catch((err: unknown) => {
+      logger.error('[App] Auth initialization failed:', err);
+    });
+
     // AbortController for fetch cancellation on unmount
     const abortController = new AbortController();
 
