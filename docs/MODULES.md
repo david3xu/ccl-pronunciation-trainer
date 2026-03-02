@@ -1,136 +1,105 @@
-# Module Structure & Interactions
+# Module Interactions
 
-This document details the internal module structure of the application, explaining how different parts interact to deliver the user experience.
+## Architecture Layers
 
-## 🗺️ Module Interaction Map
-
-The application follows a unidirectional data flow pattern, primarily driven by the **Zustand Store**.
-
-```mermaid
-graph TD
-    subgraph "UI Layer (Components)"
-        Page[Pages]
-        AI[ai/ - AITutorChat, Recommendations]
-        Audio[audio/ - AudioControls, VoiceSelector]
-        Practice[practice/ - WordCard, RSInterface, WFDInterface]
-        Settings[settings/ - SettingsPanel]
-        Shared[shared/ - Skeleton, ToastProvider]
-    end
-
-    subgraph "State Layer (Zustand)"
-        Store[App Store]
-        Slice1[Audio Slice]
-        Slice2[Vocabulary Slice]
-        Slice3[Auth Slice]
-        Slice4[Progress Slice]
-        Slice5[Settings Slice]
-        Slice6[TTS Slice]
-        Slice7[UI Slice]
-    end
-
-    subgraph "Service Layer"
-        AuthSvc[supabase/authService]
-        SyncSvc[supabase/syncService]
-        SessionSvc[session/sessionManager]
-        TTSSvc[audio/TTSEngine]
-        AISvc[ai/recommendationEngine]
-        AnalyticsSvc[analytics/analyticsService]
-        ProfileSvc[profile/learnerProfileService]
-        MigrationSvc[migration/]
-        DeviceSvc[device/]
-    end
-
-    subgraph "Data/Infrastructure"
-        Supabase[(Supabase DB)]
-        LocalStorage[(LocalStorage)]
-        PollyAPI[AWS Polly API]
-        GeminiAPI[Google Gemini API]
-    end
-
-    %% Component to Store interactions
-    Page --> Store
-    AI --> Store
-    Practice --> Store
-    Audio --> Store
-
-    %% Store updates slices
-    Store --> Slice1
-    Store --> Slice2
-    Store --> Slice3
-    Store --> Slice4
-    Store --> Slice5
-
-    %% Service calls
-    Slice3 --> AuthSvc
-    Slice3 --> SyncSvc
-    Practice --> SessionSvc
-    Audio --> TTSSvc
-
-    %% External API calls
-    AuthSvc --> Supabase
-    SyncSvc --> Supabase
-    SessionSvc --> LocalStorage
-    TTSSvc --> PollyAPI
-    AISvc --> GeminiAPI
+```
+┌─────────────────────────────────────┐
+│           UI Layer                  │
+│     src/components/                 │
+├─────────────────────────────────────┤
+│         State Layer                 │
+│     src/stores/                     │
+├─────────────────────────────────────┤
+│        Service Layer                │
+│     src/services/                   │
+├─────────────────────────────────────┤
+│          API Layer                  │
+│     api/ (serverless)               │
+├─────────────────────────────────────┤
+│         Data Layer                  │
+│   scripts/ → data/processed/        │
+└─────────────────────────────────────┘
 ```
 
-## 🧩 Core Modules
+## UI Layer (`src/components/`)
 
-### 1. State Management (`src/stores`)
-The application uses **Zustand** for global state management. The store is divided into 7 "slices" for better organization:
+`AppContent` is the root coordinator that determines which interface to render based on the current practice mode.
 
-- **`audio`**: Controls playback state (playing, paused, speed, volume).
-- **`tts`**: Manages Text-to-Speech state (current voice, speaking status).
-- **`vocabulary`**: Handles the list of words, filtering, and pagination.
-- **`progress`**: Tracks user progress within the current session.
-- **`auth`**: Manages user authentication state and user profile.
-- **`settings`**: Persists user preferences (theme, auto-play, etc.).
-- **`ui`**: Manages UI state (modals, notifications, loading states).
+Feature-grouped directories:
 
-**Interaction**: Components use custom hooks (e.g., `useAudioState`, `useVocabulary`, `useAuth`) to subscribe to specific slices. This prevents unnecessary re-renders.
+| Directory | Purpose |
+|-----------|---------|
+| `ai/` | AI tutor chat, scoring, recommendations, interventions |
+| `audio/` | Playback controls, voice selectors |
+| `practice/` | WordCard, RS/ASQ/WFD interfaces, progress tracking |
+| `settings/` | Settings panel |
+| `shared/` | Onboarding modal, skeleton loaders |
+| `migration/` | Local-to-cloud data migration |
+| `profile/` | Learner profile and onboarding wizard |
 
-### 2. Session Management (`src/services/session`)
-The **SessionManager** is a critical singleton service that handles the practice lifecycle.
+AI components (`ai/`) are **lazy-loaded** to reduce initial bundle size.
 
-**Key Features**:
-- **Offline-First**: Writes to `localStorage` immediately as a backup.
-- **Queueing**: If offline, sessions are queued in `localForage`.
-- **Sync**: Automatically syncs queued sessions to Supabase when online.
+## State Layer (`src/stores/`)
 
-**Lifecycle Flow**:
-1.  `startSession()`: Generates ID, initializes state.
-2.  `recordItem()`: Adds attempt to current session, saves to local backup.
-3.  `completeSession()`: Calculates metrics, saves to Supabase (if online) or Queue (if offline).
+Single Zustand store with 7 slices:
 
-### 3. Audio & TTS (`src/services/audio`)
-The audio module handles pronunciation playback.
+| Slice | Responsibility |
+|-------|---------------|
+| `audio` | Playback state, speed, repeat mode, navigation |
+| `tts` | Speech synthesis state, current word, selected voice |
+| `settings` | User preferences, vocabulary book, theme |
+| `vocabulary` | Current dataset, items, filtered data |
+| `progress` | Learning progress, accuracy, completion |
+| `ui` | Modal visibility, sidebar state |
+| `auth` | User session, Supabase authentication |
 
-- **Strategy**: Hybrid (Premium vs. Browser).
-- **Premium**: Uses AWS Polly (requires API keys). Audio is fetched as a blob and played.
-- **Fallback**: Uses the browser's native `SpeechSynthesis` API if Polly is unconfigured or fails.
+**Reading state**: Components use selector hooks (`useSettings()`, `useVocabulary()`, etc.) for fine-grained subscriptions.
 
-### 4. AI Tutor (`src/services/ai`)
-Provides personalized feedback and chat functionality.
+**Writing state**: Services access the store imperatively via `useAppStore.getState()`.
 
-- **Architecture**: Client -> Proxy/Middleware -> Google Gemini.
-- **Context**: The client sends the conversation history and the current "Context" (the word being practiced) to the AI to ensure relevant responses.
+## Service Layer (`src/services/`)
 
-## 🔄 Data Flow Scenarios
+Business logic separated from UI concerns:
 
-### Scenario A: User Practices a Word
-1.  **User** clicks "Play" on a Word Card.
-2.  **Component** calls `audio.play()`.
-3.  **Store** updates `audio.isPlaying` to `true`.
-4.  **Audio Service** fetches audio (Polly) or speaks (Browser).
-5.  **User** records pronunciation.
-6.  **Component** calls `SessionManager.recordItem()` with the result.
-7.  **SessionManager** saves the result locally and queues it for sync.
+| Service | Responsibility |
+|---------|---------------|
+| `ai/` | Recommendation engine, intervention engine, weak area detection |
+| `audio/TTSEngine.ts` | Web Speech API wrapper |
+| `audio/pollyService.ts` | AWS Polly neural voice integration |
+| `supabase/authService.ts` | Sign up, sign in, sign out |
+| `supabase/syncService.ts` | Progress sync across devices |
+| `supabase/autoSyncManager.ts` | Background auto-sync |
+| `analytics/analyticsService.ts` | PostHog event tracking |
+| `session/sessionManager.ts` | Practice session lifecycle |
+| `profile/learnerProfileService.ts` | User profile management |
 
-### Scenario B: User Logs In
-1.  **User** enters credentials.
-2.  **Auth Slice** calls `authService.signIn()`.
-3.  **Auth Service** communicates with Supabase Auth.
-4.  **On Success**:
-    - Store updates `auth.user` and `auth.session`.
-    - `SyncService` is triggered to pull user data (settings, history).
-    - Analytics service identifies the user.
+## API Layer (`api/`)
+
+Vercel serverless functions that hold API keys server-side and proxy requests:
+
+- Gemini AI chat and recommendations
+- AWS Polly text-to-speech
+- Supabase admin operations
+
+Client-side code never accesses third-party APIs directly for key-protected services.
+
+## Data Layer
+
+### Build-time Pipeline
+
+`scripts/pte-data-pipeline.js` processes markdown source files into JSON:
+
+```
+data/source/pte/*.md  →  data/processed/*.json
+```
+
+Extractors (in `archive/vanilla-js-legacy/data/extractors/`):
+- `PTETermsExtractor.js` — dual IPA (British + American)
+- `SingleIPATermsExtractor.js` — single IPA
+- `PTESentenceExtractor.js` — RS/WFD sentences
+- `PTEQuestionExtractor.js` — ASQ questions
+- `DIAnswerExtractor.js` — DI shadowing answers
+
+### Runtime
+
+`vocabularyLoader` fetches processed JSON files on demand and caches them in memory. Datasets are loaded lazily when the user switches vocabulary books or practice modes.

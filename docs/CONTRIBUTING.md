@@ -1,54 +1,75 @@
-# Contributing Guidelines
+# Contributing
 
-We welcome contributions to the PTE Pronunciation Trainer! Please follow these guidelines to ensure a smooth collaboration process.
+## Getting Started
 
-## 👩‍💻 Development Workflow
+1. Fork the repository
+2. Clone your fork
+3. Install dependencies: `npm install`
+4. Create a branch from `main`
 
-1.  **Fork & Clone**: Fork the repository and clone it locally.
-2.  **Branching**: Create a new branch for your feature or fix.
-    ```bash
-    git checkout -b feature/my-new-feature
-    # or
-    git checkout -b fix/bug-description
-    ```
-3.  **Commit Messages**: Use conventional commits.
-    - `feat: add new voice settings`
-    - `fix: resolve audio playback issue`
-    - `docs: update setup guide`
-    - `style: format code`
-    - `refactor: simplify auth logic`
+## Branch Naming
 
-## 🎨 Code Style
+- `feature/<description>` — new features
+- `fix/<description>` — bug fixes
 
-- **TypeScript**: We use TypeScript for type safety. Avoid `any` whenever possible.
-- **Formatting**: Code is formatted using Prettier. Run `npm run lint` to check for issues.
-- **Naming**:
-  - Components: PascalCase (e.g., `AudioPlayer.tsx`)
-  - Functions/Variables: camelCase (e.g., `playAudio`)
-  - Constants: UPPER_SNAKE_CASE (e.g., `MAX_RETRIES`)
+## Commit Messages
 
-## 🧪 Testing
+Use [Conventional Commits](https://www.conventionalcommits.org/):
 
-- Write unit tests for new logic using Vitest.
-- Ensure all tests pass before submitting a PR.
+```
+feat: add new vocabulary book
+fix: correct TTS playback speed
+docs: update architecture guide
+refactor: simplify store slice
+```
+
+## Code Standards
+
+### TypeScript
+
+- **Strict mode** is enforced — do not weaken `tsconfig.json` settings
+- Avoid `any` — use proper types or `unknown` with type guards
+- Type guards are available in `src/utils/validation/guards.ts`
+
+### Logging
+
+Use the structured logger instead of raw `console.*` calls:
+
+```typescript
+import { logger } from '../utils/logger';
+
+logger.info('Data loaded', { count: items.length });
+logger.error('Failed to fetch', { error });
+```
+
+### Analytics
+
+Use the analytics getter instead of accessing the global directly:
+
+```typescript
+import { getAnalytics } from '../services/analytics/getAnalytics';
+
+getAnalytics()?.track('event_name', { property: 'value' });
+```
+
+Do **not** use `(window as any).analyticsService`.
+
+## File Conventions
+
+| Type | Location |
+|------|----------|
+| React components | `src/components/<feature>/` |
+| Custom hooks | `src/hooks/` |
+| State management | `src/stores/` |
+| Business logic | `src/services/` |
+| TypeScript types | `src/types/` |
+| Utilities | `src/utils/` |
+
+## Before Submitting a PR
+
 ```bash
+npm run lint
 npm test
 ```
 
-## 📁 File Structure Conventions
-
-- **Components**: Place co-located styles or sub-components in the same folder if they are tightly coupled.
-- **Hooks**: Custom hooks go in `src/hooks` and start with `use`.
-- **State**: Global state slices go in `src/stores`.
-
-## 📝 Documentation
-
-- Update `README.md` or relevant docs in `docs/` if you change functionality.
-- Add JSDoc comments to complex functions.
-
-## 🚀 Pull Requests
-
-1.  Push your branch to GitHub.
-2.  Open a Pull Request against the `main` branch.
-3.  Describe your changes and link to any relevant issues.
-4.  Wait for code review and address feedback.
+Both must pass. The pre-commit hook enforces this automatically.

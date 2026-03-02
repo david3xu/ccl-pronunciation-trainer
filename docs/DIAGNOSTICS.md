@@ -1,62 +1,60 @@
-# Diagnostics & Improvement Recommendations
+# Diagnostics
 
-## 📊 Executive Summary
+## Strengths
 
-**Overall Health**: 🟢 **Good** (With areas for optimization)
+- **Modern stack**: React 19, Vite 7, TypeScript strict mode
+- **Graceful degradation**: The app works without any external services (Supabase, Polly, Gemini). Features degrade individually rather than crashing.
+- **Good state management**: Zustand with persistence middleware. Fine-grained subscriptions prevent unnecessary re-renders.
+- **Typed codebase**: Zod schemas and type guards (`src/utils/validation/guards.ts`) validate runtime data.
 
-The **PTE Pronunciation Trainer** is a sophisticated, modern Progressive Web App (PWA) that leverages a cutting-edge technology stack (React 19, Vite 7). It demonstrates a strong architectural foundation with its **offline-first** strategy and clear separation of concerns between UI, State (Zustand), and Services.
+## Known Issues
 
-**Key Strengths**:
-- **Architecture**: Robust offline support using `localForage` and background synchronization with Supabase.
-- **Features**: Advanced integration of AI (Gemini) and Cloud TTS (AWS Polly) provides a premium user experience.
-- **Performance**: Vite 7 and efficient state management ensure a snappy, responsive UI.
+### Schema Mismatch — AI Recommendations
 
-**Primary Risks**:
-- **Stability**: Reliance on "bleeding edge" versions (React 19, Tailwind v4) may introduce breaking changes.
-- **Quality Assurance**: Test coverage (~60%) is below the recommended 80% for a production application.
-- **Maintainability**: Some configuration (AI Middleware) and logic (Store slices) are inline and could be refactored for better readability.
+`/api/ai-recommendations` returns objects shaped `{ word, difficulty }`, but `recommendationService.ts` expects `{ type, priority, practiceMode }`. Recommendations may display incorrectly or fail silently.
 
----
+### Analytics Never Initialized
 
-This document records the findings from a comprehensive diagnostic review of the `pte-vocabulary-trainer` codebase. It identifies potential areas for improvement, technical debt, and architectural enhancements.
+`analyticsService.initialize()` is never called at app startup. PostHog is effectively disabled — no events are tracked in production.
 
-## 🔍 Key Findings
+### Auth Session Not Restored
 
-### 1. Dependency Management
-- **Bleeding Edge Versions**: The project uses very recent versions of core libraries (`React 19`, `Vite 7`, `TypeScript 5.9`).
-  - **Risk**: Potential stability issues or breaking changes in minor updates.
-  - **Recommendation**: Pin exact versions in `package.json` (remove `^`) for critical dependencies if stability becomes an issue. Ensure CI/CD pipelines run tests against these specific versions.
-- **Tailwind CSS v4**: The project is using `@tailwindcss/postcss` v4.
-  - **Risk**: v4 might still be in beta or have breaking changes compared to v3.
-  - **Recommendation**: Verify v4 stability and documentation coverage.
+`auth.initialize()` is never called on mount. Supabase sessions are not restored on page refresh, forcing users to re-authenticate.
 
-### 2. Configuration & Architecture
-- **Vite Middleware**: The `aiChatMiddleware` has been extracted to `scripts/ai-chat-middleware.ts`.
-  - **Status**: ✅ Already refactored out of `vite.config.ts` into a dedicated file.
-- **Hardcoded Prompts**: System prompts for the AI are hardcoded in the middleware.
-  - **Issue**: Hard to update or version control prompts separately from code.
-  - **Recommendation**: Move prompts to a dedicated configuration file or a database table (if dynamic updates are needed).
+### Path Aliases Point to Wrong Directory
 
-### 3. Testing & Quality Assurance
-- **Coverage Threshold**: Global test coverage threshold is set to **60%** in `vitest.config.ts` (branches, functions, lines, statements).
-  - **Status**: Coverage targets are configured; consider raising to 80% for production quality.
-- **Linting**: The ESLint configuration uses `eslint:recommended`.
-  - **Recommendation**: Consider adopting stricter rules like `airbnb-typescript` or adding `eslint-plugin-react-hooks` and `eslint-plugin-jsx-a11y`.
+Vite/Vitest path aliases (`@stores`, `@ts`) are configured to point to `src/ts/`, but the actual modules live directly under `src/`. All imports currently use relative paths as a workaround.
 
-### 4. Scripts & Automation
-- **Custom Scripts**: There are several custom scripts in `scripts/` (`pte-data-pipeline.js`, etc.).
-  - **Observation**: These are critical for data integrity.
-  - **Recommendation**: Ensure these scripts are fully documented and have their own unit tests, as they control the app's content.
+### Broken Validation Script
 
-### 5. Security
-- **API Keys**: The project relies on `env` variables for API keys (Gemini, AWS).
-  - **Recommendation**: Ensure `.env` is strictly git-ignored (it is). Consider using a secrets manager for production deployments.
-- **Proxying**: The `dev-proxy.js` and Vite middleware handle API requests.
-  - **Recommendation**: Ensure proper rate limiting and validation are in place to prevent abuse of the AI and TTS APIs.
+`validate.js` references `src/js/shared/Config.js`, which does not exist. Running `npm run validate` may fail.
 
-## 🚀 Action Plan
+### Untyped Supabase Client
 
-1.  **Refactor Vite Config**: Extract `aiChatMiddleware`.
-2.  **Enhance Linter**: Update `.eslintrc.cjs` with stricter rules.
-3.  **Boost Coverage**: Write tests for `src/services` and `src/utils` to raise coverage.
-4.  **Document Scripts**: Add JSDoc to files in `scripts/`.
+The `Database` type in `supabaseClient.ts` is set to `any`. No generated Supabase types exist, so queries are untyped.
+
+### Unused `openai` Dependency
+
+The `openai` package is listed in `dependencies` but does not appear to be imported anywhere. It adds unnecessary bundle weight.
+
+### Duplicate Recommendation Engines
+
+Two recommendation systems exist:
+- `recommendationService.ts` — calls the `/api/ai-recommendations` serverless endpoint
+- `recommendationEngine.ts` — queries Supabase directly
+
+It is unclear which is canonical. They may produce conflicting results.
+
+### Large TTS Engine
+
+`TTSEngine.ts` is approximately 1,100 lines and mixes multiple concerns (speech synthesis, queue management, word highlighting, event handling).
+
+## Improvement Opportunities
+
+- Generate Supabase types: `supabase gen types typescript --project-id <id> > src/types/database.ts`
+- Consolidate recommendation engines into a single service
+- Split `TTSEngine` into smaller, focused modules
+- Add E2E tests with Playwright
+- Call `analyticsService.initialize()` and `auth.initialize()` on app mount
+- Remove unused `openai` dependency
+- Fix path aliases in `vite.config.ts` and `vitest.config.ts` to match actual source structure
