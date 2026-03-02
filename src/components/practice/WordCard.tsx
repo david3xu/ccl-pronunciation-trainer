@@ -52,9 +52,10 @@ const WordCard: React.FC<WordCardProps> = ({ item, sessionManager, onItemComplet
   const isPracticeSentence = 'sentence' in item;
   const isPracticeQuestion = 'question' in item;
 
-  // Extract relevant fields - support both old and new field names
+  // Extract display text — data uses either 'word' or 'english' field
+  const rawItem = item as unknown as Record<string, unknown>;
   const displayText = isVocabularyTerm
-    ? ('word' in item ? item.word : '')
+    ? (rawItem['word'] as string) || (rawItem['english'] as string) || ''
     : isPracticeSentence
     ? ('sentence' in item ? item.sentence : '')
     : ('question' in item ? item.question : '');
@@ -67,12 +68,26 @@ const WordCard: React.FC<WordCardProps> = ({ item, sessionManager, onItemComplet
   const isShadowingItem = 'fullText' in item;
   const fullAnswerText = isShadowingItem ? (item as ShadowingItem).fullText : undefined;
 
-  // Handle both 'ipa' and 'pronunciation' field names
-  // JSON format: pronunciation.british.ipa vs type format: ipa.british
-  // Also handle single IPA format: pronunciation.ipa (not nested)
+  // Handle both data formats:
+  //   Type format: { ipa: { british, american }, phonetic: { british, american } }
+  //   JSON format: { pronunciation: { british: { ipa, phonetic }, american: { ipa, phonetic } } }
   const vocabItem = isVocabularyTerm ? (item as VocabularyTerm) : null;
-  const ipa = vocabItem?.ipa ?? null;
-  const phonetic = vocabItem?.phonetic ?? null;
+  const pronunciation = rawItem['pronunciation'] as Record<string, unknown> | undefined;
+  const ipa = isVocabularyTerm
+    ? (vocabItem?.ipa || (pronunciation ? {
+        british: (pronunciation['british'] as Record<string, unknown>)?.['ipa'] as string | undefined,
+        american: (pronunciation['american'] as Record<string, unknown>)?.['ipa'] as string | undefined,
+        single: (pronunciation['ipa'] as string) || (pronunciation['single'] as Record<string, unknown>)?.['ipa'] as string | undefined,
+      } : null))
+    : null;
+
+  const phonetic = isVocabularyTerm
+    ? (vocabItem?.phonetic || (pronunciation ? {
+        british: (pronunciation['british'] as Record<string, unknown>)?.['phonetic'] as string | undefined,
+        american: (pronunciation['american'] as Record<string, unknown>)?.['phonetic'] as string | undefined,
+        single: (pronunciation['phonetic'] as string) || (pronunciation['single'] as Record<string, unknown>)?.['phonetic'] as string | undefined,
+      } : null))
+    : null;
 
   // Handle TTS playback
   const handleSpeak = async (_mode: 'word' | 'sentence' | 'question' = 'word', accent?: 'british' | 'american') => {
@@ -209,9 +224,9 @@ const WordCard: React.FC<WordCardProps> = ({ item, sessionManager, onItemComplet
           <Badge color={difficultyColor as "green" | "blue" | "red" | "gray"} size="2">
             {difficulty}
           </Badge>
-          {vocabItem?.category && (
+          {(vocabItem?.category || rawItem['category'] as string) && (
             <Badge color="gray" size="2" variant="soft">
-              {vocabItem.category}
+              {String(vocabItem?.category || rawItem['category'])}
             </Badge>
           )}
         </Flex>

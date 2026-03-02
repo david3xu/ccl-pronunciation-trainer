@@ -43,6 +43,7 @@ const VOCABULARY_BOOKS = [
 
 function getItemText(item: VocabularyTerm | PracticeItem): string {
   if ('word' in item) return item.word;
+  if ('english' in item) return (item as Record<string, unknown>)['english'] as string;
   if ('sentence' in item) return item.sentence;
   if ('question' in item) return item.question;
   return 'unknown';
