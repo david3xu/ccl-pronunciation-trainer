@@ -7,7 +7,7 @@
 
 import fs from 'fs';
 import path from 'path';
-const AppConfig = require('../src/js/shared/Config.js');
+
 
 class ValidationError extends Error {
     constructor(message, category, index) {
@@ -20,12 +20,19 @@ class ValidationError extends Error {
 
 class DataValidator {
     constructor() {
-        // Load centralized configuration
-        const appConfig = new AppConfig();
         this.config = {
-            requiredFiles: appConfig.get('validation.requiredFiles'),
-            errorMessages: appConfig.get('validation.errorMessages'),
-            reportsDir: appConfig.get('pipeline.reportsDir')
+            requiredFiles: [
+                'data/processed/pte-fib-listening.json',
+                'data/processed/pte-beginner-vocabulary.json',
+                'data/processed/pte-advanced-vocabulary.json',
+            ],
+            errorMessages: {
+                missingFile: 'Required data file not found',
+                datasetNotFound: 'Required data file not found',
+                invalidFormat: 'Data file has invalid format',
+                emptyDataset: 'Dataset is empty',
+            },
+            reportsDir: 'data/reports'
         };
 
         this.errors = [];

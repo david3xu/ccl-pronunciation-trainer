@@ -176,20 +176,16 @@ export default defineConfig(({ mode }) => {
     // Resolve configuration
     resolve: {
       alias: {
-        // Path aliases for cleaner imports
         '@': path.resolve(__dirname, './src'),
         '@components': path.resolve(__dirname, './src/components'),
-        '@ts': path.resolve(__dirname, './src/ts'),
-        '@js': path.resolve(__dirname, './src/js'),
         '@css': path.resolve(__dirname, './src/css'),
-        '@stores': path.resolve(__dirname, './src/ts/stores'),
+        '@stores': path.resolve(__dirname, './src/stores'),
         '@types': path.resolve(__dirname, './src/types'),
-        '@utils': path.resolve(__dirname, './src/ts/utils'),
-        '@data': path.resolve(__dirname, './src/ts/data'),
-        '@audio': path.resolve(__dirname, './src/ts/audio'),
-        '@ui': path.resolve(__dirname, './src/ts/ui'),
-        '@supabase-client': path.resolve(__dirname, './src/ts/supabase'),
-        '@analytics': path.resolve(__dirname, './src/ts/analytics'),
+        '@utils': path.resolve(__dirname, './src/utils'),
+        '@data': path.resolve(__dirname, './src/data'),
+        '@audio': path.resolve(__dirname, './src/services/audio'),
+        '@supabase-client': path.resolve(__dirname, './src/services/supabase'),
+        '@analytics': path.resolve(__dirname, './src/services/analytics'),
       },
       // Extensions to resolve
       extensions: ['.mjs', '.js', '.mts', '.ts', '.jsx', '.tsx', '.json'],
