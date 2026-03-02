@@ -1,102 +1,97 @@
-# Setup Guide
+# Development Setup
 
-This guide covers the complete setup process for the PTE Pronunciation Trainer, including environment configuration and third-party service integration.
+How to get the PTE Pronunciation Trainer running locally.
 
-## 🔧 Environment Setup
+---
 
-### 1. Node.js
-Ensure you have Node.js installed (Version 16 or higher).
+## Prerequisites
+
+- **Node.js** >= 16 (`engines` field in `package.json`)
+- **npm** >= 8
+
+---
+
+## Quick Start
+
 ```bash
-node -v
-```
-
-### 2. Installation
-Install project dependencies:
-```bash
+git clone <repo-url>
+cd pte-vocabulary-trainer
 npm install
+cp .env.example .env        # all vars optional — app works without them
+npm run data:pte             # process markdown → JSON (required before first run)
+npm run dev                  # Vite dev server on port 3001
 ```
 
-## 🔑 Configuration
-
-The application relies on several environment variables. Create a `.env` file in the root directory:
+Or use the one-liner that combines data processing and dev server:
 
 ```bash
-cp .env.example .env
+npm run start                # runs data:pte then dev
 ```
 
-### Required Variables
+---
 
-| Variable | Description | Source |
-|----------|-------------|--------|
-| `VITE_SUPABASE_URL` | Supabase Project URL | Supabase Dashboard |
-| `VITE_SUPABASE_ANON_KEY` | Supabase Anonymous Key | Supabase Dashboard |
-| `GEMINI_API_KEY` | Google Gemini API Key (server-side only) | Google AI Studio |
-| `AWS_REGION` | AWS Region (e.g., us-east-1) | AWS Console |
-| `AWS_ACCESS_KEY_ID` | AWS Access Key (server-side only) | AWS IAM |
-| `AWS_SECRET_ACCESS_KEY` | AWS Secret Key (server-side only) | AWS IAM |
+## Environment Variables
 
-> **Important**: AWS and Gemini keys must NOT use the `VITE_` prefix. The `VITE_` prefix exposes variables to the client bundle. These keys should only be available server-side.
+Copy `.env.example` to `.env`. Every variable is optional — the app runs fully in local-only mode without any keys configured.
 
-> **Security Note**: Never commit your `.env` file to version control.
+| Variable | Description | Required? |
+|---|---|---|
+| `VITE_SUPABASE_URL` | Supabase project URL | No (local-only mode) |
+| `VITE_SUPABASE_ANON_KEY` | Supabase anonymous key | No |
+| `GEMINI_API_KEY` | Google Gemini API key (server-side) | No (AI features disabled) |
+| `AWS_ACCESS_KEY_ID` | AWS access key (server-side) | No (falls back to browser TTS) |
+| `AWS_SECRET_ACCESS_KEY` | AWS secret key (server-side) | No |
+| `AWS_REGION` | AWS region | No (defaults to us-east-1) |
+| `VITE_POSTHOG_API_KEY` | PostHog analytics key | No |
+| `VITE_POSTHOG_HOST` | PostHog host URL | No |
+| `VITE_PREMIUM_TTS_ENABLED` | Enable premium TTS UI toggle | No |
 
-## ☁️ Service Setup
+**Important**: `AWS_*` and `GEMINI_API_KEY` must **not** use the `VITE_` prefix — they are server-side only (Vercel serverless functions). Vite exposes `VITE_`-prefixed vars to the client bundle, which would leak secrets.
 
-### Supabase
-1.  Create a new project on [Supabase](https://supabase.com).
-2.  Run the SQL initialization scripts found in `supabase/migrations` (if available) or check `docs/api/SUPABASE-SCHEMA.md` (if it existed, check `supabase/` dir for schema).
-3.  Enable Email/Password authentication.
+---
 
-### Google Gemini
-1.  Get an API key from [Google AI Studio](https://makersuite.google.com/app/apikey).
-2.  The app uses the Gemini API via `@google/genai` package.
+## Convenience Commands
 
-### AWS Polly
-1.  Create an IAM user with `AmazonPollyReadOnlyAccess`.
-2.  Generate Access Keys for this user.
-3.  Add these keys to your `.env`.
+| Command | What It Does |
+|---|---|
+| `npm run start` | `data:pte` + `dev` (one command for everything) |
+| `npm run dev` | Vite dev server (port 3001, HMR) |
+| `npm run data:pte` | Process markdown source → JSON datasets |
+| `npm run build` | `tsc` + `vite build` → `dist/` |
+| `npm run lint` | TypeScript type-check (`tsc --noEmit`) |
+| `npm test` | Run Vitest (non-interactive, passes with no tests) |
+| `npm run test:watch` | Run Vitest in watch mode |
+| `npm run test:coverage` | Run Vitest with coverage |
+| `npm run validate` | Validate processed datasets |
+| `npm run validate:all` | Validate docs + structure + datasets |
+| `npm run clean` | Remove `dist/` and `data/processed/` |
+| `npm run deploy` | Full pipeline: `data:pte` + `build` + `validate:all` |
+| `npm run vercel-build` | Vercel deploy: `data:pte` + `vite build` + copy data to `dist/` |
 
-## 🏃 Running the App
+---
 
-### Development
-Starts the Vite development server with HMR.
-```bash
-npm run dev
-```
+## Gotchas
 
-### Production Build
-Builds the app for production.
-```bash
-npm run build
-```
+### Package manager mismatch
 
-### Preview
-Preview the production build locally.
-```bash
-npm run preview
-```
+`package.json` declares `"packageManager": "yarn@1.22.22"` but the repository uses **npm** (there is a `package-lock.json`, no `yarn.lock`). Always use `npm`.
 
-## 🔄 Reproducibility & Environment
+### Data pipeline must run first
 
-To ensure a consistent development environment and reproducible builds:
+The Vite dev server serves JSON datasets from `data/processed/`. These files are generated by `npm run data:pte` from the markdown sources in `data/source/pte/`. If you skip this step, the app will load but vocabulary lists will be empty.
 
-### 1. Node Version
-We strictly recommend using the Node.js version specified in `.nvmrc` (if present) or `package.json` engines.
-- **Current Engine**: Node >= 16.0.0
+### Gemini API key naming
 
-### 2. Clean Install
-If you encounter issues, perform a clean install to reset dependencies:
-```bash
-rm -rf node_modules package-lock.json
-npm install
-```
+`.env.example` lists both `VITE_GEMINI_API_KEY` and `GEMINI_API_KEY`. The Vercel serverless functions read `GEMINI_API_KEY` (no prefix). Setting `VITE_GEMINI_API_KEY` exposes the key to the client bundle — avoid this. Only set `GEMINI_API_KEY`.
 
-### 3. Database Schema
-To reproduce the backend environment, ensure your Supabase project matches the schema.
-- **Schema File**: Check `supabase/migrations/` or `docs/api/SUPABASE-SCHEMA.md` (if available).
+### Port 3001
 
-### 4. Data Consistency
-The application relies on processed data in `data/processed/`.
-- **Regenerate Data**: Run the data pipeline to ensure your local JSON files match the source Markdown.
-  ```bash
-  npm run data:pte
-  ```
+The Vite dev server defaults to port 3001 (configured in `vite.config.ts`). If 3001 is taken, Vite will find the next available port (`strictPort: false`).
+
+### Serverless API routes in development
+
+The `/api/ai/chat` endpoint is handled by an inline Vite middleware (`scripts/ai-chat-middleware.ts`). Other API routes (`/api/premium-tts`, `/api/ai-recommendations`, etc.) are Vercel serverless functions and require either the Vercel CLI (`vercel dev`) or the proxy script (`npm run dev:proxy`) to work locally. The core vocabulary learning flow works without these API routes.
+
+### TypeScript path aliases
+
+`vite.config.ts` defines aliases like `@`, `@components`, `@stores`, etc. These are also declared in `tsconfig.json` so the editor and compiler resolve them correctly.
