@@ -377,8 +377,6 @@ export interface BuildConfig {
   previewServerPort: number;
   chunkSizeWarningLimit: number;
   nodeEnv: string;
-  cssFiles: string[];
-  jsFiles: string[];
   outputDir: string;
   minify: boolean;
   sourceMaps: boolean;

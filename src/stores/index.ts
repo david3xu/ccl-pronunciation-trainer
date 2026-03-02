@@ -598,16 +598,12 @@ if (typeof window !== 'undefined') {
 
 // Audio selectors
 export const useAudioState = () => useAppStore((state) => state.audio);
-export const useIsAutoPlaying = () => useAppStore((state) => state.audio.isAutoPlaying);
-export const useCurrentIndex = () => useAppStore((state) => state.audio.currentIndex);
 
 // TTS selectors
 export const useTTSState = () => useAppStore((state) => state.tts);
-export const useIsSpeaking = () => useAppStore((state) => state.tts.isSpeaking);
 
 // Settings selectors
 export const useSettings = () => useAppStore((state) => state.settings);
-export const usePracticeMode = () => useAppStore((state) => state.settings.practiceMode);
 
 // Vocabulary selectors
 export const useVocabulary = () => useAppStore((state) => state.vocabulary);
