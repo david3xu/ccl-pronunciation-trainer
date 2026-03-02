@@ -23,10 +23,10 @@
 const currentItem = useAppStore((state) => state.vocabulary.currentItem);
 const { startAutoPlay } = useAppStore((state) => state.audio);
 
-// Subscribe to changes
+// Subscribe to changes (use logger utility instead of console.log — see src/utils/logger.ts)
 useAppStore.subscribe(
   (state) => state.audio.isPlaying,
-  (isPlaying) => console.log('Playing:', isPlaying)
+  (isPlaying) => logger.log('Playing:', isPlaying)
 );
 ```
 

@@ -19,7 +19,6 @@ graph TD
     subgraph "Frontend Layer"
         Client
         Store[Zustand Store]
-        Router[React Router]
         UI[Radix UI + Tailwind]
     end
 
@@ -35,7 +34,7 @@ graph TD
 - **Framework**: React 19 with TypeScript.
 - **Build Tool**: Vite 7 for fast development and optimized production builds.
 - **State Management**: `zustand` is used for global state (user session, settings, audio player state).
-- **Routing**: Client-side routing (likely `react-router` or similar).
+- **Routing**: State-based routing via Zustand store (`settings.practiceType` and `vocabulary.mode` determine which interface renders).
 - **UI Library**: `radix-ui` primitives for accessibility, styled with `tailwindcss`.
 
 ### Backend Services

@@ -31,16 +31,15 @@ This document records the findings from a comprehensive diagnostic review of the
   - **Recommendation**: Verify v4 stability and documentation coverage.
 
 ### 2. Configuration & Architecture
-- **Vite Middleware**: The `aiChatMiddleware` is defined inline within `vite.config.ts`.
-  - **Issue**: Clutters the configuration file and makes the middleware harder to test or reuse.
-  - **Recommendation**: Extract the middleware into a separate file (e.g., `src/server/ai-middleware.ts`) or a custom Vite plugin.
+- **Vite Middleware**: The `aiChatMiddleware` has been extracted to `scripts/ai-chat-middleware.ts`.
+  - **Status**: ✅ Already refactored out of `vite.config.ts` into a dedicated file.
 - **Hardcoded Prompts**: System prompts for the AI are hardcoded in the middleware.
   - **Issue**: Hard to update or version control prompts separately from code.
   - **Recommendation**: Move prompts to a dedicated configuration file or a database table (if dynamic updates are needed).
 
 ### 3. Testing & Quality Assurance
-- **Coverage Threshold**: Global test coverage threshold is set to **80%** in `package.json` (branches, functions, lines, statements).
-  - **Status**: Coverage targets are properly configured for production quality.
+- **Coverage Threshold**: Global test coverage threshold is set to **60%** in `vitest.config.ts` (branches, functions, lines, statements).
+  - **Status**: Coverage targets are configured; consider raising to 80% for production quality.
 - **Linting**: The ESLint configuration uses `eslint:recommended`.
   - **Recommendation**: Consider adopting stricter rules like `airbnb-typescript` or adding `eslint-plugin-react-hooks` and `eslint-plugin-jsx-a11y`.
 

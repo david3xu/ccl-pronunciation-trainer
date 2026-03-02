@@ -532,8 +532,8 @@ api/                           # Vercel Serverless Functions
 
 ### Unit Tests
 ```bash
-npm test              # Jest tests
-npm run test:ts       # TypeScript + tests
+npm test              # Vitest (123 tests)
+npm run test:ts       # TypeScript check + tests
 ```
 
 ### Supabase Testing
@@ -554,8 +554,8 @@ npm run lint          # Code quality
 ## 📊 Data Overview
 
 ### Vocabulary
-- **16 books** with IPA pronunciation
-- **13,800+ terms** across all difficulty levels
+- **36 vocabulary books** with IPA pronunciation
+- **21,000+ terms** across all difficulty levels
 - **Dual IPA format** (British + American)
 - **Category-based** filtering
 - **3 specialized books** (RS Core, DI/RL Templates, SST Complete)
@@ -564,7 +564,7 @@ npm run lint          # Code quality
 - **620 RS sentences** for pronunciation
 - **692 ASQ questions** with answers
 - **1,195 WFD sentences** for dictation
-- **20 DI answers** for shadowing practice
+- **85 DI answers** for shadowing practice
 
 ### User Data (Supabase)
 - **Profiles** - User accounts
