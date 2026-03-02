@@ -14,6 +14,7 @@ import React, { useMemo } from 'react';
 import { appConfig } from '../../config/AppConfig';
 import { loadVocabulary } from '../../services/data/vocabularyLoader';
 import { useAudioState, useSettings, useVocabulary } from '../../stores';
+import logger from '../../utils/logger';
 
 interface SettingsPanelProps {
   isOpen: boolean;
@@ -51,11 +52,11 @@ const SettingsPanel: React.FC<SettingsPanelProps> = ({ isOpen, onClose }) => {
 
   // Handle vocabulary book change
   const handleVocabularyBookChange = async (bookId: string) => {
-    console.log('[SettingsPanel] Changing vocabulary book to:', bookId);
-    console.log('[SettingsPanel] updateSetting function:', typeof updateSetting);
+    logger.log('[SettingsPanel] Changing vocabulary book to:', bookId);
+    logger.log('[SettingsPanel] updateSetting function:', typeof updateSetting);
 
     if (typeof updateSetting !== 'function') {
-      console.error('[SettingsPanel] updateSetting is not a function!', updateSetting);
+      logger.error('[SettingsPanel] updateSetting is not a function!', updateSetting);
       return;
     }
 
@@ -74,18 +75,18 @@ const SettingsPanel: React.FC<SettingsPanelProps> = ({ isOpen, onClose }) => {
       // Reapply difficulty filter to new book
       if (difficultyFilter !== 'all') {
         filterByDifficulty(difficultyFilter);
-        console.log(`[SettingsPanel] Applied ${difficultyFilter} filter to ${bookId}`);
+        logger.log(`[SettingsPanel] Applied ${difficultyFilter} filter to ${bookId}`);
       }
 
       // Auto-start playback if autoPlay setting is enabled
       if (autoPlay && items.length > 0) {
-        console.log('[SettingsPanel] Auto-starting playback');
+        logger.log('[SettingsPanel] Auto-starting playback');
         audio.startAutoPlay();
       }
 
       setLoading(false);
     } catch (error) {
-      console.error('[SettingsPanel] Error loading vocabulary:', error);
+      logger.error('[SettingsPanel] Error loading vocabulary:', error);
       setLoading(false);
       const errorMessage = error instanceof Error ? error.message : 'Unknown error';
       alert(`Failed to load vocabulary book.\n\nError: ${errorMessage}`);
@@ -94,10 +95,10 @@ const SettingsPanel: React.FC<SettingsPanelProps> = ({ isOpen, onClose }) => {
 
   // Handle practice mode change (RS/ASQ/WFD)
   const handlePracticeModeChange = async (mode: 'practice-repeat-sentence' | 'practice-answer-short-question' | 'practice-write-from-dictation' | null) => {
-    console.log('[SettingsPanel] Changing practice mode to:', mode);
+    logger.log('[SettingsPanel] Changing practice mode to:', mode);
 
     if (typeof updateSetting !== 'function') {
-      console.error('[SettingsPanel] updateSetting is not a function!', updateSetting);
+      logger.error('[SettingsPanel] updateSetting is not a function!', updateSetting);
       return;
     }
 
@@ -124,7 +125,7 @@ const SettingsPanel: React.FC<SettingsPanelProps> = ({ isOpen, onClose }) => {
         throw new Error(`Unknown practice mode: ${mode}`);
       }
 
-      console.log('[SettingsPanel] Loading practice dataset:', mode, 'from:', dataPath);
+      logger.log('[SettingsPanel] Loading practice dataset:', mode, 'from:', dataPath);
 
       const response = await fetch(dataPath);
       if (!response.ok) {
@@ -135,19 +136,19 @@ const SettingsPanel: React.FC<SettingsPanelProps> = ({ isOpen, onClose }) => {
       // Practice datasets have different structures - try both 'items' and 'sentences'
       const items = data.items || data.sentences || data.questions || [];
 
-      console.log(`[SettingsPanel] Loaded ${items.length} practice items`);
-      console.log('[SettingsPanel] First item:', items[0]);
+      logger.log(`[SettingsPanel] Loaded ${items.length} practice items`);
+      logger.log('[SettingsPanel] First item:', items[0]);
       setDataset(items, mode); // Now atomically sets currentItem and resets index
 
       // Reapply difficulty filter to practice dataset
       if (difficultyFilter !== 'all') {
         filterByDifficulty(difficultyFilter);
-        console.log(`[SettingsPanel] Applied ${difficultyFilter} filter to ${mode}`);
+        logger.log(`[SettingsPanel] Applied ${difficultyFilter} filter to ${mode}`);
       }
 
       setLoading(false);
     } catch (error) {
-      console.error('[SettingsPanel] Error loading practice dataset:', error);
+      logger.error('[SettingsPanel] Error loading practice dataset:', error);
       setLoading(false);
       const errorMessage = error instanceof Error ? error.message : 'Unknown error';
       alert(`Failed to load practice dataset.\n\nError: ${errorMessage}`);

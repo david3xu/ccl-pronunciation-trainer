@@ -6,6 +6,7 @@
  */
 
 import posthog from 'posthog-js';
+import logger from '../../utils/logger';
 
 /**
  * Event properties interface for type safety
@@ -84,13 +85,13 @@ export class AnalyticsService {
    */
   initialize(apiKey: string | null, options: any = {}): void {
     if (this.initialized) {
-      console.warn('[Analytics] Already initialized, skipping');
+      logger.warn('[Analytics] Already initialized, skipping');
       return;
     }
 
     // If no API key, run in disabled mode (dev/test)
     if (!apiKey) {
-      console.log('[Analytics] No API key provided, running in disabled mode');
+      logger.log('[Analytics] No API key provided, running in disabled mode');
       this.enabled = false;
       this.initialized = true;
       return;
@@ -104,7 +105,7 @@ export class AnalyticsService {
         capture_pageview: options.capture_pageview !== false, // Default: true
         capture_pageleave: options.capture_pageleave !== false, // Default: true
         loaded: (posthog) => {
-          console.log('[Analytics] ✅ PostHog initialized successfully');
+          logger.log('[Analytics] ✅ PostHog initialized successfully');
 
           // Debug mode in development
           if (import.meta.env.DEV) {
@@ -117,9 +118,9 @@ export class AnalyticsService {
       this.enabled = true;
       this.initialized = true;
 
-      console.log('[Analytics] PostHog service initialized');
+      logger.log('[Analytics] PostHog service initialized');
     } catch (error) {
-      console.error('[Analytics] Failed to initialize PostHog:', error);
+      logger.error('[Analytics] Failed to initialize PostHog:', error);
       this.enabled = false;
       this.initialized = true;
     }
@@ -140,7 +141,7 @@ export class AnalyticsService {
    */
   track(eventName: string, properties?: AnalyticsEventProperties): void {
     if (!this.enabled) {
-      console.log(`[Analytics] (disabled) ${eventName}`, properties);
+      logger.log(`[Analytics] (disabled) ${eventName}`, properties);
       return;
     }
 
@@ -150,9 +151,9 @@ export class AnalyticsService {
         timestamp: new Date().toISOString(),
       });
 
-      console.log(`[Analytics] 📊 ${eventName}`, properties);
+      logger.log(`[Analytics] 📊 ${eventName}`, properties);
     } catch (error) {
-      console.error('[Analytics] Failed to track event:', error);
+      logger.error('[Analytics] Failed to track event:', error);
     }
   }
 
@@ -164,15 +165,15 @@ export class AnalyticsService {
    */
   identify(userId: string, properties?: AnalyticsUserProperties): void {
     if (!this.enabled) {
-      console.log(`[Analytics] (disabled) identify:`, userId, properties);
+      logger.log(`[Analytics] (disabled) identify:`, userId, properties);
       return;
     }
 
     try {
       posthog.identify(userId, properties);
-      console.log(`[Analytics] 👤 User identified:`, userId);
+      logger.log(`[Analytics] 👤 User identified:`, userId);
     } catch (error) {
-      console.error('[Analytics] Failed to identify user:', error);
+      logger.error('[Analytics] Failed to identify user:', error);
     }
   }
 
@@ -181,15 +182,15 @@ export class AnalyticsService {
    */
   reset(): void {
     if (!this.enabled) {
-      console.log('[Analytics] (disabled) reset');
+      logger.log('[Analytics] (disabled) reset');
       return;
     }
 
     try {
       posthog.reset();
-      console.log('[Analytics] User identity reset');
+      logger.log('[Analytics] User identity reset');
     } catch (error) {
-      console.error('[Analytics] Failed to reset:', error);
+      logger.error('[Analytics] Failed to reset:', error);
     }
   }
 
@@ -200,15 +201,15 @@ export class AnalyticsService {
    */
   setUserProperties(properties: AnalyticsUserProperties): void {
     if (!this.enabled) {
-      console.log('[Analytics] (disabled) setUserProperties:', properties);
+      logger.log('[Analytics] (disabled) setUserProperties:', properties);
       return;
     }
 
     try {
       posthog.people.set(properties);
-      console.log('[Analytics] User properties updated');
+      logger.log('[Analytics] User properties updated');
     } catch (error) {
-      console.error('[Analytics] Failed to set user properties:', error);
+      logger.error('[Analytics] Failed to set user properties:', error);
     }
   }
 
@@ -219,7 +220,7 @@ export class AnalyticsService {
    */
   pageView(pageName?: string): void {
     if (!this.enabled) {
-      console.log(`[Analytics] (disabled) pageview:`, pageName);
+      logger.log(`[Analytics] (disabled) pageview:`, pageName);
       return;
     }
 
@@ -229,9 +230,9 @@ export class AnalyticsService {
       } else {
         posthog.capture('$pageview');
       }
-      console.log('[Analytics] 📄 Page view tracked:', pageName || window.location.pathname);
+      logger.log('[Analytics] 📄 Page view tracked:', pageName || window.location.pathname);
     } catch (error) {
-      console.error('[Analytics] Failed to track page view:', error);
+      logger.error('[Analytics] Failed to track page view:', error);
     }
   }
 
@@ -250,7 +251,7 @@ export class AnalyticsService {
     try {
       return posthog.isFeatureEnabled(flagKey) ?? defaultValue;
     } catch (error) {
-      console.error('[Analytics] Failed to check feature flag:', error);
+      logger.error('[Analytics] Failed to check feature flag:', error);
       return defaultValue;
     }
   }
@@ -269,7 +270,7 @@ export class AnalyticsService {
     try {
       return posthog.getFeatureFlagPayload(flagKey);
     } catch (error) {
-      console.error('[Analytics] Failed to get feature flag payload:', error);
+      logger.error('[Analytics] Failed to get feature flag payload:', error);
       return null;
     }
   }
@@ -282,9 +283,9 @@ export class AnalyticsService {
 
     try {
       posthog.opt_out_capturing();
-      console.log('[Analytics] User opted out of tracking');
+      logger.log('[Analytics] User opted out of tracking');
     } catch (error) {
-      console.error('[Analytics] Failed to opt out:', error);
+      logger.error('[Analytics] Failed to opt out:', error);
     }
   }
 
@@ -296,9 +297,9 @@ export class AnalyticsService {
 
     try {
       posthog.opt_in_capturing();
-      console.log('[Analytics] User opted in to tracking');
+      logger.log('[Analytics] User opted in to tracking');
     } catch (error) {
-      console.error('[Analytics] Failed to opt in:', error);
+      logger.error('[Analytics] Failed to opt in:', error);
     }
   }
 
@@ -374,5 +375,5 @@ export const analyticsService = new AnalyticsService();
 
 // Export for global access
 if (typeof window !== 'undefined') {
-  (window as any).analyticsService = analyticsService;
+  (window as unknown as { analyticsService: AnalyticsService }).analyticsService = analyticsService;
 }

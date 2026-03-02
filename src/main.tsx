@@ -10,6 +10,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import './css/tailwind.css';
+import logger from './utils/logger';
 
 // Initialize configuration (must be imported before App)
 // This sets up window.appConfig which is needed by PTEVocabularyManager
@@ -31,7 +32,7 @@ root.render(
   </React.StrictMode>
 );
 
-console.log('✅ React app mounted successfully');
+logger.log('✅ React app mounted successfully');
 
 // Register service worker for offline caching and PWA functionality
 // Using vite-plugin-pwa for automatic updates
@@ -39,13 +40,13 @@ import { registerSW } from 'virtual:pwa-register';
 
 const updateSW = registerSW({
   onNeedRefresh() {
-    console.log('🔄 New content available, click on reload button to update.');
+    logger.log('🔄 New content available, click on reload button to update.');
     if (confirm('🎉 New version available! Reload to update?')) {
       updateSW(true);
     }
   },
   onOfflineReady() {
-    console.log('✅ App ready to work offline');
+    logger.log('✅ App ready to work offline');
   },
 });
 

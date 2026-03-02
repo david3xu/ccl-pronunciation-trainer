@@ -25,6 +25,8 @@ import { create } from 'zustand';
 import { devtools, persist, subscribeWithSelector } from 'zustand/middleware';
 import logger from '../utils/logger';
 
+import { getAnalytics } from '../services/analytics/getAnalytics';
+import type { AnalyticsEventProperties } from '../services/analytics/analyticsService';
 import { authService } from '../services/supabase/authService';
 import { syncService } from '../services/supabase/syncService';
 
@@ -98,16 +100,14 @@ export const useAppStore = create<AppState>()(
             error: null,
             startSpeaking: (word, phonetic, mode = 'word') => {
               // Track TTS usage in analytics
-              if ((window as any).analyticsService) {
-                (window as any).analyticsService.trackTTSUsed({
-                  word,
-                  phonetic: phonetic || undefined,
-                  mode,
-                  voice: get().tts.selectedVoice || 'browser-default',
-                  rate: get().settings.ttsRate,
-                  tts_engine: 'browser',
-                });
-              }
+              getAnalytics()?.trackTTSUsed({
+                word,
+                phonetic: phonetic || undefined,
+                mode: mode as string as AnalyticsEventProperties['mode'],
+                voice: String(get().tts.selectedVoice || 'browser-default'),
+                rate: get().settings.ttsRate,
+                tts_engine: 'browser',
+              });
 
               set((state) => ({
                 tts: { ...state.tts, isSpeaking: true, currentWord: word, currentPhonetic: phonetic || null, speakingMode: mode, error: null }
@@ -118,9 +118,7 @@ export const useAppStore = create<AppState>()(
             })),
             setVoice: (voice) => {
               // Track voice change
-              if ((window as any).analyticsService) {
-                (window as any).analyticsService.track('tts_voice_changed', { voice });
-              }
+              getAnalytics()?.track('tts_voice_changed', { voice: String(voice) });
 
               set((state) => ({ tts: { ...state.tts, selectedVoice: voice } }));
             },
@@ -145,9 +143,7 @@ export const useAppStore = create<AppState>()(
             isPanelOpen: false,
             updateSetting: (key, value) => {
               // Track setting changes
-              if ((window as any).analyticsService) {
-                (window as any).analyticsService.trackSettingChanged(key, value);
-              }
+              getAnalytics()?.trackSettingChanged(key, value);
 
               set((state) => ({ settings: { ...state.settings, [key]: value } }));
             },
@@ -213,15 +209,15 @@ export const useAppStore = create<AppState>()(
             },
             setCurrentItem: (item) => {
               // Track vocabulary word practice
-              if (item && (window as any).analyticsService) {
+              if (item) {
                 const word = (item as any).word || (item as any).sentence || (item as any).question || 'unknown';
                 const difficulty = (item as any).difficulty || (item as any).metadata?.difficulty || 'normal';
                 const category = (item as any).category || (item as any).metadata?.category || get().vocabulary.mode;
 
-                (window as any).analyticsService.trackWordPractice(word, {
+                getAnalytics()?.trackWordPractice(word, {
                   difficulty,
                   category,
-                  mode: get().vocabulary.mode,
+                  mode: get().vocabulary.mode as AnalyticsEventProperties['mode'],
                 });
               }
 
@@ -354,10 +350,10 @@ export const useAppStore = create<AppState>()(
               const datasetId = get().settings.datasetId;
 
               // Track practice session completion
-              if ((window as any).analyticsService && itemsCompleted > 0) {
-                (window as any).analyticsService.trackPracticeSessionCompleted({
-                  mode: mode || 'vocabulary',
-                  practice_type: practiceMode || undefined,
+              if (itemsCompleted > 0) {
+                getAnalytics()?.trackPracticeSessionCompleted({
+                  mode: (mode || 'vocabulary') as AnalyticsEventProperties['mode'],
+                  practice_type: (practiceMode || undefined) as AnalyticsEventProperties['practice_type'],
                   dataset_id: datasetId,
                   items_completed: itemsCompleted,
                   items_correct: itemsCorrect,
@@ -439,10 +435,8 @@ export const useAppStore = create<AppState>()(
               const result = await authService.signOut();
               if (result.success) {
                 // Track sign out event
-                if ((window as any).analyticsService) {
-                  (window as any).analyticsService.trackAuth('signout');
-                  (window as any).analyticsService.reset(); // Clear user identity
-                }
+                getAnalytics()?.trackAuth('signout');
+                getAnalytics()?.reset(); // Clear user identity
 
                 set((state) => ({
                   auth: {
@@ -489,15 +483,11 @@ export const useAppStore = create<AppState>()(
                     }
                   }));
 
-                  // Identify user in analytics
-                  if ((window as any).analyticsService) {
-                    (window as any).analyticsService.identify(user.id, {
-                      email: user.email,
-                      signup_date: user.created_at,
-                      full_name: user.user_metadata?.['full_name'],
-                    });
-                    (window as any).analyticsService.trackAuth('signin');
-                  }
+                  // Identify user in analytics (no PII — only non-identifying props)
+                  getAnalytics()?.identify(user.id, {
+                    signup_date: user.created_at,
+                  });
+                  getAnalytics()?.trackAuth('signin');
 
                   // Initialize sync service for authenticated user
                   await syncService.initialize();
@@ -599,7 +589,7 @@ export const useAppStore = create<AppState>()(
  * (Browser environment only)
  */
 if (typeof window !== 'undefined') {
-  (window as any).appStore = useAppStore;
+  (window as unknown as { appStore: typeof useAppStore }).appStore = useAppStore;
 }
 
 /**
