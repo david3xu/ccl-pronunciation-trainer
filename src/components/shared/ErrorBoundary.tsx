@@ -162,7 +162,7 @@ export class ErrorBoundary extends Component<Props, State> {
               <Text size="2" className="text-slate-500 text-center mt-2">
                 If this problem persists, please contact support or{' '}
                 <a
-                  href="https://github.com/your-repo/issues"
+                  href="https://github.com/david3xu/ccl-pronunciation-trainer/issues"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-violet-400 hover:text-violet-300 underline"

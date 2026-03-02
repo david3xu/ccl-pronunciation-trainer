@@ -30,10 +30,12 @@ cp .env.example .env
 |----------|-------------|--------|
 | `VITE_SUPABASE_URL` | Supabase Project URL | Supabase Dashboard |
 | `VITE_SUPABASE_ANON_KEY` | Supabase Anonymous Key | Supabase Dashboard |
-| `VITE_GEMINI_API_KEY` | Google Gemini API Key | Google AI Studio |
-| `VITE_AWS_REGION` | AWS Region (e.g., us-east-1) | AWS Console |
-| `VITE_AWS_ACCESS_KEY_ID` | AWS Access Key | AWS IAM |
-| `VITE_AWS_SECRET_ACCESS_KEY` | AWS Secret Key | AWS IAM |
+| `GEMINI_API_KEY` | Google Gemini API Key (server-side only) | Google AI Studio |
+| `AWS_REGION` | AWS Region (e.g., us-east-1) | AWS Console |
+| `AWS_ACCESS_KEY_ID` | AWS Access Key (server-side only) | AWS IAM |
+| `AWS_SECRET_ACCESS_KEY` | AWS Secret Key (server-side only) | AWS IAM |
+
+> **Important**: AWS and Gemini keys must NOT use the `VITE_` prefix. The `VITE_` prefix exposes variables to the client bundle. These keys should only be available server-side.
 
 > **Security Note**: Never commit your `.env` file to version control.
 

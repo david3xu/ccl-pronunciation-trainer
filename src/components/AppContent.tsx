@@ -526,7 +526,7 @@ export const AppContent: React.FC = () => {
                     />
                   )}
                 </>
-              ) : (
+              ) : isLoadingVocabulary ? (
                 <Flex
                   align="center"
                   justify="center"
@@ -543,6 +543,22 @@ export const AppContent: React.FC = () => {
                 >
                   <Spinner size="3" />
                   <p className="text-slate-300">Loading vocabulary...</p>
+                </Flex>
+              ) : (
+                <Flex
+                  align="center"
+                  justify="center"
+                  direction="column"
+                  gap="3"
+                  p="8"
+                  style={{
+                    backgroundColor: 'var(--gray-a2)',
+                    borderRadius: 'var(--radius-4)',
+                    minHeight: '400px',
+                  }}
+                >
+                  <p className="text-slate-400 text-lg">📭 No vocabulary items found</p>
+                  <p className="text-slate-500 text-sm">Try selecting a different vocabulary book in Settings.</p>
                 </Flex>
               )}
             </div>
