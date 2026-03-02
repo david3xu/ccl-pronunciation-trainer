@@ -17,6 +17,8 @@
  */
 
 import { useAppStore, type AppState } from '../../stores';
+import { appConfig as importedAppConfig } from '../../config/AppConfig';
+import type { AppConfig } from '../../config/AppConfig';
 
 /**
  * Vocabulary word structure
@@ -48,7 +50,7 @@ interface SpeakingEventData {
  * - Single source of truth: Config.js → SettingsModule → Zustand store → TTS engine
  */
 export class TTSEngine {
-  private config: any;
+  private config: AppConfig | null;
   private currentRepeatCount: number = 0;
   private backgroundAudioEnabled: boolean = false;
   private unsubscribers: Array<() => void> = [];
@@ -89,9 +91,9 @@ export class TTSEngine {
   /**
    * Lazily get config (only load when needed, not during module initialization)
    */
-  private getConfig(): any {
+  private getConfig(): AppConfig {
     if (!this.config) {
-      this.config = (window as any).appConfig;
+      this.config = importedAppConfig;
     }
     return this.config;
   }
@@ -128,7 +130,7 @@ export class TTSEngine {
    * Safely get current practice mode from SettingsModule or Config.js fallback
    */
   getPracticeMode(): string {
-    const settingsModule = (window as any).settingsModule;
+    const settingsModule = window.settingsModule;
     if (settingsModule && typeof settingsModule.get === 'function') {
       return settingsModule.get('practiceMode') || this.getConfig().get('data.defaults.practiceMode');
     }
@@ -209,8 +211,8 @@ export class TTSEngine {
    */
   async pronounceText(text: string, lang: string | null = null, rate: number | null = null): Promise<void> {
     if (!text) {
-      const progressTracker = (window as any).progressTracker;
-      progressTracker.showError('No text to pronounce');
+      const progressTracker = window.progressTracker;
+      progressTracker?.showError('No text to pronounce');
       return;
     }
 
@@ -290,7 +292,7 @@ export class TTSEngine {
       // Only speak example on the LAST repetition to avoid: term+example+term+example
       const hasExample = (word.examples && word.examples.length > 0) || word.example;
       const isLastRepetition = this.currentRepeatCount === ((this.targetRepeats || 1) - 1);
-      const audioControls = (window as any).audioControls;
+      const audioControls = window.audioControls;
       const shouldSpeakExample = audioControls && isLastRepetition &&
         (audioControls.repeatMode === 'intensive' || audioControls.repeatMode === 'loop');
 
@@ -344,7 +346,7 @@ export class TTSEngine {
    */
   async speak(text: string, lang: string | null = null, customRate: number | null = null): Promise<void> {
     // Use configured language if not specified
-    const language = lang || this.getConfig().get('tts.language.default');
+    const language: string = lang || this.getConfig().get<string>('tts.language.default') || 'en-GB';
 
     this.speakCallCount++;
     const callId = this.speakCallCount;
@@ -384,7 +386,7 @@ export class TTSEngine {
 
     return new Promise((resolve) => {
       // Check if we're on iOS and should use HTML5 Audio fallback
-      const app = (window as any).app;
+      const app = window.app;
       const isIOS = app && app.isMobileDevice && /iPad|iPhone|iPod/.test(navigator.userAgent);
 
       if (isIOS && this.shouldUseHTML5Audio()) {
@@ -700,7 +702,7 @@ export class TTSEngine {
    * Speak with HTML5 Audio (iOS background fallback)
    */
   speakWithHTML5Audio(text: string, lang: string | null = null, customRate: number | null = null): Promise<void> {
-    const language = lang || this.getConfig().get('tts.language.default');
+    const language: string = lang || this.getConfig().get<string>('tts.language.default') || 'en-GB';
 
     return new Promise((resolve) => {
       if ('speechSynthesis' in window) {
@@ -745,7 +747,7 @@ export class TTSEngine {
    * Show TTS fallback message
    */
   showTTSFallback(text: string): void {
-    const progressTracker = (window as any).progressTracker;
+    const progressTracker = window.progressTracker;
 
     // Check if progressTracker exists before calling methods
     if (progressTracker && typeof progressTracker.updateStatus === 'function') {
@@ -768,8 +770,9 @@ export class TTSEngine {
     if (!this.backgroundAudioEnabled) {
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker.ready.then(registration => {
-          if ((registration as any).sync) {
-            (registration as any).sync.register('audio-playback');
+          const reg = registration as ServiceWorkerRegistration & { sync?: { register(tag: string): Promise<void> } };
+          if (reg.sync) {
+            reg.sync.register('audio-playback');
           }
         });
       }
@@ -777,8 +780,8 @@ export class TTSEngine {
     }
 
     // Set up background audio context for iOS
-    if (typeof AudioContext !== 'undefined' || typeof (window as any).webkitAudioContext !== 'undefined') {
-      const AudioContextClass = AudioContext || (window as any).webkitAudioContext;
+    if (typeof AudioContext !== 'undefined' || typeof window.webkitAudioContext !== 'undefined') {
+      const AudioContextClass = AudioContext || window.webkitAudioContext;
       if (!this.audioContext) {
         this.audioContext = new AudioContextClass();
       }
@@ -1082,10 +1085,15 @@ export default ttsEngine;
 declare global {
   interface Window {
     ttsEngine: TTSEngine;
+    settingsModule?: { get(key: string): string | undefined };
+    progressTracker?: { showError(msg: string): void; updateStatus(msg: string): void };
+    audioControls?: { repeatMode: string };
+    app?: { isMobileDevice: boolean };
+    webkitAudioContext?: typeof AudioContext;
   }
 }
 
 // Expose as global reference for PTE app
 if (typeof window !== 'undefined') {
-  (window as any).ttsEngine = ttsEngine;
+  window.ttsEngine = ttsEngine;
 }

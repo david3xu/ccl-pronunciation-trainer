@@ -9,6 +9,7 @@
  */
 
 import { PollyClient, SynthesizeSpeechCommand } from '@aws-sdk/client-polly';
+import type { Engine, LanguageCode, OutputFormat, VoiceId } from '@aws-sdk/client-polly';
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { PREMIUM_VOICES } from './config';
 
@@ -111,7 +112,7 @@ export default async function handler(
     let client: PollyClient;
     try {
       client = getPollyClient();
-    } catch (clientError: any) {
+    } catch (clientError: unknown) {
       console.error('Failed to create Polly client:', clientError);
       return res.status(200).json({
         success: false,
@@ -125,10 +126,10 @@ export default async function handler(
 
     const command = new SynthesizeSpeechCommand({
       Text: text,
-      VoiceId: voiceId as any,
-      Engine: engine as any,
-      LanguageCode: languageCode as any,
-      OutputFormat: outputFormat as any,
+      VoiceId: voiceId as VoiceId,
+      Engine: engine as Engine,
+      LanguageCode: languageCode as LanguageCode,
+      OutputFormat: outputFormat as OutputFormat,
       TextType: 'text',
     });
 
@@ -156,14 +157,16 @@ export default async function handler(
         requestCharacters: text.length,
       },
     });
-  } catch (error: any) {
-    console.error('Premium TTS error:', error?.message || error);
-    console.error('Error stack:', error?.stack);
+  } catch (error: unknown) {
+    const errMsg = error instanceof Error ? error.message : String(error);
+    const errStack = error instanceof Error ? error.stack : undefined;
+    console.error('Premium TTS error:', errMsg);
+    console.error('Error stack:', errStack);
 
     // Return error with fallback suggestion
     return res.status(200).json({
       success: false,
-      error: error?.message || 'Failed to synthesize speech',
+      error: errMsg || 'Failed to synthesize speech',
       fallback: true,
     });
   }
@@ -172,7 +175,7 @@ export default async function handler(
 /**
  * Convert readable stream to buffer
  */
-async function streamToBuffer(stream: any): Promise<Buffer> {
+async function streamToBuffer(stream: AsyncIterable<Uint8Array>): Promise<Buffer> {
   const chunks: Uint8Array[] = [];
 
   for await (const chunk of stream) {

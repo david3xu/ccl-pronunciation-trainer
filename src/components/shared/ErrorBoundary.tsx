@@ -12,6 +12,7 @@
 
 import { Button, Card, Flex, Text } from '@radix-ui/themes';
 import { Component, ErrorInfo, ReactNode } from 'react';
+import { getAnalytics } from '../../services/analytics/getAnalytics';
 
 interface Props {
   children: ReactNode;
@@ -67,15 +68,13 @@ export class ErrorBoundary extends Component<Props, State> {
     }
 
     // Send error to analytics if available
-    if (typeof window !== 'undefined' && (window as any).analyticsService) {
-      try {
-        (window as any).analyticsService.track('error_boundary_caught', {
-          error: error.message,
-          componentStack: errorInfo.componentStack?.substring(0, 500),
-        });
-      } catch {
-        // Analytics failure should not block error handling
-      }
+    try {
+      getAnalytics()?.track('error_boundary_caught', {
+        error: error.message,
+        componentStack: errorInfo.componentStack?.substring(0, 500),
+      });
+    } catch {
+      // Analytics failure should not block error handling
     }
   }
 
