@@ -2,60 +2,59 @@
 
 All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
 ## [Unreleased]
 
-### Changed
-- **Documentation**: Refreshed all docs to match current codebase structure (December 2025)
-  - Updated `docs/ARCHITECTURE.md` with accurate `src/` directory structure
-  - Updated `docs/MODULES.md` mermaid diagrams with all 9 service groups
-  - Updated `docs/DIAGNOSTICS.md` with correct 80% test coverage threshold
-  - Updated `docs/TESTING.md` to reference package.json coverage config
-  - Updated `docs/SETUP.md` with current Gemini API reference
-
-## [3.0.2] - 2025-12-28
-
-### Changed
-- **DI Templates**: Standardized all templates to use "picture" instead of "chart/graph/diagram"
-- **Template 2**: Added "multiple groups" structure with "Looking at group [X]" and "the top value is in"
-- **Template 3**: Added comparison sentence option with "has a different" and "compared to"
-- **Vocabulary**: Synced vocabulary file with template updates (122 total terms)
-- **Map Terms**: Added 9 map-related terms (coastal/central areas, directions, density)
-- **TTS**: Set Browser Default as default TTS voice
-
-## [3.0.1] - 2025-11-30
+## [3.0.2] - 2026-03-02
 
 ### Added
-- **Automation**: Automated versioning workflow with GitHub Actions.
-- **UI**: Dynamic version display in Settings and Footer.
-
-### Fixed
-- **Docs**: Updated documentation versions to match package.json.
-
-### Added
-- **Documentation**: Complete overhaul of project documentation.
-  - Added `docs/ARCHITECTURE.md` with system design and directory structure.
-  - Added `docs/SETUP.md` for installation and configuration.
-  - Added `docs/CONTRIBUTING.md` for development guidelines.
-  - Added `docs/DIAGNOSTICS.md` identifying technical debt and improvements.
-  - Added `docs/TESTING.md` (Planned) for testing strategy.
-  - Added `docs/DEPLOYMENT.md` (Planned) for CI/CD and release process.
-  - Added `docs/SECURITY.md` (Planned) for security policy.
+- GitHub Actions CI pipeline (lint, test, build)
+- Shared vocabulary cache service (5-min TTL)
+- Typed analytics accessor (replaces window.analyticsService casts)
+- Logger utility (silences debug output in production)
+- Test coverage: 123 tests across 9 files (stores, hooks, components, utils)
+- Empty-state UI for datasets with zero items
+- Accessibility: ARIA labels, semantic HTML, role attributes
 
 ### Changed
-- **Structure**: Moved all documentation to `docs/` directory.
-- **Cleanup**: Removed outdated `README.md`, `CLAUDE.md`, and `CHANGELOG.md`.
+- Moved Gemini API key from client to server proxy (security)
+- Lazy-loaded 6 heavy AI/scoring components
+- Restricted CORS from wildcard to app origin
+- Replaced 70+ console.* calls with centralized logger
+- Replaced 30+ as-any casts with proper type guards
+- Removed PII (email, name) from PostHog analytics
+- Un-commented 15 core vocabulary books in config
+- Fixed ErrorBoundary test logic
+- Fixed wrong vocabulary book IDs in AudioControls
 
-## [3.0.0] - 2025-11-29
+### Removed
+- Dead Jest config and 5 unused dependencies
+- Stale documentation referencing non-existent src/ts/ paths
+
+## [3.0.1] - 2025-11-01
 
 ### Added
-- **AI Tutor**: Integrated Google Gemini AI for personalized pronunciation coaching.
-- **TTS**: Integrated AWS Polly for high-quality reference audio.
-- **Analytics**: Added PostHog analytics tracking.
-- **UI**: Migrated to Radix UI Themes and Tailwind CSS v4.
+- AI-powered features: Gemini chat, pronunciation scoring, recommendations
+- AWS Polly premium TTS (18 neural voices)
+- Supabase integration (auth, cloud sync, analytics)
+- DI Shadowing practice mode
+- Session tracking and proactive interventions
+- React 19 + TypeScript migration (100%)
+- Zustand state management (replaces EventBus)
+
+## [3.0.0] - 2025-10-01
 
 ### Changed
-- **Build**: Upgraded to Vite 7 and React 19.
-- **Data**: Refactored data pipeline to process Markdown sources.
+- Complete React + TypeScript rewrite from vanilla JavaScript
+- Migrated from EventBus to Zustand store architecture
+
+## [2.5.4] - 2025-10-01
+
+### Added
+- Production-ready vanilla JS release
+- Comprehensive documentation
+
+## [1.0.0] - Initial Release
+
+### Added
+- Basic pronunciation training with Web Speech API
+- PTE FIB Listening vocabulary
