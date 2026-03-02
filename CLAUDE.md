@@ -1,181 +1,131 @@
 # CLAUDE.md
 
-> Verified against the codebase on 2026-03-02. Every path referenced here exists.
+> Rebuilt from scratch on 2026-03-02 by reading every source file. Every path here exists.
 
-## Project Overview
+## Quick Reference
 
-**PTE Pronunciation Trainer** — A React SPA for PTE exam pronunciation practice.
+| | |
+|---|---|
+| **Name** | PTE Pronunciation Trainer (`pte-vocabulary-trainer`) |
+| **Version** | 3.0.2 |
+| **Stack** | React 19 · TypeScript 5.9 · Zustand 5 · Radix UI · Tailwind 4 · Vite 7 |
+| **Package manager** | npm (`package-lock.json`). Ignore `"packageManager": "yarn"` in `package.json`. |
+| **Node** | >= 16 |
+| **Dev server** | `npm run start` (data pipeline + Vite on port 3001) |
+| **Test** | `npm test` (Vitest, 123 tests) |
+| **Lint** | `npm run lint` (`tsc --noEmit`) |
+| **Build** | `npm run build` (`tsc` + `vite build`) |
 
-| Spec | Value |
-|------|-------|
-| Version | 3.0.2 |
-| Stack | React 19 · TypeScript 5.9 · Zustand 5 · Radix UI 3.2 · Tailwind CSS 4 · Vite 7 |
-| Package manager | npm (lockfile: `package-lock.json`) |
-| Node requirement | >= 16.0.0 |
-
-## Directory Structure
+## Source Layout
 
 ```
 src/
-├── main.tsx                 ← Vite entry point
-├── App.tsx                  ← Root component (Suspense + ToastProvider + AppContent)
-├── App.test.tsx
-│
+├── main.tsx                    Entry point (mounts App)
+├── App.tsx                     Suspense + ToastProvider + AppContent
 ├── components/
-│   ├── AppContent.tsx       ← Main app coordinator (data loading, routing, modals)
-│   ├── ai/                  ← AI features (6 components, all lazy-loaded)
-│   ├── audio/               ← AudioControls, VoiceSelector, PremiumVoiceSelector
-│   ├── practice/            ← WordCard, RS/ASQ/WFD/VocabTyping interfaces, ProgressDashboard
-│   ├── settings/            ← SettingsPanel
-│   ├── shared/              ← ErrorBoundary, Skeleton, ToastProvider, ComponentSkeleton
-│   ├── migration/           ← DataMigrationModal
-│   └── profile/             ← LearnerProfileModal
-│
-├── config/
-│   └── AppConfig.ts         ← Singleton config: data paths, AI settings, TTS, events
-│
+│   ├── AppContent.tsx          Main coordinator (data loading, routing, modals)
+│   ├── ai/                     6 components (lazy-loaded): AITutorChat, AISidebar, etc.
+│   ├── audio/                  AudioControls, VoiceSelector, PremiumVoiceSelector
+│   ├── practice/               WordCard, RS/ASQ/WFD/VocabTyping interfaces, ProgressDashboard
+│   ├── settings/               SettingsPanel
+│   ├── shared/                 ErrorBoundary, Skeleton, ToastProvider, ComponentSkeleton
+│   ├── migration/              DataMigrationModal
+│   └── profile/                LearnerProfileModal
+├── config/AppConfig.ts         Singleton: data paths, AI settings, events, build config
 ├── stores/
-│   ├── index.ts             ← Zustand store (7 slices: audio, tts, settings, vocabulary, progress, ui, auth)
-│   └── types.ts             ← Store type definitions
-│
+│   ├── index.ts                Zustand store (7 slices), persisted to localStorage
+│   └── types.ts                Store type definitions
 ├── services/
-│   ├── ai/                  ← recommendationService, interventionEngine, weakAreaDetector, taskPersonas
-│   ├── analytics/           ← analyticsService (PostHog), getAnalytics (typed accessor)
-│   ├── audio/               ← TTSEngine (Web Speech API), pollyService (AWS Polly)
-│   ├── data/                ← vocabularyLoader (shared cache for dataset fetching)
-│   ├── device/              ← WakeLockService
-│   ├── migration/           ← migrationService
-│   ├── profile/             ← learnerProfileService
-│   ├── session/             ← sessionManager
-│   ├── supabase/            ← supabaseClient, authService, syncService, autoSyncManager
-│   └── tts/                 ← persistentCache
-│
-├── data/
-│   ├── DataSchema.ts
-│   ├── DatasetManager.ts
-│   └── extractors/          ← PTETermsExtractor, SingleIPATermsExtractor, PTESentenceExtractor, PTEQuestionExtractor
-│
-├── hooks/                   ← useBreakpoint, useMigration, useOnboarding, useSwipeGesture
-├── types/                   ← dataset.types.ts, config.types.ts, database.ts
-├── utils/                   ← logger, textUtils, templateParser, EventBus, Storage, CacheMigration
-│   └── validation/          ← guards.ts (type guards), schemas.ts (Zod schemas)
-├── css/                     ← 9 CSS files (tailwind.css, variables.css, animations.css, components.css, style.css, responsive.css, auth.css, analytics.css, shadowing.css)
-└── test/
-    └── setup.ts             ← Vitest setup (mocks: speechSynthesis, matchMedia, IntersectionObserver, ResizeObserver)
+│   ├── ai/                     recommendationService, interventionEngine, weakAreaDetector, taskPersonas, ratingService
+│   ├── analytics/              analyticsService (PostHog), getAnalytics (typed accessor)
+│   ├── audio/                  TTSEngine (Web Speech + Polly), pollyService
+│   ├── data/                   vocabularyLoader (shared cache, 5-min TTL)
+│   ├── device/                 WakeLockService
+│   ├── session/                sessionManager (Supabase + IndexedDB offline)
+│   ├── supabase/               supabaseClient, authService, syncService, autoSyncManager
+│   ├── tts/                    persistentCache
+│   ├── migration/              migrationService
+│   └── profile/                learnerProfileService
+├── data/                       DataSchema, DatasetManager, extractors/ (4 TypeScript extractors)
+├── hooks/                      useBreakpoint, useMigration, useOnboarding, useSwipeGesture
+├── types/                      dataset.types, config.types, database
+├── utils/                      logger, textUtils, templateParser, EventBus, Storage, CacheMigration
+│   └── validation/             guards.ts (type guards), schemas.ts (Zod)
+├── css/                        9 files: tailwind, variables, animations, components, style, responsive, auth, analytics, shadowing
+└── test/setup.ts               Vitest setup (mocks: speechSynthesis, matchMedia, etc.)
+
+api/                            Vercel serverless functions (repo root, NOT under src/)
+├── ai/chat.ts                  Gemini streaming SSE
+├── ai-recommendations.ts       Personalized suggestions
+├── premium-tts.ts              AWS Polly TTS
+├── audio/generate.ts           Alternative TTS with S3 caching
+├── pronunciation-score.ts      Gemini scoring
+├── voices.ts                   Voice list
+└── config.ts                   Shared API config
 
 data/
-├── source/pte/              ← Source markdown files (vocabs/, rs/, asq/, wfd/, di/, rl/, sgd/, essay-examples/)
-└── processed/               ← Generated JSON (37 datasets, created by npm run data:pte)
+├── source/pte/                 Markdown source files
+└── processed/                  Generated JSON (37 datasets)
 
 scripts/
-├── pte-data-pipeline.js     ← Markdown → JSON processor
-├── ai-chat-middleware.ts     ← Vite dev server middleware for /api/ai/chat
-├── generate-natural-di-shadowing.js
-├── validate.js, validate-docs.js, validate-structure.js
-└── (others: bump-version, dev-proxy, test-gemini-api, etc.)
-
-api/                         ← Vercel serverless functions (NOT under src/)
-├── ai/chat.ts               ← Gemini AI tutor (streaming SSE)
-├── ai-recommendations.ts    ← Personalized recommendations
-├── premium-tts.ts           ← AWS Polly TTS
-├── audio/generate.ts        ← Alternative TTS endpoint
-├── pronunciation-score.ts   ← AI pronunciation scoring
-├── voices.ts                ← Available voices list
-└── config.ts                ← Shared API config
+├── pte-data-pipeline.js        Markdown → JSON processor
+├── ai-chat-middleware.ts       Vite dev middleware for /api/ai/chat
+└── validate*.js                Docs, structure, dataset validators
 ```
 
-## Essential Commands
+## Zustand Store (7 Slices)
 
-```bash
-npm run start           # data:pte + dev (full startup)
-npm run dev             # Vite dev server on port 3001
-npm run data:pte        # Markdown → JSON pipeline (required before first run)
-npm test                # Vitest (123 tests, 9 files)
-npm run lint            # tsc --noEmit
-npm run build           # tsc + vite build → dist/
-npm run deploy:pte      # data:pte + build + validate:all
-```
-
-## State Management
-
-Single Zustand store with 7 slices. Middleware: `subscribeWithSelector` → `devtools` → `persist`.
-
-| Slice | Key fields | Persisted? |
+| Slice | Key state | Persisted? |
 |-------|-----------|------------|
-| `audio` | isAutoPlaying, currentIndex, volume, repeatMode, playbackSpeed | Preferences only |
+| `audio` | isAutoPlaying, currentIndex, volume, repeatMode | Prefs only |
 | `tts` | isSpeaking, selectedVoice | No |
 | `settings` | vocabularyBook, practiceType, difficultyFilter, ttsRate, theme | Yes |
-| `vocabulary` | currentDataset, filteredDataset, currentItem, mode, isLoading | No |
-| `progress` | completedItems (Set), accuracy, currentStreak, sessionStartTime | Partial |
+| `vocabulary` | currentDataset, filteredDataset, currentItem, isLoading | No |
+| `progress` | completedItems (Set), accuracy, currentStreak | Partial |
 | `ui` | notification, isInitializing | No |
 | `auth` | user, session, isAuthenticated | No |
 
-Access in components:
-```typescript
-import { useAppStore, useSettings, useVocabulary } from '../stores';
-const settings = useSettings();
-const { currentItem } = useVocabulary();
-```
+## Patterns to Follow
 
-## Data Architecture
-
-**36 vocabulary books + 3 practice modes + 1 shadowing dataset** in `data.paths.byMode` (AppConfig.ts).
-
-### Dataset types
-- **Vocabulary:** `{ word, ipa: { british, american }, phonetic, difficulty, category }`
-- **Practice (RS/ASQ/WFD):** `{ sentence|question, metadata: { difficulty, category } }`
-- **Shadowing:** `{ fullText, phrases[], template }`
-
-### Data flow
-```
-data/source/pte/*.md  →  npm run data:pte  →  data/processed/*.json  →  fetch() at runtime
-```
-
-## Type Guards
-
-Use guards from `src/utils/validation/guards.ts` instead of `as any`:
+**Type safety** — use guards from `src/utils/validation/guards.ts`:
 ```typescript
 import { isVocabularyTerm, isPracticeItem } from '../utils/validation/guards';
-
-if (isVocabularyTerm(item)) {
-  console.log(item.word);  // TypeScript knows this is VocabularyTerm
-}
+if (isVocabularyTerm(item)) item.word; // narrowed
 ```
 
-## Logging
-
-Use `src/utils/logger.ts` instead of raw `console.*`:
+**Logging** — use `src/utils/logger.ts`:
 ```typescript
 import logger from '../utils/logger';
-logger.log('dev only');   // silenced in production
+logger.log('dev-only');   // silenced in production
 logger.error('always');   // always prints
 ```
 
-## Analytics
-
-Use typed accessor instead of `(window as any).analyticsService`:
+**Analytics** — use typed accessor:
 ```typescript
 import { getAnalytics } from '../services/analytics/getAnalytics';
-getAnalytics()?.track('event_name', { ... });
+getAnalytics()?.track('event', { ... });
 ```
 
-## Testing
+## Known Issues (see docs/DIAGNOSTICS.md for full list)
 
-- **Framework:** Vitest 4.x + happy-dom
-- **Setup:** `src/test/setup.ts`
-- **Run:** `npm test`
-- **Coverage:** 60% thresholds in `vitest.config.ts`
-- **Pre-commit:** `.husky/pre-commit` runs docs, structure, lint, and tests
+- Schema mismatch between `/api/ai-recommendations` response and `recommendationService.ts` client expectations
+- `analyticsService.initialize()` never called — PostHog disabled at runtime
+- `auth.initialize()` never called on mount — sessions not restored on refresh
+- Vite path aliases (`@stores`, `@ts`) point to non-existent `src/ts/` — all imports use relative paths
+- Two recommendation engines coexist (`recommendationService` API-based, `recommendationEngine` Supabase-based)
+- `openai` package in dependencies but appears unused
 
-## Common Pitfalls
+## Documentation Index
 
-- `package.json` declares `"packageManager": "yarn@1.22.22"` but the repo uses **npm** (`package-lock.json`)
-- `src/ts/` does **not** exist — all source is under `src/` directly
-- Vite path aliases (`@stores`, `@ts`, etc.) point to non-existent `src/ts/` paths — imports use relative paths instead
-- The data pipeline (`npm run data:pte`) must run before the first `npm run dev`
-- AI features (Gemini, Polly) are optional — the app works fully without any `.env` keys
-- `analyticsService.initialize()` is never called at startup — PostHog is effectively disabled unless explicitly initialized
-
-## Detailed Lifecycle
-
-See `docs/APP-LIFECYCLE.md` for the complete verified startup sequence, render tree, data loading flow, and interaction patterns.
+| File | Content |
+|------|---------|
+| `README.md` | Project overview, quick start, features |
+| `CHANGELOG.md` | Version history |
+| `docs/ARCHITECTURE.md` | System design, layers, data flow |
+| `docs/SETUP.md` | Dev environment setup |
+| `docs/TESTING.md` | Test framework, coverage, commands |
+| `docs/CONTRIBUTING.md` | Contribution guidelines |
+| `docs/DEPLOYMENT.md` | Build and deploy |
+| `docs/SECURITY.md` | Security policy |
+| `docs/MODULES.md` | Module interactions |
+| `docs/DIAGNOSTICS.md` | Known issues and improvement areas |
