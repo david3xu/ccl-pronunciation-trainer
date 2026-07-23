@@ -1,995 +1,1053 @@
 {
   "metadata": {
-    "generated": "2026-07-23T05:32:49.613Z",
+    "generated": "2026-07-23T07:59:22.447Z",
     "source": "pte-swt",
-    "description": "PTE Summarize Written Text practice passages",
+    "description": "SWT answer typing practice targets",
     "totalTerms": 58,
     "version": "1.0"
   },
   "items": [
     {
       "id": "swt-1",
-      "title": "Plants Research",
-      "passage": "Plants serve as the conduit of energy into the biosphere, provide food and materials used by humans, and shape our environment. According to Ehrhardt and Frommer, the three major challenges facing humanity in our time are food, energy, and environmental degradation. All three are plant related.\n\nAll of our food is produced by plants, either directly or indirectly via animals that eat them. Plants are a source of energy production. And they are intimately involved in climate change and a major factor in a variety of environmental concerns, including agricultural expansion and its impact on habitat destruction and waterway pollution.\n\nWhat's more, none of these issues are independent of each other. Climate change places additional stresses on the food supply and on various habitats. So, plant research is instrumental in addressing all of these problems and moving into the future. For plant research to move significantly forward, Ehrhardt and Frommer say technological development is critical, both to test existing hypotheses and to gain new information and generate fresh hypotheses. If we are to make headway in understanding how these essential organisms function and build the foundation for a sustainable future, then we need to apply the most advanced technologies available to the study of plant life, they say.",
+      "title": "Answer 1",
+      "passage": "",
       "answer": "Plants transfer energy into the biosphere, while supplying food and materials to humans and forming our environment, as the three major challenges of food, energy, and environmental problems are all connected to plants, since plants produce all our food and generate energy, so studying plants is essential for solving these problems and progressing, and developing technology is critical.",
       "wordCount": 58,
-      "sourceSet": "PTE_SWT_Practice_Examples",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-2",
-      "title": "Malaysia Tourism",
-      "passage": "Malaysia is also launching its biggest ever tourism campaign in an effort to lure 20 million visitors here this year. Tourism is the Southeast Asian nation's second largest-source of foreign exchange after exports. Malaysia is one of the most pleasant, hassle-free countries to visit in Southeast Asia. Aside from its gleaming 21st century glass towers, it boasts some of the most superb beaches, mountains and national parks in the region.\n\nAny tourist itinerary would have to begin in the capital, Kuala Lumpur, where you will find the Petronas Twin Towers, which once comprised the world's tallest buildings and now hold the title of second-tallest. Both the 88-story towers soar 1,480 feet high and are connected by a sky-bridge on the 41st floor. The limestone temple Batu Caves, located 9 miles north of the city, have a 328-foot-high ceiling and feature ornate Hindu shrines, including a 141-foot-tall gold-painted statue of a Hindu deity. To reach the caves, visitors have to climb a steep flight of 272 steps. In Sabah state on Borneo island not to be confused with Indonesia's Borneo you'll find the small mushroom-shaped Sipadan island, off the coast of Sabah, rated as one of the top five diving sites in the world. Sipadan is the only oceanic island in Malaysia, rising from a 2,300-foot abyss in the Celebes Sea. You can also climb Mount Kinabalu, the tallest peak in Southeast Asia, visit the Sepilok Orang Utan Sanctuary, go white-water rafting and catch a glimpse of the bizarre proboscis monkey, a primate found only in Borneo with a huge pendulous nose, a characteristic pot belly and strange honking sounds.\n\nWhile you're in Malaysia, consider a trip to Malacca. In its heyday, this southern state was a powerful Malay sultanate and a booming trading port in the region. Facing the Straits of Malacca, this historical state is now a place of intriguing Chinese streets, antique shops, old temples and reminders of European colonial powers. Another interesting destination is Penang, known as the Pearl of the Orient. This island off the northwest coast of Malaysia boasts of a rich Chinese cultural heritage, good food and beautiful beaches.",
+      "title": "Answer 2",
+      "passage": "",
       "answer": "Malaysia is conducting its largest tourism campaign to attract 20 million visitors this year, as it is among the most comfortable countries to visit in Southeast Asia, while tourists should start in Kuala Lumpur, since they should visit Malacca, which was an influential sultanate with thriving trade, and another interesting place is Penang, called the Pearl of the Orient.",
       "wordCount": 59,
-      "sourceSet": "PTE_SWT_Practice_Examples",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-3",
-      "title": "Children Allowance",
-      "passage": "Many people who have written on the subject of allowances say it is not a good idea to pay your child for work around the home. These jobs are a normal part of family life. Paying children to do extra work around the house, however, can be useful. It can even provide an understanding of how a business works. Allowances give children a chance to experience the things they can do with money. They can share it in the form of gifts or giving to a good cause. They can spend it by buying things they want. Or they can save and maybe even invest it. Saving helps children understand that costly goals require sacrifice: you have to cut costs and plan for the future. Requiring children to save part of their allowance can also open the door to future saving and investing. Many banks offer services to help children and teenagers learn about personal finance. A savings account is an excellent way to learn about the power of compound interest...",
+      "title": "Answer 3",
+      "passage": "",
       "answer": "Giving children allowances for extra household work can be helpful, as it shows them how businesses operate, while it allows them to learn about using money, since saving demonstrates that costly goals require sacrifice and planning, and banks provide services to help youth understand personal finances.",
       "wordCount": 46,
-      "sourceSet": "PTE_SWT_Practice_Examples",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-4",
-      "title": "Hookham Booksellers",
-      "passage": "The booksellers of Hookham and Carpenter (hereafter referred to only as Hookham) were located on New Bond Street in London, and their records span the most politically turbulent decade of the eighteenth-century—the 1790's. Clients who frequented Hookham were primarily from the aristocratic or gentry classes. In fact, of Hookham's total buyers, 22% were aristocracy, and 35% of the aristocracy purchased novels. We can also confidently assume that untitled female customers were of gentry income because their addresses were primarily in London's fashionable 'West End'.\n\nHookham's ledgers not only reveal a dramatic increase in the proportion of female purchasers of novels by comparison to earlier studies of provincial women, but they also reveal a remarkable increase in the proportion of female purchases of novels authored by females. Such a marked increase illustrates that Hookham's leisured female customers were able to buy more novels.\n\nFurthermore, the fact that these female aristocrats and gentry have accounts under their own name, not their husbands, demonstrates the greater degree of agency and independence that these urban, moneyed women had relative to provincial women. However, because our study does not include an examination of male customers, we are very limited in what claims we can make about whether or not these women behaved according to the cliche that women were the predominant consumers of novels in the eighteenth-century.\n\nMoreover, while more disposable income and leisure time certainly accounts for the significant increase in female purchases of novels authored by women in the 1790s, this increase also strongly suggests a desire on the part of women readers to engage in this politically charged decade. Thus, novel-reading provided women readers with the means through which they were able to participate in the male-dominated world of politics. The latter part of our paper will more fully explore this hypothesis in the context of certain recent literary scholars claim that both Gothic and sentimental novels are actively engaged in political debate and discussion.",
+      "title": "Answer 4",
+      "passage": "",
       "answer": "Hookham's records cover the most politically turbulent decade of the 1790s, as clients were mainly from aristocratic or gentry classes, while Hookham's leisured female customers could purchase more novels, since having accounts under their own names showed greater agency and independence, and more disposable income and leisure time suggest women readers desired to participate in this politically charged decade.",
       "wordCount": 59,
-      "sourceSet": "PTE_SWT_Practice_Examples",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-5",
-      "title": "House Mice",
-      "passage": "According to new research, house mice (Mus musculus) are ideal biomarkers of human settlement as they tend to stow away in crates or on ships that end up going where people go. Where people go, so do mice, often stowing away in carts of hay or on ships. Despite a natural range of just 100 meters (109 yards) and an evolutionary base near Pakistan, the house mouse has managed to colonize every continent, which makes it a useful tool for researchers like Searle.\n\nPrevious research conducted by Searle at the University of York supported the theory that Australian mice originated in the British Isles and probably came over with convicts shipped there to colonize the continent in the late 18th and 19th centuries.\n\nHe came to the conclusion by using evolutionary techniques to analyze mitochondrial DNA, comparing modern-day mouse populations from Australia with those from their likely regional source in Western Europe.\n\nIn the Viking study, he and his fellow researchers in Iceland, Denmark, and Sweden took it a step further, using ancient mouse DNA collected from archaeological sites dating from the 10th to 12th centuries, as well as modern mice.\n\nUsing mice as a proxy for human movement can add to what is already known through archaeological data and answer important questions in areas where there is a lack of artifacts, Searle said. He is hoping to do just that in his next project, which involves tracking the migration of mice and other species, including plants, across the Indian Ocean, from South Asia to East Africa.",
+      "title": "Answer 5",
+      "passage": "",
       "answer": "House mice serve as ideal biomarkers of human settlement as they stow away where people go, while the house mouse has colonized every continent which makes it useful for researchers, since Australian mice originated in the British Isles and likely came with convicts, and researchers advanced this by using ancient mouse DNA from archaeological sites, so using mice as a proxy for human movement adds to existing knowledge.",
       "wordCount": 68,
-      "sourceSet": "PTE_SWT_Practice_Examples",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-6",
-      "title": "Bank Overdraft",
-      "passage": "Banks provide short-term finance to companies in the form of an overdraft on a current account. The advantage of an overdraft is its flexibility. When the cash needs of the company increase with seasonal factors, the company can continue to write cheques and watch the overdraft increase. When the goods and services are sold and cash begins to flow in, the company should be able to watch the overdraft decrease again. The most obvious example of a business which operates in this pattern is farming. The farmer uses the overdraft to finance the acquisition of seed for arable farming, or feed through the winter for stock farming and to cover the period when the crops or animals are growing and maturing. The overdraft is reduced when the crops or the animals are sold.\n\nThe main disadvantage of an overdraft is that it is repayable on demand. The farmer whose crop fails because of bad weather knows the problem of being unable to repay the overdraft. Having overdraft financing increases the worries of those who manage the company. The other disadvantage is that the interest payable on overdrafts is variable. When interest rates increase, the cost of the overdraft increases. Furthermore, for small companies there are often complaints that the rate of interest charged is high compared with that available to larger companies. The banks answer that the rates charged reflect relative risk and it is their experience that small companies are more risky.",
+      "title": "Answer 6",
+      "passage": "",
       "answer": "Banks provide short-term finance to companies through overdrafts on current accounts, as the advantage is flexibility, while the main disadvantage is that overdrafts are repayable on demand, and the interest on overdrafts is variable, since small companies often complain that interest rates are high compared with those for larger companies.",
       "wordCount": 50,
-      "sourceSet": "PTE_SWT_Practice_Examples",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-7",
-      "title": "Australian Indigenous Food",
-      "passage": "In its periodic quest for culinary identity, Australia automatically looks to its indigenous ingredients, the foods that are native to this country. \"There can be little doubt that using an indigenous product must qualify a dish as Australian\", notes Stephanie Alexander. Similarly, and without qualification, states that a uniquely Australian food culture can only be based upon foods indigenous to this country. However, as Craw remarks, proposing Australian native foods as national symbols relies more upon their association with nature and geographic origin than on common usage. Notwithstanding the lack of justification for the premise that national dishes are, of necessity, founded on ingredients native to the country—after all, Italy's gastronomic identity is tied to the non-indigenous tomato, Thailand's to the non-indigenous chili—the reality is that Australians do not eat indigenous foods in significant quantities. The exceptions are fish, crustaceans and shellfish from oceans, rivers and lakes, most of which are unarguably unique to this country. Despite valiant and well-intentioned efforts today at promoting and encouraging the consumption of native resources, bush foods are not harvested or produced in sufficient quantities for them to be a standard component of Australian diets, nor are they generally accessible. Indigenous foods are less relevant to Australian identity today than lamb and passionfruit, both initially imported and now naturalized.",
+      "title": "Answer 7",
+      "passage": "",
       "answer": "Australia turns to its indigenous ingredients for culinary identity, as a uniquely Australian food culture must rely on foods native to this country, while bush foods lack sufficient production to become a standard part of Australian diets and are not widely accessible, so indigenous foods matter less to Australian identity today than lamb and passionfruit, both originally imported and now naturalized.",
       "wordCount": 61,
-      "sourceSet": "PTE_SWT_Practice_Examples",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-8",
-      "title": "Prior Knowledge",
-      "passage": "What is known as prior knowledge (or pre-existing knowledge) is the knowledge, skill or ability that a learner brings to a new learning encounter. This includes all knowledge that is available before the learning event, and which has been gathered or developed by any means, and in any situation, including both formal and, quite often, informal learning situations. Learners need enough previous knowledge and understanding to enable them to learn new things; they also need help making links with new and previous explicit knowledge.\n\nIt is considered to be valuable to go through a process of what has been called \"activating prior knowledge\". Teachers often go through this process at the beginning of a new topic. They also use introductory strategies at the beginning of lessons which are continuations from previous lessons. In terms of the practicalities of teaching, this is a process of making children think about the topic or remember what has been covered already. In terms of theory, it is to do with activating particular schemas.",
+      "title": "Answer 8",
+      "passage": "",
       "answer": "Prior knowledge refers to the knowledge, skill or ability that learners bring to new learning encounters, as learners require sufficient previous knowledge and understanding to enable them to learn new things, while it is valuable to go through a process of activating prior knowledge, and in theory, this relates to activating particular schemas.",
       "wordCount": 53,
-      "sourceSet": "PTE_SWT_Practice_Examples",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-9",
-      "title": "Importance of Soil",
-      "passage": "It's very easy to forget about what's in the ground beneath our feet and why it's so important to protect it. One tablespoon of soil contains more organisms than there are people on Earth; billions of bacteria, fungi and other microorganisms combine with minerals, water, air and organic matter to create a living system that supports plants and, in turn, all life. Healthy soil can store as much as 3,750 tons of water per hectare, reducing the risk of flooding, and the International Panel on Climate Change (IPCC) has said that 89% of all agricultural emissions could be mitigated if we improved the health of our soil.\n\nGood soil management also increases disease resistance in livestock and ultimately drives profits for farmers - yet soil and its impact on the health of our animals has, over recent decades, been one of the most neglected links in UK agriculture. Over the last 50 years, agriculture has become increasingly dependent on chemical fertilizers, with applications today around 10 times higher than in the 1950s. Farmers often think the chemical fertilizer NPK (nitrogen, phosphorous and potassium) provides all the nutrition a plant requires, but it also has a detrimental effect on the long-term health of the land: research suggests there are fewer than 100 harvests left in many of the world's soils.",
+      "title": "Answer 9",
+      "passage": "",
       "answer": "Soil holds more organisms than people on Earth, as they form a living system sustaining plants and all life, while effective soil management boosts disease resistance in livestock and generates profits for farmers, yet soil and its impact on animal health represents one of the most overlooked links in UK agriculture.",
       "wordCount": 51,
-      "sourceSet": "PTE_SWT_Practice_Examples",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-10",
-      "title": "Museology",
-      "passage": "What is museology? A simple definition might be that it is the study of museums, their history and underlying philosophy, the various ways in which they have, in the course of time, been established and developed, their avowed or unspoken aims and policies, their educative or political or social role. More broadly conceived, such a study might also embrace the bewildering variety of audiences — visitors, scholars, art lovers, children — at whom the efforts of museum staff are supposedly directed, as well as related topics such as the legal duties and responsibilities placed upon (or incurred by) museums, perhaps even some thought as to their future. Seen in this light, museology might appear at first sight a subject so specialized as to concern only museum professionals, who by virtue of their occupation are more or less obliged to take an interest in it. In reality, since museums are almost, if not quite as old as civilization itself, and since the plethora of present-day museums embraces virtually every field of human endeavor - not just art, or craft, or science, but entertainment, agriculture, rural life, childhood, fisheries, antiquities, automobiles: the list is endless - it is a field of enquiry so broad as to be a matter of concern to almost everybody.",
+      "title": "Answer 10",
+      "passage": "",
       "answer": "Museology is the study of museums, their history and philosophy, as such a study embraces the variety of audiences at whom museum staff efforts are directed, since present-day museums cover virtually every field of human endeavor, so it is a field of enquiry relevant to almost everybody.",
       "wordCount": 47,
-      "sourceSet": "PTE_SWT_Practice_Examples",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-11",
-      "title": "2014 Olympics",
-      "passage": "11 February 2009 – Major athletic events around the globe – from the 2014 Sochi Olympics to an annual powerboat race in Norwegian fjords – are striving to neutralize their carbon footprint as part of a world-wide climate network, the United Nations Environment Programme (UNEP) said today.\n\nThe sporting events are the latest participants to join the network, and are particularly important for inspiring further global action on the environment, said Achim Steiner, UNEP Executive Director.\n\n\"It is, therefore, heartening that this passion for excellence increasingly encompasses environmental performance, with sporting organizations raising the bar ever higher at each and every tournament,\" he added.\n\nOrganizers of the 2014 Sochi Olympic and Paralympic Winter Games – to be held in a unique natural setting between the shores of the Black Sea and the soaring snow-capped Caucasus Mountains – say they will put an estimated $1.75 billion into energy conservation and renewable energy.\n\nThat investment will be dedicated to improving transport infrastructure and offsetting greenhouse gas emissions from the use of electricity, air travel and ground transportation, the reforestation of Sochi National Park and the development of green belts in the city.",
+      "title": "Answer 11",
+      "passage": "",
       "answer": "Major athletic events worldwide are working to neutralize their carbon footprint as part of a global climate network, while sporting events are the latest participants to join and are especially crucial for encouraging global environmental action, since the passion for excellence progressively encompasses environmental performance, so the investment will concentrate on enhancing transport infrastructure and offsetting greenhouse gas emissions.",
       "wordCount": 59,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-12",
-      "title": "Paleolithic People",
-      "passage": "The ways of life of Upper Paleolithic people are known through the remains of meals scattered around their hearths, together with many tools and weapons and the debris left over from their making. The people were hunter-gatherers who lived exclusively from what they could find in nature without practicing either agriculture or herding. They hunted the bigger herbivores, while berries, leaves, roots, wild fruit and mushrooms probably played a major role in their diet. Their hunting was indiscriminate, perhaps because so many animals were about they did not need to spare pregnant females or the young. In the cave of Enlene, for example, many bones of reindeer and bison fetuses were found. Apparently, upper Paleolithic people hunted like other predators and killed the weakest prey first. They did, however, sometimes concentrate on salmon suns and migrating herds of reindeer. Contrary to popular beliefs about cave man, upper Paleolithic people did not live deep inside caves. They rather closed the foot of cliffs, especially when an overhang provided good shelter. On the plains and in the valleys, they used tents made from hides of the animals they killed. At time, on the great Russian plains, they built huts with huge bones and tusks collected from skeletons of mammals. Men hunted mostly with spears, as the bow and arrow were probably not invented until the Magdalenian period that came at the end of the Upper Paleolithic. Tools and weapons, made out of wood or reindeer antlers, often had flint cutting edges.",
+      "title": "Answer 12",
+      "passage": "",
       "answer": "The ways of life of Upper Paleolithic people are understood through the remains of meals scattered around their hearths, along with many tools and weapons and debris from their making, as the people were hunter-gatherers who pursued the bigger herbivores, while their hunting was indiscriminate, and they mainly settled at the foot of cliffs, since men primarily used spears for hunting.",
       "wordCount": 61,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-13",
-      "title": "Positive Mindset",
-      "passage": "Research shows that when people work with a positive mind-set, performance on nearly every level – productivity, creativity, engagement - improves. Yet happiness is perhaps the most misunderstood driver of performance. For one, most people believe that success precedes happiness. \"Once I get a promotion, I'll be happy,\" they think. Or, \"Once I hit my sales target, I'll feel great.\" But because success is a moving target – as soon as you hit your target, you raise it again, the happiness that results from success is fleeting. In fact, it works the other way around: people who cultivate a positive mind-set perform better in the face of challenge. I call this the \"happiness advantage\" – every business outcome shows improvement when the brain is positive. I've observed this effect in my role as a researcher and lecturer in 48 countries on the connection between employee happiness and success. And I'm not alone: in a meta-analysis of 225 academic studies, researchers Sonja Lyubomirsky, Laura King, and Ed Diener found strong evidence of directional causality between life satisfaction and successful business outcomes. Another common misconception is that our genetics, our environment, or a combination of the two determines how happy we are. To be sure, both factors have an impact. But one's general sense of well-being is surprisingly malleable. The habits you cultivate, the way you interact with coworkers, how you think about stress – all these can be managed to increase your happiness and your chances of success.",
+      "title": "Answer 13",
+      "passage": "",
       "answer": "When people have a positive mind-set, performance on nearly every level improves, yet happiness is perhaps the most misunderstood driver of performance, as most believe success comes before happiness, while those who develop a positive mind-set achieve better results when facing challenges, and another misconception is that genetics, environment, or their combination controls happiness, but one's general sense of well-being is surprisingly flexible.",
       "wordCount": 63,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-14",
-      "title": "South Africa",
-      "passage": "The area that is now South Africa has been inhabited by humans for millennia. The San, the original inhabitants of this land, were migratory people who lived in small groups of about 15 to 20 people. They survived by fishing and hunting and by gathering roots and other wild foods. They did not build permanent dwellings but used rock shelters as temporary dwellings. Around 2,000 years ago Khoikhoi pastoralists migrated to the coast.\n\nIn the eastern part of present-day South Africa, iron-working societies date from about 300 A.D. The Sotho-Tswana and Nguni peoples arrived in this region around 1,200 A.D. They lived by agriculture and stock farming, mined gold, copper and tin and hunted for ivory and built stone-walled towns. Over the centuries, these societies had diverse contacts with the Khoisan. Strife between the San and the Khoikhoi developed over competition for game; eventually the Khoikhoi became dominant. These people lived in the western part of present-day South Africa and are known collectively as the Khoisan.",
+      "title": "Answer 14",
+      "passage": "",
       "answer": "The San were moving people who stayed in small groups and used rock shelters as temporary homes, while around 2,000 years ago Khoikhoi pastoralists traveled to the coast, as over the centuries, these societies maintained various contacts with the Khoisan, since conflict between the San and the Khoikhoi emerged over competition for game, so eventually the Khoikhoi became dominant.",
       "wordCount": 59,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-15",
-      "title": "New Women",
-      "passage": "In the 1890s there was a positive media feeding frenzy in Britain and in North America both defending and attacking the 'New Woman'. Some commentators have dated the beginning of this very precisely, from March 1894, when the British novelist Sarah Grand first used the label in an article in the North American Review. Grand hailed the New Woman as one who has at last 'solved the problem and proclaimed for herself what was wrong with Home-is-the-Woman's-Sphere, and prescribed the remedy'. Other commentators have seen the term growing out of and crystallizing a steadily swelling debate over several decades about the position of women of the middle classes, their scope for independence, the implications of the access to secondary and higher education which they were beginning to secure, and the legal, financial, social and psychological constraints imposed upon them by marriage.",
+      "title": "Answer 15",
+      "passage": "",
       "answer": "In the 1890s there was positive media coverage in Britain and North America both defending and attacking the 'New Woman', while some commentators marked the start exactly from March 1894, as Grand praised the New Woman as one who solved the problem and prescribed the remedy, and others saw the term emerging from a growing debate over decades about middle-class women's position and their pursuit of independence.",
       "wordCount": 67,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-16",
-      "title": "Sustainable Development",
-      "passage": "The Brundtland Report, Our Common Future (1987), defines sustainable development as 'development which meets the needs of the present without compromising the ability of future generations to meet their own needs'. Implicit in this definition is the idea that the old pattern of development could not be sustained. Is this true? Development in the past was driven by growth and innovation. It led to new technologies and huge improvements in living standards. To assume that we know what the circumstances or needs of future generations will be is mistaken and inevitably leads to the debilitating sense that we are living on borrowed time.\n\nOnly if we assume that society will remain static can we understand the needs of the future. The way we live today could not have been predicted twenty years ago. The sustainability paradigm fails to recognize this. It is a static view and thus places limits on human ingenuity. Similarly, a whole host of false assumptions dominate environmental thought; the scale of problems is exaggerated, the amount of resources is underestimated and spurious links are made between areas such as green policies and profit, poverty and environmental degradation. Those of us who want a better future need to question these assumptions.",
+      "title": "Answer 16",
+      "passage": "",
       "answer": "The Brundtland Report, Our Common Future (1987), describes sustainable development as 'development which meets the needs of the present without compromising the ability of future generations to meet their own needs', while this definition suggests that the old pattern of development could not continue, and only if we believe society will stay static can we understand the needs of the future, so those who desire a better future need to challenge these assumptions.",
       "wordCount": 73,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-17",
-      "title": "Negotiation",
-      "passage": "Negotiation is a common process in business to mainly solve business conflicts between both parties. Compromise is a basic negotiation state in which both parties give up something that they want in order to get something else they want more. Compromise usually occurs in unfair parties when there is a fixed pie to be divided up, and whatever on one side gets, the other side loses.\n\nIn compromise situations, neither side gets all of what they really want, but they each make concessions in order to reach an agreement that is acceptable to both. Both parties usually can reach win-win concept through compromise. However, negotiation cannot resolve all the conflict if one party is unwilling to resolve the problem.",
+      "title": "Answer 17",
+      "passage": "",
       "answer": "Negotiation represents a frequent process in business to primarily address business conflicts between both parties, while compromise is a basic negotiation state where both parties sacrifice something, as compromise typically happens in unfair parties when there is a fixed pie to be shared, since they each offer concessions to achieve an agreement acceptable to both parties, but negotiation cannot settle all conflict if one party refuses to address the problem.",
       "wordCount": 70,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-18",
-      "title": "Wright Brothers",
-      "passage": "In 1903, Wilbur and Orville Wright, two brothers from Dayton, OH, became the first people to fly a heavier than air, power controlled machine, known as the Wright Flyer. This did not simply happen overnight. The brothers had been tinkering with the idea of flight off and on since childhood. They were mechanically inclined young men who were inspired by the efforts of others.\n\nIn 1878, the brothers' father, Milton Wright, brought home a rubber band powered toy helicopter. Designed by French aeronautical experimenter Alphonse Pénaud, this toy did not simply fall to the ground as expected. Rather it \"flew across the room till it struck the ceiling, where it fluttered awhile, and finally sank to the floor.\" Though the fragile toy soon broke, Wilbur and Orville never forgot it. They even attempted to build their own toy helicopters. In later years, Orville accredited this childhood toy as sparking their interest in flight.\n\nThroughout their lives, the brothers were involved in a variety of ventures to make money. But it wasn't until 1892, when they formed the Wright Cycle Company, finding a successful business that allowed spare time for other projects, to sell bicycles, that they found a successful business that also allowed them spare time for other projects. With the business doing rather well, the brothers also opened a repair shop and later began to manufacture bicycles.\n\nThough the business was going well, the brothers were restless. Their energies were focused by two 1896 events: the death of Otto Lilienthal and the successful unmanned launching of powered models by Samuel Langley; the death of Otto Lilienthal, the celebrated glider experimenter, in a flying accident, and the successful unmanned launching of powered models by Samuel Langley. The creativity and ingenuity of these two men were well and truly captured. Fortunately, the bicycle business provided funds and sharpened mechanical skills for their new interest, for unlike others in aviation, the Wrights were never financed by anyone. Furthermore, the repair and manufacture of bicycles sharpened the brothers' mechanical skills. In their construction of flying machines, Wilbur and Orville often used the same equipment and tools used in repairing bicycles. They conducted many of their scientific experiments in the backroom of their shop and most of the parts used in the first successful airplane were built there.",
+      "title": "Answer 18",
+      "passage": "",
       "answer": "Wilbur and Orville Wright became the first people to fly using the Wright Flyer, as they were technically skilled young men who were motivated by the work of others, while throughout their lives, the brothers participated in various ventures to earn money, since their energies were directed by two 1896 events, and the bicycle business supplied funds and enhanced mechanical skills for their new passion.",
       "wordCount": 65,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-19",
-      "title": "Human Remains",
-      "passage": "Human remains are a fundamental part of the archaeological record, offering unique insights into the lives of individuals and populations in the past. Like many archaeological materials, human remains require distinctive and specialized methods of recovery, analysis, and interpretation, while technological innovations and the accumulation of expertise have enabled archaeologists to extract ever greater amounts of information from assemblages of skeletal material. Alongside analyses of new finds, these advances have consistently thrown new light on existing collections of human remains in museums, universities and other institutions. Given the powerful emotional, social and religious meanings attached to the dead body, it is perhaps unsurprising that human remains pose a distinctive set of ethical questions for archaeologists.\n\nWith the rise of indigenous rights movements and the emergence of post-colonial nations, the acquisition and ownership of human remains became a divisive and politically loaded issue. It became increasingly clear that many human remains in museum collections around the world represented the traces of colonial exploitation and discredited pseudo-scientific theories of race. In the light of these debates and changing attitudes, some human remains were returned or repatriated to their communities of origin, a process which continues to this day. Recently a new set of challenges to the study of human remains has emerged from a rather unexpected direction: the British government revised its interpretation of nineteenth-century burial legislation in a way that would drastically curtail the ability of archaeologists to study human remains of any age excavated in England and Wales. This paper examines these extraordinary events and the legal, political and ethical questions that they raise.",
+      "title": "Answer 19",
+      "passage": "",
       "answer": "Human remains represent a fundamental part of the archaeological record, providing unique insights into the lives of individuals and populations in the past, as human remains need distinctive and specialized methods of recovery, while human remains create a distinctive set of ethical questions for archaeologists, since the acquisition and ownership of human remains turned into a divisive and politically charged issue, and many human remains in museum collections globally showed the traces of colonial exploitation.",
       "wordCount": 75,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-20",
-      "title": "Electric Cars",
-      "passage": "Although we tend to think of electric cars as being something completely modern, they were in fact some of the earliest types of motorized vehicle.\n\nAt the beginning of the twentieth century electric cars were actually more popular than cars with an internal combustion engine as they were more comfortable to ride in. However, as cars fueled by petrol increased in importance, electric cars declined. The situation became such that electric vehicles were only used for certain specific purposes — as fork-lift trucks, ambulances and urban delivery vehicles, for example.\n\nAlthough electricity declined in use in road vehicles, it steadily grew in importance as a means of powering trains. Switzerland, for example, was quick to develop an electrified train system, encouraged in this no doubt by the fact that it had no coal or oil resources of its own.\n\nNowadays there is renewed interest in electricity as a means of powering road vehicles. Why is this the case? Well, undoubtedly economic reasons are of considerable importance. The cost of oil has risen so sharply that there is a strong financial imperative to look for an alternative. However, there are also environmental motivations. Emissions from cars are blamed in large part for - among other things – the destruction of the ozone layer and the resultant rise in temperatures in the polar regions. A desire not to let things get any worse is also encouraging research into designing effective electric transport.",
+      "title": "Answer 20",
+      "passage": "",
       "answer": "Electric cars were actually some of the earliest motorized vehicles, while as cars powered by petrol grew in importance, electric cars decreased, and electricity continuously increased in importance for powering trains, since today there is fresh interest in electricity for powering road vehicles, as undoubtedly economic reasons remain considerably important, and there are also environmental motivations.",
       "wordCount": 56,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-21",
-      "title": "Geothermal Energy",
-      "passage": "What is the solution for nations with increasing energy demands, hindered by frequent power cuts and an inability to compete in the international oil market? For East Africa at least, experts think geothermal energy is the answer. More promising still, the Kenyan government and international investors seem to be listening. This is just in time according to many, as claims of an acute energy crisis are afoot due to high oil prices, population spikes and droughts. Currently over 60% of Kenya's power comes from hydroelectric sources but these are proving increasingly unreliable as the issue of seasonal variation is intensified by erratic rain patterns. Alternative energy sources are needed, and the leading energy supplier in Kenya, Kenya Electricity Generating Company, hopes to expand its geothermal energy supply from 13% to 25 % of its total usage by 2020. The potential of geothermal energy in the region was first realised internationally by the United Nations Development Program, when geologists observed thermal anomalies below the East African Rift system. Locals have been utilising this resource for centuries; using steam vents to create the perfect humidity for greenhouses, or simply to enjoy a swim in the many natural hot lakes. Along the 6000 km of the rift from the Red Sea to Mozambique, geochemical, geophysical and heat flow measurements were made to identify areas suitable for geothermal wells. One area lies next to the extinct Olkaria volcano, within the Hell's Gate National Park, and sits over some of the thinnest continental crust on Earth. This is a result of the thinning of the crust by tectonic stretching, causing hotter material below the Earth's surface to rise, resulting in higher temperatures. This thin crust was ideal for the drilling of geothermal wells, reaching depths of around 3000 m, where temperatures get up to 342°C, far higher than the usual temperature of 90°C at this depth. Water in the surrounding rocks is converted to steam by the heat. The steam can be used to drive turbines and produce electricity.",
+      "title": "Answer 21",
+      "passage": "",
       "answer": "The solution for nations with increasing energy demands is geothermal energy according to experts, while over 60% of Kenya's power comes from hydroelectric sources becoming increasingly unreliable, as measurements were conducted to locate suitable areas for geothermal wells, since this results from tectonic stretching thinning the crust, and water in surrounding rocks is transformed to steam by heat, which powers turbines and generates electricity.",
       "wordCount": 64,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-22",
-      "title": "Office Environment",
-      "passage": "The notion that office space has a role in promoting or inhibiting performance is backed up by solid research. A recent study conducted by Harvard University and Massachusetts General Hospital showed that improvements to the physical surroundings of workers impacted on productivity not just because the working environment was more attractive, but because the changes made employees feel cared for. A Swedish research paper revealed a strong link between the type of office an employee worked in and their overall job satisfaction and health. Various findings have emerged as a result of studies such as this. Pot plants and greenery can apparently have a real impact on psychological well-being. Those who work in a private room tend to be in better health than workers based in open-plan offices.\n\nSufficient light can reduce sickness among workers and increase productivity, and an attractive office can make workers feel more cared for and therefore more loyal to their company. Most of these points make good rational sense. But some companies aren't content simply to increase the health, productivity and contentment of their employees. Pioneers such as Google, Walt Disney and Dyson have tried to create offices that will do everything from promoting collaboration between workers to stimulating their creative juices. \"Environment, both physical and cultural, can make or break creativity.\" says Kursty Groves, author of I Wish I Worked There! A look inside the most creative spaces in business. Stimulating spaces expose the mind to a variety of stimuli - planned or random - In order to encourage people to think differently. Reflective spaces promote the filtering of information into the brain slowing it to make connections. An environment which encourages a team to build trust and to play freely is an essential ingredient for innovation.",
+      "title": "Answer 22",
+      "passage": "",
       "answer": "The idea that office space plays a role in promoting or limiting performance is supported by strong research, as improvements to physical surroundings of workers affected productivity, while sufficient light can decrease sickness and boost productivity, and an attractive office makes workers feel more cared for and thus more loyal, since an environment which motivates teams to develop trust and play freely is essential for innovation.",
       "wordCount": 66,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-23",
-      "title": "Image of Africa",
-      "passage": "Africa is not homogeneous. The negative impression of Africa held internationally is very unfair to those African countries that are actually doing well in their development, because this continent has more than 50 countries rich in natural resources which have not been completely exploited and cultural diversity, and hardworking Africans are struggling to address issues of poverty, disease and war, so Africa can be an attractive place for business development and cultural tourism if concerted international support and assistance are provided. This skewed perception overlooks the vibrant reality and immense potential of the continent.\n\nAfrica has a lot of potential, and years ago it brought benefits to some companies. Historical engagements have proven that forward-thinking businesses can find success. In fact, Africa is the region with the best investment returns. It is a paradise for investors and adventurers, but it still needs international aid. It is good to do business with Africans because of the mutual money and long-term growth prospects. Furthermore, beyond business, Africa is also beautiful, boasting landscapes and cultural heritage that make it a premier destination for cultural tourism, offering profound experiences for visitors.\n\nHowever, to discuss Africa honestly, one must also acknowledge its struggles. Africa suffers from frequent wars and the causes are complex, rooted in historical legacies and competition over resources, not in any inherent trait of its people. Africans know what is needed in their development but need assistance in areas like technology transfer, infrastructure financing, and capacity building.",
+      "title": "Answer 23",
+      "passage": "",
       "answer": "Africa can be an appealing place for business growth and cultural tourism if coordinated international support and assistance are offered, while this distorted view ignores the vibrant reality and substantial potential of the continent, as Africa represents the region with the best investment returns, yet Africa experiences frequent wars and the causes are complex, and Africans require assistance in areas like technology transfer, infrastructure financing, and capacity building.",
       "wordCount": 68,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-24",
-      "title": "Online Teaching & Learning",
-      "passage": "What makes teaching online unique is that it uses the internet, especially the World Wide Web, as the primary means of communication. Thus, when you teach online, you don't have to be someplace to teach. You don't have to lug your briefcase full of paper or your laptop to a classroom, stand at a lectern, scribble on a chalkboard (or even use your high-tech, interactive classroom \"smart\" whiteboard), or grade papers in a stuffy room while your students take a test. You don't even have to sit in your office waiting for students to show up for conferences. You can hold \"office hours\" on weekends or at night after dinner. You can do all this while living in a small town in Wyoming or a big city like Bangkok, even if you are working for a college whose administrative office is located in Florida or Dubai. You can attend an important conference in Hawaii on the same day you teach your class in New Jersey, logging on from your laptop via the local café's wireless hotspot or your hotel room's high-speed network. Or you may simply pull out your smartphone to quickly check on the latest postings, email, or text messages from students.\n\nOnline learning offers more freedom for students as well. They can search for courses using the Web, scouring their institution or even the world for programs, classes, and instructors that fit their needs. Having found an appropriate course, they can enroll and register, shop for their books, read articles, listen to lectures, submit their homework assignments, confer with their instructors, and receive their final grades — all online. They can assemble virtual classrooms, joining other students from diverse geographical locales, forging bonds and friendships not possible in conventional classrooms, which are usually limited to students from a specific geographical area.",
+      "title": "Answer 24",
+      "passage": "",
       "answer": "Teaching online is unique as it uses the internet, while teachers don't need to be at a location to teach, as they can hold office hours on weekends or at night after dinner, and online learning provides more freedom for students who can search for courses using the Web, since they can enroll, register, purchase books, read articles, listen to lectures, submit homework, contact instructors, and receive grades all online.",
       "wordCount": 70,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-25",
-      "title": "Electric Cars (C)",
-      "passage": "Although electric cars were clean, quiet, and simple to operate, the drawback then, as now, was their limited range and long charging time. After 1915, they fell out of vogue as cars powered by internal-combustion engines and fueled with cheap gasoline gained favor.\n\nAs concerns in recent years have grown about global warming caused by carbon-dioxide emissions, scientists have begun to reconsider electricity as a fuel for vehicles. But today's drivers (U.S. consumers, based on the article's U.S.-centered context) expect a vehicle that is fuel efficient, and a fuel that is readily available in numerous locations and allows instant refueling.\n\nAlthough electric cars are fairly efficient, they require frequent refueling, and the process is far from instantaneous. They are expensive, too, since normal use causes their US$2,000 lead-acid batteries to wear out in just a few years. And, ironically, electric cars do very little to reduce carbon dioxide emissions, because most U.S. electricity is generated by burning coal and other fossil fuels.\n\nTo gain U.S. consumer acceptance, the car of the future will need to balance the benefits of electric cars with U.S. consumers' demands for distance and dynamo. The hybrid electric vehicle holds promise as a solution to both these needs.",
+      "title": "Answer 25",
+      "passage": "",
       "answer": "Electric cars were clean, quiet, and easy to operate, but the limitation was their limited range and long charging time, while scientists have started to reconsider electricity as fuel for vehicles, yet they need frequent refueling and the process is far from instant, and electric cars do little to decrease carbon dioxide emissions, so hybrid electric vehicles offer promise as a solution to both needs.",
       "wordCount": 65,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-26",
-      "title": "Written Language",
-      "passage": "The world engages in improving literacy of reading and writing, but it is not that important now. What is written language anyway? It's an ancient technology for storing and retrieving information. We store information by writing it, and we retrieve it by reading it. Six thousand to 10,000 years ago, many of our ancestors' hunter-gatherer societies settled on the land and began what's known as the agricultural revolution. That new land settlement led to private property and increased production and trade of goods, generating a huge new influx of information. Unable to keep all this information in their memories, our ancestors created systems of written records that evolved over millennia into today's written language. But this ancient technology is already becoming obsolete. Text has run its historic course and is now rapidly getting replaced in every area of our lives by the ever-increasing array of emerging technologies driven by voice, video, and body movement rather than the written word. In my view, this is a positive step forward in the evolution of human technology, and it carries great potential for a total positive redesign of education.",
+      "title": "Answer 26",
+      "passage": "",
       "answer": "Written language represents an ancient technology for storing and retrieving information, as we save information by writing it and recover it by reading it, while text has completed its historic course and is now quickly being replaced in every area of our lives, since this represents a positive advance in the evolution of human technology, and it holds substantial potential for a complete positive redesign of education.",
       "wordCount": 67,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-27",
-      "title": "Independent Work",
-      "passage": "Working nine to five for a single employer bears little resemblance to the way a substantial share of the workforce makes a living today. Millions of people assemble various income streams and work independently, rather than in structured payroll jobs. This is hardly a new phenomenon, yet it has never been well measured in official statistics and the resulting data gaps prevent a clear view of a large share of labor-market activity. To better understand the independent workforce and what motivates the people who participate in it, the McKinsey Global Institute surveyed some 8,000 respondents across Europe and the United States. We asked about their income in the past 12 months-encompassing primary work, as well as any other income-generating activities, and about their professional satisfaction and aspirations for work in the future. The resulting report, Independent work: Choice, necessity, and the gig economy, finds that up to 162 million people in Europe and the United States - or 20 to 30 percent of the working-age population - engage in some form of independent work. While demographically diverse, independent workers largely fit into four segments (exhibit): free agents, who actively choose independent work and derive their primary income from it; casual earners, who use independent work for supplemental income and do so by choice; reluctants, who make their primary living from independent work but would prefer traditional jobs; and the financially strapped, who do supplemental independent work out of necessity.",
+      "title": "Answer 27",
+      "passage": "",
       "answer": "Working nine to five for one employer displays little similarity to how a substantial portion of the workforce earns a living today, as millions of people build various income streams and work independently, while 20 to 30 percent of the working-age population participate in some form of independent work, and independent workers largely belong to four categories: free agents, casual earners, reluctants, and the financially strapped.",
       "wordCount": 66,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-28",
-      "title": "Compulsory Reburial",
-      "passage": "Human remains are a fundamental part of the archaeological record, offering unique insights into the lives of individuals and populations in the past. Recently a new set of challenges to the study of human remains has emerged from a rather unexpected direction: the British government revised its interpretation of nineteenth-century burial legislation in a way that would drastically curtail the ability of archaeologists to study human remains of any age excavated in England and Wales. This paper examines these extraordinary events and the legal, political and ethical questions that they raise.\n\nIn April 2008 the British government announced that, henceforth, all human remains archaeologically excavated in England and Wales should be reburied after a two-year period of scientific analysis. Not only would internationally important prehistoric remains have to be returned to the ground, removing them from public view, but also there would no longer be any possibility of long-term scientific investigation as new techniques and methods emerged and developed in the future. Thus, while faunal remains, potsherds, artifacts and environmental samples could be analyzed and re-analyzed in future years, human remains were to be effectively removed from the curation process. Archaeologists and other scientists were also concerned that this might be the first step towards a policy of reburying all human remains held in museum collections in England and Wales including prehistoric, Roman, Saxon, Viking and Medieval as well as more recent remains.",
+      "title": "Answer 28",
+      "passage": "",
       "answer": "Human remains represent a fundamental part of the archaeological record, while recently a new set of challenges to studying human remains has appeared from an unexpected direction, as there would no longer exist any chance of long-term scientific investigation as new techniques and methods emerged and developed in the future, since this could be the first step towards a policy of reburying all human remains stored in museum collections.",
       "wordCount": 69,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-29",
-      "title": "The History of the Khoikhoi",
-      "passage": "In around 2300 BP (Before Present), hunter gatherers called the San acquired domestic stock in what is now modern day Botswana. Their population grew, and spread throughout the Western half of South Africa. They were the first pastoralists in southern Africa, and called themselves Khoikhoi (or Khoe), which means 'men of men' or 'the real people'. This name was chosen to show pride in their past and culture. The Khoikhoi brought a new way of life to South Africa and to the San, who were hunter gatherers as opposed to herders. This led to misunderstandings and subsequent conflict between the two groups.\n\nThe Khoikhoi were the first native people to come into contact with the Dutch settlers in the mid-17th century. As the Dutch took over land for farms, the Khoikhoi were dispossessed, exterminated, or enslaved and therefore their numbers dwindled. The Khoikhoi were called the 'Hottentots' by European settlers because the sound of their language was so different from any European language, and they could not pronounce many of the words and sounds.",
+      "title": "Answer 29",
+      "passage": "",
       "answer": "Around 2300 BP, hunter gatherers named the San obtained domestic stock in modern Botswana, while they were the first pastoralists in southern Africa, as the Khoikhoi introduced a new way of life to South Africa and the San, causing misunderstandings and conflict between the two groups, and when the Dutch seized land for farms, the Khoikhoi were dispossessed, exterminated, or enslaved so their numbers declined.",
       "wordCount": 65,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-30",
-      "title": "Silent Movies",
-      "passage": "The 1920's movie goers experience was largely dominated by silent movies but saw the introduction of synchronized sound. In the 1920's movie stars were really stars - with huge salaries, the fashions and activities of the Hollywood greats echoed around the world and 100,000 people would gather in cities all over the world, including such diverse cities as London and Moscow, to greet Mary Pickford and Douglas Fairbanks when they toured of Europe. Early silent movies were often accompanied by live piano or organ music and provided enormous entertainment value to audiences captivated by the experience of watching moving pictures on the silver screen. Although there had been previous attempts to introduce sound, it wasn't until 1923 that a synchronized soundtrack was photographically recorded and printed on to the side of the strip of motion picture film and made it on to a commercially distributed movie. It would still be seven long years before talking pictures gained total supremacy and finally replaced the silent film era.\n\nThe first movie theatres were called Nickelodeons, and were very basic compared to the luxurious picture palaces that followed but what an aura of excitement, of laughter, fun and tears surrounded them! Before the introduction of movie soundtracks, movies were often accompanied by scripted music from a piano.",
+      "title": "Answer 30",
+      "passage": "",
       "answer": "The 1920's movie goers experience was mainly dominated by silent movies but witnessed the introduction of synchronized sound, while early silent movies were frequently accompanied by live piano or organ music and delivered substantial entertainment value to audiences, as it wasn't until 1923 that a synchronized soundtrack was photographically captured and printed, and the first movie theatres were named Nickelodeons, since movies were typically accompanied by scripted music from a piano.",
       "wordCount": 71,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-31",
-      "title": "Pre-service Teachers",
-      "passage": "Each individual content-area course has a separate syllabus that highlights the specific technologies and pedagogy relevant to the content area. The technologies were selected after numerous meetings between methods and technology course instructors. After identifying the most appropriate technology, methods and technology course instructors co-develop their syllabi with projects spanning the two courses. Therefore, students learn about a specific technology in the technology course, and they integrate it in their practice teaching experiences within their methods course.\n\nIn a research collaboration with a methods area faculty member, the technology course instructor found that although preservice teachers know how to operate technology, they could not integrate it effectively within daily lesson plans and they were not able to envision the type of projects their students could develop. These findings influenced the technology course instructor to develop exemplary models of technology projects and pedagogy for each technology course section (i.e. content areas).\n\nFor example, a project was modeled to illustrate how students construct understanding of clouds using concept mapping within the science cohort. This project was supplemented by the instructor modeling effective teaching practices using concept mapping in the science classroom. The goal was to move the preservice teachers from focusing not only on the development of a final technology project in the course but encouraging them to think about successful integration in their future classrooms. These examples were placed online so the preservice teachers had access to them at all times in the development of their own projects for the technology course.",
+      "title": "Answer 31",
+      "passage": "",
       "answer": "Each content-area course has a separate syllabus emphasizing specific technologies and pedagogy, as methods and technology instructors jointly develop syllabi with projects covering both courses, while they could not integrate it effectively within daily lesson plans, since these findings influenced the technology instructor to create exemplary models of technology projects and pedagogy, and a project was designed to demonstrate how students build understanding of clouds using concept mapping.",
       "wordCount": 68,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-32",
-      "title": "Energy Demand",
-      "passage": "As our global population continues to expand, the pressure on our planet's resources intensifies. A central challenge we face is how to meet the skyrocketing energy demand required to support this growth. This isn't just about keeping the lights on; it's about powering every facet of our modern lives. With the population growth, the demand for resources has been growing as well. This creates a complex chain reaction across various sectors.\n\nThere is an expected increase in demand for various alternative resources, raw materials, timber for paper using, and of course, energy. This surge is understandable. More people need more homes, consumer goods, and packaging, all of which require vast amounts of materials and the energy to produce them. However, the strain is not limited to renewable resources. The increase in demand also happens in the non-renewable resource field, such as metal. These metals are essential for construction, technology, and infrastructure, but their supply is finite. Furthermore, our reliance on fossil fuels remains deeply entrenched. The demand for petrol, diesel and crude oil is also huge to cope with the demand for manufacturing plastics and for powering the global transportation network that moves these goods around the world.\n\nThis interconnected demand presents a critical dilemma. On one hand, we need these resources to maintain and improve living standards. On the other, their extraction and consumption have significant environmental consequences. This is why a sustainable path forward is crucial. People should ensure the natural world can still work well to ensure future well-being because the world population rises.",
+      "title": "Answer 32",
+      "passage": "",
       "answer": "The pressure on our planet's resources grows, while a central challenge we face is meeting the rising energy demand needed to support this growth, as there is an expected increase in demand for various alternative resources, and the increase in demand also occurs in the non-renewable resource field, since this interconnected demand creates a critical dilemma, so a sustainable path forward is essential.",
       "wordCount": 63,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set2",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-33",
-      "title": "Volcano Prediction",
-      "passage": "In general, no single event can be used to predict a volcanic eruption, and thus many events are usually monitored so that taken in total, an eruption can often be predicted. Still, each volcano behaves somewhat differently, and until patterns are recognized for an individual volcano, predictions vary in their reliability. Furthermore, sometimes a volcano can erupt with no precursor events at all.\n\nAfter the catastrophic eruption of Mount St. Helens on May 18, 1980, a volcanic dome began to grow in the crater. Growth of this dome occurred sporadically, and sometimes small eruptions occurred from the dome. After several years of dedicated monitoring, scientists are now able to predict with increasing accuracy eruptions from this dome. An example is shown in the graphs to the right. In the weeks prior to an eruption on March 19, 1982, the amount of seismic energy released increased, the amount dome expansion increased, tilt increased, and SO2 emissions increased prior to the event.\n\nNote that eruption predictions... are only possible if constant monitoring of a volcano takes place. Monitoring is an expensive endeavor, and not all active or potentially active volcanoes are monitored. Still, if people living around volcanoes are aware of some of the precursor phenomena... they may be able to communicate their findings... to scientists... and help prevent a pending disaster.",
+      "title": "Answer 33",
+      "passage": "",
       "answer": "No single event can predict a volcanic eruption, so many events are typically tracked, while scientists can now forecast with growing accuracy eruptions from this dome, as seismic energy released, dome expansion, tilt, and SO2 emissions all rose before the event, since eruption predictions only occur if continuous monitoring happens, and if people near volcanoes recognize precursor phenomena, they can relay findings to scientists and help stop a pending disaster.",
       "wordCount": 70,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-34",
-      "title": "Immune System",
-      "passage": "There are two functional divisions to the body's immune system: the innate immune system and the acquired immune system.\n\nThe innate immune system is your rapid-response system. It is the first to respond when it finds an invader. It is made up of the skin, the eye's cornea, and the mucous membrane that lines the respiratory, gastrointestinal, and genitourinary tracts. These all create physical barriers to help protect your body. They protect against harmful germs, parasites such as worms, or cells such as cancer.\n\nThe innate immune system is inherited and is active from the moment you are born. When this system recognizes an invader, it goes into action right away. The cells of this immune system surround and cover the invader. The invader is killed inside the immune system cells called phagocytes.\n\nThe acquired immune system, with help from the innate system, makes special proteins called antibodies to protect your body from a specific invader. These antibodies are developed by cells called B lymphocytes after the body has been exposed to the invader. The antibodies stay in your body. It can take several days for antibodies to form; however, after the first exposure, the immune system will recognize the invader and defend against it.\n\nThe acquired immune system changes during your life. Immunizations train your immune system to make antibodies to protect you from harmful diseases.",
+      "title": "Answer 34",
+      "passage": "",
       "answer": "There exist two functional divisions in the body's immune system: the innate immune system and the acquired immune system, as the innate system represents a quick-response system, while it is inherited and operates from the moment you are born, and the acquired system produces special proteins called antibodies to defend your body from a specific invader, since immunizations teach your immune system to create antibodies.",
       "wordCount": 65,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-35",
-      "title": "Bertrand Russell",
-      "passage": "As a philosopher, mathematician, educator, social critic and political activist, Bertrand Russell authored over 70 books and thousands of essays and letters addressing a myriad of topics. Awarded the Nobel Prize in Literature in 1950, Russell was a fine literary stylist, one of the foremost logicians ever, and a gadfly for improving the lives of men and women.\n\nHe was arguably the greatest philosopher of the 20th century and the greatest logician since Aristotle. Analytic philosophy, the dominant philosophy of the twentieth century, owes its existence more to Russell than to any other philosopher. And the system of logic developed by Russell and A.N. Whitehead, based on earlier work by Dedekind, Cantor, Frege, and Peano, broke logic out of its Aristotelian straitjacket. He was also one of the century's leading public intellectuals and won the Nobel Prize for Literature in 1950 \"in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought.\"\n\nRussell was involved, often passionately, in numerous social and political controversies of his time. For example, he supported suffragists, free thought in religion and morals, and world government; he opposed World War I and the Vietnam War, nationalism, and political persecution. He was jailed in 1918 for anti-war views and in 1961 for his anti-nuclear weapons stance.\n\nHe was married 4 times and had 3 children. With Dora Russell, he founded the experimental Beacon Hill School. He knew or worked with many of the most prominent figures in late 19th and 20th century philosophy, mathematics, science, literature, and politics.",
+      "title": "Answer 35",
+      "passage": "",
       "answer": "As a philosopher, mathematician, educator, social critic and political activist, Bertrand Russell produced over 70 books and thousands of essays and letters, as he was possibly the greatest philosopher of the 20th century and the finest logician since Aristotle, while he was among the century's leading public intellectuals and received the Nobel Prize for Literature in 1950, and he participated passionately in many social and political controversies of his time.",
       "wordCount": 70,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-36",
-      "title": "Solar Energy",
-      "passage": "The advantages and disadvantages of solar power compared to other forms of renewable energy have been greatly debated. While obviously superior to some forms of energy, solar power's high cost and efficiency dependent on geography have limited its appeal. However, a large number of advantages also merit further development and even possible adaptation for residences.\n\nAdvantages of Solar Power\n\nSolar energy remains popular because it is both a renewable and clean source of energy. These advantages along with the hope that eventually nations can use solar power to decrease global warming ensure its popularity.\n\nRenewable\n\nSolar energy is a true renewable resource. All areas of the world have the ability to collect some amount of solar power and solar power is available for collection each day.\n\nClean\n\nSolar energy is non-polluting. It does not create greenhouse gases, such as oil-based energy does, nor does it create waste that must be stored, such as nuclear energy. It is also far more quiet to create and harness, drastically reducing the noise pollution required to convert energy to a useful form. Residential size solar energy systems also have very little impact on the surrounding environment, in contrast with other renewable energy sources such as wind and hydroelectric power.\n\nLow Maintenance\n\nSolar panels have no moving parts and require very little maintenance beyond regular cleaning. Without moving parts to break and replace, after the initial costs of installing the panels, maintenance and repair costs are very reasonable.",
+      "title": "Answer 36",
+      "passage": "",
       "answer": "Many advantages warrant further development and even potential adaptation for residences, as solar energy represents both a renewable and clean source of energy, while it serves as a true renewable resource, since solar energy is non-polluting and much quieter to produce and harness, so residential size solar energy systems generate very little impact on the surrounding environment, yet maintenance and repair costs remain very reasonable.",
       "wordCount": 65,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-37",
-      "title": "City Life",
-      "passage": "Urbanization has been a defining trend of the modern era, with more than half of the world's population now living in cities. Cities offer numerous advantages, including access to better job opportunities, healthcare, education, and cultural amenities. The concentration of people and resources in urban areas drives economic growth and innovation, making cities engines of development. Additionally, cities often serve as melting pots of diverse cultures, fostering social integration and the exchange of ideas. However, living in cities also presents several challenges. Urban areas are frequently plagued by issues such as traffic congestion, pollution, and high living costs. The dense population can strain infrastructure and public services, leading to problems like inadequate housing and healthcare facilities. Furthermore, cities are often characterized by stark inequalities, with significant disparities in wealth and access to resources between different neighborhoods. The rapid pace of urbanization can exacerbate these issues, as cities struggle to accommodate the growing population. Sustainability is another critical concern for urban living. High energy consumption and waste generation contribute to environmental degradation and climate change. To address these challenges, urban planners and policymakers are increasingly focusing on creating sustainable, livable cities. This involves promoting public transportation, green spaces, renewable energy sources, and efficient waste management systems. By adopting such measures, cities can enhance the quality of life for their residents while minimizing their environmental impact. Ultimately, while cities offer numerous benefits, they also require careful planning and management to ensure that they remain vibrant, inclusive, and sustainable places to live.",
+      "title": "Answer 37",
+      "passage": "",
       "answer": "Cities provide numerous advantages, as concentrating people and resources in urban areas fuels economic growth and innovation, while city living poses challenges, since urban areas face traffic congestion, pollution, and high living costs, and show stark inequalities, yet sustainability represents a critical concern, so planners and policymakers focus on developing sustainable, livable cities, although cities offer benefits, they demand careful planning and management.",
       "wordCount": 63,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-38",
-      "title": "Electric Cars (B)",
-      "passage": "Electric cars are fundamentally different from traditional vehicles that have been around for a century. They represent a significant shift in automotive technology, moving away from the internal combustion engine. As with any new technology, electric cars have a distinct set of advantages and disadvantages that must be carefully considered. They operate almost silently, reducing noise pollution, and produce zero tailpipe emissions, which improves local air quality in urban areas. However, a significant disadvantage is that they take a long time to be fully charged, especially when compared to the few minutes it takes to refuel a conventional car. With the increase of carbon dioxide and the progression of global warming, scientists and policymakers have started to promote electric cars again as a potential solution for decarbonizing the transportation sector. But practical barriers remain. Electric cars are often too expensive for the average consumer, posing a major adoption hurdle. Furthermore, their batteries, which are worth thousands of dollars, often take just a few years to break or significantly degrade, raising concerns about long-term ownership costs and environmental waste from battery disposal. This is because their overall environmental benefit is heavily dependent on how the electricity they use is generated; if it comes from coal or gas plants, the net reduction in emissions is limited. While electric cars can reduce the reliance on oil, a comprehensive solution requires a broader transition to renewable energy across all sectors, cars alone little to solve the entire problem.",
+      "title": "Answer 38",
+      "passage": "",
       "answer": "Electric cars are fundamentally different from traditional vehicles, as they mark a major shift in automotive technology, while they contain a unique set of advantages and disadvantages, since scientists and policymakers have begun promoting them as a possible solution for decarbonizing the transportation sector, yet a complete solution demands a wider transition to renewable energy.",
       "wordCount": 55,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-39",
-      "title": "American English",
-      "passage": "American English is, without doubt, the most influential and powerful variety of English in the world today. There are many reasons for this. First, the United States is, at present, the most powerful nation on earth and such power always brings with it influence. Indeed, the distinction between a dialect and a language has frequently been made by reference to power. As has been said, a language is a dialect with an army. Second, America's political influence is extended through American popular culture, in particular through the international reach of American films (movies, of course) and music. As Kahane has pointed out, the internationally dominant position of a culture results in a forceful expansion of its language. The expansion of language contributes to the prestige of the culture behind it. Third, the international prominence of American English is closely associated with the extraordinarily quick development of communications technology. Microsoft is owned by an American, Bill Gates. This means a computer's default setting for language is American English, although of course this can be changed to suit one's own circumstances. In short, the increased influence of American English is caused by political power and the resultant diffusion of American culture and media, technological advance, and the rapid development of communications technology.",
+      "title": "Answer 39",
+      "passage": "",
       "answer": "American English represents, without question, the most influential and powerful variety of English worldwide today, as the United States is currently the most powerful nation on earth and such power brings influence, while America's political influence spreads through American popular culture, since the international prominence of American English connects closely with the extremely rapid development of communications technology.",
       "wordCount": 58,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-40",
-      "title": "Small Wars",
-      "passage": "In such an environment, warfare is no longer purely directed against the military potential of adversarial states. It is rather directed at infiltrating all areas of their societies and threatening their existences. The comparatively easy access to weapons of mass destruction, in particular low-cost biological agents, is of key concern. Both governmental and non-governmental actors prefer to use force in a way that can be characterized as \"unconventional\" or also as \"small wars\". War waged according to conventions is an interstate phenomenon. The \"small war\" is the archetype of war, in which the protagonists acknowledge no rules and permanently try to violate what conventions do exist. The protagonists of the \"small war\" observe neither international standards nor arms control agreements. They make use of territories where they do not have to fear any sanctions because there is no functioning state to assume charge of such sanctions or because the state in question is too weak to impose such sanctions. This type of war does not provide for any warning time. It challenges not only the external security of the nation states and international community, but also their internal safety.",
+      "title": "Answer 40",
+      "passage": "",
       "answer": "Warfare is now aimed at infiltrating all areas of societies and endangering their existence, as the relatively simple access to weapons of mass destruction represents key concern, while protagonists recognize no rules, since protagonists of the \"small war\" follow neither international standards nor arms control agreements, and it threatens both the external security of nation states and the international community, and their internal safety.",
       "wordCount": 64,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-41",
-      "title": "Legume",
-      "passage": "Gardeners can feed their families and enrich the soil by growing legumes, such as green beans, soybeans, lentils and peas. Legume roots produce their own nitrogen, which is a major fertilizer nutrient needed by all plants for growth. Nitrogen is produced in nodules that form on the roots of legumes, which contain Rhizobium bacteria. The bacteria take nitrogen from the air and convert it into a form the plants can use. When legumes are pulled up in the fall, excess nitrogen from the nodules is left in the soil. The excess organic nitrogen can be used by other plants the following growing season. It's considered organic nitrogen because it was produced naturally, making green beans or peas great rotational crops in an organic crop production system. Organic growers prefer organic nitrogen because of its natural origins and because it breaks down slowly in the soil, thus slowly feeding plants throughout the growing season. Synthetic nitrogen fertilizers tend to release nitrogen quickly and are harsher on the environment. Synthetic nitrogen fertilizers are generally applied in split applications during the season to mimic the slow release of organic nitrogen sources. Each specific legume generally requires a specific type of Rhizobium bacteria to produce nodules on their roots. Gardeners who have never grown green beans before can purchase small bags of inoculum or bacteria from most popular vegetable seed catalogs. Before planting beans, open the package and pour in the dust-like bacteria among the seed. Shake the package and then plant. Nodules will form on the roots as they develop. The bacteria will remain in the soil, making it unnecessary to inoculate the seed next year. Do not apply extra nitrogen fertilizer to bean crops. Doing so makes bacteria in the nodules lazy, encouraging them to stop producing their own nitrogen. Legumes that are particularly popular in the home vegetable garden include lima beans, peas, edible soybeans, lentils and fava beans. In a recent survey, 44 percent of gardeners trained through New Mexico State University's Master Gardener Program said they grew green beans and other legumes in their home gardens. When planting, be sure to purchase appropriate strains of Rhizobium bacteria for each type of legume.",
+      "title": "Answer 41",
+      "passage": "",
       "answer": "Legume roots generate their own nitrogen, which represents a major fertilizer nutrient required by all plants for growth, while when legumes are removed in the fall, excess nitrogen from nodules remains in the soil, as organic growers favor organic nitrogen due to its natural origins and because it decomposes slowly in the soil, since each specific legume typically needs a specific type of Rhizobium bacteria to create nodules on their roots.",
       "wordCount": 71,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-42",
-      "title": "Tree Rings",
-      "passage": "Here's how tree ring dating, known to scientists as dendrochronology, works. If you cut a tree down today, it's straightforward to count the rings inwards, starting from the tree's outside. Hence the sequence of the rings in a tree cross-section is like a message in Morse code formerly used for sending telegraph messages; dot-dot-dash-dot-dash in the Morse code, wide-wide-narrow-wide-narrow in the tree ring sequence. Actually, the tree-ring sequence is even more diagnostic and richer in information than the Morse code, because trees actually contain rings spanning much different width, rather than the Morse code choice between dot and dash. Tree ring specialists(known as dendrochronologists) proceed by noting the sequence of wider and narrower rings in a tree cut down in a known recent year, and also noting the sequences in beams from trees cut down at various times in the past. In that way, dendrochronologists have constructed tree ring records extending back for thousands of years in some parts of the world. A bonus of dendrochronology is that the width and substructure of each ring reflect the amount of rain and the season at which the rain fell during that particular year. Thus, tree ring studies also allow one to reconstruct the past climate.",
+      "title": "Answer 42",
+      "passage": "",
       "answer": "Tree ring dating is simple to count the rings inwards, while the tree-ring sequence is more diagnostic and richer in information than the Morse code, since trees contain rings spanning varied width, and a benefit of dendrochronology is that the width and substructure of each ring show the amount of rain and the season when the rain fell during that particular year, so studies allow reconstruction of past climate.",
       "wordCount": 69,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-43",
-      "title": "Language Teaching Approaches",
-      "passage": "Over the years, language teachers have alternated between favoring teaching approaches that focus primarily on language use and those that focus on language forms or analysis. The alternation has been due to a fundamental disagreement concerning whether one learns to communicate in a second language by communicating in that language (such as in an immersion experience) or whether one learns to communicate in a second language by learning the lexicogrammar – the words and grammatical structures – of the target language. In other words, the argument has been about two different means of achieving the same end.\n\nAs with any enduring controversy, the matter is not easily resolved. For one thing, there is evidence to support both points of view. It is not uncommon to find learners who, for whatever reason, find themselves in a new country or a new region of their own country, who need to learn a new language, and who do so without the benefit of formal instruction. If they are postpubescent, they may well retain an accent of some kind, but they can pick up enough language to satisfy their communicative needs. In fact, some are natural acquirers who become highly proficient in this manner. In contrast, there are learners whose entire exposure to the new language comes in the form of classroom instruction in lexicogrammar. Yet they too achieve a measure of communicative proficiency, and certain of these learners become highly proficient as well. What we can infer from this is that humans are amazingly versatile learners and that some people have a natural aptitude for acquiring languages and will succeed no matter what the circumstances.",
+      "title": "Answer 43",
+      "passage": "",
       "answer": "Throughout the years, language teachers have shifted between preferring teaching approaches focusing primarily on language use and those emphasizing language forms or analysis, while the matter cannot be easily resolved, as evidence supports both perspectives, since humans represent remarkably versatile learners and some people possess a natural aptitude for acquiring languages and will succeed regardless of circumstances.",
       "wordCount": 57,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-44",
-      "title": "Ecology and Climatology",
-      "passage": "Ecology is the study of interactions of organisms among themselves and with their environment. It seeks to understand patterns in nature (e.g., the spatial and temporal distribution of organisms) and the processes governing those patterns. Climatology is the study of the physical state of the atmosphere – its instantaneous state or weather, its seasonal-to-interannual variability, its long-term average condition or climate, and how climate changes over time. These two fields of scientific study are distinctly different. Ecology is a discipline within the biological sciences and has as its core the principle of natural selection. Climatology is a discipline within the geophysical sciences based on applied physics and fluid dynamics. Both, however, share a common history.\n\nThe origin of these sciences is attributed to Aristotle and Theophrastus and their books Meteorological and Enquiry into Plants, respectively, but their modern beginnings trace back to natural history and plant geography. Seventeenth, eighteenth, and nineteenth century naturalists and geographers saw changes in vegetation as they explored new regions and laid the foundation for the development of ecology and climatology as they sought explanations for these geographic patterns. Alexander von Humboldt, in the early 1800s, observed that widely separated regions have structurally and functionally similar vegetation if their climates are similar. Alphonse de Candolle hypothesized that latitudinal zones of tropical, temperate, and arctic vegetation are caused by temperature and in 1874 proposed formal vegetation zones with associated temperature limits.",
+      "title": "Answer 44",
+      "passage": "",
       "answer": "Ecology represents the study of interactions among organisms themselves and with their surroundings, while climatology examines the physical state of the atmosphere, as these two scientific fields are clearly different, yet their modern origins trace to natural history and plant geography, since widely separated regions contain structurally and functionally comparable vegetation when their climates are similar.",
       "wordCount": 56,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-45",
-      "title": "Deep-sea Mineral Resources",
-      "passage": "The National Oceanography Center (NOC) is engaged in research into the potential risks and benefits of exploiting deep-sea mineral resources, some of which are essential for low-carbon technology, as well as using ocean robots to estimate the environmental impact of these potential deep-sea mining activities.\n\nLate last year the NOC led an expedition on the RRS James Cook that found enough of the scarce element Tellurium present in the crust of a submerged volcano that, if it were all to be used in the production of solar PV panels, could provide two-thirds of the UK's annual electricity supply. Recently, the NOC also led an international study demonstrating deep-sea nodule mining will cause long-lasting damage to deep-sea life, lasting at least for decades.\n\nThese nodules are potato-sized rocks containing high levels of metals, including copper, manganese and nickel. They grow very slowly on the sea-bed, over millions of years. Although no commercial operations exist to extract these resources, many are planned.\n\nProfessor Edward Hill, Executive Director at the NOC commented, \"By 2050 there will be nine billion people on earth and attention is increasingly turning to the ocean, particularly the deep ocean, for food, clean supplies of energy and strategic minerals. The NOC is undertaking research related to many aspects and perspectives involved in exploiting ocean resources. This research is aimed at informing with sound scientific evidence the decisions that will need to be taken in the future, as people increasingly turn to the oceans to address some of society's greatest challenges.\"",
+      "title": "Answer 45",
+      "passage": "",
       "answer": "The National Oceanography Center (NOC) conducts research into potential risks and benefits of extracting deep-sea mineral resources, while it led an international study showing deep-sea nodule mining causes long-lasting damage to deep-sea life, as the NOC performs research concerning many aspects and perspectives involved in exploiting ocean resources, and this research aims to inform with sound scientific evidence the decisions that must be made in the future.",
       "wordCount": 67,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-46",
-      "title": "Complaints",
-      "passage": "Humans love to complain to each other. It helps us feel less alone. Think about what happens when a family member or friend is going through a tough time; they call up someone who will listen to their tale of woe. Unfortunately, negative bonding is the default for many groups.\n\nIn some families, complaining is the only way to get attention. When one person says, I had a bad day; the other person has to top it, \"You think you had a tough day. I had to do three TPS reports!\" The same thing happens at work and social settings. \"Your child didn't sleep through the night until 6 months? Mine was a full year old before she went over six hours.\" It's a race to the bottom, and the worst situation wins.\n\nIn Bitching is Bonding, A Guide To Mutual Complaint, Irene S. Levine, Ph.D., a professor of psychiatry at the NYU Langone School of Medicine says, \"The reason why these conversations feel good is because we feel understood.\"\n\nPeople raised in negative environments learn early on. Being positive gets you thrown out of the club. When family dinner is a complaint fest, you're not going to risk alienation saying, \"Wow, I had an awesome day. Don't you just love life?\"\n\nTranslate this into a work setting: people, often unconsciously, believe being positive keeps you out of the cool club. When negativity provides bonding, humans are reluctant to abandon the behavior that brings them comfort.",
+      "title": "Answer 46",
+      "passage": "",
       "answer": "Humans enjoy complaining to each other, as it helps them feel less isolated, while in some families, complaining represents the only way to gain attention, since the reason these conversations feel good is because people feel understood, and people raised in negative environments learn this early, so when negativity provides bonding, humans resist abandoning the behavior that brings them comfort.",
       "wordCount": 60,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-47",
-      "title": "Importance of Water",
-      "passage": "Water is at the core of sustainable development. Water resources, and the range of services they provide, underpin poverty reduction, economic growth and environmental sustainability. From food and energy security to human and environmental health, water contributes to improvements in social well-being and inclusive growth, affecting the livelihoods of billions.\n\nIn a sustainable world that is achievable in the near future, water and related resources are managed in support of human well-being and ecosystem integrity in a robust economy. Sufficient and safe water is made available to meet every person's basic needs, with healthy lifestyles and behaviors easily upheld through reliable and affordable water supply and sanitation services, in turn supported by equitably extended and efficiently managed infrastructure. Water resources management, infrastructure and service delivery are sustainably financed.\n\nWater is duly valued in all its forms, with wastewater treated as a resource that avails energy, nutrients and freshwater for reuse. Human settlements develop in harmony with the natural water cycle and the ecosystems that support it, with measures in place that reduce vulnerability and improve resilience to water-related disasters. Integrated approaches to water resources development, management and use and to human rights are the norm. Water is governed in a participatory way that draws on the full potential of women and men as professionals and citizens, guided by a number of able and knowledgeable organizations, within a just and transparent institutional framework.",
+      "title": "Answer 47",
+      "passage": "",
       "answer": "Water represents the core of sustainable development, as water resources and the range of services they offer support poverty reduction, economic growth and environmental sustainability, while water and related resources are handled to support human well-being and ecosystem integrity, since sufficient and safe water is provided to satisfy every person's basic needs, and water is properly valued in all its forms, with wastewater considered as a resource.",
       "wordCount": 67,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-48",
-      "title": "Importance of Water",
-      "passage": "Water is at the core of sustainable development. Water resources, and the range of services they provide, underpin poverty reduction, economic growth and environmental sustainability. From food and energy security to human and environmental health, water contributes to improvements in social well-being and inclusive growth, affecting the livelihoods of billions.\n\nIn a sustainable world that is achievable in the near future, water and related resources are managed in support of human well-being and ecosystem integrity in a robust economy. Sufficient and safe water is made available to meet every person's basic needs, with healthy lifestyles and behaviors easily upheld through reliable and affordable water supply and sanitation services, in turn supported by equitably extended and efficiently managed infrastructure. Water resources management, infrastructure and service delivery are sustainably financed.\n\nWater is duly valued in all its forms, with wastewater treated as a resource that avails energy, nutrients and freshwater for reuse. Human settlements develop in harmony with the natural water cycle and the ecosystems that support it, with measures in place that reduce vulnerability and improve resilience to water-related disasters. Integrated approaches to water resources development, management and use and to human rights are the norm. Water is governed in a participatory way that draws on the full potential of women and men as professionals and citizens, guided by a number of able and knowledgeable organizations, within a just and transparent institutional framework.",
+      "title": "Answer 48",
+      "passage": "",
       "answer": "Water represents the core of sustainable development, as water resources and the range of services they offer support poverty reduction, economic growth and environmental sustainability, while water and related resources are handled to support human well-being and ecosystem integrity, since sufficient and safe water is provided to satisfy every person's basic needs, and water is properly valued in all its forms, with wastewater considered as a resource.",
       "wordCount": 67,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-49",
-      "title": "Education Technology",
-      "passage": "In 1953 B.F. Skinner visited his daughter's maths class. The Harvard psychologist found every pupil learning the same topic in the same way at the same speed. A few days later he built his first \"teaching machine\", which let children tackle questions at their own pace. By the mid-1960s similar gizmos were being flogged by door-to-door salesmen. Within a few years, though, enthusiasm for them had fizzled out.\n\nSince then education technology (edtech) has repeated the cycle of hype and flop, even as computers have reshaped almost every other part of life. One reason is the conservatism of teachers and their unions. But another is that the brain-stretching potential of edtech has remained unproven.\n\nToday, however, Skinner's heirs are forcing the sceptics to think again (see article). Backed by billionaire techies such as Mark Zuckerberg and Bill Gates, schools around the world are using new software to \"personalize\" learning. This could help hundreds of millions of children stuck in dismal classes—but only if edtech boosters can resist the temptation to revive harmful ideas about how children learn. To succeed, edtech must be at the service of teaching, not the other way around.\n\nThe conventional model of schooling emerged in Prussia in the 18th century. Alternatives have so far failed to teach as many children as efficiently. Classrooms, hierarchical year-groups, standardized curriculums and fixed timetables are still the norm for most of the world's nearly 1.5bn schoolchildren.",
+      "title": "Answer 49",
+      "passage": "",
       "answer": "The Harvard psychologist discovered every pupil learning the same topic in the same manner at the same speed, while education technology has repeated the cycle of hype and flop, yet today, Skinner's heirs are compelling the sceptics to reconsider, since to succeed, education technology must serve teaching, and classrooms, hierarchical year-groups, standardized curriculums and fixed timetables remain the norm for most of the world's nearly 1.5bn schoolchildren.",
       "wordCount": 67,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-50",
-      "title": "Wright Brothers (C)",
-      "passage": "In 1892 the brothers opened a bicycle sales and repair shop, and they began to build bicycles on a small scale in 1896. They developed their own self-oiling bicycle wheel hub and installed a number of light machine tools in the shop. Profits from the print shop and the bicycle operation eventually were to fund the Wright brothers' aeronautical experiments from 1899 to 1905. In addition, the experience of designing and building lightweight, precision machines of wood, wire, and metal tubing was ideal preparation for the construction of flying machines.\n\nIn later years the Wrights dated their fascination with flight to a small helicopter toy that their father had brought home from his travels when the family was living in Iowa. A decade later, they had read accounts of the work of the German glider pioneer Otto Lilienthal. But it was news reports of Lilienthal's death in a glider crash in August 1896 that marked the beginning of their serious interest in flight. By 1899 the brothers had exhausted the resources of the local library and had written to the Smithsonian Institution for suggestions as to further reading in aeronautics. The following year they wrote to introduce themselves to Octave Chanute, a leading civil engineer and an authority on aviation who would remain a confidant of the brothers during the critical years from 1900 to 1905.",
+      "title": "Answer 50",
+      "passage": "",
       "answer": "In 1892 the brothers opened a bicycle shop, as profits from print and bicycle operations funded the Wright brothers' aeronautical experiments, while designing lightweight machines of wood, wire, and metal tubing prepared them for constructing flying machines, since Lilienthal's death in August 1896 marked their serious flight interest, and by 1899 they exhausted library resources, so they contacted Octave Chanute, a civil engineer and aviation authority.",
       "wordCount": 66,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-51",
-      "title": "Wright Brothers (C)",
-      "passage": "In 1892 the brothers opened a bicycle sales and repair shop, and they began to build bicycles on a small scale in 1896. They developed their own self-oiling bicycle wheel hub and installed a number of light machine tools in the shop. Profits from the print shop and the bicycle operation eventually were to fund the Wright brothers' aeronautical experiments from 1899 to 1905. In addition, the experience of designing and building lightweight, precision machines of wood, wire, and metal tubing was ideal preparation for the construction of flying machines.\n\nIn later years the Wrights dated their fascination with flight to a small helicopter toy that their father had brought home from his travels when the family was living in Iowa. A decade later, they had read accounts of the work of the German glider pioneer Otto Lilienthal. But it was news reports of Lilienthal's death in a glider crash in August 1896 that marked the beginning of their serious interest in flight. By 1899 the brothers had exhausted the resources of the local library and had written to the Smithsonian Institution for suggestions as to further reading in aeronautics. The following year they wrote to introduce themselves to Octave Chanute, a leading civil engineer and an authority on aviation who would remain a confidant of the brothers during the critical years from 1900 to 1905.",
+      "title": "Answer 51",
+      "passage": "",
       "answer": "In 1892 the brothers opened a bicycle shop, as profits from print and bicycle operations funded the Wright brothers' aeronautical experiments, while designing lightweight machines of wood, wire, and metal tubing prepared them for constructing flying machines, since Lilienthal's death in August 1896 marked their serious flight interest, and by 1899 they exhausted library resources, so they contacted Octave Chanute, a civil engineer and aviation authority.",
       "wordCount": 66,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set3",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-52",
-      "title": "Summer Vacation",
-      "passage": "For centuries, a September-to-June school year has been the standard, which leaves a question for modern educators to resolve about how to make use of July and August.\n\nStudents have been told that the summer break is a tradition born in rural society. In rural areas, school let out so students could work in the fields--but those breaks came in the spring and fall. School was in session in winter and summer.\n\nBut summer vacation marked a conscious recognition of the value of rest, not a vestige of the farm labor cycle. Such a vacation initially took effect in cities, because the poor quality of school buildings — and the heat of summer — fueled concerns of educational scholars and parents about the physical health of students.",
+      "title": "Answer 52",
+      "passage": "",
       "answer": "A September-to-June school year represents the standard regarding using July and August, while the summer break represents a tradition originating from rural society, as summer vacation showed conscious recognition of the value of rest, since poor quality of school buildings and summer heat raised concerns of educational scholars and parents about the physical health of students.",
       "wordCount": 56,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set4",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-53",
-      "title": "Greenhouse Gases",
-      "passage": "When an individual drives a car, heats a house, or uses an aerosol hair spray, greenhouse gases are produced. In economic terms, this creates a classic negative externality. Most of the costs (in this case, those arising from global warming) are borne by individuals other than the one making the decision about how many miles to drive or how much hair spray to use. Because the driver (or sprayer) enjoys all the benefits of the activities but suffers only part of the cost, that individual engages in more than the economically efficient amount of the activity. In this sense, the problem of greenhouse gases parallels the problem that occurs when someone smokes a cigarette in an enclosed space or litters the countryside with fast-food wrappers. If we are to get individuals to reduce the production of greenhouse gases to the efficient rate, we must somehow induce them to act as though they bear all the costs of their actions. The two most widely accepted means of doing this are government regulation and taxation, both of which have been proposed to deal with greenhouse gases.",
+      "title": "Answer 53",
+      "passage": "",
       "answer": "Greenhouse gases are generated, as this forms a classic negative externality, while that individual performs more than the economically efficient amount of the activity, since if we are to encourage individuals to decrease the generation of greenhouse gases to the efficient rate, we must motivate them to act as though they carry all the costs of their actions, and the two most widely accepted methods for this are government regulation and taxation.",
       "wordCount": 72,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set4",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-54",
-      "title": "Ethics",
-      "passage": "Ethics is a set of moral obligations that define right and wrong in our practices and decisions. Many professions have a formalized system of ethical practices that help guide professionals in the field. For example, doctors commonly take the Hippocratic Oath, which, among other things, states that doctors \"do no harm\" to their patients. Engineers follow an ethical guide that states that they \"hold paramount the safety, health, and welfare of the public.\" Within these professions, as well as within science, the principles become so ingrained that practitioners rarely have to think about adhering to the ethic – it's part of the way they practice. And a breach of ethics is considered very serious, punishable at least within the profession (by revocation of a license, for example) and sometimes by the law as well. Scientific ethics calls for honesty and integrity in all stages of scientific practice, from reporting results regardless to properly attributing collaborators. This system of ethics guides the practice of science, from data collection to publication and beyond. As in other professions, the scientific ethic is deeply integrated into the way scientists work, and they are aware that the reliability of their work and scientific knowledge in general depends upon adhering to that ethic. Many of the ethical principles in science relate to the production of unbiased scientific knowledge, which is critical when others try to build upon or extend research findings. The open publication of data, peer review, replication, and collaboration required by the scientific ethic all help to keep science moving forward by validating research findings and confirming or raising questions about results.",
+      "title": "Answer 54",
+      "passage": "",
       "answer": "Ethics represents a set of moral obligations defining right and wrong in our practices and decisions, as many professions have a formalized system of ethical practices guiding professionals in the field, while scientific ethics requires honesty and integrity in all stages of scientific practice, since this system directs scientific practice, and the scientific ethic is deeply integrated into how scientists work, so many ethical principles in science relate to producing unbiased scientific knowledge.",
       "wordCount": 73,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set4",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "easy",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-55",
-      "title": "Natural Language",
-      "passage": "When people start thinking about language, the first question which often occurs to them is this: is language natural to humans? - in the same way that grunting is natural to pigs, and barking comes naturally to dogs. Or is it just something we happen to have learned? - in the same way that dogs may learn to beg, or elephants may learn to waltz, or humans may learn to play the guitar.\n\nClearly, in one sense, children 'learn' whatever language they are exposed to, be it Chinese, Nootka or English. So no one would deny that 'learning' is very important. But the crucial question is whether children are born with 'blank sheets' in their head as far as language is concerned - or whether humans are 'programmed' with an outline knowledge of the structure of languages in general.\n\nThis question of whether language is partly due to nature or wholly due to learning or nurture is often referred to as the nature-nurture controversy, and has been discussed for centuries.",
+      "title": "Answer 55",
+      "passage": "",
       "answer": "When people begin considering language, the initial question that frequently arises is: is language natural to humans, while obviously, children 'learn' whatever language they encounter, yet the essential question is whether children are born with 'blank sheets' in their head or whether humans are 'programmed' with an outline knowledge, and this is commonly called the nature-nurture controversy.",
       "wordCount": 57,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set4",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-56",
-      "title": "Greenland Shark",
-      "passage": "An international team of scientists is set to go to Arctic to investigate the Greenland shark longevity mystery. The shark is known to be the longest living vertebrate animal on the planet Earth. One of the members is Dr. Holy Shiels, a physiologist and senior lecturer in the Faculty of Life Sciences at the University of Manchester. She will be the only British scientist in the team to study Greenland shark, which is believed to be the vertebrate animals and mammals with the longest living. The shark is reported to have lived for more than 200 years, and possibly close to or more than 400 years. The shark is both a hunter and a scavenger, that feed on seals and other animals including polar bears and whales. It is also known as one of the largest sharks, reaching to five and a half meters (18 feet), very close to the size of a great white. The research team is commissioned by the Greenland government and will conduct the research on board the multi-purpose research vessel Sanna, operated by the Greenland Institute of Natural Resources. A Greenland shark is estimated to be able to live for 400 years according to Science Magazine. Professor Shiels expects to gather sufficient data of Greenland shark, a top predator in the Arctic sea. She wanted to find a clue of how Greenland shark is able to survive in the deep sea of the Arctic sea, by examining how its heart and circulation work in its normal habitat, as she specializes in the cardiovascular function. \"Greenland sharks are classified as data deficient,\" Shiels said. \"This means that we don't know enough to put measures in place to protect them from over-fishing, pollution or climate change.\"",
+      "title": "Answer 56",
+      "passage": "",
       "answer": "The Greenland shark is recognized as the longest living vertebrate animal on planet Earth, while the shark is both a hunter and a scavenger, and a Greenland shark is projected to live for 400 years, since Greenland sharks are considered data deficient, so we lack sufficient knowledge to implement protective measures for them.",
       "wordCount": 53,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set4",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
-        "difficulty": "hard",
+        "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-57",
-      "title": "Reading",
-      "passage": "It might seem a little eccentric, but reviewing your work by reading it aloud can help to identify the woolliest areas. This works best if you perform your reading in a theatrical way, pausing at the commas and ends of sentences. If you run out of breath during a sentence, it is probably too long. You ought to be able to convert your writing into a speech in this way if it sounds too stilted and convoluted, perhaps you could rework these parts until they sound fluid. It is unlikely that your reader will be fooled by the idea that long words make you sound clever. Cluttering a sentence with too many complicated words can prevent its meaning from being understood at all. A short word is always preferable to a long one. Why should anyone choose the word erroneous over the word wrong in an essay? Usually, writers who employ more obscure words are trying to sound impressive but can appear pretentious. Direct words enable you to control what you are saying, and are not necessarily babyish, but the most appropriate ones for the job. When you read your writing aloud, you will notice that the key stress comes at the end of your sentence. It is, therefore, most effective to end with a short and emphatic word to secure your point. Try to resist the impulse to waffle at the end of your sentence by trailing off into qualifying clauses. It might be worth relocating the clause to the beginning of the sentence or losing it altogether if you feel that it adds little to its meaning.\n\nYour sentences might be the most grammatically perfect in the world, but still, cause your writing to sound wrong if you have misjudged its tone. A colloquial style, which uses slang and exclamations, is an inappropriately chatty tone for an essay. However, style can be equally jarring if your vocabulary is too formal or ambitious for its context. It is much more impressive to make complicated points using simple language and grammar.",
+      "title": "Answer 57",
+      "passage": "",
       "answer": "Checking your work by reading it aloud helps identify the woolliest areas, while if you lose breath during a sentence, it is probably too long, as a short word is always better than a long one, and finish with a short and emphatic word to support your point, since writers can misjudge the tone, so present complicated points using simple language and grammar.",
       "wordCount": 63,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set4",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     },
     {
       "id": "swt-58",
-      "title": "Wright Brothers",
-      "passage": "After the 1905 flying season, the Wrights contacted the United States War Department, as well as governments and individuals in England, France, Germany, and Russia, offering to sell a flying machine. They were turned down time and time again -- government bureaucrats thought they were crackpots; others thought that if two bicycle mechanics could build a successful airplane, they could do it themselves. But the Wright persisted, and in late 1907, the U.S. Army Signal Corps asked for an aircraft. Just a few months later, in early 1908, a French syndicate of businessmen agreed to purchase another.\n\nBoth the U.S. Army and the French asked for an airplane capable of carrying a passenger. The Wright brothers hastily adapted their 1905 Flyer with two seats and a more powerful engine. They tested these modifications in secret, back at Kitty Hawk, North Carolina for the first time in several years. Then the brothers parted temporarily -- Wilbur to France and Orville to Virginia.\n\nIn 1908 and 1909, Wilbur demonstrated Wright aircraft in Europe, and Orville flew in Fort Meyer, Virginia. The flights went well until Orville lost a propeller and crashed, breaking his leg and killing his passenger Lt. Thomas Selfridge. While Orville recuperated, Wilbur kept flying in France, breaking record after record. Orville and his sister Kate eventually joined Wilbur in France, and the three returned home to Dayton to an elaborate homecoming celebration. Together, Orville and Wilbur returned to Fort Meyer with a new Military Flyer and completed the U.S. Army trials. A few months later, Wilbur flew before over a million spectators in New York Harbor — his first public flight in his native land. All of these flights stunned and captivated the world. The Wright Brothers became the first great celebrities of the twentieth century.",
+      "title": "Answer 58",
+      "passage": "",
       "answer": "After the 1905 flying season, the Wrights approached the United States War Department, proposing to sell a flying machine, while they were rejected time and time again, yet the Wright continued, and in late 1907, the U.S. Army Signal Corps requested an aircraft, as all these flights amazed and fascinated the world, so the Wright Brothers became the first great celebrities of the twentieth century.",
       "wordCount": 65,
-      "sourceSet": "PTE_SWT_Practice_Examples_Set4",
+      "sourceSet": "swt-answer-typing",
       "metadata": {
         "difficulty": "normal",
         "category": "pte-swt",
         "source": "pte-swt",
         "tags": [
           "swt",
-          "summarize-written-text"
+          "answer-typing",
+          "monkeytype"
         ]
       }
     }
