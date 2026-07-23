@@ -882,6 +882,7 @@ In a sustainable world that is achievable in the near future, **water and relate
 
 ---
 
+<!-- markdownlint-disable-next-line MD024 -- Known duplicate source example retained for reference parity. -->
 ## Example 15: Importance of Water (Easy)
 
 ### Original Passage
@@ -1071,6 +1072,7 @@ This example demonstrates the importance of aggressive word reduction for Hard p
 
 ---
 
+<!-- markdownlint-disable-next-line MD024 -- Known duplicate source example retained for reference parity. -->
 ## Example 17: Wright Brothers (C) (Hard)
 
 ### Original Passage
