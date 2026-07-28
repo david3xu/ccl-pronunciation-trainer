@@ -1,0 +1,1296 @@
+{
+  "metadata": {
+    "generated": "2026-07-28T06:30:28.835Z",
+    "totalTerms": 80,
+    "source": "pte-phd-official-project-terms",
+    "description": "PhD official project terms pronunciation list",
+    "version": "1.0",
+    "categories": [
+      "pte-phd-official-project-terms"
+    ],
+    "hasIPA": true,
+    "keepDuplicates": false
+  },
+  "vocabulary": [
+    {
+      "english": "Evaluation",
+      "pronunciation": {
+        "british": {
+          "ipa": "ɪˌvæljuˈeɪʃən",
+          "phonetic": "ih-val-yoo-AY-shuhn"
+        },
+        "american": {
+          "ipa": "ɪˌvæljuˈeɪʃən",
+          "phonetic": "ih-val-yoo-AY-shuhn"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "Digital Health Literacy",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈdɪdʒɪtəl hɛlθ ˈlɪtərəsi",
+          "phonetic": "DIJ-ih-tuhl health LIT-uh-ruh-see"
+        },
+        "american": {
+          "ipa": "ˈdɪdʒɪtəl hɛlθ ˈlɪtərəsi",
+          "phonetic": "DIJ-ih-tuhl health LIT-uh-ruh-see"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "Digital Health Stations",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈdɪdʒɪtəl hɛlθ ˈsteɪʃənz",
+          "phonetic": "DIJ-ih-tuhl health STAY-shuhnz"
+        },
+        "american": {
+          "ipa": "ˈdɪdʒɪtəl hɛlθ ˈsteɪʃənz",
+          "phonetic": "DIJ-ih-tuhl health STAY-shuhnz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "Culturally Sensitive Framework",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈkʌltʃərəli ˈsɛnsɪtɪv ˈfreɪmwɜːk",
+          "phonetic": "KUL-chuh-ruh-lee SEN-sih-tiv FRAME-work"
+        },
+        "american": {
+          "ipa": "ˈkʌltʃərəli ˈsɛnsɪtɪv ˈfreɪmwɜːk",
+          "phonetic": "KUL-chuh-ruh-lee SEN-sih-tiv FRAME-work"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "Western Australia",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈwɛstən ɒˈstreɪliə",
+          "phonetic": "WES-tuhn os-TRAY-lee-uh"
+        },
+        "american": {
+          "ipa": "ˈwɛstən ɒˈstreɪliə",
+          "phonetic": "WES-tuhn os-TRAY-lee-uh"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "health check kiosk",
+      "pronunciation": {
+        "british": {
+          "ipa": "hɛlθ tʃɛk ˈkiːɒsk",
+          "phonetic": "health check KEE-osk"
+        },
+        "american": {
+          "ipa": "hɛlθ tʃɛk ˈkiːɒsk",
+          "phonetic": "health check KEE-osk"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "self-service digital station",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌsɛlf ˈsɜːvɪs ˈdɪdʒɪtəl ˈsteɪʃən",
+          "phonetic": "self SUR-vis DIJ-ih-tuhl STAY-shuhn"
+        },
+        "american": {
+          "ipa": "ˌsɛlf ˈsɜːvɪs ˈdɪdʒɪtəl ˈsteɪʃən",
+          "phonetic": "self SUR-vis DIJ-ih-tuhl STAY-shuhn"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "individuals",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌɪndɪˈvɪdʒuəlz",
+          "phonetic": "in-dih-VIJ-oo-uhlz"
+        },
+        "american": {
+          "ipa": "ˌɪndɪˈvɪdʒuəlz",
+          "phonetic": "in-dih-VIJ-oo-uhlz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "measure and monitor",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈmɛʒə ænd ˈmɒnɪtə",
+          "phonetic": "MEZH-uh and MON-ih-tuh"
+        },
+        "american": {
+          "ipa": "ˈmɛʒə ænd ˈmɒnɪtə",
+          "phonetic": "MEZH-uh and MON-ih-tuh"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "basic health indicators",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈbeɪsɪk hɛlθ ˈɪndɪkeɪtəz",
+          "phonetic": "BAY-sik health IN-dih-kay-tuhz"
+        },
+        "american": {
+          "ipa": "ˈbeɪsɪk hɛlθ ˈɪndɪkeɪtəz",
+          "phonetic": "BAY-sik health IN-dih-kay-tuhz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "direct assistance",
+      "pronunciation": {
+        "british": {
+          "ipa": "dəˈrɛkt əˈsɪstəns",
+          "phonetic": "dih-REKT uh-SIS-tuhns"
+        },
+        "american": {
+          "ipa": "dəˈrɛkt əˈsɪstəns",
+          "phonetic": "dih-REKT uh-SIS-tuhns"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "healthcare professional",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈhɛlθkeə prəˈfɛʃənəl",
+          "phonetic": "HEALTH-kair pruh-FESH-uh-nuhl"
+        },
+        "american": {
+          "ipa": "ˈhɛlθkeə prəˈfɛʃənəl",
+          "phonetic": "HEALTH-kair pruh-FESH-uh-nuhl"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "accessible public locations",
+      "pronunciation": {
+        "british": {
+          "ipa": "əkˈsɛsəbəl ˈpʌblɪk ləʊˈkeɪʃənz",
+          "phonetic": "uk-SESS-uh-buhl PUB-lik loh-KAY-shuhnz"
+        },
+        "american": {
+          "ipa": "əkˈsɛsəbəl ˈpʌblɪk ləʊˈkeɪʃənz",
+          "phonetic": "uk-SESS-uh-buhl PUB-lik loh-KAY-shuhnz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "shopping centres",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈʃɒpɪŋ ˈsɛntəz",
+          "phonetic": "SHOP-ing SEN-tuhz"
+        },
+        "american": {
+          "ipa": "ˈʃɒpɪŋ ˈsɛntəz",
+          "phonetic": "SHOP-ing SEN-tuhz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "pharmacies",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈfɑːməsiz",
+          "phonetic": "FAR-muh-seez"
+        },
+        "american": {
+          "ipa": "ˈfɑːməsiz",
+          "phonetic": "FAR-muh-seez"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "workplaces",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈwɜːkpleɪsɪz",
+          "phonetic": "WORK-play-siz"
+        },
+        "american": {
+          "ipa": "ˈwɜːkpleɪsɪz",
+          "phonetic": "WORK-play-siz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "community facilities",
+      "pronunciation": {
+        "british": {
+          "ipa": "kəˈmjuːnəti fəˈsɪlətiz",
+          "phonetic": "kuh-MYOO-nuh-tee fuh-SIL-uh-teez"
+        },
+        "american": {
+          "ipa": "kəˈmjuːnəti fəˈsɪlətiz",
+          "phonetic": "kuh-MYOO-nuh-tee fuh-SIL-uh-teez"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "informed health decisions",
+      "pronunciation": {
+        "british": {
+          "ipa": "ɪnˈfɔːmd hɛlθ dɪˈsɪʒənz",
+          "phonetic": "in-FORMED health dih-SIZH-uhnz"
+        },
+        "american": {
+          "ipa": "ɪnˈfɔːmd hɛlθ dɪˈsɪʒənz",
+          "phonetic": "in-FORMED health dih-SIZH-uhnz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "cultural sensitivity",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈkʌltʃərəl ˌsɛnsɪˈtɪvəti",
+          "phonetic": "KUL-chuh-ruhl sen-sih-TIV-uh-tee"
+        },
+        "american": {
+          "ipa": "ˈkʌltʃərəl ˌsɛnsɪˈtɪvəti",
+          "phonetic": "KUL-chuh-ruhl sen-sih-TIV-uh-tee"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "awareness and acceptance",
+      "pronunciation": {
+        "british": {
+          "ipa": "əˈweənəs ænd əkˈsɛptəns",
+          "phonetic": "uh-WAIR-nuhs and uk-SEP-tuhns"
+        },
+        "american": {
+          "ipa": "əˈweənəs ænd əkˈsɛptəns",
+          "phonetic": "uh-WAIR-nuhs and uk-SEP-tuhns"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "cultural differences",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈkʌltʃərəl ˈdɪfrənsɪz",
+          "phonetic": "KUL-chuh-ruhl DIF-ruhn-siz"
+        },
+        "american": {
+          "ipa": "ˈkʌltʃərəl ˈdɪfrənsɪz",
+          "phonetic": "KUL-chuh-ruhl DIF-ruhn-siz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "utilisation patterns",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌjuːtəlaɪˈzeɪʃən ˈpætənz",
+          "phonetic": "yoo-tuh-lie-ZAY-shuhn PAT-uhnz"
+        },
+        "american": {
+          "ipa": "ˌjuːtəlaɪˈzeɪʃən ˈpætənz",
+          "phonetic": "yoo-tuh-lie-ZAY-shuhn PAT-uhnz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "mixed-methods design",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌmɪkst ˈmɛθədz dɪˈzaɪn",
+          "phonetic": "mixed METH-uhdz dih-ZINE"
+        },
+        "american": {
+          "ipa": "ˌmɪkst ˈmɛθədz dɪˈzaɪn",
+          "phonetic": "mixed METH-uhdz dih-ZINE"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "uptake",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈʌpteɪk",
+          "phonetic": "UP-take"
+        },
+        "american": {
+          "ipa": "ˈʌpteɪk",
+          "phonetic": "UP-take"
+        }
+      },
+      "difficulty": "normal",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "sociodemographic factors",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌsəʊsiəʊˌdɛməˈɡræfɪk ˈfæktəz",
+          "phonetic": "soh-see-oh-dem-uh-GRAF-ik FAK-tuhz"
+        },
+        "american": {
+          "ipa": "ˌsəʊsiəʊˌdɛməˈɡræfɪk ˈfæktəz",
+          "phonetic": "soh-see-oh-dem-uh-GRAF-ik FAK-tuhz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "remoteness",
+      "pronunciation": {
+        "british": {
+          "ipa": "rɪˈməʊtnəs",
+          "phonetic": "rih-MOTE-nuhs"
+        },
+        "american": {
+          "ipa": "rɪˈməʊtnəs",
+          "phonetic": "rih-MOTE-nuhs"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "geographic access",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌdʒiːəˈɡræfɪk ˈæksɛs",
+          "phonetic": "jee-uh-GRAF-ik AK-sess"
+        },
+        "american": {
+          "ipa": "ˌdʒiːəˈɡræfɪk ˈæksɛs",
+          "phonetic": "jee-uh-GRAF-ik AK-sess"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "cultural inclusivity",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈkʌltʃərəl ˌɪnkluːˈsɪvəti",
+          "phonetic": "KUL-chuh-ruhl in-kloo-SIV-uh-tee"
+        },
+        "american": {
+          "ipa": "ˈkʌltʃərəl ˌɪnkluːˈsɪvəti",
+          "phonetic": "KUL-chuh-ruhl in-kloo-SIV-uh-tee"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "equitable engagement",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈɛkwɪtəbəl ɪnˈɡeɪdʒmənt",
+          "phonetic": "EK-wih-tuh-buhl en-GAYJ-muhnt"
+        },
+        "american": {
+          "ipa": "ˈɛkwɪtəbəl ɪnˈɡeɪdʒmənt",
+          "phonetic": "EK-wih-tuh-buhl en-GAYJ-muhnt"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "digital health technologies",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈdɪdʒɪtəl hɛlθ tɛkˈnɒlədʒiz",
+          "phonetic": "DIJ-ih-tuhl health tek-NOL-uh-jeez"
+        },
+        "american": {
+          "ipa": "ˈdɪdʒɪtəl hɛlθ tɛkˈnɒlədʒiz",
+          "phonetic": "DIJ-ih-tuhl health tek-NOL-uh-jeez"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "health equity",
+      "pronunciation": {
+        "british": {
+          "ipa": "hɛlθ ˈɛkwəti",
+          "phonetic": "health EK-wuh-tee"
+        },
+        "american": {
+          "ipa": "hɛlθ ˈɛkwəti",
+          "phonetic": "health EK-wuh-tee"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "language",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈlæŋɡwɪdʒ",
+          "phonetic": "LANG-gwij"
+        },
+        "american": {
+          "ipa": "ˈlæŋɡwɪdʒ",
+          "phonetic": "LANG-gwij"
+        }
+      },
+      "difficulty": "normal",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "digital skills",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈdɪdʒɪtəl skɪlz",
+          "phonetic": "DIJ-ih-tuhl skills"
+        },
+        "american": {
+          "ipa": "ˈdɪdʒɪtəl skɪlz",
+          "phonetic": "DIJ-ih-tuhl skills"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "inclusive policy development",
+      "pronunciation": {
+        "british": {
+          "ipa": "ɪnˈkluːsɪv ˈpɒləsi dɪˈvɛləpmənt",
+          "phonetic": "in-KLOO-siv POL-uh-see dih-VEL-uhp-muhnt"
+        },
+        "american": {
+          "ipa": "ɪnˈkluːsɪv ˈpɒləsi dɪˈvɛləpmənt",
+          "phonetic": "in-KLOO-siv POL-uh-see dih-VEL-uhp-muhnt"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "healthcare planning",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈhɛlθkeə ˈplænɪŋ",
+          "phonetic": "HEALTH-kair PLAN-ing"
+        },
+        "american": {
+          "ipa": "ˈhɛlθkeə ˈplænɪŋ",
+          "phonetic": "HEALTH-kair PLAN-ing"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "digital health strategies",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈdɪdʒɪtəl hɛlθ ˈstrætədʒiz",
+          "phonetic": "DIJ-ih-tuhl health STRAT-uh-jeez"
+        },
+        "american": {
+          "ipa": "ˈdɪdʒɪtəl hɛlθ ˈstrætədʒiz",
+          "phonetic": "DIJ-ih-tuhl health STRAT-uh-jeez"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "population groups",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌpɒpjəˈleɪʃən ɡruːps",
+          "phonetic": "pop-yuh-LAY-shuhn groups"
+        },
+        "american": {
+          "ipa": "ˌpɒpjəˈleɪʃən ɡruːps",
+          "phonetic": "pop-yuh-LAY-shuhn groups"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "prevention",
+      "pronunciation": {
+        "british": {
+          "ipa": "prɪˈvɛnʃən",
+          "phonetic": "prih-VEN-shuhn"
+        },
+        "american": {
+          "ipa": "prɪˈvɛnʃən",
+          "phonetic": "prih-VEN-shuhn"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "early detection",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈɜːli dɪˈtɛkʃən",
+          "phonetic": "ER-lee dih-TEK-shuhn"
+        },
+        "american": {
+          "ipa": "ˈɜːli dɪˈtɛkʃən",
+          "phonetic": "ER-lee dih-TEK-shuhn"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "meaningful engagement",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈmiːnɪŋfəl ɪnˈɡeɪdʒmənt",
+          "phonetic": "MEE-ning-fuhl en-GAYJ-muhnt"
+        },
+        "american": {
+          "ipa": "ˈmiːnɪŋfəl ɪnˈɡeɪdʒmənt",
+          "phonetic": "MEE-ning-fuhl en-GAYJ-muhnt"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "digital health innovations",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈdɪdʒɪtəl hɛlθ ˌɪnəˈveɪʃənz",
+          "phonetic": "DIJ-ih-tuhl health in-uh-VAY-shuhnz"
+        },
+        "american": {
+          "ipa": "ˈdɪdʒɪtəl hɛlθ ˌɪnəˈveɪʃənz",
+          "phonetic": "DIJ-ih-tuhl health in-uh-VAY-shuhnz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "existing inequalities",
+      "pronunciation": {
+        "british": {
+          "ipa": "ɪɡˈzɪstɪŋ ˌɪnɪˈkwɒlətiz",
+          "phonetic": "ig-ZIS-ting in-ih-KWOL-uh-teez"
+        },
+        "american": {
+          "ipa": "ɪɡˈzɪstɪŋ ˌɪnɪˈkwɒlətiz",
+          "phonetic": "ig-ZIS-ting in-ih-KWOL-uh-teez"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "quantitative skills",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈkwɒntɪtətɪv skɪlz",
+          "phonetic": "KWON-tih-tuh-tiv skills"
+        },
+        "american": {
+          "ipa": "ˈkwɒntɪtətɪv skɪlz",
+          "phonetic": "KWON-tih-tuh-tiv skills"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "large health datasets",
+      "pronunciation": {
+        "british": {
+          "ipa": "lɑːdʒ hɛlθ ˈdeɪtəˌsɛts",
+          "phonetic": "large health DAY-tuh-sets"
+        },
+        "american": {
+          "ipa": "lɑːdʒ hɛlθ ˈdeɪtəˌsɛts",
+          "phonetic": "large health DAY-tuh-sets"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "statistical analysis",
+      "pronunciation": {
+        "british": {
+          "ipa": "stəˈtɪstɪkəl əˈnæləsɪs",
+          "phonetic": "stuh-TIS-tih-kuhl uh-NAL-uh-sis"
+        },
+        "american": {
+          "ipa": "stəˈtɪstɪkəl əˈnæləsɪs",
+          "phonetic": "stuh-TIS-tih-kuhl uh-NAL-uh-sis"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "data management",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈdeɪtə ˈmænɪdʒmənt",
+          "phonetic": "DAY-tuh MAN-ij-muhnt"
+        },
+        "american": {
+          "ipa": "ˈdeɪtə ˈmænɪdʒmənt",
+          "phonetic": "DAY-tuh MAN-ij-muhnt"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "multidisciplinary research team",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌmʌltidɪsəˈplɪnəri rɪˈsɜːtʃ tiːm",
+          "phonetic": "mul-tee-dis-uh-PLIN-uh-ree rih-SURCH team"
+        },
+        "american": {
+          "ipa": "ˌmʌltidɪsəˈplɪnəri rɪˈsɜːtʃ tiːm",
+          "phonetic": "mul-tee-dis-uh-PLIN-uh-ree rih-SURCH team"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "communication skills",
+      "pronunciation": {
+        "british": {
+          "ipa": "kəˌmjuːnɪˈkeɪʃən skɪlz",
+          "phonetic": "kuh-myoo-nih-KAY-shuhn skills"
+        },
+        "american": {
+          "ipa": "kəˌmjuːnɪˈkeɪʃən skɪlz",
+          "phonetic": "kuh-myoo-nih-KAY-shuhn skills"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "attention to detail",
+      "pronunciation": {
+        "british": {
+          "ipa": "əˌtɛnʃən tə ˈdiːteɪl",
+          "phonetic": "uh-TEN-shuhn tuh DEE-tail"
+        },
+        "american": {
+          "ipa": "əˌtɛnʃən tə ˈdiːteɪl",
+          "phonetic": "uh-TEN-shuhn tuh DEE-tail"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "longitudinal study",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌlɒndʒɪˈtjuːdɪnəl ˈstʌdi",
+          "phonetic": "lon-jih-TYOO-dih-nuhl STUD-ee"
+        },
+        "american": {
+          "ipa": "ˌlɒndʒɪˈtjuːdɪnəl ˈstʌdi",
+          "phonetic": "lon-jih-TYOO-dih-nuhl STUD-ee"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "demographic representativeness",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌdɛməˈɡræfɪk ˌrɛprɪˈzɛntətɪvnəs",
+          "phonetic": "dem-uh-GRAF-ik rep-rih-ZEN-tuh-tiv-nuhs"
+        },
+        "american": {
+          "ipa": "ˌdɛməˈɡræfɪk ˌrɛprɪˈzɛntətɪvnəs",
+          "phonetic": "dem-uh-GRAF-ik rep-rih-ZEN-tuh-tiv-nuhs"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "demographic profile",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌdɛməˈɡræfɪk ˈprəʊfaɪl",
+          "phonetic": "dem-uh-GRAF-ik PROH-file"
+        },
+        "american": {
+          "ipa": "ˌdɛməˈɡræfɪk ˈprəʊfaɪl",
+          "phonetic": "dem-uh-GRAF-ik PROH-file"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "repeat utilisation",
+      "pronunciation": {
+        "british": {
+          "ipa": "rɪˈpiːt ˌjuːtəlaɪˈzeɪʃən",
+          "phonetic": "rih-PEAT yoo-tuh-lie-ZAY-shuhn"
+        },
+        "american": {
+          "ipa": "rɪˈpiːt ˌjuːtəlaɪˈzeɪʃən",
+          "phonetic": "rih-PEAT yoo-tuh-lie-ZAY-shuhn"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "baseline",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈbeɪslaɪn",
+          "phonetic": "BASE-line"
+        },
+        "american": {
+          "ipa": "ˈbeɪslaɪn",
+          "phonetic": "BASE-line"
+        }
+      },
+      "difficulty": "normal",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "final health check",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈfaɪnəl hɛlθ tʃɛk",
+          "phonetic": "FYE-nuhl health check"
+        },
+        "american": {
+          "ipa": "ˈfaɪnəl hɛlθ tʃɛk",
+          "phonetic": "FYE-nuhl health check"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "health status",
+      "pronunciation": {
+        "british": {
+          "ipa": "hɛlθ ˈsteɪtəs",
+          "phonetic": "health STAY-tuhs"
+        },
+        "american": {
+          "ipa": "hɛlθ ˈsteɪtəs",
+          "phonetic": "health STAY-tuhs"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "socioeconomic status",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌsəʊsiəʊˌiːkəˈnɒmɪk ˈsteɪtəs",
+          "phonetic": "soh-see-oh-ee-kuh-NOM-ik STAY-tuhs"
+        },
+        "american": {
+          "ipa": "ˌsəʊsiəʊˌiːkəˈnɒmɪk ˈsteɪtəs",
+          "phonetic": "soh-see-oh-ee-kuh-NOM-ik STAY-tuhs"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "body mass index",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈbɒdi mæs ˈɪndɛks",
+          "phonetic": "BOD-ee mass IN-deks"
+        },
+        "american": {
+          "ipa": "ˈbɒdi mæs ˈɪndɛks",
+          "phonetic": "BOD-ee mass IN-deks"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "blood pressure",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈblʌd ˌprɛʃə",
+          "phonetic": "BLUD presh-uh"
+        },
+        "american": {
+          "ipa": "ˈblʌd ˌprɛʃə",
+          "phonetic": "BLUD presh-uh"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "Type 2 diabetes risk",
+      "pronunciation": {
+        "british": {
+          "ipa": "taɪp tuː ˌdaɪəˈbiːtiːz rɪsk",
+          "phonetic": "type two dye-uh-BEE-teez risk"
+        },
+        "american": {
+          "ipa": "taɪp tuː ˌdaɪəˈbiːtiːz rɪsk",
+          "phonetic": "type two dye-uh-BEE-teez risk"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "cardiometabolic risk factors",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌkɑːdiəʊmɛtəˈbɒlɪk rɪsk ˈfæktəz",
+          "phonetic": "car-dee-oh-met-uh-BOL-ik risk FAK-tuhz"
+        },
+        "american": {
+          "ipa": "ˌkɑːdiəʊmɛtəˈbɒlɪk rɪsk ˈfæktəz",
+          "phonetic": "car-dee-oh-met-uh-BOL-ik risk FAK-tuhz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "equity of access",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈɛkwəti əv ˈæksɛs",
+          "phonetic": "EK-wuh-tee of AK-sess"
+        },
+        "american": {
+          "ipa": "ˈɛkwəti əv ˈæksɛs",
+          "phonetic": "EK-wuh-tee of AK-sess"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "Health Station Needs Index",
+      "pronunciation": {
+        "british": {
+          "ipa": "hɛlθ ˈsteɪʃən niːdz ˈɪndɛks",
+          "phonetic": "health STAY-shuhn needs IN-deks"
+        },
+        "american": {
+          "ipa": "hɛlθ ˈsteɪʃən niːdz ˈɪndɛks",
+          "phonetic": "health STAY-shuhn needs IN-deks"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "geographical areas",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌdʒiːəˈɡræfɪkəl ˈeəriəz",
+          "phonetic": "jee-uh-GRAF-ih-kuhl AIR-ee-uhz"
+        },
+        "american": {
+          "ipa": "ˌdʒiːəˈɡræfɪkəl ˈeəriəz",
+          "phonetic": "jee-uh-GRAF-ih-kuhl AIR-ee-uhz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "distance to the closest health station",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈdɪstəns tə ðə ˈkləʊsɪst hɛlθ ˈsteɪʃən",
+          "phonetic": "DIS-tuhns tuh thuh KLOH-sist health STAY-shuhn"
+        },
+        "american": {
+          "ipa": "ˈdɪstəns tə ðə ˈkləʊsɪst hɛlθ ˈsteɪʃən",
+          "phonetic": "DIS-tuhns tuh thuh KLOH-sist health STAY-shuhn"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "per capita",
+      "pronunciation": {
+        "british": {
+          "ipa": "pə ˈkæpɪtə",
+          "phonetic": "puh KAP-ih-tuh"
+        },
+        "american": {
+          "ipa": "pə ˈkæpɪtə",
+          "phonetic": "puh KAP-ih-tuh"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "Principal Components Analysis",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈprɪnsəpəl kəmˈpəʊnənts əˈnæləsɪs",
+          "phonetic": "PRIN-suh-puhl kuhm-POH-nuhnts uh-NAL-uh-sis"
+        },
+        "american": {
+          "ipa": "ˈprɪnsəpəl kəmˈpəʊnənts əˈnæləsɪs",
+          "phonetic": "PRIN-suh-puhl kuhm-POH-nuhnts uh-NAL-uh-sis"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "logistic regression",
+      "pronunciation": {
+        "british": {
+          "ipa": "ləˈdʒɪstɪk rɪˈɡrɛʃən",
+          "phonetic": "luh-JIS-tik rih-GRESH-uhn"
+        },
+        "american": {
+          "ipa": "ləˈdʒɪstɪk rɪˈɡrɛʃən",
+          "phonetic": "luh-JIS-tik rih-GRESH-uhn"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "Gini coefficient",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈdʒiːni ˌkəʊɪˈfɪʃənt",
+          "phonetic": "JEE-nee koh-ih-FISH-uhnt"
+        },
+        "american": {
+          "ipa": "ˈdʒiːni ˌkəʊɪˈfɪʃənt",
+          "phonetic": "JEE-nee koh-ih-FISH-uhnt"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "concentration curve",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌkɒnsənˈtreɪʃən kɜːv",
+          "phonetic": "kon-suhn-TRAY-shuhn curve"
+        },
+        "american": {
+          "ipa": "ˌkɒnsənˈtreɪʃən kɜːv",
+          "phonetic": "kon-suhn-TRAY-shuhn curve"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "health outcomes",
+      "pronunciation": {
+        "british": {
+          "ipa": "hɛlθ ˈaʊtkʌmz",
+          "phonetic": "health OUT-kumz"
+        },
+        "american": {
+          "ipa": "hɛlθ ˈaʊtkʌmz",
+          "phonetic": "health OUT-kumz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "health benefits",
+      "pronunciation": {
+        "british": {
+          "ipa": "hɛlθ ˈbɛnɪfɪts",
+          "phonetic": "health BEN-uh-fits"
+        },
+        "american": {
+          "ipa": "hɛlθ ˈbɛnɪfɪts",
+          "phonetic": "health BEN-uh-fits"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "one-time users",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌwʌn ˈtaɪm ˈjuːzəz",
+          "phonetic": "one-time YOO-zuhz"
+        },
+        "american": {
+          "ipa": "ˌwʌn ˈtaɪm ˈjuːzəz",
+          "phonetic": "one-time YOO-zuhz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "repeat users",
+      "pronunciation": {
+        "british": {
+          "ipa": "rɪˈpiːt ˈjuːzəz",
+          "phonetic": "rih-PEAT YOO-zuhz"
+        },
+        "american": {
+          "ipa": "rɪˈpiːt ˈjuːzəz",
+          "phonetic": "rih-PEAT YOO-zuhz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "Australian National Health Survey",
+      "pronunciation": {
+        "british": {
+          "ipa": "ɒˈstreɪliən ˈnæʃənəl hɛlθ ˈsɜːveɪ",
+          "phonetic": "os-TRAY-lee-uhn NASH-uh-nuhl health SUR-vay"
+        },
+        "american": {
+          "ipa": "ɒˈstreɪliən ˈnæʃənəl hɛlθ ˈsɜːveɪ",
+          "phonetic": "os-TRAY-lee-uhn NASH-uh-nuhl health SUR-vay"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "demographic characteristics",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˌdɛməˈɡræfɪk ˌkærəktəˈrɪstɪks",
+          "phonetic": "dem-uh-GRAF-ik kar-uk-tuh-RIS-tiks"
+        },
+        "american": {
+          "ipa": "ˌdɛməˈɡræfɪk ˌkærəktəˈrɪstɪks",
+          "phonetic": "dem-uh-GRAF-ik kar-uk-tuh-RIS-tiks"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "health characteristics",
+      "pronunciation": {
+        "british": {
+          "ipa": "hɛlθ ˌkærəktəˈrɪstɪks",
+          "phonetic": "health kar-uk-tuh-RIS-tiks"
+        },
+        "american": {
+          "ipa": "hɛlθ ˌkærəktəˈrɪstɪks",
+          "phonetic": "health kar-uk-tuh-RIS-tiks"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "health risk factors",
+      "pronunciation": {
+        "british": {
+          "ipa": "hɛlθ rɪsk ˈfæktəz",
+          "phonetic": "health risk FAK-tuhz"
+        },
+        "american": {
+          "ipa": "hɛlθ rɪsk ˈfæktəz",
+          "phonetic": "health risk FAK-tuhz"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "quantifying need",
+      "pronunciation": {
+        "british": {
+          "ipa": "ˈkwɒntɪfaɪɪŋ niːd",
+          "phonetic": "KWON-tih-fye-ing need"
+        },
+        "american": {
+          "ipa": "ˈkwɒntɪfaɪɪŋ niːd",
+          "phonetic": "KWON-tih-fye-ing need"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    },
+    {
+      "english": "inequitable distribution",
+      "pronunciation": {
+        "british": {
+          "ipa": "ɪnˈɛkwɪtəbəl ˌdɪstrɪˈbjuːʃən",
+          "phonetic": "in-EK-wih-tuh-buhl dis-trih-BYOO-shuhn"
+        },
+        "american": {
+          "ipa": "ɪnˈɛkwɪtəbəl ˌdɪstrɪˈbjuːʃən",
+          "phonetic": "in-EK-wih-tuh-buhl dis-trih-BYOO-shuhn"
+        }
+      },
+      "difficulty": "hard",
+      "category": "pte-phd-official-project-terms",
+      "source": "pte-phd-official-project-terms"
+    }
+  ]
+}
