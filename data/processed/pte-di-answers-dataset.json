@@ -1,0 +1,1731 @@
+{
+  "metadata": {
+    "generated": "2026-08-03T09:16:04.409Z",
+    "source": "pte-di-answers",
+    "description": "DI model answer typing practice targets, one answer per item",
+    "totalAnswers": 86,
+    "version": "1.0"
+  },
+  "items": [
+    {
+      "id": "di-answers-1",
+      "title": "Image 1: Overshot Water Wheel",
+      "passage": "Overshot Water Wheel",
+      "answer": "This image shows two types of overshot water wheels. On the left, we can see the standard design, and on the right is the pitchback version. Water flows from the flume at the top and hits the wheel buckets. This makes the wheel turn. The water then falls into the tail race at the bottom. The main difference between the two designs is the direction of water flow and how it hits the wheel. Both designs use gravity and water power to create rotation.",
+      "wordCount": 84,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 1,
+        "imageTitle": "Overshot Water Wheel"
+      }
+    },
+    {
+      "id": "di-answers-2",
+      "title": "Image 2: Projected Population, Australia",
+      "passage": "Projected Population, Australia",
+      "answer": "This graph shows the projected population of Australia from 2001 to 2101. There are three different series. Series A shows the highest growth, reaching about 60 million by 2101. Series B is in the middle, growing to around 45 million. Series C shows the lowest growth, staying at about 33 million. All three series start at roughly the same point in 2001, around 20 million people. Overall, the graph shows that Australia's population will continue to grow, but the rate depends on different factors.",
+      "wordCount": 84,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 2,
+        "imageTitle": "Projected Population, Australia"
+      }
+    },
+    {
+      "id": "di-answers-3",
+      "title": "Image 3: Population Density, Australia (June 2010)",
+      "passage": "Population Density, Australia (June 2010)",
+      "answer": "This map shows the population density of Australia in June 2010. The colors represent how many people live in each area per square kilometer. We can see that most people live along the coast, especially in the eastern and southeastern areas, which are shown in dark orange and red. These areas have 100 or more people per square kilometer. The center of Australia is very light yellow, which means less than 0.1 people per square kilometer. The map clearly shows that Australia's population is mainly concentrated in coastal cities, while the inland areas are very sparsely populated.",
+      "wordCount": 97,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 3,
+        "imageTitle": "Population Density, Australia (June 2010)"
+      }
+    },
+    {
+      "id": "di-answers-4",
+      "title": "Image 4: Trading Goods, Ancient Egypt",
+      "passage": "Trading Goods, Ancient Egypt",
+      "answer": "This diagram shows the trading goods of ancient Egypt. On the left side, we can see the imports. Egypt brought in cedar oil and timber from Lebanon, copper and gold from Nubia, and exotic animals from tropical Africa. They also imported horses, fruit, and honey from Mediterranean countries. On the right side, we have the exports. Ancient Egypt sold linen, tools, beads, beer, weapons, and oil to other regions. This shows that ancient Egypt had a strong trading network with many different countries and regions around the Mediterranean and Africa.",
+      "wordCount": 90,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 4,
+        "imageTitle": "Trading Goods, Ancient Egypt"
+      }
+    },
+    {
+      "id": "di-answers-5",
+      "title": "Image 5: Age Comparison of Male and Female Graduates",
+      "passage": "Age Comparison of Male and Female Graduates",
+      "answer": "This chart compares the ages of male and female graduates. The pink bars on the left show female graduates, and the blue bars on the right show male graduates. We can see different age groups from youngest to oldest. The largest group is ages 1 to 15, where females make up 15.5% and males make up 20.5%. This is the maximum for both groups. The smallest group is 85 and above, with only 0.4% for females and 0.8% for males. Overall, the chart shows that most graduates are in the younger age groups, and there are slightly more male graduates than female graduates in almost every age category.",
+      "wordCount": 108,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 5,
+        "imageTitle": "Age Comparison of Male and Female Graduates"
+      }
+    },
+    {
+      "id": "di-answers-6",
+      "title": "Image 6: The Eatwell Plate (Nutrition Guide)",
+      "passage": "The Eatwell Plate (Nutrition Guide)",
+      "answer": "This diagram shows the eatwell plate, which is a guide for healthy eating. The plate is divided into five food groups. The biggest section in green is for fruit and vegetables, which should make up the largest part of our diet. The yellow section shows bread, rice, potatoes, and pasta - these starchy foods are the second largest group. The smaller sections include milk and dairy foods in blue, and meat, fish, eggs, and beans in pink. The smallest purple section at the bottom represents foods high in fat and sugar, which we should eat less often. This plate helps us understand how to balance our meals for better health.",
+      "wordCount": 110,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 6,
+        "imageTitle": "The Eatwell Plate (Nutrition Guide)"
+      }
+    },
+    {
+      "id": "di-answers-7",
+      "title": "Image 7: Bone Structure Comparison (Evolution)",
+      "passage": "Bone Structure Comparison (Evolution)",
+      "answer": "This diagram compares the bone structure of four different limbs. At the top, we can see a human arm with the humerus, radius, and ulna bones, plus the hand and wrist bones. Below that is a seal limb, which has the same basic bones but shaped differently for swimming. The third example is a bird wing, where the same bones are present but much lighter and adapted for flying. At the bottom is a bat wing, which also has similar bones but with extended fingers to support the wing. This shows how different animals have the same basic bone structure, but each is adapted for different purposes like swimming, flying, or grasping.",
+      "wordCount": 112,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 7,
+        "imageTitle": "Bone Structure Comparison (Evolution)"
+      }
+    },
+    {
+      "id": "di-answers-8",
+      "title": "Image 8: Keyboard Ergonomics (Right and Wrong Positions)",
+      "passage": "Keyboard Ergonomics (Right and Wrong Positions)",
+      "answer": "This diagram shows the right and wrong ways to use a keyboard. At the top left, we can see the correct position. Your wrists should be straight and level with the keyboard. On the top right, there are two wrong positions where the wrists are bent upward or to the sides. At the bottom left, the side view shows the right position again, with a straight wrist and forearm in line with the keyboard. The bottom right shows the wrong position from the side, where the wrist is bent either up or down. This guide helps us avoid injury and type more comfortably by keeping our wrists straight and relaxed.",
+      "wordCount": 110,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 8,
+        "imageTitle": "Keyboard Ergonomics (Right and Wrong Positions)"
+      }
+    },
+    {
+      "id": "di-answers-9",
+      "title": "Image 9: Adding an Article to Wikipedia (Flowchart)",
+      "passage": "Adding an Article to Wikipedia (Flowchart)",
+      "answer": "This flowchart shows the process of adding an article to Wikipedia. First, you search Wikipedia to see if the topic already exists. If you find it, you should think of another term to search for. If you don't find it, you check if there is a related term. If there is no related term, you can create a new article. If there is a related term, you create a redirect instead. The flowchart uses green for the starting point, blue boxes for questions, and pink circles for the different actions you can take. This makes it easy to follow the decision-making process step by step.",
+      "wordCount": 105,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 9,
+        "imageTitle": "Adding an Article to Wikipedia (Flowchart)"
+      }
+    },
+    {
+      "id": "di-answers-10",
+      "title": "Image 10: Fungus Gnat Lifecycle",
+      "passage": "Fungus Gnat Lifecycle",
+      "answer": "This diagram shows the lifecycle of a fungus gnat. The cycle starts at the top with the adult stage, which lasts 3 to 6 days. The adult lays eggs, shown on the right side. The eggs take 7 to 10 days to develop. After that, the eggs hatch into larvae at the bottom, which takes 4 to 6 days. Next, the larva becomes a pupa on the left side, and this stage lasts 12 to 14 days. Finally, the pupa turns into an adult, and the cycle starts again. The whole lifecycle takes about 26 to 36 days in total.",
+      "wordCount": 100,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 10,
+        "imageTitle": "Fungus Gnat Lifecycle"
+      }
+    },
+    {
+      "id": "di-answers-11",
+      "title": "Image 11: Beijing, China Temperature Chart",
+      "passage": "Beijing, China Temperature Chart",
+      "answer": "This chart shows the daily high and low temperatures in Beijing, China, throughout the year. The red line shows the daily high temperatures, and the blue line shows the daily low temperatures. The coldest months are January and February, where the low temperature drops to about minus 10 degrees. The temperature starts to rise in spring, reaching its peak in July and August at around 30 degrees for the high. After August, the temperature gradually falls again. The background colors change from blue in winter to green in spring, yellow in summer, and orange in autumn, which makes it easy to see the seasonal changes.",
+      "wordCount": 105,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 11,
+        "imageTitle": "Beijing, China Temperature Chart"
+      }
+    },
+    {
+      "id": "di-answers-12",
+      "title": "Image 12: Fish Behavior and Moon Phases",
+      "passage": "Fish Behavior and Moon Phases",
+      "answer": "This diagram shows how fish behavior changes during different moon phases. At the top, we can see four different moon phases from left to right. The blue area below represents the water from surface to bottom. In the first panel with a crescent moon, most fish stay near the bottom. In the second panel with a larger moon, the fish start to spread out in the middle area. In the third panel with a full moon, the fish are scattered at all levels - some at the surface, some in the middle, and some at the bottom. In the last panel, most fish move toward the surface. This shows that the moon phase affects where fish swim in the water.",
+      "wordCount": 120,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 12,
+        "imageTitle": "Fish Behavior and Moon Phases"
+      }
+    },
+    {
+      "id": "di-answers-13",
+      "title": "Image 13: Climate Zones for Temperature and Humidity, Australia",
+      "passage": "Climate Zones for Temperature and Humidity, Australia",
+      "answer": "This map shows the climate zones for temperature and humidity across Australia. The legend on the left shows six different climate types. The northern part of Australia is shown in red, which means hot and humid. The central area is mostly yellow, showing hot dry summers and cold winters. The orange areas near the coast show hot dry summers with warm winters. Along the southern coast, we can see green areas which are temperate zones. Tasmania at the bottom is shown in blue, meaning it has a cool temperate climate. This map clearly shows that Australia has very different climate zones, with tropical conditions in the north and cooler weather in the south.",
+      "wordCount": 113,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 13,
+        "imageTitle": "Climate Zones for Temperature and Humidity, Australia"
+      }
+    },
+    {
+      "id": "di-answers-14",
+      "title": "Image 14: Pet Expenditure in US",
+      "passage": "Pet Expenditure in US",
+      "answer": "This pie chart shows how people in the US spend money on their pets. The largest category is vet care and wellbeing in orange, which takes up 47 percent of all pet spending. The second largest is food and litter in blue at 41 percent. Services like grooming and boarding make up 10 percent shown in gray. The smallest category is pet purchase in yellow, which is only 2 percent. This shows that most pet owners spend their money on keeping their pets healthy and well-fed, rather than buying new pets.",
+      "wordCount": 91,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 14,
+        "imageTitle": "Pet Expenditure in US"
+      }
+    },
+    {
+      "id": "di-answers-15",
+      "title": "Image 15: Adults vs. Teens: Number of Texts on a Typical Day",
+      "passage": "Adults vs. Teens: Number of Texts on a Typical Day",
+      "answer": "This bar chart compares how many texts adults and teens send on a typical day. The dark blue bars show adults, and the light blue bars show teens. Most adults, 51 percent, send 1 to 10 texts per day. In contrast, only 22 percent of teens send this amount. For people who text more, 29 percent of teens send more than 101 texts daily, while only 8 percent of adults send this many. Very few people send no texts at all - just 9 percent of adults and 2 percent of teens. Overall, this chart shows that teens send much more text messages than adults do each day.",
+      "wordCount": 108,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 15,
+        "imageTitle": "Adults vs. Teens: Number of Texts on a Typical Day"
+      }
+    },
+    {
+      "id": "di-answers-16",
+      "title": "Image 16: What is E-Waste?",
+      "passage": "What is E-Waste?",
+      "answer": "This chart shows what types of items make up e-waste. The chart is divided into two main groups. The top half shows electronic waste in yellow and green colors, which makes up 50 percent. This includes monitors at 10 percent, televisions at 10 percent, computers and printers at 15 percent, and DVD players and radios at 15 percent. The bottom half shows electric waste in blue, which also makes up 50 percent. This includes refrigerators at 20 percent, and washing machines, dryers, and other appliances at 30 percent. Overall, we can see that electric appliances make up the largest part of e-waste.",
+      "wordCount": 102,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 16,
+        "imageTitle": "What is E-Waste?"
+      }
+    },
+    {
+      "id": "di-answers-17",
+      "title": "Image 17: Internet Users Who Accessed via Mobile Phone, GB 2011",
+      "passage": "Internet Users Who Accessed via Mobile Phone, GB 2011",
+      "answer": "This bar chart shows the percentage of internet users who accessed the internet via mobile phone in Great Britain in 2011, broken down by age groups. The youngest group, aged 16 to 24, has the highest usage at about 71 percent. The next group, aged 25 to 34, shows around 65 percent. Usage drops to about 49 percent for ages 35 to 44, then continues to fall to 33 percent for ages 45 to 54. The older age groups show much lower usage, with only 21 percent for ages 55 to 64, and just 8 percent for people aged 65 and above. Overall, this chart clearly shows that younger people use mobile internet much more than older people.",
+      "wordCount": 118,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 17,
+        "imageTitle": "Internet Users Who Accessed via Mobile Phone, GB 2011"
+      }
+    },
+    {
+      "id": "di-answers-18",
+      "title": "Image 18: Food Pyramid with Daily Serving Recommendations",
+      "passage": "Food Pyramid with Daily Serving Recommendations",
+      "answer": "This food pyramid shows the recommended daily servings for different food groups. At the bottom, we should drink 8 servings of water each day. The next level shows rice, pasta, bread, and cereal, with 6 servings recommended. Moving up, the pyramid shows vegetables with 3 servings and fruits with 2 servings. The next level includes the milk group with 3 servings and the meat, fish, and bean group with 2 servings. At the top, fats, oils and sweets should be used sparingly. The pyramid also suggests taking calcium, vitamin D, and vitamin B-12 supplements. This guide helps us understand how to balance our daily food intake.",
+      "wordCount": 106,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 18,
+        "imageTitle": "Food Pyramid with Daily Serving Recommendations"
+      }
+    },
+    {
+      "id": "di-answers-19",
+      "title": "Image 19: Australia Share Market (S&P/ASX 200), June 2011",
+      "passage": "Australia Share Market (S&P/ASX 200), June 2011",
+      "answer": "This line graph shows the Australia share market, specifically the S&P/ASX 200 index, during one trading day in June 2011. The chart covers the time period from 10 AM to 2 PM. At the start of trading around 10 AM, the index was very low, close to zero. It then rose sharply to reach a peak of around 3500 just before 11 AM. After that, the market became quite unstable with several ups and downs throughout the rest of the day. By 1 PM, the index had settled at around 3484. Overall, this chart shows high market activity with significant changes in a short period of time.",
+      "wordCount": 107,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 19,
+        "imageTitle": "Australia Share Market (S&P/ASX 200), June 2011"
+      }
+    },
+    {
+      "id": "di-answers-20",
+      "title": "Image 20: The Iron Age Hut",
+      "passage": "The Iron Age Hut",
+      "answer": "This diagram shows the structure of an Iron Age hut. The hut has a simple triangular shape with a reed thatch roof at the top. The two sides of the roof are labeled as rafter on the left and reed thatch on the right. At ground level, there are turf walls on both sides for support. Inside the hut, we can see seats built into the walls and ashes in the center, which was probably where they made fires for cooking and heating. The structure sits at ground level with a raised floor inside. This shows how people in the Iron Age built simple but effective shelters using natural materials like reeds, turf, and wood.",
+      "wordCount": 115,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 20,
+        "imageTitle": "The Iron Age Hut"
+      }
+    },
+    {
+      "id": "di-answers-21",
+      "title": "Image 21: Two Examples of \"Input-Process-Output\"",
+      "passage": "Two Examples of \"Input-Process-Output\"",
+      "answer": "This diagram shows two examples of the input-process-output model. At the top, we can see the basic concept with three boxes: input, process, and output. The first example shows a factory process. Materials go in as the input, they are processed in a factory, and the output is a finished product. The second example shows a computer process. Data goes in as the input, it is processed by a computer system, and the output is useful information. Both examples follow the same pattern, showing how raw inputs are changed through a process to create something valuable as the output.",
+      "wordCount": 99,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 21,
+        "imageTitle": "Two Examples of \"Input-Process-Output\""
+      }
+    },
+    {
+      "id": "di-answers-22",
+      "title": "Image 22: Honey Production in Mexico",
+      "passage": "Honey Production in Mexico",
+      "answer": "This map shows honey production in Mexico divided into three main zones. The legend on the right shows four production levels using different colors. The southern zone, shown mostly in orange, produces 3 to 10 percent of the total honey. The central zone has the highest production, with some dark brown areas producing 10 to 16 percent. We can also see some orange areas in the east. The northern zone is mostly light beige, which means it produces very little honey, between 0 to 1 percent. Overall, this map shows that central and southern Mexico are the main honey-producing regions, while the north has very low production.",
+      "wordCount": 107,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 22,
+        "imageTitle": "Honey Production in Mexico"
+      }
+    },
+    {
+      "id": "di-answers-23",
+      "title": "Image 23: Distribution of Tropical Rain Forests",
+      "passage": "Distribution of Tropical Rain Forests",
+      "answer": "This world map shows where tropical rain forests are found around the world. The green areas mark the forest locations. We can see three main regions. First, there is a large area in South America. Second, we see forests in central Africa. And third, there are forests in Southeast Asia and nearby islands. All these forests are located near the equator in hot and humid tropical zones. The map also shows all the major continents and oceans. Overall, this shows that tropical rain forests only grow in specific areas close to the equator, where the climate is warm and wet all year round.",
+      "wordCount": 103,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 23,
+        "imageTitle": "Distribution of Tropical Rain Forests"
+      }
+    },
+    {
+      "id": "di-answers-24",
+      "title": "Image 24: Annual Mean Temperature",
+      "passage": "Annual Mean Temperature",
+      "answer": "This map shows the annual mean temperature around the world using different colors. The color scale at the bottom shows temperatures in both Celsius and Fahrenheit. Red and dark red colors show the hottest areas, which are around the equator, with temperatures reaching up to 30 degrees Celsius. The blue and purple colors show the coldest areas at the North Pole and South Pole, where temperatures drop to minus 50 degrees Celsius or lower. The areas in between show yellow, orange, and light blue, which means moderate temperatures. We can clearly see that the closer to the equator, the hotter it gets, and the closer to the poles, the colder it gets.",
+      "wordCount": 112,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 24,
+        "imageTitle": "Annual Mean Temperature"
+      }
+    },
+    {
+      "id": "di-answers-25",
+      "title": "Image 25: Graduate Laboratory Floor Plan",
+      "passage": "Graduate Laboratory Floor Plan",
+      "answer": "This diagram shows the floor plan of a graduate laboratory. In the top left corner, there are three office rooms stacked on top of each other. Next to them is the entrance with a restroom. On the right side, there is a computer station and some lab workstations with tables and chairs shown as circles. In the center, there is a large open space with a long table. At the bottom, we can see two science areas - Animal Sciences on the left and Plant Sciences on the right. There are also more lab tables on the bottom right. Overall, this floor plan shows how the laboratory space is organized for different research activities.",
+      "wordCount": 114,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 25,
+        "imageTitle": "Graduate Laboratory Floor Plan"
+      }
+    },
+    {
+      "id": "di-answers-26",
+      "title": "Image 26: Luxury Ensuite Room Floor Plan",
+      "passage": "Luxury Ensuite Room Floor Plan",
+      "answer": "This diagram shows the floor plan of a luxury ensuite bedroom. At the top, there is a large ensuite bathroom area. On the right side, we can see a desk area with a chair. Below that is a bed on the bottom right. On the left side at the bottom, there is a wardrobe for storage. In the middle of the room, there is some open space. The entrance to the room is on the left side with a curved door opening. Overall, this floor plan shows a compact but well-designed room that includes a private bathroom, sleeping area, study space, and storage all in one unit.",
+      "wordCount": 107,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 26,
+        "imageTitle": "Luxury Ensuite Room Floor Plan"
+      }
+    },
+    {
+      "id": "di-answers-27",
+      "title": "Image 27: Population Pyramid by Age Group and Gender",
+      "passage": "Population Pyramid by Age Group and Gender",
+      "answer": "This chart shows the population by age group and gender. The dark blue bars on the left show males, and the light blue bars on the right show females. The largest age group is 25 to 34, which makes up about 16 percent for both males and females. The second largest groups are ages 5 to 14 and 35 to 44, both around 13 to 14 percent. The working age groups from 15 to 64 make up the majority of the population. The oldest group, ages 85 and above, is the smallest at less than 1 percent. Overall, we can see that males and females have very similar numbers across all age groups, and the population has a large working-age base.",
+      "wordCount": 121,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 27,
+        "imageTitle": "Population Pyramid by Age Group and Gender"
+      }
+    },
+    {
+      "id": "di-answers-28",
+      "title": "Image 28: Journeys by Men and Women in the UK 2006",
+      "passage": "Journeys by Men and Women in the UK 2006",
+      "answer": "This bar chart compares the journeys made by men and women in the United Kingdom in 2006 according to their purpose. The red bars show women and the blue bars show men. Shopping is the biggest reason for women, at about 25 percent, while men only shop around 18 percent of the time. For commuting and business, the pattern is opposite - men make up about 25 percent while women are around 18 percent. Both men and women visit friends at similar levels, around 12 percent each. The school run is higher for women than men. Walking, holiday trips, and sports are the smallest categories for both groups. Overall, this shows that women travel more for shopping and family activities, while men travel more for work.",
+      "wordCount": 126,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 28,
+        "imageTitle": "Journeys by Men and Women in the UK 2006"
+      }
+    },
+    {
+      "id": "di-answers-29",
+      "title": "Image 29: Office Floor Plan",
+      "passage": "Office Floor Plan",
+      "answer": "This diagram shows a simple office floor plan. At the top, there is a large main hall that runs across the entire building. Below that, on the left side, there is a big office space. Next to the office is a kitchen at the bottom left. On the right side, there are three smaller rooms. The top one is the male toilet, the middle one is the female toilet, and the bottom one is a handicapped toilet with a wheelchair symbol. This layout shows a basic office setup with work space, a common area, kitchen facilities, and restrooms for everyone.",
+      "wordCount": 100,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 29,
+        "imageTitle": "Office Floor Plan"
+      }
+    },
+    {
+      "id": "di-answers-30",
+      "title": "Image 30: Language Origins (Language Families)",
+      "passage": "Language Origins (Language Families)",
+      "answer": "This pie chart shows the origins of different language families. The chart is divided into six parts. The two largest groups are both 26 percent - Germanic Languages shown in green, and French or Celtic shown in blue. Latin makes up 20 percent in red. The smaller sections include Greek at 6 percent in orange, Other Languages Unknown at 6 percent in purple, and Derived from Proper Names at just 3 percent in yellow. Overall, this chart shows that most English words come from Germanic Languages, French or Celtic, and Latin, with smaller amounts from Greek and other sources.",
+      "wordCount": 99,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 30,
+        "imageTitle": "Language Origins (Language Families)"
+      }
+    },
+    {
+      "id": "di-answers-31",
+      "title": "Image 31: Acid Rain Formation",
+      "passage": "Acid Rain Formation",
+      "answer": "This diagram shows how acid rain is formed. On the left, we can see the sun, which drives photochemical reactions. In the center, there is a large cloud labeled oxidation. Below the cloud, we see acid rain falling to the ground. On the right side, there is text showing that acid plus rain equals acidrain. At the bottom, there are buildings on the left, some trees, and a lake in the middle. The diagram shows that pollution from buildings and other sources goes up into the clouds, where oxidation happens, and this creates acid rain that falls back down to earth.",
+      "wordCount": 101,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 31,
+        "imageTitle": "Acid Rain Formation"
+      }
+    },
+    {
+      "id": "di-answers-32",
+      "title": "Image 32: Years to Double Population",
+      "passage": "Years to Double Population",
+      "answer": "This line graph shows the years it takes for the world population to double. The vertical line shows years to double, and the horizontal line shows the ending year. The line starts very high on the left and drops down to the right. In the early 1700s, it took over 500 years for the population to double. But over time, this number keeps getting smaller. By 1800, it took about 300 years. Then in 1927, it only took 123 years. The most recent point shows it took less than 50 years in 1974. Overall, this graph shows that the population is doubling much faster now than it did in the past.",
+      "wordCount": 111,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 32,
+        "imageTitle": "Years to Double Population"
+      }
+    },
+    {
+      "id": "di-answers-33",
+      "title": "Image 33: Dubai Gold Sales in 2002",
+      "passage": "Dubai Gold Sales in 2002",
+      "answer": "This line graph shows Dubai gold sales in 2002. The vertical line shows millions of dirhams, and the horizontal line shows the months from January to December. The graph starts at about 200 million in January. It rises sharply to reach the highest point in March at around 350 million. After that, sales drop down to about 200 million in May and June. There is a smaller peak in August, and then sales stay fairly steady for the rest of the year, ending at around 200 million in December. Overall, this graph shows that gold sales in Dubai were highest in March and remained relatively stable for most of the year.",
+      "wordCount": 111,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 33,
+        "imageTitle": "Dubai Gold Sales in 2002"
+      }
+    },
+    {
+      "id": "di-answers-34",
+      "title": "Image 34: Number of Arrests Per Year for Using Illegal Drugs",
+      "passage": "Number of Arrests Per Year for Using Illegal Drugs",
+      "answer": "This line graph shows the number of arrests per year for using illegal drugs from 1991 to 2005. The vertical line shows the number of arrests per year, and the horizontal line shows the years. The graph starts at about 10 arrests in 1991. It rises quickly to reach 60 arrests by 1995 and stays around that level until 1999. In 2001, there is a sharp spike up to 70 arrests, which is the highest point. Then it drops dramatically to about 15 arrests in 2002, which is the lowest point after 1993. After that, arrests go back up to around 55 in 2003 and then decrease slightly to about 40 in 2005. Overall, this graph shows that drug arrests went up and down quite a lot over this 15-year period.",
+      "wordCount": 131,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 34,
+        "imageTitle": "Number of Arrests Per Year for Using Illegal Drugs"
+      }
+    },
+    {
+      "id": "di-answers-35",
+      "title": "Image 35: Number of Laws in Brazil 1953-1993",
+      "passage": "Number of Laws in Brazil 1953-1993",
+      "answer": "This line graph shows the number of laws in Brazil from 1953 to 1993. The vertical line shows the number of laws, and the horizontal line shows the years. The graph starts at about 100 laws in 1953. For the first 20 years, the line stays fairly flat and low. Then around 1970, it starts to go up slowly. After 1980, the line rises much more quickly. By 1990, it reaches about 2000 laws, and by 1993, it goes up to around 2300 laws. Overall, this graph shows that the number of laws in Brazil increased slowly at first, but then grew very rapidly in the 1980s and 1990s.",
+      "wordCount": 109,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 35,
+        "imageTitle": "Number of Laws in Brazil 1953-1993"
+      }
+    },
+    {
+      "id": "di-answers-36",
+      "title": "Image 36: Electricity Generation in China by Type 1994-2004",
+      "passage": "Electricity Generation in China by Type 1994-2004",
+      "answer": "This stacked area chart shows electricity generation in China by type from 1994 to 2004. The vertical line shows billion kilowatthours, and the horizontal line shows the years. There are two types shown in the legend. The red area represents conventional thermal power, and the blue area represents hydroelectric power. Both types start at relatively low levels in 1994, with the total at about 900 billion kilowatthours. Over the 10-year period, both types increase steadily. The red conventional thermal area grows much larger than the blue hydroelectric area. By 2004, the total reaches about 2000 billion kilowatthours. Overall, this chart shows that China's electricity generation doubled over this period, with most growth coming from conventional thermal power.",
+      "wordCount": 117,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 36,
+        "imageTitle": "Electricity Generation in China by Type 1994-2004"
+      }
+    },
+    {
+      "id": "di-answers-37",
+      "title": "Image 37: University and College Students who did Educational Activities",
+      "passage": "University and College Students who did Educational Activities",
+      "answer": "This line graph shows the percent of university and college students who did educational activities by hour of day on weekdays. The vertical line shows the percent, and the horizontal line shows the hours from 12 am to 11 pm. There are two lines shown in the legend. The blue line represents full-time students, and the green line represents part-time students. Both lines start very low at midnight, around 5 percent for full-time and 1 percent for part-time. The full-time student line rises sharply to reach its peak around 11 am at about 36 percent. The part-time student line also rises but only reaches about 22 percent at its peak around 10 am. After that, both lines drop down in the afternoon and evening. Overall, this shows that full-time students do more educational activities during the day than part-time students.",
+      "wordCount": 140,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 37,
+        "imageTitle": "University and College Students who did Educational Activities"
+      }
+    },
+    {
+      "id": "di-answers-38",
+      "title": "Image 38: Food Price vs Oil Price",
+      "passage": "Food Price vs Oil Price",
+      "answer": "This line graph shows food price versus oil price from 2000 to 2009. There are two vertical lines - the left side shows oil price in dollars, and the right side shows the food price index. The red line represents oil price, and the green line represents food price index. Both lines start relatively low in 2000 and follow a similar pattern. They stay fairly flat until around 2004, then both start to rise steadily. Around 2007, both prices increase sharply and reach their highest points in 2008, with oil at about 140 dollars and food index at about 210. After that, both drop dramatically and then recover slightly by 2009. Overall, this graph shows that food prices and oil prices move together and are closely connected.",
+      "wordCount": 127,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 38,
+        "imageTitle": "Food Price vs Oil Price"
+      }
+    },
+    {
+      "id": "di-answers-39",
+      "title": "Image 39: Overseas Visitors to Three Different Areas in a European Country 1987-2007",
+      "passage": "Overseas Visitors to Three Different Areas in a European Country 1987-2007",
+      "answer": "This line graph shows overseas visitors to three different areas in a European country from 1987 to 2007. The vertical line shows thousands of visitors, and the horizontal line shows the years. There are three lines shown in the legend. The blue line represents the coast, the red line represents the mountains, and the green line represents the lakes. In 1987, the coast started at about 40 thousand visitors, which was the highest. The mountains and lakes both started much lower at around 20 and 10 thousand. Over the years, the coast line keeps rising steadily to reach about 75 thousand in 2007. The lakes line rises sharply and peaks at about 75 thousand in 2002, then drops to around 50 thousand. The mountains line stays fairly flat throughout the period. Overall, this shows that the coast became the most popular destination by 2007.",
+      "wordCount": 144,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 39,
+        "imageTitle": "Overseas Visitors to Three Different Areas in a European Country 1987-2007"
+      }
+    },
+    {
+      "id": "di-answers-40",
+      "title": "Image 40: Annual per capita Meat Consumption (kg)",
+      "passage": "Annual per capita Meat Consumption (kg)",
+      "answer": "This line graph shows annual per capita meat consumption in kilograms from 1961 to 2009. The vertical line shows kilograms, and the horizontal line shows the years. There are six lines shown in the legend for different countries. The blue line for USA stays the highest throughout the period, starting at about 90 kg and ending at around 120 kg. The red line for China starts very low at about 10 kg but rises sharply after 1980 to reach about 60 kg by 2009. Brazil in light blue also increases from about 30 kg to 85 kg. The other three countries - Liberia, India, and Ethiopia - all stay very low throughout the period at around 10 to 20 kg. Overall, this shows that USA has the highest meat consumption, while China shows the fastest growth over this period.",
+      "wordCount": 139,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 40,
+        "imageTitle": "Annual per capita Meat Consumption (kg)"
+      }
+    },
+    {
+      "id": "di-answers-41",
+      "title": "Image 41: Internet Population in Millions of Users",
+      "passage": "Internet Population in Millions of Users",
+      "answer": "This bar chart shows internet population in millions of users across different countries. The vertical line shows millions of users, and the horizontal line shows the country names. China has by far the largest internet population at about 185 million users. The US comes in second with around 165 million users. Japan is third at about 60 million. After that, the numbers drop significantly. Germany and UK both have around 35 to 40 million users. France, India, and Russia are all between 25 and 35 million. The remaining countries - Brazil, South Korea, Canada, Italy, Spain, Mexico, and Netherlands - all have less than 30 million users each. Overall, this chart shows that China and the US have much larger internet populations than all other countries.",
+      "wordCount": 126,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 41,
+        "imageTitle": "Internet Population in Millions of Users"
+      }
+    },
+    {
+      "id": "di-answers-42",
+      "title": "Image 42: Top 10 US Cities with the Largest Population Increase",
+      "passage": "Top 10 US Cities with the Largest Population Increase",
+      "answer": "This horizontal bar chart shows the top 10 US cities with the largest population increase from July 1, 2011 to July 1, 2012. The horizontal line shows the population increase in thousands, and the vertical line shows the city names. New York City has by far the largest increase at about 67,000 people. Houston comes in second with around 34,600, and Los Angeles is third with about 34,500. San Antonio and Austin both have around 25,000 people each. Phoenix and Dallas are close together at about 24,000 and 23,000. The remaining three cities - Charlotte, San Diego, and Forth Worth - all have between 15,000 and 19,000 people. Overall, this chart shows that New York City had a much larger population increase than all other cities during this period.",
+      "wordCount": 129,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 42,
+        "imageTitle": "Top 10 US Cities with the Largest Population Increase"
+      }
+    },
+    {
+      "id": "di-answers-43",
+      "title": "Image 43: Drinking Habits by Age in US",
+      "passage": "Drinking Habits by Age in US",
+      "answer": "This stacked bar chart shows drinking habits by age in the US. The vertical line shows percentage, and the horizontal line shows age groups from 16-24 to 65-74. There are four categories shown in the legend. Blue represents never drinker, orange represents ex-drinker, red represents light drinker, and green represents heavy drinker. For all age groups, never drinkers make up the largest portion, staying around 45 to 60 percent. Light drinkers are the second largest group at about 25 to 40 percent. Ex-drinkers make up a small portion, increasing slightly from about 10 percent in younger groups to about 35 percent in the 65-74 group. Heavy drinkers are the smallest category, staying fairly constant at around 5 to 10 percent across all ages. Overall, this chart shows that most people in the US are either never drinkers or light drinkers.",
+      "wordCount": 140,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 43,
+        "imageTitle": "Drinking Habits by Age in US"
+      }
+    },
+    {
+      "id": "di-answers-44",
+      "title": "Image 44: Adults Healthy BMI Chart",
+      "passage": "Adults Healthy BMI Chart",
+      "answer": "This chart shows the adults healthy BMI chart. The vertical line shows weight in kilos from 50 to 110, and the horizontal line shows height in meters from 1.36 to 2.00. The chart is divided into different colored zones representing BMI categories. The red zone in the top left corner represents extremely obese. Below that, the yellow zone represents obese. The pink and purple zone in the middle represents overweight. The light purple and blue zone represents healthy weight. The green zone in the bottom right corner represents underweight. The chart helps people find their BMI category by looking at where their height and weight meet on the chart. Overall, this is a useful tool for checking if your weight is healthy for your height.",
+      "wordCount": 125,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 44,
+        "imageTitle": "Adults Healthy BMI Chart"
+      }
+    },
+    {
+      "id": "di-answers-45",
+      "title": "Image 61: Buying School Bags at a Stationery Shop",
+      "passage": "Buying School Bags at a Stationery Shop",
+      "answer": "This image shows two photos of buying school bags at a stationery shop. On the left, we can see a mother and daughter looking at a colorful backpack together. The mother is holding the bag while the daughter looks at it with a happy expression. On the right, the same girl is shown holding a different backpack on her own. In the background, we can see shelves with many school supplies. These photos show a typical shopping experience where parents help their children choose school bags before the new school year.",
+      "wordCount": 91,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 61,
+        "imageTitle": "Buying School Bags at a Stationery Shop"
+      }
+    },
+    {
+      "id": "di-answers-46",
+      "title": "Image 65: Food Pyramid 1970s vs 2010s",
+      "passage": "Food Pyramid 1970s vs 2010s",
+      "answer": "This diagram compares the food pyramid from the 1970s with the new food pyramid from the 2010s. On the left, the 1970s pyramid has grains and cereals at the base, with fruits and vegetables in the middle, and fats at the top. On the right, the 2010s pyramid is quite different. It has fruits and vegetables at the base as the largest section. Grains and proteins are in the middle, and fats and sweets are at the very top in the smallest section. This shows that nutrition advice has changed over time, with more focus now on eating fruits and vegetables rather than grains.",
+      "wordCount": 104,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 65,
+        "imageTitle": "Food Pyramid 1970s vs 2010s"
+      }
+    },
+    {
+      "id": "di-answers-47",
+      "title": "Image 81: Ontario Manufacturing Employment and Canadian Dollar Exchange",
+      "passage": "Ontario Manufacturing Employment and Canadian Dollar Exchange",
+      "answer": "This line graph shows Ontario manufacturing employment and the Canadian dollar exchange rate from 1981 to 2013. There are two vertical lines - the left side shows employment in thousands, and the right side shows the dollar value in US dollars. The blue line represents Ontario manufacturing employment, and the red line represents the Canadian dollar value. In the 1980s, employment started at about 900 thousand. It rose to a peak of around 1100 thousand in 2000. After that, it dropped sharply to about 750 thousand by 2009. The Canadian dollar shows the opposite pattern - it was high in 1981, dropped to its lowest around 2002, then rose sharply after that. Overall, this graph shows that when the Canadian dollar got stronger, manufacturing employment went down.",
+      "wordCount": 127,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 81,
+        "imageTitle": "Ontario Manufacturing Employment and Canadian Dollar Exchange"
+      }
+    },
+    {
+      "id": "di-answers-48",
+      "title": "Image 82: Nuclear Power Generation in Europe",
+      "passage": "Nuclear Power Generation in Europe",
+      "answer": "This map shows nuclear power generation across Europe. The colors represent the percentage of electricity that comes from nuclear power in each country. France is shown in dark purple, which means it has the highest nuclear share at more than 55 percent. Some countries in eastern Europe are shown in blue with 45 to 55 percent. Other countries in western and northern Europe are in lighter colors with 10 to 45 percent. The green dots on the map show where nuclear power plants are located. Most plants are in France and in the central part of Europe. Some countries shown in very light gray have no nuclear power at all. Overall, this map shows that France relies the most on nuclear power in Europe, while other countries have much lower shares.",
+      "wordCount": 131,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 82,
+        "imageTitle": "Nuclear Power Generation in Europe"
+      }
+    },
+    {
+      "id": "di-answers-49",
+      "title": "Image 77: Mean Salary of First-Degree Graduates by Gender",
+      "passage": "Mean Salary of First-Degree Graduates by Gender",
+      "answer": "This bar chart shows the mean salary of first-degree graduates by gender from 2008 to 2013. The red bars show women's salaries, and the blue bars show men's salaries. In 2008-9, both groups started at around 19,000 to 20,000 pounds. Over the years, men's salaries have stayed higher than women's salaries in every year. By 2012-13, men earned about 21,500 pounds while women earned about 19,500 pounds. The gap between the two groups has stayed fairly constant throughout this period. Overall, this chart shows that male graduates consistently earn more than female graduates, with a pay gap of about 2,000 pounds.",
+      "wordCount": 101,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 77,
+        "imageTitle": "Mean Salary of First-Degree Graduates by Gender"
+      }
+    },
+    {
+      "id": "di-answers-50",
+      "title": "Image 79: Annual Height Increase, Boys vs Girls",
+      "passage": "Annual Height Increase, Boys vs Girls",
+      "answer": "This line graph shows the annual height increase for boys and girls from age 0 to 18. The vertical line shows centimeters, and the horizontal line shows age. The orange line represents girls, and the blue line represents boys. Both lines start very high at around 23 centimeters at age 0, which is when babies grow the fastest. After that, both lines drop quickly to about 7 centimeters by age 3. The lines then stay fairly flat between ages 4 and 10. Around age 11 to 12, both lines show a small peak - this is the growth spurt. Girls peak slightly earlier than boys, at around age 11. After age 16, both lines drop close to zero. Overall, this shows that children grow fastest when they are babies, and have another growth spurt during their teenage years.",
+      "wordCount": 138,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 79,
+        "imageTitle": "Annual Height Increase, Boys vs Girls"
+      }
+    },
+    {
+      "id": "di-answers-51",
+      "title": "Image 80: Volunteer Rate by Age",
+      "passage": "Volunteer Rate by Age",
+      "answer": "This line graph shows the volunteer rate by age group for males and females. The vertical line shows percentage, and the horizontal line shows age groups from 18-24 to 85 and over. The black line with squares represents males, and the gray line with triangles represents females. Both lines follow a similar pattern. They start at around 25 to 30 percent for the youngest age group. Both lines rise slightly and peak at ages 35 to 44, reaching about 35 percent for males and 40 percent for females. After that, both lines gradually drop. By age 85 and over, the rates fall to about 15 percent for males and 10 percent for females. Overall, this chart shows that middle-aged people volunteer the most, and women volunteer slightly more than men in most age groups.",
+      "wordCount": 134,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 80,
+        "imageTitle": "Volunteer Rate by Age"
+      }
+    },
+    {
+      "id": "di-answers-52",
+      "title": "Image 83: Food Pyramid",
+      "passage": "Food Pyramid",
+      "answer": "This diagram shows a food pyramid that guides healthy eating. At the very base, we can see water bottles, which means we should drink plenty of water every day. The next level up is divided into two parts - bread and cereals on the left, and fruits and vegetables on the right. This is the largest food group section. Above that, there is another level with milk, cheese, and eggs on the left, and meat, fish, and chicken on the right. At the very top of the pyramid is junk food, sweets, and sugar drinks. This is the smallest section because we should eat these foods the least. Overall, this pyramid shows that we should eat more foods from the bottom and less from the top.",
+      "wordCount": 126,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 83,
+        "imageTitle": "Food Pyramid"
+      }
+    },
+    {
+      "id": "di-answers-53",
+      "title": "Image 18: Earnings and Unemployment Rates by Educational Attainment",
+      "passage": "Earnings and Unemployment Rates by Educational Attainment",
+      "answer": "This chart shows earnings and unemployment rates by educational level in 2012. On the left side, the purple bars show unemployment rates. On the right side, the green bars show weekly earnings. We can see a clear pattern. People with less than high school have the highest unemployment at 12.4 percent and the lowest earnings at 471 dollars per week. As education level increases, unemployment goes down and earnings go up. People with a doctoral degree have only 2.5 percent unemployment and earn 1,624 dollars per week. The highest earners are people with professional degrees at 1,735 dollars. Overall, this chart clearly shows that more education leads to lower unemployment and higher earnings.",
+      "wordCount": 113,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 18,
+        "imageTitle": "Earnings and Unemployment Rates by Educational Attainment"
+      }
+    },
+    {
+      "id": "di-answers-54",
+      "title": "Image 84: Unemployment Rates by Ethnic Group and Sex, UK 2001",
+      "passage": "Unemployment Rates by Ethnic Group and Sex, UK 2001",
+      "answer": "This horizontal bar chart shows unemployment rates by ethnic group and sex in the UK in 2001. The light blue bars show men, and the dark blue bars show women. The White group has the lowest unemployment rate at about 5 percent for both men and women. The highest unemployment rate is for the Bangladeshi group, where men have about 20 percent unemployment. Indian workers have relatively low rates at around 7 percent. For most ethnic groups, men have higher unemployment than women. However, in some groups like Pakistani, women have slightly higher rates than men. Overall, this chart shows that unemployment rates vary a lot between different ethnic groups, and the White group has the lowest rates.",
+      "wordCount": 118,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 84,
+        "imageTitle": "Unemployment Rates by Ethnic Group and Sex, UK 2001"
+      }
+    },
+    {
+      "id": "di-answers-55",
+      "title": "Image 85: Articles Published Per Year by Male and Female University Professors",
+      "passage": "Articles Published Per Year by Male and Female University Professors",
+      "answer": "This line graph shows the number of articles published per year by male and female university professors from 2006 to 2012. The blue line represents male professors, and the pink line represents female professors. Male professors started at about 3,500 articles in 2006 and stayed fairly steady around that level, with a small drop to about 3,200 in 2012. Female professors started much lower at around 1,200 articles in 2006 and increased slightly over the years to about 1,400 by 2012. The gap between male and female professors stayed large throughout the whole period. Overall, this chart shows that male professors publish about 2 to 3 times more articles than female professors each year.",
+      "wordCount": 114,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 85,
+        "imageTitle": "Articles Published Per Year by Male and Female University Professors"
+      }
+    },
+    {
+      "id": "di-answers-56",
+      "title": "Image 86: Temperature and CO2 for the Last 400,000 Years",
+      "passage": "Temperature and CO2 for the Last 400,000 Years",
+      "answer": "This line graph shows carbon dioxide levels and temperature change over the last 400,000 years. There are two lines on the graph. The blue line shows CO2 levels measured in parts per million, and the red line shows temperature change in degrees. Looking at the graph, we can see that both lines follow a very similar pattern. When CO2 goes up, temperature also goes up. When CO2 goes down, temperature goes down too. There are several peaks and valleys over this long time period. The most recent data on the right side shows both CO2 and temperature rising. Overall, this graph clearly shows a strong connection between carbon dioxide levels and global temperature changes.",
+      "wordCount": 114,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 86,
+        "imageTitle": "Temperature and CO2 for the Last 400,000 Years"
+      }
+    },
+    {
+      "id": "di-answers-57",
+      "title": "Image 87: Populations of Countries of the European Union in 1998 and 2007",
+      "passage": "Populations of Countries of the European Union in 1998 and 2007",
+      "answer": "This diagram shows two pie charts comparing the populations of European Union countries in 1998 and 2007 by percentage. In 1998, Germany had the largest share at 29.4 percent, followed by France at 17.5 percent. The United Kingdom and Italy each had about 12 percent. Spain and Poland were smaller at around 12 and 9 percent. All other countries together made up 11.8 percent. In 2007, the pattern is very similar. Germany still had the largest share at about 26 percent, and France was second at about 21 percent. The main change is that the shares are slightly more spread out among all countries. Overall, these charts show that Germany and France remained the two largest countries in the EU in both years.",
+      "wordCount": 123,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 87,
+        "imageTitle": "Populations of Countries of the European Union in 1998 and 2007"
+      }
+    },
+    {
+      "id": "di-answers-58",
+      "title": "Image 88: Student Accommodation Floor Plan",
+      "passage": "Student Accommodation Floor Plan",
+      "answer": "This diagram shows the floor plan of a student accommodation room. The total size is about 6.2 meters by 3.1 meters. Looking at the layout, on the left side there is a bathroom and a kitchen area. In the center of the room, there is a double bed. On the right side, near the window, there is a wardrobe and a desk. The room also has a window at the top right corner for natural light. This floor plan shows a compact but complete living space for a student, with all the basic needs including sleeping, cooking, washing, and studying areas all in one room.",
+      "wordCount": 105,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 88,
+        "imageTitle": "Student Accommodation Floor Plan"
+      }
+    },
+    {
+      "id": "di-answers-59",
+      "title": "Image 89: Land Use Map of India",
+      "passage": "Land Use Map of India",
+      "answer": "This map shows the land use in India. Different colors represent different types of land use. Yellow represents arable land, which is used for growing crops. Dark green shows forests, and light green shows plantations. Brown and orange colors show non-agricultural land and scrub land. Purple shows unproductive land. Looking at the map, most of the northern part of India, especially the area near the river valleys, is yellow arable land. The northeastern region and parts of the south have more forest cover shown in dark green. Overall, this map shows that India uses most of its land for farming, while forests are mainly in the hills and mountains.",
+      "wordCount": 109,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 89,
+        "imageTitle": "Land Use Map of India"
+      }
+    },
+    {
+      "id": "di-answers-60",
+      "title": "Image 90: Annual Sunshine Hours for France",
+      "passage": "Annual Sunshine Hours for France",
+      "answer": "This map shows the annual sunshine hours across France. The colors range from dark red to light yellow, with darker colors showing more sunshine hours. The southern part of France, especially along the Mediterranean coast, receives the most sunshine with more than 2750 hours per year, shown in dark red. The central regions have moderate sunshine between 2000 and 2500 hours. The northern parts of France and the Atlantic coast receive less sunshine, around 1750 to 2000 hours per year. Overall, this map clearly shows that southern France is much sunnier than the north, with the Mediterranean coast being the sunniest region.",
+      "wordCount": 102,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 90,
+        "imageTitle": "Annual Sunshine Hours for France"
+      }
+    },
+    {
+      "id": "di-answers-61",
+      "title": "Image 91: Global Warming Predictions",
+      "passage": "Global Warming Predictions",
+      "answer": "This map shows global warming predictions for the years 2070 to 2100 compared to the average from 1960 to 1990. The colors show temperature increase in degrees Celsius, ranging from zero to eight degrees. Looking at the map, the areas near the North Pole show the biggest temperature increase, with dark red colors showing seven to eight degrees warming. The continents generally show more warming than the oceans. Most land areas are expected to warm by three to five degrees. The tropical regions near the equator show smaller increases of about one to two degrees. Overall, this map predicts that the Arctic region and northern parts of the world will experience the most warming.",
+      "wordCount": 114,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 91,
+        "imageTitle": "Global Warming Predictions"
+      }
+    },
+    {
+      "id": "di-answers-62",
+      "title": "Image 92: Where the Air Pollution Comes From",
+      "passage": "Where the Air Pollution Comes From",
+      "answer": "This diagram shows where air pollution comes from and how it creates acid rain. At the bottom, we can see four sources of pollution: industry, transportation, ore smelting, and power generation. These sources release harmful gases like nitrogen oxides and sulfur dioxide into the atmosphere. Once in the air, these gases go through chemical changes. In the clouds, they mix with water to form acid. Finally, the acid falls back to earth as acid rain, which can be rain, fog, snow, or mist. Overall, this diagram shows the process of how pollution from factories and cars leads to acid rain.",
+      "wordCount": 100,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 92,
+        "imageTitle": "Where the Air Pollution Comes From"
+      }
+    },
+    {
+      "id": "di-answers-63",
+      "title": "Image 93: Average Effective Sales Tax by Income Group",
+      "passage": "Average Effective Sales Tax by Income Group",
+      "answer": "This bar chart shows the average effective sales tax rate for different income groups in the United States. The horizontal line shows income groups from the lowest 0 to 20 percent to the top 1 percent. The vertical line shows the sales tax rate. The lowest income group pays the highest rate at 2.1 percent. As income increases, the tax rate decreases. The 20 to 40 income group pays 1.8 percent, and this pattern continues downward. The top 1 percent of earners only pays 0.3 percent. Overall, this chart shows that lower income groups pay a higher percentage of their income in sales tax compared to higher income groups.",
+      "wordCount": 109,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 93,
+        "imageTitle": "Average Effective Sales Tax by Income Group"
+      }
+    },
+    {
+      "id": "di-answers-64",
+      "title": "Image 94: Media in UK (2001-2005)",
+      "passage": "Media in UK (2001-2005)",
+      "answer": "This chart shows media usage trends in the UK from 2001 to 2005, covering four types of media: internet, radio, TV, and newspaper. Each bar shows the percentage of users for that year. Internet usage increased from 40 percent in 2001 to 60 percent in 2005. Radio usage stayed fairly stable between 50 and 65 percent. TV usage dropped slightly from 63 percent to 55 percent over the period. Newspaper readership showed the biggest decline, falling from 20 percent to just 3 percent by 2005. Overall, this chart shows that internet usage grew while traditional media like newspapers declined significantly.",
+      "wordCount": 100,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 94,
+        "imageTitle": "Media in UK (2001-2005)"
+      }
+    },
+    {
+      "id": "di-answers-65",
+      "title": "Image 95: Commuting Time in Different Regions, Britain 2014",
+      "passage": "Commuting Time in Different Regions, Britain 2014",
+      "answer": "This horizontal bar chart shows commuting time in different regions of Britain in 2014. The time is measured in minutes. London has the longest commuting time at 107 minutes per day. The East of England is second with 71 minutes. The South East has 70 minutes, which is very close to East of England. Wales and the Humber region have around 64 minutes. The North West has 62 minutes, and East Midlands has 60 minutes. The North East has 58 minutes, and the South West has the shortest commuting time at 56 minutes. Overall, this chart clearly shows that people in London spend almost twice as long commuting as people in other regions.",
+      "wordCount": 113,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 95,
+        "imageTitle": "Commuting Time in Different Regions, Britain 2014"
+      }
+    },
+    {
+      "id": "di-answers-66",
+      "title": "Image 96: Weekly Household Spending, Ireland",
+      "passage": "Weekly Household Spending, Ireland",
+      "answer": "This infographic shows weekly household spending in Ireland for 2015 to 2016. The biggest expense is housing at 164 euros per week, which includes rent and mortgage payments. Transport is the second largest expense at 124 euros, including car purchases and fuel. Food costs 123 euros per week, with most of that being food eaten at home. Medical expenses are 50 euros per week. Holidays cost 33 euros per week. The information is presented using simple icons to represent each category. Overall, this infographic shows that Irish households spend most of their weekly budget on housing, transport, and food.",
+      "wordCount": 99,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 96,
+        "imageTitle": "Weekly Household Spending, Ireland"
+      }
+    },
+    {
+      "id": "di-answers-67",
+      "title": "Image 97: Rainforest in South America",
+      "passage": "Rainforest in South America",
+      "answer": "This map shows the distribution of rainforest in South America. The green areas on the map represent rainforest regions. There are two types shown in the legend: tropical rainforest and temperate rainforest. The tropical rainforest, shown in light green, covers a very large area, mainly in Brazil, Peru, Colombia, and Ecuador. This area is known as the Amazon rainforest. The temperate rainforest, shown in dark green, is much smaller and located along the southern coast of Chile. The map also shows country names and the Pacific and Atlantic Oceans on either side. Overall, this map shows that most of South America's rainforest is tropical and concentrated in the Amazon basin.",
+      "wordCount": 110,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 97,
+        "imageTitle": "Rainforest in South America"
+      }
+    },
+    {
+      "id": "di-answers-68",
+      "title": "Image 98: Mosquito Life Cycle",
+      "passage": "Mosquito Life Cycle",
+      "answer": "This diagram shows the life cycle of a mosquito. The cycle has four main stages that go in a circle. It starts with eggs, which are laid on water. After that, the eggs become larvae, which live in the water for about 4 to 6 days. Then the larvae change into pupae, which lasts for about 12 to 14 days. Finally, the adult mosquito emerges from the water and can fly. The whole cycle takes about 28 days to complete. Adult mosquitoes live for 7 to 10 days before they die. Overall, this diagram shows how mosquitoes develop from eggs to adults through four different life stages.",
+      "wordCount": 107,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 98,
+        "imageTitle": "Mosquito Life Cycle"
+      }
+    },
+    {
+      "id": "di-answers-69",
+      "title": "Image 99: Pet Ownership in US Households",
+      "passage": "Pet Ownership in US Households",
+      "answer": "This horizontal bar chart shows the number of US households keeping different types of pets, measured in millions. The total number of pet-owning households is 84.9 million. Dogs are the most popular pet, with 63.4 million households owning at least one dog. Cats come second with 42.7 million households. Freshwater fish are third with 11.5 million households. Birds are owned by 5.7 million households, and reptiles by 4.5 million. Horses are owned by 1.6 million households, the same as saltwater fish. Other pets make up 5.4 million households. Overall, this chart shows that dogs and cats are by far the most common pets in American homes.",
+      "wordCount": 106,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 99,
+        "imageTitle": "Pet Ownership in US Households"
+      }
+    },
+    {
+      "id": "di-answers-70",
+      "title": "Image 100: New Zealand House Prices",
+      "passage": "New Zealand House Prices",
+      "answer": "This line graph shows house price changes in New Zealand compared to the OECD average from 1990 to 2014. The vertical axis shows the price index with 1990 set as 100. The blue line represents New Zealand and the grey line represents the OECD average. From 1990 to 2000, both lines stayed fairly stable around 100. However, from 2002 onwards, New Zealand house prices increased dramatically. By 2007, they reached about 265, which is more than double the starting point. After a small drop during 2008-2009, prices continued rising to reach about 280 by 2014. The OECD average also rose but much more slowly. Overall, this graph shows that New Zealand house prices have risen much faster than the average in other developed countries.",
+      "wordCount": 124,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 100,
+        "imageTitle": "New Zealand House Prices"
+      }
+    },
+    {
+      "id": "di-answers-71",
+      "title": "Image 101: Australia Inbound Visitors 2005-2006",
+      "passage": "Australia Inbound Visitors 2005-2006",
+      "answer": "This table shows the number of inbound visitors to Australia in 2005 and 2006, measured in thousands. New Zealand was the largest source of visitors with 1099 thousand in 2005 and 1073 thousand in 2006, showing a slight decrease. The United States increased from 700 to 720 thousand visitors. Japan decreased from 576 to 586 thousand. Germany stayed relatively stable with 430 thousand visitors in 2005 and 410 in 2006. The table also mentions short-time stays but those figures are not shown. Overall, this table shows that New Zealand is Australia's biggest source of tourists, with the United States being the second largest.",
+      "wordCount": 103,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 101,
+        "imageTitle": "Australia Inbound Visitors 2005-2006"
+      }
+    },
+    {
+      "id": "di-answers-72",
+      "title": "Image 102: Students from Disadvantaged Backgrounds",
+      "passage": "Students from Disadvantaged Backgrounds",
+      "answer": "This line graph shows the percentage of students from disadvantaged backgrounds entering university in England from 2006 to 2014. The vertical line shows percentage, and the horizontal line shows years. In 2006, the percentage was around 10 percent. The line shows a steady upward trend over the whole period. By 2014, the percentage had reached about 20 percent. The graph highlights a 60 percent increase overall. This means the proportion of disadvantaged students going to university almost doubled in just eight years. Overall, this graph shows positive progress in helping students from poorer backgrounds access higher education in England.",
+      "wordCount": 99,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 102,
+        "imageTitle": "Students from Disadvantaged Backgrounds"
+      }
+    },
+    {
+      "id": "di-answers-73",
+      "title": "Image 103: Wage Growth, Consumption, and Household Debt",
+      "passage": "Wage Growth, Consumption, and Household Debt",
+      "answer": "This bar chart compares three economic measures: wage growth, consumption, and household debt. The vertical line shows percentage values. Wage growth is the smallest bar at around 5 percent. Consumption shows about 15 percent growth. However, household debt shows the highest value at approximately 40 percent, which is much larger than the other two. This means that debt is growing almost eight times faster than wages and nearly three times faster than consumption. Overall, this chart shows a concerning pattern where household debt is increasing much more quickly than people's wages and spending, which could cause financial problems.",
+      "wordCount": 98,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 103,
+        "imageTitle": "Wage Growth, Consumption, and Household Debt"
+      }
+    },
+    {
+      "id": "di-answers-74",
+      "title": "Image 104: Pre-tax Profits of the 1,000 Largest Banks",
+      "passage": "Pre-tax Profits of the 1,000 Largest Banks",
+      "answer": "This diagram shows two pie charts comparing pre-tax profits of the world's 1000 largest banks in 2007 and 2011. In 2007, the total profits were 786 billion dollars. Western Europe had the largest share at 40.2 percent, followed by North America at 26.8 percent. In 2011, total profits were 762 billion, slightly lower. The biggest change was Asia Pacific, which grew from 18.9 percent to 33.3 percent. Western Europe's share dropped from 40 to about 9 percent. North America increased slightly to 29.4 percent. Overall, this chart shows a major shift in banking profits from Western Europe to Asia Pacific between 2007 and 2011.",
+      "wordCount": 104,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 104,
+        "imageTitle": "Pre-tax Profits of the 1,000 Largest Banks"
+      }
+    },
+    {
+      "id": "di-answers-75",
+      "title": "Image 105: Households in Millions Who Own Pets",
+      "passage": "Households in Millions Who Own Pets",
+      "answer": "This pie chart shows the number of households in millions who own different types of pets. Dogs are the most popular, representing 69 million households or 45 percent of the total. Cats are second with 45.3 million households at 29 percent. Freshwater fish account for 11.8 million at 8 percent. Birds represent 5.7 million at about 4 percent. Smaller segments include horses, saltwater fish, reptiles, and small animals, each making up 2 to 6 percent of the total. Overall, this chart clearly shows that dogs and cats dominate pet ownership, together accounting for about 74 percent of all pet-owning households.",
+      "wordCount": 100,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 105,
+        "imageTitle": "Households in Millions Who Own Pets"
+      }
+    },
+    {
+      "id": "di-answers-76",
+      "title": "Image 106: Market Share of Pet Services and Products",
+      "passage": "Market Share of Pet Services and Products",
+      "answer": "This pie chart shows the market share of different pet services and products. Pet food has the largest share at 30 percent, shown in orange. Pet healthcare is second at 25 percent in light green. Pet toys take up 20 percent in yellow. Pet grooming accounts for 15 percent in green. Other services make up the remaining 10 percent in pink. Together, pet food and pet healthcare make up more than half of the total market. Overall, this chart shows that basic needs like food and healthcare are the biggest spending categories in the pet industry.",
+      "wordCount": 96,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 106,
+        "imageTitle": "Market Share of Pet Services and Products"
+      }
+    },
+    {
+      "id": "di-answers-77",
+      "title": "Image 107: Chemical Experiment",
+      "passage": "Chemical Experiment",
+      "answer": "This photograph shows a chemistry experiment taking place in a laboratory. We can see two people: an older man wearing glasses who appears to be a teacher or scientist, and a young boy in a blue lab coat who looks like a student. The student is carefully pouring a red liquid from one glass container into another. There are several glass containers on the table, including beakers and flasks. The setting appears to be a professional laboratory or science classroom. The student is focused and appears to be learning proper laboratory techniques. Overall, this image shows an educational science activity where a student is being taught how to conduct chemical experiments safely.",
+      "wordCount": 112,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 107,
+        "imageTitle": "Chemical Experiment"
+      }
+    },
+    {
+      "id": "di-answers-78",
+      "title": "Image 108: Overseas Residents' Visits to UK",
+      "passage": "Overseas Residents' Visits to UK",
+      "answer": "This line graph shows two trends from 1989 to 2009: UK residents' visits abroad and overseas visits to the UK, both measured in millions. The two lines show different patterns. UK residents' visits abroad started at about 30 million in 1989 and increased steadily to reach about 70 million by 2009. Overseas visits to the UK started at about 15 million and grew more slowly to reach about 30 million by 2009. The gap between the two lines widened over time. This means UK residents travel abroad more than twice as often as foreigners visit the UK. Overall, this graph shows that Britain has a tourism deficit, with more people leaving than arriving.",
+      "wordCount": 113,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 108,
+        "imageTitle": "Overseas Residents' Visits to UK"
+      }
+    },
+    {
+      "id": "di-answers-79",
+      "title": "Image 109: Share of Companies by Size",
+      "passage": "Share of Companies by Size",
+      "answer": "This pie chart shows the share of companies in the market by their size, measured by number of employees. Small companies with 3 to 6 employees make up the largest share at 66 percent, shown in purple. Medium-sized companies with 7 to 50 employees account for 28 percent, shown in green. Large companies with more than 50 employees represent only 6 percent of the total, shown in pink. This means that two-thirds of all companies in this market are small businesses. Overall, this chart clearly shows that small companies dominate the market, while large companies make up only a small fraction of the total.",
+      "wordCount": 104,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 109,
+        "imageTitle": "Share of Companies by Size"
+      }
+    },
+    {
+      "id": "di-answers-80",
+      "title": "Image 110: Inbound Tourists Ecuador",
+      "passage": "Inbound Tourists Ecuador",
+      "answer": "This horizontal bar chart shows the percentage of inbound tourists to Ecuador by their country of origin. Colombia is the largest source at 27 percent of total arrivals. The United States is second with 21 percent. Peru is third at 20 percent. All other countries together make up 32 percent of arrivals. Looking at the pattern, Ecuador's three neighboring countries in South America provide most of the tourists. Colombia and Peru together account for 47 percent, which is almost half of all visitors. Overall, this chart shows that most tourists visiting Ecuador come from nearby countries, with Colombia being the single largest source.",
+      "wordCount": 103,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 110,
+        "imageTitle": "Inbound Tourists Ecuador"
+      }
+    },
+    {
+      "id": "di-answers-81",
+      "title": "Image 111: Top 10 US Cities with Largest Population Increase",
+      "passage": "Top 10 US Cities with Largest Population Increase",
+      "answer": "This horizontal bar chart shows the top 10 US cities with the largest population increase from July 2011 to July 2012. New York City had the biggest increase at about 67,058 people. Houston and Los Angeles were second and third with around 34,000 new residents each. San Antonio, Austin, and Phoenix each gained about 25,000 people. Dallas, Charlotte, San Diego, and Fort Worth complete the top 10 with increases between 16,000 and 23,000. Most of these cities are in the southern and western parts of the United States. Overall, this chart shows that America's biggest population growth is happening in large cities, especially New York and cities in Texas.",
+      "wordCount": 109,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 111,
+        "imageTitle": "Top 10 US Cities with Largest Population Increase"
+      }
+    },
+    {
+      "id": "di-answers-82",
+      "title": "Image 112: Southampton University Student Accommodation",
+      "passage": "Southampton University Student Accommodation",
+      "answer": "This floor plan shows a student accommodation room at Southampton University. The room measures 5.40 meters by 6.80 meters. Looking at the layout, there is a desk on the right side near the corner. The bed is positioned in the middle of the room. There is a bathroom area in one corner and what appears to be storage or closet space. The room also has a window for natural light. The purple walls indicate the fixed structure while the furniture is shown in grey. Overall, this floor plan shows a compact but functional living space designed for a university student, with all basic needs included in one room.",
+      "wordCount": 108,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 112,
+        "imageTitle": "Southampton University Student Accommodation"
+      }
+    },
+    {
+      "id": "di-answers-83",
+      "title": "Image 113: Layers of the Earth",
+      "passage": "Layers of the Earth",
+      "answer": "This diagram shows the different layers of the Earth. The Earth has several main layers from outside to inside. The outermost layer is the atmosphere, which is the air around the Earth. Below that is the crust, which is divided into oceanic crust and continental crust. The oceanic crust is thinner and lies under the oceans, while the continental crust forms the land. Below the crust is the mantle, which has an upper mantle and a lower mantle. The outer core comes next, followed by the inner core at the very center. The diagram also shows the Mohorovicic discontinuity, which is the boundary between the crust and mantle. Overall, this diagram shows how the Earth is made up of different layers from the surface to the center.",
+      "wordCount": 127,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 113,
+        "imageTitle": "Layers of the Earth"
+      }
+    },
+    {
+      "id": "di-answers-84",
+      "title": "Image 114: Male and Female Volunteers Over the Years",
+      "passage": "Male and Female Volunteers Over the Years",
+      "answer": "This line graph shows the ratio of male and female volunteers changing over the years from 1990 to 2004. The blue line represents male volunteers and the pink line represents female volunteers. In 1990, both lines started at similar levels, with men slightly higher at about 32 percent and women at about 28 percent. Over time, the two lines moved in opposite directions. The male volunteer rate gradually decreased to about 38 percent by 2004. The female volunteer rate increased and became more stable at around 25 to 28 percent. By 2003-2004, more men than women were volunteering. Overall, this graph shows how the gender balance in volunteering has shifted over this 14-year period.",
+      "wordCount": 114,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 114,
+        "imageTitle": "Male and Female Volunteers Over the Years"
+      }
+    },
+    {
+      "id": "di-answers-85",
+      "title": "Image 115: Collapse of Atlantic Cod Stocks",
+      "passage": "Collapse of Atlantic Cod Stocks",
+      "answer": "This line graph shows the collapse of Atlantic cod stocks on the east coast of Newfoundland from 1850 to 2000. The vertical line shows fish landings in tons, ranging from 0 to 900,000. For most of the period from 1850 to 1950, cod catches stayed relatively low at around 100,000 to 200,000 tons per year. However, starting in the 1950s, catches began to rise dramatically. They peaked in 1968 at about 800,000 tons. After this peak, catches fell dramatically and by 1992 they had collapsed to almost zero. The fish population never recovered. Overall, this graph shows a classic example of overfishing, where too much fishing destroyed a fish population that had existed for centuries.",
+      "wordCount": 115,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 115,
+        "imageTitle": "Collapse of Atlantic Cod Stocks"
+      }
+    },
+    {
+      "id": "di-answers-86",
+      "title": "Image 116: Evacuation Route Floor Plan",
+      "passage": "Evacuation Route Floor Plan",
+      "answer": "This floor plan shows an evacuation route for a building. The red arrows show the path people should follow to exit during an emergency. Looking at the diagram, there are multiple ways to leave the building. The main entrance is at the bottom of the plan. There are stairs at several locations, shown as zigzag patterns. The evacuation route leads from various rooms through corridors to the nearest exit or staircase. There is also an elevator marked on the plan, but elevators should not be used during emergencies. The plan shows both the ground floor and possibly emergency exits. Overall, this diagram is a safety guide that helps people find the quickest way out of the building in an emergency.",
+      "wordCount": 120,
+      "sourceSet": "example-answers",
+      "metadata": {
+        "difficulty": "normal",
+        "category": "pte-di-answers",
+        "source": "pte-di-answers",
+        "tags": [
+          "di-answers",
+          "answer-typing",
+          "monkeytype"
+        ],
+        "imageNumber": 116,
+        "imageTitle": "Evacuation Route Floor Plan"
+      }
+    }
+  ]
+}
